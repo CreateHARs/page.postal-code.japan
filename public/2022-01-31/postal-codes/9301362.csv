@@ -1,0 +1,3 @@
+code,postal_old,postal_new,pref_kana,address1_kana,address2_kana,pref,address1,address2,is_multi_code,is_koaza,is_choume,is_multi_place,is_updated,update_reason
+16323,93013,9301362,ﾄﾔﾏｹﾝ,ﾅｶﾆｲｶﾜｸﾞﾝﾀﾃﾔﾏﾏﾁ,ﾖｼﾐﾈﾉﾋﾞﾗｷ,富山県,中新川郡立山町,吉峰野開,0,0,0,1,0,0
+16323,93013,9301362,ﾄﾔﾏｹﾝ,ﾅｶﾆｲｶﾜｸﾞﾝﾀﾃﾔﾏﾏﾁ,ﾖﾈﾐﾁ(ﾀﾆｳﾁ､ﾋｶﾞｼﾀﾞﾆ),富山県,中新川郡立山町,米道（谷内、東谷）,1,1,0,1,0,0

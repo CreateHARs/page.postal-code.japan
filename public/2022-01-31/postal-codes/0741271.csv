@@ -1,0 +1,3 @@
+code,postal_old,postal_new,pref_kana,address1_kana,address2_kana,pref,address1,address2,is_multi_code,is_koaza,is_choume,is_multi_place,is_updated,update_reason
+01228,07412,0741271,ﾎｯｶｲﾄﾞｳ,ﾌｶｶﾞﾜｼ,ｵﾄｴﾁｮｳ(ﾋﾛｻﾄ),北海道,深川市,音江町（広里）,1,0,0,1,0,0
+01228,07412,0741271,ﾎｯｶｲﾄﾞｳ,ﾌｶｶﾞﾜｼ,ﾋﾛｻﾄﾁｮｳ(1-5ﾁｮｳﾒ),北海道,深川市,広里町（１〜５丁目）,0,0,1,1,0,0
