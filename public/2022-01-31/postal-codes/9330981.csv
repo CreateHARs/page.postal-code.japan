@@ -1,0 +1,4 @@
+code,postal_old,postal_new,pref_kana,address1_kana,address2_kana,pref,address1,address2,is_multi_code,is_koaza,is_choume,is_multi_place,is_updated,update_reason
+16202,933  ,9330981,ﾄﾔﾏｹﾝ,ﾀｶｵｶｼ,ﾌﾀｶﾞﾐ,富山県,高岡市,二上,0,0,0,1,0,0
+16202,933  ,9330981,ﾄﾔﾏｹﾝ,ﾀｶｵｶｼ,ﾌﾀｶﾞﾐｼﾝ,富山県,高岡市,二上新,0,0,0,1,0,0
+16202,933  ,9330981,ﾄﾔﾏｹﾝ,ﾀｶｵｶｼ,ﾌﾀｶﾞﾐﾏﾁ,富山県,高岡市,二上町,0,0,0,1,0,0
