@@ -1,0 +1,3 @@
+code,postal_old,postal_new,pref_kana,address1_kana,address2_kana,pref,address1,address2,is_multi_code,is_koaza,is_choume,is_multi_place,is_updated,update_reason
+18209,915  ,9150802,ﾌｸｲｹﾝ,ｴﾁｾﾞﾝｼ,ｷﾀｺﾞ,福井県,越前市,北府,0,0,1,1,0,0
+18209,915  ,9150802,ﾌｸｲｹﾝ,ｴﾁｾﾞﾝｼ,ｷﾀｺﾞﾎﾝﾏﾁ,福井県,越前市,北府本町,0,0,0,1,0,0
