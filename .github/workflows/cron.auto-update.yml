@@ -1,8 +1,9 @@
 name: "[cron] automation"
 
 on:
-  schedule:
+  schedule: # UTC
     - cron: '*/10 * * * *'
+  workflow_dispatch:
 
 jobs:
   run-script:
@@ -35,10 +36,10 @@ jobs:
           echo "git_diff_count: ${git_diff_count}"
           echo "::set-output name=git-diff-count::${git_diff_count}"
 
-      - name: Create new branch
-        env:
+      - name  : Create new branch
+        env   :
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: |
+        run   : |
           echo {steps.changes.outputs.count}
           git switch -c      release/auto_${{ env.CURRENT_DATETIME }}
           git push -u origin release/auto_${{ env.CURRENT_DATETIME }}
