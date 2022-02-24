@@ -1,0 +1,8 @@
+local_government_code,postal_code_5digit,postal_code_7digit,prefecture_kana,address1_kana,address2_kana,prefecture_kanji,address1_kanji,address2_kanji,is_address2_has_multiple_postal_code,is_address2_has_multiple_sublocality,is_address2_includes_chome,is_postal_code_has_multiple_address2,updated_type,updated_reason_type
+01216,07501,0750161,ﾎｯｶｲﾄﾞｳ,ｱｼﾍﾞﾂｼ,ﾆｼｱｼﾍﾞﾂﾁｮｳ,北海道,芦別市,西芦別町,0,0,0,0,0,0
+01216,07501,0750162,ﾎｯｶｲﾄﾞｳ,ｱｼﾍﾞﾂｼ,ﾋｶﾞｼﾗｲｼﾞｮｳﾁｮｳ,北海道,芦別市,東頼城町,0,0,0,0,0,0
+01216,07501,0750163,ﾎｯｶｲﾄﾞｳ,ｱｼﾍﾞﾂｼ,ﾛｸｾﾝﾁｮｳ,北海道,芦別市,緑泉町,0,0,0,0,0,0
+01216,07501,0750164,ﾎｯｶｲﾄﾞｳ,ｱｼﾍﾞﾂｼ,ﾗｲｼﾞｮｳﾁｮｳ,北海道,芦別市,頼城町,0,0,0,0,0,0
+01216,07501,0750165,ﾎｯｶｲﾄﾞｳ,ｱｼﾍﾞﾂｼ,ｱｵｷｻﾜ,北海道,芦別市,青木沢,0,0,0,0,0,0
+01216,07501,0750166,ﾎｯｶｲﾄﾞｳ,ｱｼﾍﾞﾂｼ,ｶﾜｷﾞｼ,北海道,芦別市,川岸,0,0,0,0,0,0
+01216,07501,0750167,ﾎｯｶｲﾄﾞｳ,ｱｼﾍﾞﾂｼ,ﾅｶﾉｵｶﾁｮｳ,北海道,芦別市,中の丘町,0,0,0,0,0,0

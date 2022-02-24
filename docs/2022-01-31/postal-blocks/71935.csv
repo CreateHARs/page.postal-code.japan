@@ -1,0 +1,8 @@
+local_government_code,postal_code_5digit,postal_code_7digit,prefecture_kana,address1_kana,address2_kana,prefecture_kanji,address1_kanji,address2_kanji,is_address2_has_multiple_postal_code,is_address2_has_multiple_sublocality,is_address2_includes_chome,is_postal_code_has_multiple_address2,updated_type,updated_reason_type
+33210,71935,7193501,ｵｶﾔﾏｹﾝ,ﾆｲﾐｼ,ｵｵｻｵｵｲﾉ,岡山県,新見市,大佐大井野,0,0,0,0,0,0
+33210,71935,7193502,ｵｶﾔﾏｹﾝ,ﾆｲﾐｼ,ｵｵｻｶﾐｵｻｶﾍﾞ,岡山県,新見市,大佐上刑部,0,0,0,0,0,0
+33210,71935,7193503,ｵｶﾔﾏｹﾝ,ﾆｲﾐｼ,ｵｵｻｵｻｶﾍﾞ,岡山県,新見市,大佐小阪部,0,0,0,0,0,0
+33210,71935,7193504,ｵｶﾔﾏｹﾝ,ﾆｲﾐｼ,ｵｵｻﾅｶﾞﾄﾞﾐ,岡山県,新見市,大佐永富,0,0,0,0,0,0
+33210,71935,7193505,ｵｶﾔﾏｹﾝ,ﾆｲﾐｼ,ｵｵｻﾌｾ,岡山県,新見市,大佐布瀬,0,0,0,0,0,0
+33210,71935,7193506,ｵｶﾔﾏｹﾝ,ﾆｲﾐｼ,ｵｵｻﾀｼﾞﾍﾞ,岡山県,新見市,大佐田治部,0,0,0,0,0,0
+33210,71935,7193507,ｵｶﾔﾏｹﾝ,ﾆｲﾐｼ,ｵｵｻｺﾐﾅﾐ,岡山県,新見市,大佐小南,0,0,0,0,0,0

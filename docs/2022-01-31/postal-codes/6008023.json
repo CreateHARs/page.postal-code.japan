@@ -1,0 +1,53 @@
+[
+    {
+        "local_government_code": "26106",
+        "postal_code_5digit": "600  ",
+        "postal_code_7digit": "6008023",
+        "prefecture_kana": "ｷｮｳﾄﾌ",
+        "address1_kana": "ｷｮｳﾄｼｼﾓｷﾞｮｳｸ",
+        "address2_kana": "ﾄﾐﾅｶﾞﾁｮｳ",
+        "prefecture_kanji": "京都府",
+        "address1_kanji": "京都市下京区",
+        "address2_kanji": "富永町（河原町通四条下る２丁目、河原町通高辻上る、河原町通仏",
+        "is_address2_has_multiple_postal_code": "0",
+        "is_address2_has_multiple_sublocality": "0",
+        "is_address2_includes_chome": "0",
+        "is_postal_code_has_multiple_address2": "0",
+        "updated_type": "0",
+        "updated_reason_type": "0"
+    },
+    {
+        "local_government_code": "26106",
+        "postal_code_5digit": "600  ",
+        "postal_code_7digit": "6008023",
+        "prefecture_kana": "ｷｮｳﾄﾌ",
+        "address1_kana": "ｷｮｳﾄｼｼﾓｷﾞｮｳｸ",
+        "address2_kana": "ﾄﾐﾅｶﾞﾁｮｳ",
+        "prefecture_kanji": "京都府",
+        "address1_kanji": "京都市下京区",
+        "address2_kanji": "光寺下る、河原町通松原上る、河原町通松原上る２丁目、高辻通河原町西入、",
+        "is_address2_has_multiple_postal_code": "0",
+        "is_address2_has_multiple_sublocality": "0",
+        "is_address2_includes_chome": "0",
+        "is_postal_code_has_multiple_address2": "0",
+        "updated_type": "0",
+        "updated_reason_type": "0"
+    },
+    {
+        "local_government_code": "26106",
+        "postal_code_5digit": "600  ",
+        "postal_code_7digit": "6008023",
+        "prefecture_kana": "ｷｮｳﾄﾌ",
+        "address1_kana": "ｷｮｳﾄｼｼﾓｷﾞｮｳｸ",
+        "address2_kana": "ﾄﾐﾅｶﾞﾁｮｳ",
+        "prefecture_kanji": "京都府",
+        "address1_kanji": "京都市下京区",
+        "address2_kanji": "仏光寺通河原町西入）",
+        "is_address2_has_multiple_postal_code": "0",
+        "is_address2_has_multiple_sublocality": "0",
+        "is_address2_includes_chome": "0",
+        "is_postal_code_has_multiple_address2": "0",
+        "updated_type": "0",
+        "updated_reason_type": "0"
+    }
+]
