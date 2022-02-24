@@ -1,8 +1,8 @@
 name: "[cron] automation"
 
 on:
-  schedule: # UTC
-    - cron: '*/5 * * * *'
+  schedule:
+    - cron: '*/10 * * * *'
 
 jobs:
   run-script:
@@ -22,9 +22,23 @@ jobs:
         # working-directory : scripts/python
         run   : |
           echo "123"
+          echo "CURRENT_DATETIME=$(date +'%Y-%m-%d_%H-%M-%S')" >> $GITHUB_ENV
+
           cd scripts/python
           ls -l
           python -V
           # pip install -r requirements.txt
           # python main.py
 
+          git add -N . # 新規ファイルを含める
+          git_diff_count=`git diff --name-only | wc -l`
+          echo "git_diff_count: ${git_diff_count}"
+          echo "::set-output name=git-diff-count::${git_diff_count}"
+
+      - name: Create new branch
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          echo {steps.changes.outputs.count}
+          git switch -c      release/auto_${{ env.CURRENT_DATETIME }}
+          git push -u origin release/auto_${{ env.CURRENT_DATETIME }}
