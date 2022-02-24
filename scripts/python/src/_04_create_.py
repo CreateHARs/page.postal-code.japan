@@ -28,33 +28,40 @@ def create_fixed_files(latest_update_date_dir):
         for line in data:
             rows.append([unicode(col, 'shift-jis').encode('utf-8') for col in line])
         writer.writerows(rows)
+        src.close()
         create_json_from_csv(fixed_csv, fixed_json)
 
         for key, group in groupby(rows, key=lambda x: x[2][:2]):
             # print(key)
             fixed_per_area_csv = latest_update_date_dir + FILE_ENDPOINT_PER_AREA_CSV.replace('%POSTAL_CODE_first2digit%', key.strip())
             fixed_per_area_json = fixed_per_area_csv.replace('.csv', '.json')
-            div_writer = csv.writer(open(fixed_per_area_csv, 'w'))
+            div_file = open(fixed_per_area_csv, 'w')
+            div_writer = csv.writer(div_file)
             div_writer.writerow(FILE_ENDPOINT_ORIGINAL_CSV_COLUMNS)
             div_writer.writerows(group)
+            div_file.close()
             create_json_from_csv(fixed_per_area_csv, fixed_per_area_json)
 
         for key, group in groupby(rows, key=lambda x: x[2][:5]):
             # print(key)
             fixed_per_block_large_csv = latest_update_date_dir + FILE_ENDPOINT_PER_BLOCK_LARGE_CSV.replace('%POSTAL_CODE_first5digit%', key.strip())
             fixed_per_block_large_json = fixed_per_block_large_csv.replace('.csv', '.json')
-            div_writer=csv.writer(open(fixed_per_block_large_csv, 'w'))
+            div_file = open(fixed_per_block_large_csv, 'w')
+            div_writer = csv.writer(div_file)
             div_writer.writerow(FILE_ENDPOINT_ORIGINAL_CSV_COLUMNS)
             div_writer.writerows(group)
+            div_file.close()
             create_json_from_csv(fixed_per_block_large_csv, fixed_per_block_large_json)
 
         for key, group in groupby(rows, key=lambda x: x[2]):
             # print(key)
             fixed_per_postal_code_csv = latest_update_date_dir + FILE_ENDPOINT_PER_POSTAL_CODE_CSV.replace('%POSTAL_CODE%', key.strip())
             fixed_per_postal_code_json = fixed_per_postal_code_csv.replace('.csv', '.json')
-            div_writer=csv.writer(open(fixed_per_postal_code_csv, 'w'))
+            div_file = open(fixed_per_postal_code_csv, 'w')
+            div_writer = csv.writer(div_file)
             div_writer.writerow(FILE_ENDPOINT_ORIGINAL_CSV_COLUMNS)
             div_writer.writerows(group)
+            div_file.close()
             create_json_from_csv(fixed_per_postal_code_csv, fixed_per_postal_code_json)
 
 
