@@ -1,0 +1,4 @@
+code,postal_old,postal_new,pref_kana,address1_kana,address2_kana,pref,address1,address2,is_multi_code,is_koaza,is_choume,is_multi_place,is_updated,update_reason
+18210,91904,9190434,ﾌｸｲｹﾝ,ｻｶｲｼ,ﾊﾙｴﾁｮｳｻｶｲ,福井県,坂井市,春江町境,0,0,0,1,0,0
+18210,91904,9190434,ﾌｸｲｹﾝ,ｻｶｲｼ,ﾊﾙｴﾁｮｳｻｶｲｶﾐﾁｮｳ,福井県,坂井市,春江町境上町,0,0,0,1,0,0
+18210,91904,9190434,ﾌｸｲｹﾝ,ｻｶｲｼ,ﾊﾙｴﾁｮｳｻｶｲﾓﾄﾏﾁ,福井県,坂井市,春江町境元町,0,0,0,1,0,0
