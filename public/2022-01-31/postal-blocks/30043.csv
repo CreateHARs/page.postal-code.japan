@@ -1,0 +1,5 @@
+code,postal_old,postal_new,pref_kana,address1_kana,address2_kana,pref,address1,address2,is_multi_code,is_koaza,is_choume,is_multi_place,is_updated,update_reason
+08220,30043,3004351,ｲﾊﾞﾗｷｹﾝ,ﾂｸﾊﾞｼ,ｶﾐｵｵｼﾏ,茨城県,つくば市,上大島,0,0,0,0,0,0
+08220,30043,3004352,ｲﾊﾞﾗｷｹﾝ,ﾂｸﾊﾞｼ,ﾂｸﾊﾞ,茨城県,つくば市,筑波,0,0,0,0,0,0
+08220,30043,3004353,ｲﾊﾞﾗｷｹﾝ,ﾂｸﾊﾞｼ,ﾇﾏﾀ,茨城県,つくば市,沼田,0,0,0,0,0,0
+08220,30043,3004354,ｲﾊﾞﾗｷｹﾝ,ﾂｸﾊﾞｼ,ｸﾆﾏﾂ,茨城県,つくば市,国松,0,0,0,0,0,0

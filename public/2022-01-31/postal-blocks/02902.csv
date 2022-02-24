@@ -1,0 +1,4 @@
+code,postal_old,postal_new,pref_kana,address1_kana,address2_kana,pref,address1,address2,is_multi_code,is_koaza,is_choume,is_multi_place,is_updated,update_reason
+03209,02902,0290201,ｲﾜﾃｹﾝ,ｲﾁﾉｾｷｼ,ｶﾜｻｷﾁｮｳｶﾝｻﾞｷ,岩手県,一関市,川崎町門崎,0,1,0,0,0,0
+03209,02902,0290202,ｲﾜﾃｹﾝ,ｲﾁﾉｾｷｼ,ｶﾜｻｷﾁｮｳｳｽｷﾞﾇ,岩手県,一関市,川崎町薄衣,0,1,0,0,0,0
+03209,02902,0290211,ｲﾜﾃｹﾝ,ｲﾁﾉｾｷｼ,ﾔｻｶｴ,岩手県,一関市,弥栄,0,1,0,0,0,0
