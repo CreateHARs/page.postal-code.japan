@@ -1,0 +1,3 @@
+code,postal_old,postal_new,pref_kana,address1_kana,address2_kana,pref,address1,address2,is_multi_code,is_koaza,is_choume,is_multi_place,is_updated,update_reason
+11223,335  ,3350000,ｻｲﾀﾏｹﾝ,ﾜﾗﾋﾞｼ,ｲｶﾆｹｲｻｲｶﾞﾅｲﾊﾞｱｲ,埼玉県,蕨市,以下に掲載がない場合,0,0,0,1,0,0
+11224,335  ,3350000,ｻｲﾀﾏｹﾝ,ﾄﾀﾞｼ,ｲｶﾆｹｲｻｲｶﾞﾅｲﾊﾞｱｲ,埼玉県,戸田市,以下に掲載がない場合,0,0,0,1,0,0

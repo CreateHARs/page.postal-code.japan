@@ -1,0 +1,3 @@
+code,postal_old,postal_new,pref_kana,address1_kana,address2_kana,pref,address1,address2,is_multi_code,is_koaza,is_choume,is_multi_place,is_updated,update_reason
+16202,933  ,9330853,ﾄﾔﾏｹﾝ,ﾀｶｵｶｼ,ｶﾐｸﾛﾀﾞ,富山県,高岡市,上黒田,0,0,0,1,0,0
+16202,933  ,9330853,ﾄﾔﾏｹﾝ,ﾀｶｵｶｼ,ｶﾐｸﾛﾀﾞｼﾝ,富山県,高岡市,上黒田新,0,0,0,1,0,0

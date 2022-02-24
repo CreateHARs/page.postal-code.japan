@@ -1,0 +1,4 @@
+code,postal_old,postal_new,pref_kana,address1_kana,address2_kana,pref,address1,address2,is_multi_code,is_koaza,is_choume,is_multi_place,is_updated,update_reason
+03201,02003,0200311,ｲﾜﾃｹﾝ,ﾓﾘｵｶｼ,ﾔﾅｶﾞﾜ,岩手県,盛岡市,簗川,0,1,0,0,0,0
+03201,02003,0200312,ｲﾜﾃｹﾝ,ﾓﾘｵｶｼ,ｲｻｺﾞｻﾞﾜ,岩手県,盛岡市,砂子沢,0,1,0,0,0,0
+03201,02003,0200313,ｲﾜﾃｹﾝ,ﾓﾘｵｶｼ,ﾈﾀﾞﾓ,岩手県,盛岡市,根田茂,0,1,0,0,0,0
