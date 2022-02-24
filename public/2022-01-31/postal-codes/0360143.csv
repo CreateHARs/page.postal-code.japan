@@ -1,0 +1,4 @@
+code,postal_old,postal_new,pref_kana,address1_kana,address2_kana,pref,address1,address2,is_multi_code,is_koaza,is_choume,is_multi_place,is_updated,update_reason
+02210,03601,0360143,ｱｵﾓﾘｹﾝ,ﾋﾗｶﾜｼ,ﾌｷｱｹﾞﾀｶﾀﾞ,青森県,平川市,吹上高田,0,1,0,1,0,0
+02210,03601,0360143,ｱｵﾓﾘｹﾝ,ﾋﾗｶﾜｼ,ﾌｷｱｹﾞﾋﾗｵｶ,青森県,平川市,吹上平岡,0,1,0,1,0,0
+02210,03601,0360143,ｱｵﾓﾘｹﾝ,ﾋﾗｶﾜｼ,ﾌｷｱｹﾞﾔｽﾀ,青森県,平川市,吹上安田,0,1,0,1,0,0

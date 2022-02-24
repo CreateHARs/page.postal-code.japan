@@ -1,0 +1,4 @@
+code,postal_old,postal_new,pref_kana,address1_kana,address2_kana,pref,address1,address2,is_multi_code,is_koaza,is_choume,is_multi_place,is_updated,update_reason
+04203,985  ,9850000,ﾐﾔｷﾞｹﾝ,ｼｵｶﾞﾏｼ,ｲｶﾆｹｲｻｲｶﾞﾅｲﾊﾞｱｲ,宮城県,塩竈市,以下に掲載がない場合,0,0,0,1,0,0
+04209,985  ,9850000,ﾐﾔｷﾞｹﾝ,ﾀｶﾞｼﾞｮｳｼ,ｲｶﾆｹｲｻｲｶﾞﾅｲﾊﾞｱｲ,宮城県,多賀城市,以下に掲載がない場合,0,0,0,1,0,0
+04404,985  ,9850000,ﾐﾔｷﾞｹﾝ,ﾐﾔｷﾞｸﾞﾝｼﾁｶﾞﾊﾏﾏﾁ,ｲｶﾆｹｲｻｲｶﾞﾅｲﾊﾞｱｲ,宮城県,宮城郡七ヶ浜町,以下に掲載がない場合,0,0,0,1,0,0

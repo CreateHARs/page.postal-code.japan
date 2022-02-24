@@ -1,0 +1,3 @@
+code,postal_old,postal_new,pref_kana,address1_kana,address2_kana,pref,address1,address2,is_multi_code,is_koaza,is_choume,is_multi_place,is_updated,update_reason
+06206,991  ,9910008,ﾔﾏｶﾞﾀｹﾝ,ｻｶﾞｴｼ,ｷｸﾁﾄﾞｳ,山形県,寒河江市,菊地堂,0,0,0,1,0,0
+06206,991  ,9910008,ﾔﾏｶﾞﾀｹﾝ,ｻｶﾞｴｼ,ｸﾓｶﾞﾜﾗ,山形県,寒河江市,雲河原,0,0,0,1,0,0
