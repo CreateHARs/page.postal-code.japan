@@ -1,0 +1,5 @@
+code,postal_old,postal_new,pref_kana,address1_kana,address2_kana,pref,address1,address2,is_multi_code,is_koaza,is_choume,is_multi_place,is_updated,update_reason
+35215,74503,7450301,ﾔﾏｸﾞﾁｹﾝ,ｼｭｳﾅﾝｼ,ｵｵｼｵ,山口県,周南市,大潮,0,0,0,0,0,0
+35215,74503,7450302,ﾔﾏｸﾞﾁｹﾝ,ｼｭｳﾅﾝｼ,ｶﾉｶﾐ,山口県,周南市,鹿野上,0,0,0,0,0,0
+35215,74503,7450303,ﾔﾏｸﾞﾁｹﾝ,ｼｭｳﾅﾝｼ,ｶﾉﾅｶ,山口県,周南市,鹿野中,0,0,0,0,0,0
+35215,74503,7450304,ﾔﾏｸﾞﾁｹﾝ,ｼｭｳﾅﾝｼ,ｶﾉｼﾓ,山口県,周南市,鹿野下,0,0,0,0,0,0

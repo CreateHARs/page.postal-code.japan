@@ -1,0 +1,4 @@
+code,postal_old,postal_new,pref_kana,address1_kana,address2_kana,pref,address1,address2,is_multi_code,is_koaza,is_choume,is_multi_place,is_updated,update_reason
+35204,75931,7593111,ﾔﾏｸﾞﾁｹﾝ,ﾊｷﾞｼ,ｶﾐﾀﾏ,山口県,萩市,上田万,0,0,0,0,0,0
+35204,75931,7593112,ﾔﾏｸﾞﾁｹﾝ,ﾊｷﾞｼ,ｼﾓﾀﾏ,山口県,萩市,下田万,0,0,0,0,0,0
+35204,75931,7593113,ﾔﾏｸﾞﾁｹﾝ,ﾊｷﾞｼ,ｴｻｷ,山口県,萩市,江崎,0,0,0,0,0,0

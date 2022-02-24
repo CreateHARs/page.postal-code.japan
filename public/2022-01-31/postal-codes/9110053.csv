@@ -1,0 +1,4 @@
+code,postal_old,postal_new,pref_kana,address1_kana,address2_kana,pref,address1,address2,is_multi_code,is_koaza,is_choume,is_multi_place,is_updated,update_reason
+18206,911  ,9110053,ﾌｸｲｹﾝ,ｶﾂﾔﾏｼ,ｷﾀｺﾞｳﾁｮｳｶﾐﾓﾘｶﾜ,福井県,勝山市,北郷町上森川,0,0,0,1,0,0
+18206,911  ,9110053,ﾌｸｲｹﾝ,ｶﾂﾔﾏｼ,ｷﾀｺﾞｳﾁｮｳｼﾓﾓﾘｶﾜ,福井県,勝山市,北郷町下森川,0,0,0,1,0,0
+18206,911  ,9110053,ﾌｸｲｹﾝ,ｶﾂﾔﾏｼ,ｷﾀｺﾞｳﾁｮｳﾓﾘｶﾜ,福井県,勝山市,北郷町森川,0,0,0,1,0,0
