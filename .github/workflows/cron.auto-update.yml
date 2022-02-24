@@ -16,6 +16,8 @@ jobs:
         uses  : actions/checkout@v2
 
       - name  : Setup Config
+        env   :
+          TZ    : 'Asia/Tokyo'
         run   : |
           echo "CURRENT_DATETIME=$(date +'%Y-%m-%d_%H-%M-%S')" >> $GITHUB_ENV
           git config --local user.name  github-actions
@@ -34,12 +36,9 @@ jobs:
           echo `ls -l`
           python -V
           pip install -r requirements.txt
-          # [warn] python "os.chdir" command is not working in Github Actions.
-          # python src/main.py
-          cd src
-          python main.py
+          python src/main.py
 
-          cd ../../../
+          cd ../../
           echo `ls -l`
           cd public
           echo `ls -l`
