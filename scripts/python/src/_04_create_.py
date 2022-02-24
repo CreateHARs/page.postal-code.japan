@@ -28,7 +28,7 @@ def create_fixed_files(latest_update_date_dir):
         for line in data:
             rows.append([unicode(col, 'shift-jis').encode('utf-8') for col in line])
         writer.writerows(rows)
-        src.close()
+        dest.close()
         create_json_from_csv(fixed_csv, fixed_json)
 
         for key, group in groupby(rows, key=lambda x: x[2][:2]):
