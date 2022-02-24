@@ -1,0 +1,4 @@
+code,postal_old,postal_new,pref_kana,address1_kana,address2_kana,pref,address1,address2,is_multi_code,is_koaza,is_choume,is_multi_place,is_updated,update_reason
+03215,02304,0230401,ｲﾜﾃｹﾝ,ｵｳｼｭｳｼ,ｲｻﾜﾅﾂﾀ,岩手県,奥州市,胆沢南都田,0,1,0,0,0,0
+03215,02304,0230402,ｲﾜﾃｹﾝ,ｵｳｼｭｳｼ,ｲｻﾜｵﾔﾏ,岩手県,奥州市,胆沢小山,0,1,0,0,0,0
+03215,02304,0230403,ｲﾜﾃｹﾝ,ｵｳｼｭｳｼ,ｲｻﾜﾜｶﾔﾅｷﾞ,岩手県,奥州市,胆沢若柳,0,1,0,0,0,0

@@ -1,0 +1,5 @@
+code,postal_old,postal_new,pref_kana,address1_kana,address2_kana,pref,address1,address2,is_multi_code,is_koaza,is_choume,is_multi_place,is_updated,update_reason
+05212,01407,0140711,ｱｷﾀｹﾝ,ﾀﾞｲｾﾝｼ,ﾄﾖｶﾜ,秋田県,大仙市,豊川,0,1,0,0,0,0
+05212,01407,0140712,ｱｷﾀｹﾝ,ﾀﾞｲｾﾝｼ,ﾄﾖｵｶ,秋田県,大仙市,豊岡,0,1,0,0,0,0
+05212,01407,0140713,ｱｷﾀｹﾝ,ﾀﾞｲｾﾝｼ,ｸﾘｻﾜ,秋田県,大仙市,栗沢,0,1,0,0,0,0
+05212,01407,0140714,ｱｷﾀｹﾝ,ﾀﾞｲｾﾝｼ,ｵｵｶﾝﾅﾘ,秋田県,大仙市,大神成,0,1,0,0,0,0

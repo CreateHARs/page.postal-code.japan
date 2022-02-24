@@ -1,0 +1,4 @@
+code,postal_old,postal_new,pref_kana,address1_kana,address2_kana,pref,address1,address2,is_multi_code,is_koaza,is_choume,is_multi_place,is_updated,update_reason
+35207,744  ,7440021,ﾔﾏｸﾞﾁｹﾝ,ｸﾀﾞﾏﾂｼ,ﾋﾗﾀ,山口県,下松市,平田,0,0,0,1,0,0
+35207,744  ,7440021,ﾔﾏｸﾞﾁｹﾝ,ｸﾀﾞﾏﾂｼ,ﾋﾗﾀ(ﾋｶﾞｼｶﾞｲｻｸ),山口県,下松市,平田（東開作）,1,0,0,1,0,0
+35207,744  ,7440021,ﾔﾏｸﾞﾁｹﾝ,ｸﾀﾞﾏﾂｼ,ﾋﾗﾀ(ﾆｼｶﾞｲｻｸ),山口県,下松市,平田（西開作）,1,0,0,1,0,0

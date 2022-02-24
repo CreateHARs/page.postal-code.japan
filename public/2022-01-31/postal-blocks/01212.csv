@@ -1,0 +1,4 @@
+code,postal_old,postal_new,pref_kana,address1_kana,address2_kana,pref,address1,address2,is_multi_code,is_koaza,is_choume,is_multi_place,is_updated,update_reason
+05463,01212,0121241,ｱｷﾀｹﾝ,ｵｶﾞﾁｸﾞﾝｳｺﾞﾏﾁ,ﾀｼﾛ,秋田県,雄勝郡羽後町,田代,0,1,0,0,0,0
+05463,01212,0121242,ｱｷﾀｹﾝ,ｵｶﾞﾁｸﾞﾝｳｺﾞﾏﾁ,ｶﾐﾄｳﾏｲ,秋田県,雄勝郡羽後町,上到米,0,1,0,0,0,0
+05463,01212,0121243,ｱｷﾀｹﾝ,ｵｶﾞﾁｸﾞﾝｳｺﾞﾏﾁ,ｶﾙｲｻﾞﾜ,秋田県,雄勝郡羽後町,軽井沢,0,1,0,0,0,0

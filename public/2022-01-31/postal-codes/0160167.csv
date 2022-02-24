@@ -1,0 +1,3 @@
+code,postal_old,postal_new,pref_kana,address1_kana,address2_kana,pref,address1,address2,is_multi_code,is_koaza,is_choume,is_multi_place,is_updated,update_reason
+05202,01601,0160167,ｱｷﾀｹﾝ,ﾉｼﾛｼ,ｼｵｶﾗﾀﾞ,秋田県,能代市,塩干田,0,0,0,1,0,0
+05202,01601,0160167,ｱｷﾀｹﾝ,ﾉｼﾛｼ,ｼｵｶﾗﾀﾞﾏｴ,秋田県,能代市,塩干田前,0,0,0,1,0,0

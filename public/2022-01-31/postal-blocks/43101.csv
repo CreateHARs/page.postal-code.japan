@@ -1,0 +1,4 @@
+code,postal_old,postal_new,pref_kana,address1_kana,address2_kana,pref,address1,address2,is_multi_code,is_koaza,is_choume,is_multi_place,is_updated,update_reason
+22133,43101,4310101,ｼｽﾞｵｶｹﾝ,ﾊﾏﾏﾂｼﾆｼｸ,ﾕｳﾄｳﾁｮｳﾔﾏｻﾞｷ,静岡県,浜松市西区,雄踏町山崎,0,0,0,0,0,0
+22133,43101,4310102,ｼｽﾞｵｶｹﾝ,ﾊﾏﾏﾂｼﾆｼｸ,ﾕｳﾄｳﾁｮｳｳﾌﾞﾐ,静岡県,浜松市西区,雄踏町宇布見,0,0,0,0,0,0
+22133,43101,4310103,ｼｽﾞｵｶｹﾝ,ﾊﾏﾏﾂｼﾆｼｸ,ﾕｳﾄｳ,静岡県,浜松市西区,雄踏,0,0,1,0,0,0

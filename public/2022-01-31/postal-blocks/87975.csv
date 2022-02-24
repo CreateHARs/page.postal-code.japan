@@ -1,0 +1,5 @@
+code,postal_old,postal_new,pref_kana,address1_kana,address2_kana,pref,address1,address2,is_multi_code,is_koaza,is_choume,is_multi_place,is_updated,update_reason
+44201,87975,8797501,ｵｵｲﾀｹﾝ,ｵｵｲﾀｼ,ﾀｹﾅｶ,大分県,大分市,竹中,0,0,0,0,0,0
+44201,87975,8797502,ｵｵｲﾀｹﾝ,ｵｵｲﾀｼ,ﾊﾀﾉﾎﾞﾘ,大分県,大分市,端登,0,0,0,0,0,0
+44201,87975,8797503,ｵｵｲﾀｹﾝ,ｵｵｲﾀｼ,ｶﾜﾗｳﾁ,大分県,大分市,河原内,0,0,0,0,0,0
+44201,87975,8797504,ｵｵｲﾀｹﾝ,ｵｵｲﾀｼ,ｱﾝﾄﾞｳ,大分県,大分市,安藤,0,0,0,0,0,0
