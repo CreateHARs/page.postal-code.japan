@@ -1,0 +1,4 @@
+code,postal_old,postal_new,pref_kana,address1_kana,address2_kana,pref,address1,address2,is_multi_code,is_koaza,is_choume,is_multi_place,is_updated,update_reason
+32343,69917,6991701,ｼﾏﾈｹﾝ,ﾆﾀｸﾞﾝｵｸｲｽﾞﾓﾁｮｳ,ｶﾒﾀﾞｹ,島根県,仁多郡奥出雲町,亀嵩,0,0,0,0,0,0
+32343,69917,6991702,ｼﾏﾈｹﾝ,ﾆﾀｸﾞﾝｵｸｲｽﾞﾓﾁｮｳ,ｺｵﾘ,島根県,仁多郡奥出雲町,郡,0,0,0,0,0,0
+32343,69917,6991703,ｼﾏﾈｹﾝ,ﾆﾀｸﾞﾝｵｸｲｽﾞﾓﾁｮｳ,ﾀｶﾀ,島根県,仁多郡奥出雲町,高田,0,0,0,0,0,0

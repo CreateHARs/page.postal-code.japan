@@ -1,0 +1,4 @@
+code,postal_old,postal_new,pref_kana,address1_kana,address2_kana,pref,address1,address2,is_multi_code,is_koaza,is_choume,is_multi_place,is_updated,update_reason
+03501,02862,0286221,ｲﾜﾃｹﾝ,ｸﾉﾍｸﾞﾝｶﾙﾏｲﾏﾁ,ﾊﾚﾔﾏ,岩手県,九戸郡軽米町,晴山,0,1,0,0,0,0
+03501,02862,0286222,ｲﾜﾃｹﾝ,ｸﾉﾍｸﾞﾝｶﾙﾏｲﾏﾁ,ｻﾝﾅｲ,岩手県,九戸郡軽米町,山内,0,1,0,0,0,0
+03501,02862,0286223,ｲﾜﾃｹﾝ,ｸﾉﾍｸﾞﾝｶﾙﾏｲﾏﾁ,ｴﾂﾞｶ,岩手県,九戸郡軽米町,狄塚,0,1,0,0,0,0
