@@ -1,0 +1,4 @@
+code,postal_old,postal_new,pref_kana,address1_kana,address2_kana,pref,address1,address2,is_multi_code,is_koaza,is_choume,is_multi_place,is_updated,update_reason
+34202,73704,7370401,ﾋﾛｼﾏｹﾝ,ｸﾚｼ,ｶﾏｶﾞﾘﾁｮｳﾐﾔｻﾞｶﾘ,広島県,呉市,蒲刈町宮盛,0,0,0,0,0,0
+34202,73704,7370402,ﾋﾛｼﾏｹﾝ,ｸﾚｼ,ｶﾏｶﾞﾘﾁｮｳｵｵｳﾗ,広島県,呉市,蒲刈町大浦,0,0,0,0,0,0
+34202,73704,7370403,ﾋﾛｼﾏｹﾝ,ｸﾚｼ,ｶﾏｶﾞﾘﾁｮｳﾀﾄﾞ,広島県,呉市,蒲刈町田戸,0,0,0,0,0,0
