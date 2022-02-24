@@ -1,4 +1,4 @@
-name: "[cron] automation"
+name: "[cron] auto create PR"
 
 on:
   schedule:
@@ -6,8 +6,8 @@ on:
   workflow_dispatch:
 
 jobs:
-  run-script:
-    name    : run script
+  main:
+    name    : run main
     runs-on : ubuntu-latest
     timeout-minutes : 60
     steps   :
@@ -33,15 +33,9 @@ jobs:
         id    : step-python
         run   : |
           cd scripts/python
-          echo `ls -l`
           python -V
           pip install -r requirements.txt
           python src/main.py
-
-          cd ../../
-          echo `ls -l`
-          cd public
-          echo `ls -l`
 
           git add -N .
           git_diff_count=`git diff --name-only | wc -l`
@@ -49,11 +43,12 @@ jobs:
           echo "::set-output name=git-diff-count::${git_diff_count}"
 
       - name  : Create New Branch/PR
+        if    : steps.step-python.outputs.git-diff-count > 0
         env   :
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run   : |
           echo ${{ steps.step-python.outputs.git-diff-count }}
-          release_branch="release/auto_${{ env.CURRENT_DATETIME }}"
+          release_branch="actions/cron_auto-pr_${{ env.CURRENT_DATETIME }}"
           git switch -c      ${release_branch}
           git push -u origin ${release_branch}
           echo `git branch --contains`
