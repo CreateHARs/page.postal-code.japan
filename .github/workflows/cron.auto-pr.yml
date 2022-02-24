@@ -23,8 +23,8 @@ jobs:
           TZ    : 'Asia/Tokyo'
         run   : |
           echo "CURRENT_DATETIME=$(date +'%Y-%m-%d_%H-%M-%S')" >> $GITHUB_ENV
-          git config --local user.name  github-actions
-          git config --local user.email github-actions@github.com
+          # git config --local user.name  github-actions
+          # git config --local user.email github-actions@github.com
 
       - name  : Setup Python
         uses  : actions/setup-python@v2
@@ -47,8 +47,9 @@ jobs:
 
       - name  : Create New Branch/PR
         if    : steps.step-python.outputs.git-diff-count > 0
-#        env   :
-#          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        env   :
+          # GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_TOKEN : ${{ secrets.ACTIONS_CHAIN_FLOW_PAT }}
         run   : |
           release_branch="actions/cron_auto-pr_${{ env.CURRENT_DATETIME }}"
           echo `git branch --contains`
@@ -60,5 +61,6 @@ jobs:
           git commit -m "auto updated."
           git push
 
-          hub pull-request --base main --head ${release_branch} -m "[release] ${{ env.CURRENT_DATETIME }}"
+          #  hub pull-request --base main --head ${release_branch} -m "[release] ${{ env.CURRENT_DATETIME }}"
+          gh pr create --base main --head ${release_branch} --title "[release] ${{ env.CURRENT_DATETIME }}" 
 
