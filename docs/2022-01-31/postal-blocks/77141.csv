@@ -1,0 +1,4 @@
+code,postal_old,postal_new,pref_kana,address1_kana,address2_kana,pref,address1,address2,is_multi_code,is_koaza,is_choume,is_multi_place,is_updated,update_reason
+36321,77141,7714100,ﾄｸｼﾏｹﾝ,ﾐｮｳﾄﾞｳｸﾞﾝｻﾅｺﾞｳﾁｿﾝ,ｲｶﾆｹｲｻｲｶﾞﾅｲﾊﾞｱｲ,徳島県,名東郡佐那河内村,以下に掲載がない場合,0,0,0,0,0,0
+36321,77141,7714101,ﾄｸｼﾏｹﾝ,ﾐｮｳﾄﾞｳｸﾞﾝｻﾅｺﾞｳﾁｿﾝ,ｼﾓ,徳島県,名東郡佐那河内村,下,0,1,0,0,0,0
+36321,77141,7714102,ﾄｸｼﾏｹﾝ,ﾐｮｳﾄﾞｳｸﾞﾝｻﾅｺﾞｳﾁｿﾝ,ｶﾐ,徳島県,名東郡佐那河内村,上,0,1,0,0,0,0

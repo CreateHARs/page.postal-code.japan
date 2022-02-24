@@ -1,0 +1,4 @@
+code,postal_old,postal_new,pref_kana,address1_kana,address2_kana,pref,address1,address2,is_multi_code,is_koaza,is_choume,is_multi_place,is_updated,update_reason
+06208,99501,9950111,ﾔﾏｶﾞﾀｹﾝ,ﾑﾗﾔﾏｼ,ｵｵｸﾎﾞ,山形県,村山市,大久保,0,1,0,0,0,0
+06208,99501,9950112,ﾔﾏｶﾞﾀｹﾝ,ﾑﾗﾔﾏｼ,ﾕﾉｻﾜ,山形県,村山市,湯野沢,0,0,0,0,0,0
+06208,99501,9950113,ﾔﾏｶﾞﾀｹﾝ,ﾑﾗﾔﾏｼ,ｲﾜﾉ,山形県,村山市,岩野,0,0,0,0,0,0

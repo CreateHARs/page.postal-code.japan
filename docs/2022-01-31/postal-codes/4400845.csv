@@ -1,0 +1,3 @@
+code,postal_old,postal_new,pref_kana,address1_kana,address2_kana,pref,address1,address2,is_multi_code,is_koaza,is_choume,is_multi_place,is_updated,update_reason
+23201,440  ,4400845,ｱｲﾁｹﾝ,ﾄﾖﾊｼｼ,ﾀｶｼﾁｮｳ(ｷﾀﾊﾗ､ｿﾉﾀ),愛知県,豊橋市,高師町（北原、その他）,1,0,0,1,0,0
+23201,440  ,4400845,ｱｲﾁｹﾝ,ﾄﾖﾊｼｼ,ﾀｶｼﾁｮｳ(ｿﾉﾀ),愛知県,豊橋市,高師町（その他）,1,1,0,1,0,0
