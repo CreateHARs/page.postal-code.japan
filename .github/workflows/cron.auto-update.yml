@@ -36,11 +36,24 @@ jobs:
           echo "git_diff_count: ${git_diff_count}"
           echo "::set-output name=git-diff-count::${git_diff_count}"
 
+      - name  : Git settings
+        run   : |
+          git config --local user.name  github-actions
+          git config --local user.email github-actions@github.com
+
       - name  : Create new branch
         env   :
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run   : |
-          echo {steps.changes.outputs.count}
-          git switch -c      release/auto_${{ env.CURRENT_DATETIME }}
-          git push -u origin release/auto_${{ env.CURRENT_DATETIME }}
+          echo ${steps.changes.outputs.count}
+          release_branch="release/auto_${{ env.CURRENT_DATETIME }}"
+          git switch -c      ${release_branch}
+          git push -u origin ${release_branch}
           echo `git branch --contains`
+
+          git add .
+          git commit -m "auto updated."
+          git push
+
+          hub pull-request --base main --head ${release_branch} -m "[release] ${{ env.CURRENT_DATETIME }}"
+
