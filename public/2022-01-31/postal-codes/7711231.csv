@@ -1,0 +1,4 @@
+code,postal_old,postal_new,pref_kana,address1_kana,address2_kana,pref,address1,address2,is_multi_code,is_koaza,is_choume,is_multi_place,is_updated,update_reason
+36403,77112,7711231,ﾄｸｼﾏｹﾝ,ｲﾀﾉｸﾞﾝｱｲｽﾞﾐﾁｮｳ,ﾄﾐﾖｼ(ｽｻﾞｷ),徳島県,板野郡藍住町,富吉（須崎）,1,0,0,1,0,0
+36403,77112,7711231,ﾄｸｼﾏｹﾝ,ｲﾀﾉｸﾞﾝｱｲｽﾞﾐﾁｮｳ,ﾄﾐﾖｼ(ﾄﾐﾖｼ),徳島県,板野郡藍住町,富吉（富吉）,1,0,0,1,0,0
+36403,77112,7711231,ﾄｸｼﾏｹﾝ,ｲﾀﾉｸﾞﾝｱｲｽﾞﾐﾁｮｳ,ﾄﾐﾖｼ(ﾄﾖﾖｼ),徳島県,板野郡藍住町,富吉（豊吉）,1,0,0,1,0,0
