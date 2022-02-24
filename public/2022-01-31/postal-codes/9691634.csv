@@ -1,0 +1,4 @@
+code,postal_old,postal_new,pref_kana,address1_kana,address2_kana,pref,address1,address2,is_multi_code,is_koaza,is_choume,is_multi_place,is_updated,update_reason
+07301,96916,9691634,ﾌｸｼﾏｹﾝ,ﾀﾞﾃｸﾞﾝｺｵﾘﾏﾁ,ｵﾁｱｲ,福島県,伊達郡桑折町,落合,0,0,0,1,0,0
+07301,96916,9691634,ﾌｸｼﾏｹﾝ,ﾀﾞﾃｸﾞﾝｺｵﾘﾏﾁ,ｽｷﾞﾉﾏｴ,福島県,伊達郡桑折町,杉ノ前,0,0,0,1,0,0
+07301,96916,9691634,ﾌｸｼﾏｹﾝ,ﾀﾞﾃｸﾞﾝｺｵﾘﾏﾁ,ｽﾅｺﾞｻﾞﾜ,福島県,伊達郡桑折町,砂子沢,0,0,0,1,0,0

@@ -1,0 +1,3 @@
+code,postal_old,postal_new,pref_kana,address1_kana,address2_kana,pref,address1,address2,is_multi_code,is_koaza,is_choume,is_multi_place,is_updated,update_reason
+40106,803  ,8020000,ﾌｸｵｶｹﾝ,ｷﾀｷｭｳｼｭｳｼｺｸﾗｷﾀｸ,ｲｶﾆｹｲｻｲｶﾞﾅｲﾊﾞｱｲ,福岡県,北九州市小倉北区,以下に掲載がない場合,0,0,0,1,0,0
+40107,803  ,8020000,ﾌｸｵｶｹﾝ,ｷﾀｷｭｳｼｭｳｼｺｸﾗﾐﾅﾐｸ,ｲｶﾆｹｲｻｲｶﾞﾅｲﾊﾞｱｲ,福岡県,北九州市小倉南区,以下に掲載がない場合,0,0,0,1,0,0
