@@ -34,9 +34,12 @@ jobs:
           echo `ls -l`
           python -V
           pip install -r requirements.txt
-          python src/main.py
+          # [warn] python "os.chdir" command is not working in Github Actions.
+          # python src/main.py
+          cd src
+          python main.py
 
-          cd ../../
+          cd ../../../
           echo `ls -l`
           cd public
           echo `ls -l`
