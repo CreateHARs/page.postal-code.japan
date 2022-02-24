@@ -1,0 +1,53 @@
+[
+    {
+        "code": "01432",
+        "postal_old": "07313",
+        "postal_new": "0731321",
+        "pref_kana": "ﾎｯｶｲﾄﾞｳ",
+        "address1_kana": "ｶﾊﾞﾄｸﾞﾝｼﾝﾄﾂｶﾜﾁｮｳ",
+        "address2_kana": "ｶﾞｸｴﾝ",
+        "pref": "北海道",
+        "address1": "樺戸郡新十津川町",
+        "address2": "学園",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    },
+    {
+        "code": "01432",
+        "postal_old": "07313",
+        "postal_new": "0731322",
+        "pref_kana": "ﾎｯｶｲﾄﾞｳ",
+        "address1_kana": "ｶﾊﾞﾄｸﾞﾝｼﾝﾄﾂｶﾜﾁｮｳ",
+        "address2_kana": "ﾖｼﾉ",
+        "pref": "北海道",
+        "address1": "樺戸郡新十津川町",
+        "address2": "吉野",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    },
+    {
+        "code": "01432",
+        "postal_old": "07313",
+        "postal_new": "0731323",
+        "pref_kana": "ﾎｯｶｲﾄﾞｳ",
+        "address1_kana": "ｶﾊﾞﾄｸﾞﾝｼﾝﾄﾂｶﾜﾁｮｳ",
+        "address2_kana": "ﾎﾛｶ",
+        "pref": "北海道",
+        "address1": "樺戸郡新十津川町",
+        "address2": "幌加",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

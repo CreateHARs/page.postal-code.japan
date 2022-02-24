@@ -1,0 +1,4 @@
+code,postal_old,postal_new,pref_kana,address1_kana,address2_kana,pref,address1,address2,is_multi_code,is_koaza,is_choume,is_multi_place,is_updated,update_reason
+02401,03931,0393108,ｱｵﾓﾘｹﾝ,ｶﾐｷﾀｸﾞﾝﾉﾍｼﾞﾏﾁ,ｱﾘﾄ,青森県,上北郡野辺地町,有戸,0,0,0,1,0,0
+02401,03931,0393108,ｱｵﾓﾘｹﾝ,ｶﾐｷﾀｸﾞﾝﾉﾍｼﾞﾏﾁ,ｼﾀﾐﾁ,青森県,上北郡野辺地町,下道,0,0,0,1,0,0
+02401,03931,0393108,ｱｵﾓﾘｹﾝ,ｶﾐｷﾀｸﾞﾝﾉﾍｼﾞﾏﾁ,ﾅｶﾀ,青森県,上北郡野辺地町,中田,0,0,0,1,0,0

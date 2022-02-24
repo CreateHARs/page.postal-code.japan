@@ -1,0 +1,19 @@
+[
+    {
+        "code": "09204",
+        "postal_old": "32701",
+        "postal_new": "3270103",
+        "pref_kana": "ﾄﾁｷﾞｹﾝ",
+        "address1_kana": "ｻﾉｼ",
+        "address2_kana": "ｲｼﾂﾞｶﾁｮｳ",
+        "pref": "栃木県",
+        "address1": "佐野市",
+        "address2": "石塚町",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

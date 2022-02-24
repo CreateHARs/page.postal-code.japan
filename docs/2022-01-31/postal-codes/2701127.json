@@ -1,0 +1,19 @@
+[
+    {
+        "code": "12222",
+        "postal_old": "27011",
+        "postal_new": "2701127",
+        "pref_kana": "ﾁﾊﾞｹﾝ",
+        "address1_kana": "ｱﾋﾞｺｼ",
+        "address2_kana": "ﾅｶﾋﾞｮｳﾑﾗｼﾀ",
+        "pref": "千葉県",
+        "address1": "我孫子市",
+        "address2": "中峠村下",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

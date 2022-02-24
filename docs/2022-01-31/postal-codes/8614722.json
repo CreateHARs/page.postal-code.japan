@@ -1,0 +1,19 @@
+[
+    {
+        "code": "43348",
+        "postal_old": "86147",
+        "postal_new": "8614722",
+        "pref_kana": "ｸﾏﾓﾄｹﾝ",
+        "address1_kana": "ｼﾓﾏｼｷｸﾞﾝﾐｻﾄﾏﾁ",
+        "address2_kana": "ﾅｶﾞﾄﾐ",
+        "pref": "熊本県",
+        "address1": "下益城郡美里町",
+        "address2": "永富",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

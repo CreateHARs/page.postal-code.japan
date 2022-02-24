@@ -1,0 +1,19 @@
+[
+    {
+        "code": "21507",
+        "postal_old": "50913",
+        "postal_new": "5091301",
+        "pref_kana": "ｷﾞﾌｹﾝ",
+        "address1_kana": "ｶﾓｸﾞﾝﾋｶﾞｼｼﾗｶﾜﾑﾗ",
+        "address2_kana": "ｵｯﾊﾟﾗ",
+        "pref": "岐阜県",
+        "address1": "加茂郡東白川村",
+        "address2": "越原",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

@@ -1,0 +1,19 @@
+[
+    {
+        "code": "37386",
+        "postal_old": "76902",
+        "postal_new": "7690210",
+        "pref_kana": "ｶｶﾞﾜｹﾝ",
+        "address1_kana": "ｱﾔｳﾀｸﾞﾝｳﾀﾂﾞﾁｮｳ",
+        "address2_kana": "ｳﾀﾂﾞﾁｮｳﾉﾂｷﾞﾆﾊﾞﾝﾁｶﾞｸﾙﾊﾞｱｲ",
+        "pref": "香川県",
+        "address1": "綾歌郡宇多津町",
+        "address2": "宇多津町の次に番地がくる場合",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

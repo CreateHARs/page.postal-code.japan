@@ -1,0 +1,19 @@
+[
+    {
+        "code": "14203",
+        "postal_old": "25912",
+        "postal_new": "2591203",
+        "pref_kana": "ｶﾅｶﾞﾜｹﾝ",
+        "address1_kana": "ﾋﾗﾂｶｼ",
+        "address2_kana": "ｼﾓｷﾁｻﾜ",
+        "pref": "神奈川県",
+        "address1": "平塚市",
+        "address2": "下吉沢",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

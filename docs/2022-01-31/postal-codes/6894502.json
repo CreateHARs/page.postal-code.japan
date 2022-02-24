@@ -1,0 +1,19 @@
+[
+    {
+        "code": "31402",
+        "postal_old": "68945",
+        "postal_new": "6894502",
+        "pref_kana": "ﾄｯﾄﾘｹﾝ",
+        "address1_kana": "ﾋﾉｸﾞﾝﾋﾉﾁｮｳ",
+        "address2_kana": "ﾐﾀﾆ",
+        "pref": "鳥取県",
+        "address1": "日野郡日野町",
+        "address2": "三谷",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

@@ -1,0 +1,19 @@
+[
+    {
+        "code": "35210",
+        "postal_old": "743  ",
+        "postal_new": "7430009",
+        "pref_kana": "ﾔﾏｸﾞﾁｹﾝ",
+        "address1_kana": "ﾋｶﾘｼ",
+        "address2_kana": "ﾑﾛﾂﾞﾐﾏﾂﾊﾞﾗ",
+        "pref": "山口県",
+        "address1": "光市",
+        "address2": "室積松原",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

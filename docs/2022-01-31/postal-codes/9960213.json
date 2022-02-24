@@ -1,0 +1,19 @@
+[
+    {
+        "code": "06365",
+        "postal_old": "99602",
+        "postal_new": "9960213",
+        "pref_kana": "ﾔﾏｶﾞﾀｹﾝ",
+        "address1_kana": "ﾓｶﾞﾐｸﾞﾝｵｵｸﾗﾑﾗ",
+        "address2_kana": "ｱｶﾏﾂ",
+        "pref": "山形県",
+        "address1": "最上郡大蔵村",
+        "address2": "赤松",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

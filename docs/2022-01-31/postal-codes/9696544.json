@@ -1,0 +1,36 @@
+[
+    {
+        "code": "07421",
+        "postal_old": "96965",
+        "postal_new": "9696544",
+        "pref_kana": "ﾌｸｼﾏｹﾝ",
+        "address1_kana": "ｶﾜﾇﾏｸﾞﾝｱｲﾂﾞﾊﾞﾝｹﾞﾏﾁ",
+        "address2_kana": "ｵｵﾎﾘｶﾜﾆｼｺｳ",
+        "pref": "福島県",
+        "address1": "河沼郡会津坂下町",
+        "address2": "大堀川西甲",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "1",
+        "is_updated": "0",
+        "update_reason": "0"
+    },
+    {
+        "code": "07421",
+        "postal_old": "96965",
+        "postal_new": "9696544",
+        "pref_kana": "ﾌｸｼﾏｹﾝ",
+        "address1_kana": "ｶﾜﾇﾏｸﾞﾝｱｲﾂﾞﾊﾞﾝｹﾞﾏﾁ",
+        "address2_kana": "ﾄｳﾅﾝﾏﾁｳﾗｺｳ",
+        "pref": "福島県",
+        "address1": "河沼郡会津坂下町",
+        "address2": "東南町裏甲",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "1",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

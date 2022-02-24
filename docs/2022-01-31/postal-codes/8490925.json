@@ -1,0 +1,19 @@
+[
+    {
+        "code": "41201",
+        "postal_old": "849  ",
+        "postal_new": "8490925",
+        "pref_kana": "ｻｶﾞｹﾝ",
+        "address1_kana": "ｻｶﾞｼ",
+        "address2_kana": "ﾊｯﾁｮｳﾅﾜﾃﾏﾁ",
+        "pref": "佐賀県",
+        "address1": "佐賀市",
+        "address2": "八丁畷町",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

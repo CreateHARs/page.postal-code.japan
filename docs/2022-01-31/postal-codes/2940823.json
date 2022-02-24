@@ -1,0 +1,19 @@
+[
+    {
+        "code": "12234",
+        "postal_old": "294  ",
+        "postal_new": "2940823",
+        "pref_kana": "ﾁﾊﾞｹﾝ",
+        "address1_kana": "ﾐﾅﾐﾎﾞｳｿｳｼ",
+        "address2_kana": "ﾌﾁｭｳ",
+        "pref": "千葉県",
+        "address1": "南房総市",
+        "address2": "府中",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

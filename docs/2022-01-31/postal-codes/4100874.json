@@ -1,0 +1,19 @@
+[
+    {
+        "code": "22203",
+        "postal_old": "410  ",
+        "postal_new": "4100874",
+        "pref_kana": "ｼｽﾞｵｶｹﾝ",
+        "address1_kana": "ﾇﾏﾂﾞｼ",
+        "address2_kana": "ﾏﾂﾅｶﾞ",
+        "pref": "静岡県",
+        "address1": "沼津市",
+        "address2": "松長",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

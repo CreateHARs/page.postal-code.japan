@@ -1,0 +1,19 @@
+[
+    {
+        "code": "26108",
+        "postal_old": "615  ",
+        "postal_new": "6150031",
+        "pref_kana": "ｷｮｳﾄﾌ",
+        "address1_kana": "ｷｮｳﾄｼｳｷｮｳｸ",
+        "address2_kana": "ｻｲｲﾝﾀｶﾀﾞﾁｮｳ",
+        "pref": "京都府",
+        "address1": "京都市右京区",
+        "address2": "西院高田町",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

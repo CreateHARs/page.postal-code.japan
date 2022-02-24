@@ -1,0 +1,19 @@
+[
+    {
+        "code": "16208",
+        "postal_old": "93913",
+        "postal_new": "9391325",
+        "pref_kana": "ﾄﾔﾏｹﾝ",
+        "address1_kana": "ﾄﾅﾐｼ",
+        "address2_kana": "ﾊﾅｼﾞﾏ",
+        "pref": "富山県",
+        "address1": "砺波市",
+        "address2": "花島",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

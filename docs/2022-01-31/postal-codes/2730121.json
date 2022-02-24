@@ -1,0 +1,19 @@
+[
+    {
+        "code": "12224",
+        "postal_old": "27301",
+        "postal_new": "2730121",
+        "pref_kana": "ﾁﾊﾞｹﾝ",
+        "address1_kana": "ｶﾏｶﾞﾔｼ",
+        "address2_kana": "ﾊﾂﾄﾐ",
+        "pref": "千葉県",
+        "address1": "鎌ケ谷市",
+        "address2": "初富",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

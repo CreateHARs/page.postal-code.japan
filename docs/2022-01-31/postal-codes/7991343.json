@@ -1,0 +1,19 @@
+[
+    {
+        "code": "38206",
+        "postal_old": "79913",
+        "postal_new": "7991343",
+        "pref_kana": "ｴﾋﾒｹﾝ",
+        "address1_kana": "ｻｲｼﾞｮｳｼ",
+        "address2_kana": "ｷﾀﾀﾞｲ",
+        "pref": "愛媛県",
+        "address1": "西条市",
+        "address2": "喜多台",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

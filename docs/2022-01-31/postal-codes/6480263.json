@@ -1,0 +1,19 @@
+[
+    {
+        "code": "30344",
+        "postal_old": "64802",
+        "postal_new": "6480263",
+        "pref_kana": "ﾜｶﾔﾏｹﾝ",
+        "address1_kana": "ｲﾄｸﾞﾝｺｳﾔﾁｮｳ",
+        "address2_kana": "ﾊﾅｻｶ",
+        "pref": "和歌山県",
+        "address1": "伊都郡高野町",
+        "address2": "花坂",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

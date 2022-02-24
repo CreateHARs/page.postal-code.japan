@@ -1,0 +1,19 @@
+[
+    {
+        "code": "21216",
+        "postal_old": "50102",
+        "postal_new": "5010205",
+        "pref_kana": "ｷﾞﾌｹﾝ",
+        "address1_kana": "ﾐｽﾞﾎｼ",
+        "address2_kana": "ﾊﾞﾊﾞｺｼﾛﾏﾁ",
+        "pref": "岐阜県",
+        "address1": "瑞穂市",
+        "address2": "馬場小城町",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "1",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

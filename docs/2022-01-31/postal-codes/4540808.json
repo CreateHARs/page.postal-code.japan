@@ -1,0 +1,19 @@
+[
+    {
+        "code": "23110",
+        "postal_old": "454  ",
+        "postal_new": "4540808",
+        "pref_kana": "ｱｲﾁｹﾝ",
+        "address1_kana": "ﾅｺﾞﾔｼﾅｶｶﾞﾜｸ",
+        "address2_kana": "ｺｺﾉｴﾁｮｳ",
+        "pref": "愛知県",
+        "address1": "名古屋市中川区",
+        "address2": "九重町",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

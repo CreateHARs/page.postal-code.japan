@@ -1,0 +1,19 @@
+[
+    {
+        "code": "03483",
+        "postal_old": "02705",
+        "postal_new": "0270508",
+        "pref_kana": "ｲﾜﾃｹﾝ",
+        "address1_kana": "ｼﾓﾍｲｸﾞﾝｲﾜｲｽﾞﾐﾁｮｳ",
+        "address2_kana": "ｱﾏﾋﾀｲ",
+        "pref": "岩手県",
+        "address1": "下閉伊郡岩泉町",
+        "address2": "尼額",
+        "is_multi_code": "0",
+        "is_koaza": "1",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

@@ -1,0 +1,19 @@
+[
+    {
+        "code": "12217",
+        "postal_old": "277  ",
+        "postal_new": "2770062",
+        "pref_kana": "ﾁﾊﾞｹﾝ",
+        "address1_kana": "ｶｼﾜｼ",
+        "address2_kana": "ﾋｶﾘｶﾞｵｶﾀﾞﾝﾁ",
+        "pref": "千葉県",
+        "address1": "柏市",
+        "address2": "光ケ丘団地",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

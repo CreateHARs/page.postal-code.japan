@@ -1,0 +1,19 @@
+[
+    {
+        "code": "27209",
+        "postal_old": "570  ",
+        "postal_new": "5700023",
+        "pref_kana": "ｵｵｻｶﾌ",
+        "address1_kana": "ﾓﾘｸﾞﾁｼ",
+        "address2_kana": "ﾋｭｳｶﾞﾁｮｳ",
+        "pref": "大阪府",
+        "address1": "守口市",
+        "address2": "日向町",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

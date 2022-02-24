@@ -1,0 +1,19 @@
+[
+    {
+        "code": "01401",
+        "postal_old": "04822",
+        "postal_new": "0482202",
+        "pref_kana": "ﾎｯｶｲﾄﾞｳ",
+        "address1_kana": "ｲﾜﾅｲｸﾞﾝｷｮｳﾜﾁｮｳ",
+        "address2_kana": "ﾐﾅﾐﾎﾛﾆ",
+        "pref": "北海道",
+        "address1": "岩内郡共和町",
+        "address2": "南幌似",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

@@ -1,0 +1,36 @@
+[
+    {
+        "code": "40103",
+        "postal_old": "808  ",
+        "postal_new": "8080008",
+        "pref_kana": "ﾌｸｵｶｹﾝ",
+        "address1_kana": "ｷﾀｷｭｳｼｭｳｼﾜｶﾏﾂｸ",
+        "address2_kana": "ｵﾀﾞｹ(1-1953､3006-3008ﾊﾞﾝﾁ､ｱｲｶﾜ､ｵﾆｶﾞｻｶ､ｶﾗｷ､",
+        "pref": "福岡県",
+        "address1": "北九州市若松区",
+        "address2": "小竹（１〜１９５３、３００６〜３００８番地、相川、鬼ケ坂、唐木、",
+        "is_multi_code": "1",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    },
+    {
+        "code": "40103",
+        "postal_old": "808  ",
+        "postal_new": "8080008",
+        "pref_kana": "ﾌｸｵｶｹﾝ",
+        "address1_kana": "ｷﾀｷｭｳｼｭｳｼﾜｶﾏﾂｸ",
+        "address2_kana": "ﾂﾊﾞｷ､ﾜｷﾉｳﾗ)",
+        "pref": "福岡県",
+        "address1": "北九州市若松区",
+        "address2": "椿、脇ノ浦）",
+        "is_multi_code": "1",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

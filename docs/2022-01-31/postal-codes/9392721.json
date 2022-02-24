@@ -1,0 +1,36 @@
+[
+    {
+        "code": "16201",
+        "postal_old": "93927",
+        "postal_new": "9392721",
+        "pref_kana": "ﾄﾔﾏｹﾝ",
+        "address1_kana": "ﾄﾔﾏｼ",
+        "address2_kana": "ﾌﾁｭｳﾏﾁｲﾀｸﾗ",
+        "pref": "富山県",
+        "address1": "富山市",
+        "address2": "婦中町板倉",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "1",
+        "is_updated": "0",
+        "update_reason": "0"
+    },
+    {
+        "code": "16201",
+        "postal_old": "93927",
+        "postal_new": "9392721",
+        "pref_kana": "ﾄﾔﾏｹﾝ",
+        "address1_kana": "ﾄﾔﾏｼ",
+        "address2_kana": "ﾌﾁｭｳﾏﾁｲﾀｸﾗｼﾝ",
+        "pref": "富山県",
+        "address1": "富山市",
+        "address2": "婦中町板倉新",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "1",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

@@ -1,0 +1,19 @@
+[
+    {
+        "code": "26206",
+        "postal_old": "621  ",
+        "postal_new": "6210824",
+        "pref_kana": "ｷｮｳﾄﾌ",
+        "address1_kana": "ｶﾒｵｶｼ",
+        "address2_kana": "ｼﾉﾁｮｳﾐﾊﾙ",
+        "pref": "京都府",
+        "address1": "亀岡市",
+        "address2": "篠町見晴",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "1",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

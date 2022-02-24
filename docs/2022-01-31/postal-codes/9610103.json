@@ -1,0 +1,19 @@
+[
+    {
+        "code": "07465",
+        "postal_old": "96101",
+        "postal_new": "9610103",
+        "pref_kana": "ﾌｸｼﾏｹﾝ",
+        "address1_kana": "ﾆｼｼﾗｶﾜｸﾞﾝﾅｶｼﾞﾏﾑﾗ",
+        "address2_kana": "ﾅｶｼﾞﾏ",
+        "pref": "福島県",
+        "address1": "西白河郡中島村",
+        "address2": "中島",
+        "is_multi_code": "0",
+        "is_koaza": "1",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

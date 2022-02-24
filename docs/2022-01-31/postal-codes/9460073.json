@@ -1,0 +1,19 @@
+[
+    {
+        "code": "15225",
+        "postal_old": "946  ",
+        "postal_new": "9460073",
+        "pref_kana": "ﾆｲｶﾞﾀｹﾝ",
+        "address1_kana": "ｳｵﾇﾏｼ",
+        "address2_kana": "ｵｵｻﾜ",
+        "pref": "新潟県",
+        "address1": "魚沼市",
+        "address2": "大沢",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

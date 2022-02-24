@@ -1,0 +1,53 @@
+[
+    {
+        "code": "08212",
+        "postal_old": "31303",
+        "postal_new": "3130351",
+        "pref_kana": "ｲﾊﾞﾗｷｹﾝ",
+        "address1_kana": "ﾋﾀﾁｵｵﾀｼ",
+        "address2_kana": "ｹｶﾞﾉﾁｮｳ",
+        "pref": "茨城県",
+        "address1": "常陸太田市",
+        "address2": "天下野町",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    },
+    {
+        "code": "08212",
+        "postal_old": "31303",
+        "postal_new": "3130352",
+        "pref_kana": "ｲﾊﾞﾗｷｹﾝ",
+        "address1_kana": "ﾋﾀﾁｵｵﾀｼ",
+        "address2_kana": "ｼﾓﾀｶｸﾗﾁｮｳ",
+        "pref": "茨城県",
+        "address1": "常陸太田市",
+        "address2": "下高倉町",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    },
+    {
+        "code": "08212",
+        "postal_old": "31303",
+        "postal_new": "3130353",
+        "pref_kana": "ｲﾊﾞﾗｷｹﾝ",
+        "address1_kana": "ﾋﾀﾁｵｵﾀｼ",
+        "address2_kana": "ｶﾐﾀｶｸﾗﾁｮｳ",
+        "pref": "茨城県",
+        "address1": "常陸太田市",
+        "address2": "上高倉町",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

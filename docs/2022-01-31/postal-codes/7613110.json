@@ -1,0 +1,19 @@
+[
+    {
+        "code": "37364",
+        "postal_old": "76131",
+        "postal_new": "7613110",
+        "pref_kana": "ｶｶﾞﾜｹﾝ",
+        "address1_kana": "ｶｶﾞﾜｸﾞﾝﾅｵｼﾏﾁｮｳ",
+        "address2_kana": "ﾅｵｼﾏﾁｮｳｲﾁｴﾝ",
+        "pref": "香川県",
+        "address1": "香川郡直島町",
+        "address2": "直島町一円",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

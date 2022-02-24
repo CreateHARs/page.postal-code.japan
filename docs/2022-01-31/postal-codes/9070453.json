@@ -1,0 +1,19 @@
+[
+    {
+        "code": "47207",
+        "postal_old": "90704",
+        "postal_new": "9070453",
+        "pref_kana": "ｵｷﾅﾜｹﾝ",
+        "address1_kana": "ｲｼｶﾞｷｼ",
+        "address2_kana": "ｶﾋﾞﾗ",
+        "pref": "沖縄県",
+        "address1": "石垣市",
+        "address2": "川平",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

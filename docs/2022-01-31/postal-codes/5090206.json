@@ -1,0 +1,19 @@
+[
+    {
+        "code": "21214",
+        "postal_old": "50902",
+        "postal_new": "5090206",
+        "pref_kana": "ｷﾞﾌｹﾝ",
+        "address1_kana": "ｶﾆｼ",
+        "address2_kana": "ﾄﾞﾀ",
+        "pref": "岐阜県",
+        "address1": "可児市",
+        "address2": "土田",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

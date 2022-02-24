@@ -1,0 +1,19 @@
+[
+    {
+        "code": "12219",
+        "postal_old": "29901",
+        "postal_new": "2990111",
+        "pref_kana": "ﾁﾊﾞｹﾝ",
+        "address1_kana": "ｲﾁﾊﾗｼ",
+        "address2_kana": "ｱﾈｻｷ",
+        "pref": "千葉県",
+        "address1": "市原市",
+        "address2": "姉崎",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

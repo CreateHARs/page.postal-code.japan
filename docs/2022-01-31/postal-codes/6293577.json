@@ -1,0 +1,19 @@
+[
+    {
+        "code": "26212",
+        "postal_old": "62935",
+        "postal_new": "6293577",
+        "pref_kana": "ｷｮｳﾄﾌ",
+        "address1_kana": "ｷｮｳﾀﾝｺﾞｼ",
+        "address2_kana": "ｸﾐﾊﾏﾁｮｳﾎﾀｲﾉ",
+        "pref": "京都府",
+        "address1": "京丹後市",
+        "address2": "久美浜町布袋野",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

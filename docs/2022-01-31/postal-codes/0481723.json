@@ -1,0 +1,19 @@
+[
+    {
+        "code": "01397",
+        "postal_old": "04817",
+        "postal_new": "0481723",
+        "pref_kana": "ﾎｯｶｲﾄﾞｳ",
+        "address1_kana": "ｱﾌﾞﾀｸﾞﾝﾙｽﾂﾑﾗ",
+        "address2_kana": "ｻﾝﾉﾊﾗ",
+        "pref": "北海道",
+        "address1": "虻田郡留寿都村",
+        "address2": "三ノ原",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

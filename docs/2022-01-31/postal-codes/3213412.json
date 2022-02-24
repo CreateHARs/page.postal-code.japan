@@ -1,0 +1,19 @@
+[
+    {
+        "code": "09344",
+        "postal_old": "32134",
+        "postal_new": "3213412",
+        "pref_kana": "ﾄﾁｷﾞｹﾝ",
+        "address1_kana": "ﾊｶﾞｸﾞﾝｲﾁｶｲﾏﾁ",
+        "address2_kana": "ﾀﾉﾍﾞ",
+        "pref": "栃木県",
+        "address1": "芳賀郡市貝町",
+        "address2": "田野辺",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

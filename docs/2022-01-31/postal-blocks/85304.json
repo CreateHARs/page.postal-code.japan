@@ -1,0 +1,53 @@
+[
+    {
+        "code": "42211",
+        "postal_old": "85304",
+        "postal_new": "8530411",
+        "pref_kana": "ﾅｶﾞｻｷｹﾝ",
+        "address1_kana": "ｺﾞﾄｳｼ",
+        "address2_kana": "ﾀﾏﾉｳﾗﾏﾁﾀﾏﾉｳﾗ",
+        "pref": "長崎県",
+        "address1": "五島市",
+        "address2": "玉之浦町玉之浦",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    },
+    {
+        "code": "42211",
+        "postal_old": "85304",
+        "postal_new": "8530412",
+        "pref_kana": "ﾅｶﾞｻｷｹﾝ",
+        "address1_kana": "ｺﾞﾄｳｼ",
+        "address2_kana": "ﾀﾏﾉｳﾗﾏﾁﾀﾁﾔ",
+        "pref": "長崎県",
+        "address1": "五島市",
+        "address2": "玉之浦町立谷",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    },
+    {
+        "code": "42211",
+        "postal_old": "85304",
+        "postal_new": "8530413",
+        "pref_kana": "ﾅｶﾞｻｷｹﾝ",
+        "address1_kana": "ｺﾞﾄｳｼ",
+        "address2_kana": "ﾀﾏﾉｳﾗﾏﾁﾀﾞｲﾎｳ",
+        "pref": "長崎県",
+        "address1": "五島市",
+        "address2": "玉之浦町大宝",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

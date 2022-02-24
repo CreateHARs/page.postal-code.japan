@@ -1,0 +1,19 @@
+[
+    {
+        "code": "40109",
+        "postal_old": "807  ",
+        "postal_new": "8070831",
+        "pref_kana": "ﾌｸｵｶｹﾝ",
+        "address1_kana": "ｷﾀｷｭｳｼｭｳｼﾔﾊﾀﾆｼｸ",
+        "address2_kana": "ﾉﾘﾏﾂ",
+        "pref": "福岡県",
+        "address1": "北九州市八幡西区",
+        "address2": "則松",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "1",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

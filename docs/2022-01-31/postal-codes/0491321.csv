@@ -1,0 +1,4 @@
+code,postal_old,postal_new,pref_kana,address1_kana,address2_kana,pref,address1,address2,is_multi_code,is_koaza,is_choume,is_multi_place,is_updated,update_reason
+01332,04913,0491321,ﾎｯｶｲﾄﾞｳ,ﾏﾂﾏｴｸﾞﾝﾌｸｼﾏﾁｮｳ,ﾂｷｻｷ,北海道,松前郡福島町,月崎,0,0,0,1,0,0
+01332,04913,0491321,ﾎｯｶｲﾄﾞｳ,ﾏﾂﾏｴｸﾞﾝﾌｸｼﾏﾁｮｳ,ﾏﾙﾔﾏﾀﾞﾝﾁ,北海道,松前郡福島町,丸山団地,0,0,0,1,0,0
+01332,04913,0491321,ﾎｯｶｲﾄﾞｳ,ﾏﾂﾏｴｸﾞﾝﾌｸｼﾏﾁｮｳ,ﾐﾄﾞﾘﾁｮｳ,北海道,松前郡福島町,緑町,0,0,0,1,0,0

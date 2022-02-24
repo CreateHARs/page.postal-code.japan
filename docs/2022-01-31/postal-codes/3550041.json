@@ -1,0 +1,19 @@
+[
+    {
+        "code": "11212",
+        "postal_old": "355  ",
+        "postal_new": "3550041",
+        "pref_kana": "ｻｲﾀﾏｹﾝ",
+        "address1_kana": "ﾋｶﾞｼﾏﾂﾔﾏｼ",
+        "address2_kana": "ｼﾓｵｼﾀﾞﾘ",
+        "pref": "埼玉県",
+        "address1": "東松山市",
+        "address2": "下押垂",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

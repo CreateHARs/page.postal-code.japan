@@ -1,0 +1,19 @@
+[
+    {
+        "code": "01644",
+        "postal_old": "083  ",
+        "postal_new": "0830047",
+        "pref_kana": "ﾎｯｶｲﾄﾞｳ",
+        "address1_kana": "ﾅｶｶﾞﾜｸﾞﾝｲｹﾀﾞﾁｮｳ",
+        "address2_kana": "ｼｮｳｴｲ",
+        "pref": "北海道",
+        "address1": "中川郡池田町",
+        "address2": "昭栄",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

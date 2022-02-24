@@ -1,0 +1,19 @@
+[
+    {
+        "code": "08229",
+        "postal_old": "30014",
+        "postal_new": "3001417",
+        "pref_kana": "ｲﾊﾞﾗｷｹﾝ",
+        "address1_kana": "ｲﾅｼｷｼ",
+        "address2_kana": "ﾏﾐｱﾅ",
+        "pref": "茨城県",
+        "address1": "稲敷市",
+        "address2": "狸穴",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

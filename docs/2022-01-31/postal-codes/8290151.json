@@ -1,0 +1,19 @@
+[
+    {
+        "code": "40647",
+        "postal_old": "82901",
+        "postal_new": "8290151",
+        "pref_kana": "ﾌｸｵｶｹﾝ",
+        "address1_kana": "ﾁｸｼﾞｮｳｸﾞﾝﾁｸｼﾞｮｳﾏﾁ",
+        "address2_kana": "ﾆｼﾊｯﾀ(ｺｳｸｳｼﾞｴｲﾀｲﾂｲｷｷﾁ)",
+        "pref": "福岡県",
+        "address1": "築上郡築上町",
+        "address2": "西八田（航空自衛隊築城基地）",
+        "is_multi_code": "1",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

@@ -1,0 +1,19 @@
+[
+    {
+        "code": "40383",
+        "postal_old": "81142",
+        "postal_new": "8114225",
+        "pref_kana": "ﾌｸｵｶｹﾝ",
+        "address1_kana": "ｵﾝｶﾞｸﾞﾝｵｶｶﾞｷﾏﾁ",
+        "address2_kana": "ﾋｶﾞｼｺｳﾖｳ",
+        "pref": "福岡県",
+        "address1": "遠賀郡岡垣町",
+        "address2": "東高陽",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "1",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

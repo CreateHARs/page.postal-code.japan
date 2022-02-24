@@ -1,0 +1,5 @@
+code,postal_old,postal_new,pref_kana,address1_kana,address2_kana,pref,address1,address2,is_multi_code,is_koaza,is_choume,is_multi_place,is_updated,update_reason
+43205,86702,8670281,ｸﾏﾓﾄｹﾝ,ﾐﾅﾏﾀｼ,ｸｷﾞﾉ,熊本県,水俣市,久木野,0,0,0,0,0,0
+43205,86702,8670282,ｸﾏﾓﾄｹﾝ,ﾐﾅﾏﾀｼ,ﾌﾙｻﾄ,熊本県,水俣市,古里,0,0,0,0,0,0
+43205,86702,8670283,ｸﾏﾓﾄｹﾝ,ﾐﾅﾏﾀｼ,ｵｵｶﾜ,熊本県,水俣市,大川,0,0,0,0,0,0
+43205,86702,8670284,ｸﾏﾓﾄｹﾝ,ﾐﾅﾏﾀｼ,ｺｼｺﾊﾞ,熊本県,水俣市,越小場,0,0,0,0,0,0

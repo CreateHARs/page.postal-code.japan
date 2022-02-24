@@ -1,0 +1,19 @@
+[
+    {
+        "code": "01303",
+        "postal_old": "06102",
+        "postal_new": "0610218",
+        "pref_kana": "ﾎｯｶｲﾄﾞｳ",
+        "address1_kana": "ｲｼｶﾘｸﾞﾝﾄｳﾍﾞﾂﾁｮｳ",
+        "address2_kana": "ｶﾊﾞﾄﾁｮｳ",
+        "pref": "北海道",
+        "address1": "石狩郡当別町",
+        "address2": "樺戸町",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

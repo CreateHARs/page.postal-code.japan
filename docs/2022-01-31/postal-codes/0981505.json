@@ -1,0 +1,19 @@
+[
+    {
+        "code": "01562",
+        "postal_old": "09815",
+        "postal_new": "0981505",
+        "pref_kana": "ﾎｯｶｲﾄﾞｳ",
+        "address1_kana": "ﾓﾝﾍﾞﾂｸﾞﾝﾆｼｵｺｯﾍﾟﾑﾗ",
+        "address2_kana": "ｶﾐﾓ",
+        "pref": "北海道",
+        "address1": "紋別郡西興部村",
+        "address2": "上藻",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

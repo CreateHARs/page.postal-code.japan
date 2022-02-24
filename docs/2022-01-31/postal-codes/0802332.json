@@ -1,0 +1,19 @@
+[
+    {
+        "code": "01207",
+        "postal_old": "08023",
+        "postal_new": "0802332",
+        "pref_kana": "ﾎｯｶｲﾄﾞｳ",
+        "address1_kana": "ｵﾋﾞﾋﾛｼ",
+        "address2_kana": "ﾌｼﾞﾁｮｳ(ﾆｼ4-8ｾﾝ49-78ﾊﾞﾝﾁ)",
+        "pref": "北海道",
+        "address1": "帯広市",
+        "address2": "富士町（西４〜８線４９〜７８番地）",
+        "is_multi_code": "1",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

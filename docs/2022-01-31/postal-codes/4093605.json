@@ -1,0 +1,19 @@
+[
+    {
+        "code": "19346",
+        "postal_old": "40936",
+        "postal_new": "4093605",
+        "pref_kana": "ﾔﾏﾅｼｹﾝ",
+        "address1_kana": "ﾆｼﾔﾂｼﾛｸﾞﾝｲﾁｶﾜﾐｻﾄﾁｮｳ",
+        "address2_kana": "ｼﾓｵｵﾄﾞﾘｲ",
+        "pref": "山梨県",
+        "address1": "西八代郡市川三郷町",
+        "address2": "下大鳥居",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

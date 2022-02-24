@@ -1,0 +1,19 @@
+[
+    {
+        "code": "33215",
+        "postal_old": "707  ",
+        "postal_new": "7070067",
+        "pref_kana": "ｵｶﾔﾏｹﾝ",
+        "address1_kana": "ﾐﾏｻｶｼ",
+        "address2_kana": "ｵｸｵｵﾀﾆ",
+        "pref": "岡山県",
+        "address1": "美作市",
+        "address2": "奥大谷",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

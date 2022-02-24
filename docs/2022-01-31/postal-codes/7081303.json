@@ -1,0 +1,19 @@
+[
+    {
+        "code": "33623",
+        "postal_old": "70813",
+        "postal_new": "7081303",
+        "pref_kana": "ｵｶﾔﾏｹﾝ",
+        "address1_kana": "ｶﾂﾀｸﾞﾝﾅｷﾞﾁｮｳ",
+        "address2_kana": "ﾐﾅｷﾞ",
+        "pref": "岡山県",
+        "address1": "勝田郡奈義町",
+        "address2": "皆木",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

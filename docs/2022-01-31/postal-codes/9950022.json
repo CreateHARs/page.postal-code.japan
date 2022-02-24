@@ -1,0 +1,19 @@
+[
+    {
+        "code": "06208",
+        "postal_old": "995  ",
+        "postal_new": "9950022",
+        "pref_kana": "ﾔﾏｶﾞﾀｹﾝ",
+        "address1_kana": "ﾑﾗﾔﾏｼ",
+        "address2_kana": "ﾀﾃｵｶﾊﾞﾊﾞ",
+        "pref": "山形県",
+        "address1": "村山市",
+        "address2": "楯岡馬場",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

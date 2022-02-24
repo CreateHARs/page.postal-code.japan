@@ -1,0 +1,19 @@
+[
+    {
+        "code": "23115",
+        "postal_old": "465  ",
+        "postal_new": "4650025",
+        "pref_kana": "ｱｲﾁｹﾝ",
+        "address1_kana": "ﾅｺﾞﾔｼﾒｲﾄｳｸ",
+        "address2_kana": "ｶﾐﾔｼﾛ",
+        "pref": "愛知県",
+        "address1": "名古屋市名東区",
+        "address2": "上社",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "1",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

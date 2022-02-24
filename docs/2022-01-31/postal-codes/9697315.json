@@ -1,0 +1,19 @@
+[
+    {
+        "code": "07423",
+        "postal_old": "96973",
+        "postal_new": "9697315",
+        "pref_kana": "ﾌｸｼﾏｹﾝ",
+        "address1_kana": "ｶﾜﾇﾏｸﾞﾝﾔﾅｲﾂﾞﾏﾁ",
+        "address2_kana": "ﾖﾂﾔ",
+        "pref": "福島県",
+        "address1": "河沼郡柳津町",
+        "address2": "四つ谷",
+        "is_multi_code": "0",
+        "is_koaza": "1",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

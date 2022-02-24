@@ -1,0 +1,19 @@
+[
+    {
+        "code": "32441",
+        "postal_old": "69612",
+        "postal_new": "6961226",
+        "pref_kana": "ｼﾏﾈｹﾝ",
+        "address1_kana": "ｵｵﾁｸﾞﾝｶﾜﾓﾄﾏﾁ",
+        "address2_kana": "ﾀｸﾎﾞ",
+        "pref": "島根県",
+        "address1": "邑智郡川本町",
+        "address2": "田窪",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

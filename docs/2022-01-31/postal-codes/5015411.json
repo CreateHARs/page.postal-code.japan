@@ -1,0 +1,19 @@
+[
+    {
+        "code": "21203",
+        "postal_old": "50154",
+        "postal_new": "5015411",
+        "pref_kana": "ｷﾞﾌｹﾝ",
+        "address1_kana": "ﾀｶﾔﾏｼ",
+        "address2_kana": "ｼｮｳｶﾜﾁｮｳﾏｷﾄﾞ",
+        "pref": "岐阜県",
+        "address1": "高山市",
+        "address2": "荘川町牧戸",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

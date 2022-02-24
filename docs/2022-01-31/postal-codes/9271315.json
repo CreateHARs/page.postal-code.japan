@@ -1,0 +1,36 @@
+[
+    {
+        "code": "17205",
+        "postal_old": "92713",
+        "postal_new": "9271315",
+        "pref_kana": "ｲｼｶﾜｹﾝ",
+        "address1_kana": "ｽｽﾞｼ",
+        "address2_kana": "ﾜｶﾔﾏﾏﾁｼﾗﾀｷ",
+        "pref": "石川県",
+        "address1": "珠洲市",
+        "address2": "若山町白滝",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "1",
+        "is_updated": "0",
+        "update_reason": "0"
+    },
+    {
+        "code": "17205",
+        "postal_old": "92713",
+        "postal_new": "9271315",
+        "pref_kana": "ｲｼｶﾜｹﾝ",
+        "address1_kana": "ｽｽﾞｼ",
+        "address2_kana": "ﾜｶﾔﾏﾏﾁﾐﾅﾐﾔﾏ",
+        "pref": "石川県",
+        "address1": "珠洲市",
+        "address2": "若山町南山",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "1",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

@@ -1,0 +1,19 @@
+[
+    {
+        "code": "08205",
+        "postal_old": "31501",
+        "postal_new": "3150124",
+        "pref_kana": "ｲﾊﾞﾗｷｹﾝ",
+        "address1_kana": "ｲｼｵｶｼ",
+        "address2_kana": "ｼﾊﾞﾏ",
+        "pref": "茨城県",
+        "address1": "石岡市",
+        "address2": "柴間",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

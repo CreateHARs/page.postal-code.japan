@@ -1,0 +1,19 @@
+[
+    {
+        "code": "26107",
+        "postal_old": "601  ",
+        "postal_new": "6018111",
+        "pref_kana": "ｷｮｳﾄﾌ",
+        "address1_kana": "ｷｮｳﾄｼﾐﾅﾐｸ",
+        "address2_kana": "ｶﾐﾄﾊﾞﾅﾜｼﾛﾁｮｳ",
+        "pref": "京都府",
+        "address1": "京都市南区",
+        "address2": "上鳥羽苗代町",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

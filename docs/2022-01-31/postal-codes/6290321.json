@@ -1,0 +1,19 @@
+[
+    {
+        "code": "26213",
+        "postal_old": "62903",
+        "postal_new": "6290321",
+        "pref_kana": "ｷｮｳﾄﾌ",
+        "address1_kana": "ﾅﾝﾀﾝｼ",
+        "address2_kana": "ﾋﾖｼﾁｮｳｻｻｴ",
+        "pref": "京都府",
+        "address1": "南丹市",
+        "address2": "日吉町佐々江",
+        "is_multi_code": "0",
+        "is_koaza": "1",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

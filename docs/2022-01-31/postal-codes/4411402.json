@@ -1,0 +1,19 @@
+[
+    {
+        "code": "23221",
+        "postal_old": "44114",
+        "postal_new": "4411402",
+        "pref_kana": "ｱｲﾁｹﾝ",
+        "address1_kana": "ｼﾝｼﾛｼ",
+        "address2_kana": "ﾂｸﾃﾞｷﾜﾀﾞ",
+        "pref": "愛知県",
+        "address1": "新城市",
+        "address2": "作手木和田",
+        "is_multi_code": "0",
+        "is_koaza": "1",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

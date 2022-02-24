@@ -1,0 +1,19 @@
+[
+    {
+        "code": "22306",
+        "postal_old": "41035",
+        "postal_new": "4103514",
+        "pref_kana": "ｼｽﾞｵｶｹﾝ",
+        "address1_kana": "ｶﾓｸﾞﾝﾆｼｲｽﾞﾁｮｳ",
+        "address2_kana": "ﾆｼﾅ",
+        "pref": "静岡県",
+        "address1": "賀茂郡西伊豆町",
+        "address2": "仁科",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

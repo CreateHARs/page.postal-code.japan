@@ -1,0 +1,19 @@
+[
+    {
+        "code": "33208",
+        "postal_old": "71012",
+        "postal_new": "7101201",
+        "pref_kana": "ｵｶﾔﾏｹﾝ",
+        "address1_kana": "ｿｳｼﾞｬｼ",
+        "address2_kana": "ｸｼﾛ",
+        "pref": "岡山県",
+        "address1": "総社市",
+        "address2": "久代",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

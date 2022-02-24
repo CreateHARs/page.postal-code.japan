@@ -1,0 +1,19 @@
+[
+    {
+        "code": "14213",
+        "postal_old": "242  ",
+        "postal_new": "2420006",
+        "pref_kana": "ｶﾅｶﾞﾜｹﾝ",
+        "address1_kana": "ﾔﾏﾄｼ",
+        "address2_kana": "ﾐﾅﾐﾘﾝｶﾝ",
+        "pref": "神奈川県",
+        "address1": "大和市",
+        "address2": "南林間",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "1",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

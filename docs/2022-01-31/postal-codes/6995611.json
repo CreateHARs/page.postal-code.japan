@@ -1,0 +1,19 @@
+[
+    {
+        "code": "32501",
+        "postal_old": "69956",
+        "postal_new": "6995611",
+        "pref_kana": "ｼﾏﾈｹﾝ",
+        "address1_kana": "ｶﾉｱｼｸﾞﾝﾂﾜﾉﾁｮｳ",
+        "address2_kana": "ﾏﾁﾀﾞ",
+        "pref": "島根県",
+        "address1": "鹿足郡津和野町",
+        "address2": "町田",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

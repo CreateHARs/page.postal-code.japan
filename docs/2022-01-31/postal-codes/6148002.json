@@ -1,0 +1,19 @@
+[
+    {
+        "code": "26210",
+        "postal_old": "614  ",
+        "postal_new": "6148002",
+        "pref_kana": "ｷｮｳﾄﾌ",
+        "address1_kana": "ﾔﾜﾀｼ",
+        "address2_kana": "ﾔﾜﾀﾄﾞｲ",
+        "pref": "京都府",
+        "address1": "八幡市",
+        "address2": "八幡土井",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

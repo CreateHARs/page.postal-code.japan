@@ -1,0 +1,19 @@
+[
+    {
+        "code": "23224",
+        "postal_old": "478  ",
+        "postal_new": "4780028",
+        "pref_kana": "ｱｲﾁｹﾝ",
+        "address1_kana": "ﾁﾀｼ",
+        "address2_kana": "ｵｶﾀﾞﾐﾄﾞﾘｶﾞｵｶ",
+        "pref": "愛知県",
+        "address1": "知多市",
+        "address2": "岡田緑が丘",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

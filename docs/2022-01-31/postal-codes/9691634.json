@@ -1,0 +1,53 @@
+[
+    {
+        "code": "07301",
+        "postal_old": "96916",
+        "postal_new": "9691634",
+        "pref_kana": "ﾌｸｼﾏｹﾝ",
+        "address1_kana": "ﾀﾞﾃｸﾞﾝｺｵﾘﾏﾁ",
+        "address2_kana": "ｵﾁｱｲ",
+        "pref": "福島県",
+        "address1": "伊達郡桑折町",
+        "address2": "落合",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "1",
+        "is_updated": "0",
+        "update_reason": "0"
+    },
+    {
+        "code": "07301",
+        "postal_old": "96916",
+        "postal_new": "9691634",
+        "pref_kana": "ﾌｸｼﾏｹﾝ",
+        "address1_kana": "ﾀﾞﾃｸﾞﾝｺｵﾘﾏﾁ",
+        "address2_kana": "ｽｷﾞﾉﾏｴ",
+        "pref": "福島県",
+        "address1": "伊達郡桑折町",
+        "address2": "杉ノ前",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "1",
+        "is_updated": "0",
+        "update_reason": "0"
+    },
+    {
+        "code": "07301",
+        "postal_old": "96916",
+        "postal_new": "9691634",
+        "pref_kana": "ﾌｸｼﾏｹﾝ",
+        "address1_kana": "ﾀﾞﾃｸﾞﾝｺｵﾘﾏﾁ",
+        "address2_kana": "ｽﾅｺﾞｻﾞﾜ",
+        "pref": "福島県",
+        "address1": "伊達郡桑折町",
+        "address2": "砂子沢",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "1",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

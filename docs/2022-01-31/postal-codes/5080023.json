@@ -1,0 +1,19 @@
+[
+    {
+        "code": "21206",
+        "postal_old": "508  ",
+        "postal_new": "5080023",
+        "pref_kana": "ｷﾞﾌｹﾝ",
+        "address1_kana": "ﾅｶﾂｶﾞﾜｼ",
+        "address2_kana": "ｵｶﾞﾜﾁｮｳ",
+        "pref": "岐阜県",
+        "address1": "中津川市",
+        "address2": "小川町",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

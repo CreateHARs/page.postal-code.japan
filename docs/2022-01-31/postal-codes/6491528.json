@@ -1,0 +1,19 @@
+[
+    {
+        "code": "30390",
+        "postal_old": "64915",
+        "postal_new": "6491528",
+        "pref_kana": "ﾜｶﾔﾏｹﾝ",
+        "address1_kana": "ﾋﾀﾞｶｸﾞﾝｲﾅﾐﾁｮｳ",
+        "address2_kana": "ﾆｼﾉｼﾞ",
+        "pref": "和歌山県",
+        "address1": "日高郡印南町",
+        "address2": "西ノ地",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

@@ -1,0 +1,19 @@
+[
+    {
+        "code": "38484",
+        "postal_old": "79821",
+        "postal_new": "7982106",
+        "pref_kana": "ｴﾋﾒｹﾝ",
+        "address1_kana": "ｷﾀｳﾜｸﾞﾝﾏﾂﾉﾁｮｳ",
+        "address2_kana": "ﾒｸﾞﾛ",
+        "pref": "愛媛県",
+        "address1": "北宇和郡松野町",
+        "address2": "目黒",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

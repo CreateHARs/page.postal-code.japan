@@ -1,0 +1,19 @@
+[
+    {
+        "code": "43202",
+        "postal_old": "86951",
+        "postal_new": "8695138",
+        "pref_kana": "ｸﾏﾓﾄｹﾝ",
+        "address1_kana": "ﾔﾂｼﾛｼ",
+        "address2_kana": "ﾋﾅｸﾞﾍｲｾｲﾏﾁ",
+        "pref": "熊本県",
+        "address1": "八代市",
+        "address2": "日奈久平成町",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

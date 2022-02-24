@@ -1,0 +1,53 @@
+[
+    {
+        "code": "03207",
+        "postal_old": "02887",
+        "postal_new": "0288711",
+        "pref_kana": "ｲﾜﾃｹﾝ",
+        "address1_kana": "ｸｼﾞｼ",
+        "address2_kana": "ﾔﾏｶﾞﾀﾁｮｳﾂﾅｷﾞ",
+        "pref": "岩手県",
+        "address1": "久慈市",
+        "address2": "山形町繋",
+        "is_multi_code": "0",
+        "is_koaza": "1",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    },
+    {
+        "code": "03207",
+        "postal_old": "02887",
+        "postal_new": "0288712",
+        "pref_kana": "ｲﾜﾃｹﾝ",
+        "address1_kana": "ｸｼﾞｼ",
+        "address2_kana": "ﾔﾏｶﾞﾀﾁｮｳｵｸﾞﾆ",
+        "pref": "岩手県",
+        "address1": "久慈市",
+        "address2": "山形町小国",
+        "is_multi_code": "0",
+        "is_koaza": "1",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    },
+    {
+        "code": "03207",
+        "postal_old": "02887",
+        "postal_new": "0288713",
+        "pref_kana": "ｲﾜﾃｹﾝ",
+        "address1_kana": "ｸｼﾞｼ",
+        "address2_kana": "ﾔﾏｶﾞﾀﾁｮｳｼﾓﾊﾀ",
+        "pref": "岩手県",
+        "address1": "久慈市",
+        "address2": "山形町霜畑",
+        "is_multi_code": "0",
+        "is_koaza": "1",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

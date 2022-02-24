@@ -1,0 +1,19 @@
+[
+    {
+        "code": "46210",
+        "postal_old": "89104",
+        "postal_new": "8910401",
+        "pref_kana": "ｶｺﾞｼﾏｹﾝ",
+        "address1_kana": "ｲﾌﾞｽｷｼ",
+        "address2_kana": "ｵｵﾑﾚ",
+        "pref": "鹿児島県",
+        "address1": "指宿市",
+        "address2": "大牟礼",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "1",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

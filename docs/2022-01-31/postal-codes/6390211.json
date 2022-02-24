@@ -1,0 +1,19 @@
+[
+    {
+        "code": "29424",
+        "postal_old": "63902",
+        "postal_new": "6390211",
+        "pref_kana": "ﾅﾗｹﾝ",
+        "address1_kana": "ｷﾀｶﾂﾗｷﾞｸﾞﾝｶﾝﾏｷﾁｮｳ",
+        "address2_kana": "ﾀｷｶﾞﾜﾀﾞｲ",
+        "pref": "奈良県",
+        "address1": "北葛城郡上牧町",
+        "address2": "滝川台",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "1",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

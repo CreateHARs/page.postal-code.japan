@@ -1,0 +1,19 @@
+[
+    {
+        "code": "02424",
+        "postal_old": "03501",
+        "postal_new": "0350113",
+        "pref_kana": "ｱｵﾓﾘｹﾝ",
+        "address1_kana": "ｼﾓｷﾀｸﾞﾝﾋｶﾞｼﾄﾞｵﾘﾑﾗ",
+        "address2_kana": "ｲﾜﾔ",
+        "pref": "青森県",
+        "address1": "下北郡東通村",
+        "address2": "岩屋",
+        "is_multi_code": "0",
+        "is_koaza": "1",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

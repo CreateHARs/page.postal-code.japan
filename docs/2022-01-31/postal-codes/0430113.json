@@ -1,0 +1,19 @@
+[
+    {
+        "code": "01364",
+        "postal_old": "04301",
+        "postal_new": "0430113",
+        "pref_kana": "ﾎｯｶｲﾄﾞｳ",
+        "address1_kana": "ﾆｼｸﾞﾝｵﾄﾍﾞﾁｮｳ",
+        "address2_kana": "ｻｶｴﾊﾏ",
+        "pref": "北海道",
+        "address1": "爾志郡乙部町",
+        "address2": "栄浜",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

@@ -1,0 +1,19 @@
+[
+    {
+        "code": "01103",
+        "postal_old": "060  ",
+        "postal_new": "0600905",
+        "pref_kana": "ﾎｯｶｲﾄﾞｳ",
+        "address1_kana": "ｻｯﾎﾟﾛｼﾋｶﾞｼｸ",
+        "address2_kana": "ｷﾀ5ｼﾞｮｳﾋｶﾞｼ(4-7ﾁｮｳﾒ)",
+        "pref": "北海道",
+        "address1": "札幌市東区",
+        "address2": "北五条東（４〜７丁目）",
+        "is_multi_code": "1",
+        "is_koaza": "0",
+        "is_choume": "1",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

@@ -1,0 +1,53 @@
+[
+    {
+        "code": "17386",
+        "postal_old": "92914",
+        "postal_new": "9291406",
+        "pref_kana": "ｲｼｶﾜｹﾝ",
+        "address1_kana": "ﾊｸｲｸﾞﾝﾎｳﾀﾞﾂｼﾐｽﾞﾁｮｳ",
+        "address2_kana": "ｲｼｻｶ",
+        "pref": "石川県",
+        "address1": "羽咋郡宝達志水町",
+        "address2": "石坂",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "1",
+        "is_updated": "0",
+        "update_reason": "0"
+    },
+    {
+        "code": "17386",
+        "postal_old": "92914",
+        "postal_new": "9291406",
+        "pref_kana": "ｲｼｶﾜｹﾝ",
+        "address1_kana": "ﾊｸｲｸﾞﾝﾎｳﾀﾞﾂｼﾐｽﾞﾁｮｳ",
+        "address2_kana": "ｻｶﾞﾘｼ",
+        "pref": "石川県",
+        "address1": "羽咋郡宝達志水町",
+        "address2": "下石",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "1",
+        "is_updated": "0",
+        "update_reason": "0"
+    },
+    {
+        "code": "17386",
+        "postal_old": "92914",
+        "postal_new": "9291406",
+        "pref_kana": "ｲｼｶﾜｹﾝ",
+        "address1_kana": "ﾊｸｲｸﾞﾝﾎｳﾀﾞﾂｼﾐｽﾞﾁｮｳ",
+        "address2_kana": "ｻﾝﾃﾞﾝ",
+        "pref": "石川県",
+        "address1": "羽咋郡宝達志水町",
+        "address2": "散田",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "1",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

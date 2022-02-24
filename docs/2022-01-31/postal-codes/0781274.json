@@ -1,0 +1,19 @@
+[
+    {
+        "code": "01204",
+        "postal_old": "07812",
+        "postal_new": "0781274",
+        "pref_kana": "ﾎｯｶｲﾄﾞｳ",
+        "address1_kana": "ｱｻﾋｶﾜｼ",
+        "address2_kana": "ﾋｶﾞｼｱｻﾋｶﾜﾁｮｳﾐｽﾞﾎ",
+        "pref": "北海道",
+        "address1": "旭川市",
+        "address2": "東旭川町瑞穂",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

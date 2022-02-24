@@ -1,0 +1,19 @@
+[
+    {
+        "code": "07207",
+        "postal_old": "962  ",
+        "postal_new": "9620025",
+        "pref_kana": "ﾌｸｼﾏｹﾝ",
+        "address1_kana": "ｽｶｶﾞﾜｼ",
+        "address2_kana": "ﾊﾁﾏﾝﾔﾏ",
+        "pref": "福島県",
+        "address1": "須賀川市",
+        "address2": "八幡山",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

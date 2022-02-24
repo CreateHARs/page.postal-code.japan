@@ -1,0 +1,19 @@
+[
+    {
+        "code": "23231",
+        "postal_old": "44135",
+        "postal_new": "4413502",
+        "pref_kana": "ｱｲﾁｹﾝ",
+        "address1_kana": "ﾀﾊﾗｼ",
+        "address2_kana": "ｱｶﾊﾞﾈﾁｮｳ",
+        "pref": "愛知県",
+        "address1": "田原市",
+        "address2": "赤羽根町",
+        "is_multi_code": "0",
+        "is_koaza": "1",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

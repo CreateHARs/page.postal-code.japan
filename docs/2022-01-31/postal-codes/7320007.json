@@ -1,0 +1,19 @@
+[
+    {
+        "code": "34102",
+        "postal_old": "732  ",
+        "postal_new": "7320007",
+        "pref_kana": "ﾋﾛｼﾏｹﾝ",
+        "address1_kana": "ﾋﾛｼﾏｼﾋｶﾞｼｸ",
+        "address2_kana": "ﾍｻｶｻｸﾗｳｴﾏﾁ",
+        "pref": "広島県",
+        "address1": "広島市東区",
+        "address2": "戸坂桜上町",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

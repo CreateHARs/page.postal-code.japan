@@ -1,0 +1,36 @@
+[
+    {
+        "code": "07204",
+        "postal_old": "971  ",
+        "postal_new": "9718164",
+        "pref_kana": "ﾌｸｼﾏｹﾝ",
+        "address1_kana": "ｲﾜｷｼ",
+        "address2_kana": "ｵﾅﾊﾏﾃﾗﾏﾜﾘﾁｮｳ",
+        "pref": "福島県",
+        "address1": "いわき市",
+        "address2": "小名浜寺廻町",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "1",
+        "is_updated": "0",
+        "update_reason": "0"
+    },
+    {
+        "code": "07204",
+        "postal_old": "971  ",
+        "postal_new": "9718164",
+        "pref_kana": "ﾌｸｼﾏｹﾝ",
+        "address1_kana": "ｲﾜｷｼ",
+        "address2_kana": "ｵﾅﾊﾏﾆｼﾁｮｳ",
+        "pref": "福島県",
+        "address1": "いわき市",
+        "address2": "小名浜西町",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "1",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

@@ -1,0 +1,19 @@
+[
+    {
+        "code": "31201",
+        "postal_old": "68911",
+        "postal_new": "6891125",
+        "pref_kana": "ﾄｯﾄﾘｹﾝ",
+        "address1_kana": "ﾄｯﾄﾘｼ",
+        "address2_kana": "ｺｺｵｹﾞ",
+        "pref": "鳥取県",
+        "address1": "鳥取市",
+        "address2": "古郡家",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

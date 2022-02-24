@@ -1,0 +1,19 @@
+[
+    {
+        "code": "15222",
+        "postal_old": "94931",
+        "postal_new": "9493131",
+        "pref_kana": "ﾆｲｶﾞﾀｹﾝ",
+        "address1_kana": "ｼﾞｮｳｴﾂｼ",
+        "address2_kana": "ｵｵｶﾞﾀｸｻﾄｳｼﾞﾏｼﾝﾃﾞﾝ",
+        "pref": "新潟県",
+        "address1": "上越市",
+        "address2": "大潟区里鵜島新田",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

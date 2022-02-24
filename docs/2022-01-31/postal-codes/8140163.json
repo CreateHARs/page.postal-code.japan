@@ -1,0 +1,19 @@
+[
+    {
+        "code": "40137",
+        "postal_old": "81401",
+        "postal_new": "8140163",
+        "pref_kana": "ﾌｸｵｶｹﾝ",
+        "address1_kana": "ﾌｸｵｶｼｻﾜﾗｸ",
+        "address2_kana": "ﾎｼｸﾏ",
+        "pref": "福岡県",
+        "address1": "福岡市早良区",
+        "address2": "干隈",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "1",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

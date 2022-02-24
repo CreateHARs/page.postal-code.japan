@@ -1,0 +1,19 @@
+[
+    {
+        "code": "36208",
+        "postal_old": "77951",
+        "postal_new": "7795162",
+        "pref_kana": "ﾄｸｼﾏｹﾝ",
+        "address1_kana": "ﾐﾖｼｼ",
+        "address2_kana": "ｲｹﾀﾞﾁｮｳｼﾂｶﾜ",
+        "pref": "徳島県",
+        "address1": "三好市",
+        "address2": "池田町漆川",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

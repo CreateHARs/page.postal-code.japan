@@ -1,0 +1,19 @@
+[
+    {
+        "code": "03206",
+        "postal_old": "02401",
+        "postal_new": "0240102",
+        "pref_kana": "ｲﾜﾃｹﾝ",
+        "address1_kana": "ｷﾀｶﾐｼ",
+        "address2_kana": "ｷﾀｺｳｷﾞｮｳﾀﾞﾝﾁ(3､5ﾊﾞﾝﾁ)",
+        "pref": "岩手県",
+        "address1": "北上市",
+        "address2": "北工業団地（３、５番地）",
+        "is_multi_code": "1",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

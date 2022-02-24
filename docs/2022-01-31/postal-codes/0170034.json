@@ -1,0 +1,19 @@
+[
+    {
+        "code": "05204",
+        "postal_old": "017  ",
+        "postal_new": "0170034",
+        "pref_kana": "ｱｷﾀｹﾝ",
+        "address1_kana": "ｵｵﾀﾞﾃｼ",
+        "address2_kana": "ｼﾓﾀﾞｲﾉ",
+        "pref": "秋田県",
+        "address1": "大館市",
+        "address2": "下代野",
+        "is_multi_code": "0",
+        "is_koaza": "1",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

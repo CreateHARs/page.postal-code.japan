@@ -1,0 +1,19 @@
+[
+    {
+        "code": "40216",
+        "postal_old": "83801",
+        "postal_new": "8380131",
+        "pref_kana": "ﾌｸｵｶｹﾝ",
+        "address1_kana": "ｵｺﾞｵﾘｼ",
+        "address2_kana": "ﾋﾗｶﾀ",
+        "pref": "福岡県",
+        "address1": "小郡市",
+        "address2": "平方",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

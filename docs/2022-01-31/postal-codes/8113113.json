@@ -1,0 +1,19 @@
+[
+    {
+        "code": "40223",
+        "postal_old": "81131",
+        "postal_new": "8113113",
+        "pref_kana": "ﾌｸｵｶｹﾝ",
+        "address1_kana": "ｺｶﾞｼ",
+        "address2_kana": "ﾁﾄﾞﾘ",
+        "pref": "福岡県",
+        "address1": "古賀市",
+        "address2": "千鳥",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "1",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

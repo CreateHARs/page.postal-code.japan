@@ -1,0 +1,36 @@
+[
+    {
+        "code": "18423",
+        "postal_old": "91601",
+        "postal_new": "9160143",
+        "pref_kana": "ﾌｸｲｹﾝ",
+        "address1_kana": "ﾆｭｳｸﾞﾝｴﾁｾﾞﾝﾁｮｳ",
+        "address2_kana": "ｳﾀﾞ",
+        "pref": "福井県",
+        "address1": "丹生郡越前町",
+        "address2": "宇田",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "1",
+        "is_updated": "0",
+        "update_reason": "0"
+    },
+    {
+        "code": "18423",
+        "postal_old": "91601",
+        "postal_new": "9160143",
+        "pref_kana": "ﾌｸｲｹﾝ",
+        "address1_kana": "ﾆｭｳｸﾞﾝｴﾁｾﾞﾝﾁｮｳ",
+        "address2_kana": "ｳﾙｼﾓﾄ",
+        "pref": "福井県",
+        "address1": "丹生郡越前町",
+        "address2": "漆本",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "1",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

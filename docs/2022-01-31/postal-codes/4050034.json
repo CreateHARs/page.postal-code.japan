@@ -1,0 +1,19 @@
+[
+    {
+        "code": "19205",
+        "postal_old": "405  ",
+        "postal_new": "4050034",
+        "pref_kana": "ﾔﾏﾅｼｹﾝ",
+        "address1_kana": "ﾔﾏﾅｼｼ",
+        "address2_kana": "ｶﾐｲﾜｼﾀ",
+        "pref": "山梨県",
+        "address1": "山梨市",
+        "address2": "上岩下",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

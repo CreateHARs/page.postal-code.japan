@@ -1,0 +1,19 @@
+[
+    {
+        "code": "28222",
+        "postal_old": "66703",
+        "postal_new": "6670322",
+        "pref_kana": "ﾋｮｳｺﾞｹﾝ",
+        "address1_kana": "ﾔﾌﾞｼ",
+        "address2_kana": "ｵｵﾔﾁｮｳｲｶﾀﾞ",
+        "pref": "兵庫県",
+        "address1": "養父市",
+        "address2": "大屋町筏",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

@@ -1,0 +1,19 @@
+[
+    {
+        "code": "01234",
+        "postal_old": "06111",
+        "postal_new": "0611144",
+        "pref_kana": "ﾎｯｶｲﾄﾞｳ",
+        "address1_kana": "ｷﾀﾋﾛｼﾏｼ",
+        "address2_kana": "ｼﾗｶﾊﾞﾁｮｳ",
+        "pref": "北海道",
+        "address1": "北広島市",
+        "address2": "白樺町",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "1",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

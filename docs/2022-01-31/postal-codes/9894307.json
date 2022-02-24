@@ -1,0 +1,19 @@
+[
+    {
+        "code": "04215",
+        "postal_old": "98943",
+        "postal_new": "9894307",
+        "pref_kana": "ﾐﾔｷﾞｹﾝ",
+        "address1_kana": "ｵｵｻｷｼ",
+        "address2_kana": "ﾀｼﾞﾘｷﾀﾀｶｷﾞ",
+        "pref": "宮城県",
+        "address1": "大崎市",
+        "address2": "田尻北高城",
+        "is_multi_code": "0",
+        "is_koaza": "1",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

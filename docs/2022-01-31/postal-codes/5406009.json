@@ -1,0 +1,19 @@
+[
+    {
+        "code": "27128",
+        "postal_old": "540  ",
+        "postal_new": "5406009",
+        "pref_kana": "ｵｵｻｶﾌ",
+        "address1_kana": "ｵｵｻｶｼﾁｭｳｵｳｸ",
+        "address2_kana": "ｼﾛﾐｸﾘｽﾀﾙﾀﾜｰ(9ｶｲ)",
+        "pref": "大阪府",
+        "address1": "大阪市中央区",
+        "address2": "城見クリスタルタワー（９階）",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

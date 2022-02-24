@@ -1,0 +1,19 @@
+[
+    {
+        "code": "27227",
+        "postal_old": "578  ",
+        "postal_new": "5780957",
+        "pref_kana": "ｵｵｻｶﾌ",
+        "address1_kana": "ﾋｶﾞｼｵｵｻｶｼ",
+        "address2_kana": "ﾎﾝｼﾞｮｳﾅｶ",
+        "pref": "大阪府",
+        "address1": "東大阪市",
+        "address2": "本庄中",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "1",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

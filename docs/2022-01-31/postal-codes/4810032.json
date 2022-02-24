@@ -1,0 +1,19 @@
+[
+    {
+        "code": "23234",
+        "postal_old": "481  ",
+        "postal_new": "4810032",
+        "pref_kana": "ｱｲﾁｹﾝ",
+        "address1_kana": "ｷﾀﾅｺﾞﾔｼ",
+        "address2_kana": "ﾐﾛｸｼﾞﾆｼ",
+        "pref": "愛知県",
+        "address1": "北名古屋市",
+        "address2": "弥勒寺西",
+        "is_multi_code": "0",
+        "is_koaza": "1",
+        "is_choume": "1",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

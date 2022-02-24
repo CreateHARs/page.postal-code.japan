@@ -1,0 +1,53 @@
+[
+    {
+        "code": "02210",
+        "postal_old": "03601",
+        "postal_new": "0360151",
+        "pref_kana": "ｱｵﾓﾘｹﾝ",
+        "address1_kana": "ﾋﾗｶﾜｼ",
+        "address2_kana": "ｲｼｺﾞｳｵｷﾅｶ",
+        "pref": "青森県",
+        "address1": "平川市",
+        "address2": "石郷沖中",
+        "is_multi_code": "0",
+        "is_koaza": "1",
+        "is_choume": "0",
+        "is_multi_place": "1",
+        "is_updated": "0",
+        "update_reason": "0"
+    },
+    {
+        "code": "02210",
+        "postal_old": "03601",
+        "postal_new": "0360151",
+        "pref_kana": "ｱｵﾓﾘｹﾝ",
+        "address1_kana": "ﾋﾗｶﾜｼ",
+        "address2_kana": "ｲｼｺﾞｳﾑﾗﾓﾄ",
+        "pref": "青森県",
+        "address1": "平川市",
+        "address2": "石郷村元",
+        "is_multi_code": "0",
+        "is_koaza": "1",
+        "is_choume": "0",
+        "is_multi_place": "1",
+        "is_updated": "0",
+        "update_reason": "0"
+    },
+    {
+        "code": "02210",
+        "postal_old": "03601",
+        "postal_new": "0360151",
+        "pref_kana": "ｱｵﾓﾘｹﾝ",
+        "address1_kana": "ﾋﾗｶﾜｼ",
+        "address2_kana": "ｲｼｺﾞｳﾔﾅｷﾞﾀﾞ",
+        "pref": "青森県",
+        "address1": "平川市",
+        "address2": "石郷柳田",
+        "is_multi_code": "0",
+        "is_koaza": "1",
+        "is_choume": "0",
+        "is_multi_place": "1",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

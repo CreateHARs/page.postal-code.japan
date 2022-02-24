@@ -1,0 +1,19 @@
+[
+    {
+        "code": "01362",
+        "postal_old": "04905",
+        "postal_new": "0490561",
+        "pref_kana": "ﾎｯｶｲﾄﾞｳ",
+        "address1_kana": "ﾋﾔﾏｸﾞﾝｶﾐﾉｸﾆﾁｮｳ",
+        "address2_kana": "ｼﾝﾒｲ",
+        "pref": "北海道",
+        "address1": "檜山郡上ノ国町",
+        "address2": "神明",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

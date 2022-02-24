@@ -1,0 +1,53 @@
+[
+    {
+        "code": "02442",
+        "postal_old": "03915",
+        "postal_new": "0391523",
+        "pref_kana": "ｱｵﾓﾘｹﾝ",
+        "address1_kana": "ｻﾝﾉﾍｸﾞﾝｺﾞﾉﾍﾏﾁ",
+        "address2_kana": "ｶﾐﾎﾄｻﾞﾜ",
+        "pref": "青森県",
+        "address1": "三戸郡五戸町",
+        "address2": "上保土沢",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "1",
+        "is_updated": "0",
+        "update_reason": "0"
+    },
+    {
+        "code": "02442",
+        "postal_old": "03915",
+        "postal_new": "0391523",
+        "pref_kana": "ｱｵﾓﾘｹﾝ",
+        "address1_kana": "ｻﾝﾉﾍｸﾞﾝｺﾞﾉﾍﾏﾁ",
+        "address2_kana": "ｼﾓﾎﾄｻﾞﾜ",
+        "pref": "青森県",
+        "address1": "三戸郡五戸町",
+        "address2": "下保土沢",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "1",
+        "is_updated": "0",
+        "update_reason": "0"
+    },
+    {
+        "code": "02442",
+        "postal_old": "03915",
+        "postal_new": "0391523",
+        "pref_kana": "ｱｵﾓﾘｹﾝ",
+        "address1_kana": "ｻﾝﾉﾍｸﾞﾝｺﾞﾉﾍﾏﾁ",
+        "address2_kana": "ｼﾝｿﾞｳﾅｶﾞﾈ",
+        "pref": "青森県",
+        "address1": "三戸郡五戸町",
+        "address2": "新蔵長根",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "1",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

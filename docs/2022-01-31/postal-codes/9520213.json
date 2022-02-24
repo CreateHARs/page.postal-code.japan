@@ -1,0 +1,19 @@
+[
+    {
+        "code": "15224",
+        "postal_old": "95202",
+        "postal_new": "9520213",
+        "pref_kana": "ﾆｲｶﾞﾀｹﾝ",
+        "address1_kana": "ｻﾄﾞｼ",
+        "address2_kana": "ｲｲﾓﾁ",
+        "pref": "新潟県",
+        "address1": "佐渡市",
+        "address2": "飯持",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

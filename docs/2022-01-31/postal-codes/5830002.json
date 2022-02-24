@@ -1,0 +1,19 @@
+[
+    {
+        "code": "27226",
+        "postal_old": "583  ",
+        "postal_new": "5830002",
+        "pref_kana": "ｵｵｻｶﾌ",
+        "address1_kana": "ﾌｼﾞｲﾃﾞﾗｼ",
+        "address2_kana": "ﾎｳｼﾞｮｳﾁｮｳ",
+        "pref": "大阪府",
+        "address1": "藤井寺市",
+        "address2": "北條町",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

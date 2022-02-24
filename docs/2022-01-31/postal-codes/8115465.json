@@ -1,0 +1,19 @@
+[
+    {
+        "code": "42210",
+        "postal_old": "81154",
+        "postal_new": "8115465",
+        "pref_kana": "ﾅｶﾞｻｷｹﾝ",
+        "address1_kana": "ｲｷｼ",
+        "address2_kana": "ｱｼﾍﾞﾁｮｳﾊｺｻﾞｷｸｷﾞﾉｵﾌﾚ",
+        "pref": "長崎県",
+        "address1": "壱岐市",
+        "address2": "芦辺町箱崎釘ノ尾触",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

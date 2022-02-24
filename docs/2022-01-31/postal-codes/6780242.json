@@ -1,0 +1,19 @@
+[
+    {
+        "code": "28212",
+        "postal_old": "67802",
+        "postal_new": "6780242",
+        "pref_kana": "ﾋｮｳｺﾞｹﾝ",
+        "address1_kana": "ｱｺｳｼ",
+        "address2_kana": "ﾅｶﾞｲｹﾁｮｳ",
+        "pref": "兵庫県",
+        "address1": "赤穂市",
+        "address2": "長池町",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

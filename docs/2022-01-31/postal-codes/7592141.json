@@ -1,0 +1,19 @@
+[
+    {
+        "code": "35213",
+        "postal_old": "75921",
+        "postal_new": "7592141",
+        "pref_kana": "ﾔﾏｸﾞﾁｹﾝ",
+        "address1_kana": "ﾐﾈｼ",
+        "address2_kana": "ﾋｶﾞｼｱﾂﾁｮｳﾔﾏﾅｶ",
+        "pref": "山口県",
+        "address1": "美祢市",
+        "address2": "東厚保町山中",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

@@ -1,0 +1,19 @@
+[
+    {
+        "code": "22341",
+        "postal_old": "411  ",
+        "postal_new": "4110906",
+        "pref_kana": "ｼｽﾞｵｶｹﾝ",
+        "address1_kana": "ｽﾝﾄｳｸﾞﾝｼﾐｽﾞﾁｮｳ",
+        "address2_kana": "ﾔﾊﾀ",
+        "pref": "静岡県",
+        "address1": "駿東郡清水町",
+        "address2": "八幡",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

@@ -1,0 +1,19 @@
+[
+    {
+        "code": "08202",
+        "postal_old": "317  ",
+        "postal_new": "3170072",
+        "pref_kana": "ｲﾊﾞﾗｷｹﾝ",
+        "address1_kana": "ﾋﾀﾁｼ",
+        "address2_kana": "ﾍﾞﾝﾃﾝﾁｮｳ",
+        "pref": "茨城県",
+        "address1": "日立市",
+        "address2": "弁天町",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "1",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

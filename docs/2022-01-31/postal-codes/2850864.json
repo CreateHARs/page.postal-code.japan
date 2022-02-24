@@ -1,0 +1,19 @@
+[
+    {
+        "code": "12212",
+        "postal_old": "285  ",
+        "postal_new": "2850864",
+        "pref_kana": "ﾁﾊﾞｹﾝ",
+        "address1_kana": "ｻｸﾗｼ",
+        "address2_kana": "ｲﾅﾘﾀﾞｲ",
+        "pref": "千葉県",
+        "address1": "佐倉市",
+        "address2": "稲荷台",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "1",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

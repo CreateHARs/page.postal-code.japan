@@ -1,0 +1,19 @@
+[
+    {
+        "code": "39344",
+        "postal_old": "78901",
+        "postal_new": "7890167",
+        "pref_kana": "ｺｳﾁｹﾝ",
+        "address1_kana": "ﾅｶﾞｵｶｸﾞﾝｵｵﾄﾖﾁｮｳ",
+        "address2_kana": "ｱｵｳ",
+        "pref": "高知県",
+        "address1": "長岡郡大豊町",
+        "address2": "粟生",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

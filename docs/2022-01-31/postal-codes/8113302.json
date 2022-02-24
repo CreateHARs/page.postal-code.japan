@@ -1,0 +1,19 @@
+[
+    {
+        "code": "40224",
+        "postal_old": "81133",
+        "postal_new": "8113302",
+        "pref_kana": "ﾌｸｵｶｹﾝ",
+        "address1_kana": "ﾌｸﾂｼ",
+        "address2_kana": "ｵｵｲｼ",
+        "pref": "福岡県",
+        "address1": "福津市",
+        "address2": "大石",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

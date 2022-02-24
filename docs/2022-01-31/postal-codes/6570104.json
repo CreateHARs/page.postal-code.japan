@@ -1,0 +1,19 @@
+[
+    {
+        "code": "28102",
+        "postal_old": "65701",
+        "postal_new": "6570104",
+        "pref_kana": "ﾋｮｳｺﾞｹﾝ",
+        "address1_kana": "ｺｳﾍﾞｼﾅﾀﾞｸ",
+        "address2_kana": "ﾏﾔｻﾝ",
+        "pref": "兵庫県",
+        "address1": "神戸市灘区",
+        "address2": "摩耶山",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

@@ -1,0 +1,19 @@
+[
+    {
+        "code": "40214",
+        "postal_old": "828  ",
+        "postal_new": "8280002",
+        "pref_kana": "ﾌｸｵｶｹﾝ",
+        "address1_kana": "ﾌﾞｾﾞﾝｼ",
+        "address2_kana": "ｼｮｳｴ",
+        "pref": "福岡県",
+        "address1": "豊前市",
+        "address2": "松江",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

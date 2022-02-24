@@ -1,0 +1,36 @@
+[
+    {
+        "code": "18208",
+        "postal_old": "91041",
+        "postal_new": "9104147",
+        "pref_kana": "ﾌｸｲｹﾝ",
+        "address1_kana": "ｱﾜﾗｼ",
+        "address2_kana": "ｸﾓﾝ",
+        "pref": "福井県",
+        "address1": "あわら市",
+        "address2": "公文",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "1",
+        "is_updated": "0",
+        "update_reason": "0"
+    },
+    {
+        "code": "18208",
+        "postal_old": "91041",
+        "postal_new": "9104147",
+        "pref_kana": "ﾌｸｲｹﾝ",
+        "address1_kana": "ｱﾜﾗｼ",
+        "address2_kana": "ﾐﾔﾏｴ",
+        "pref": "福井県",
+        "address1": "あわら市",
+        "address2": "宮前",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "1",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

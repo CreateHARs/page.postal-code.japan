@@ -1,0 +1,19 @@
+[
+    {
+        "code": "12223",
+        "postal_old": "29601",
+        "postal_new": "2960231",
+        "pref_kana": "ﾁﾊﾞｹﾝ",
+        "address1_kana": "ｶﾓｶﾞﾜｼ",
+        "address2_kana": "ｶﾏﾇﾏ",
+        "pref": "千葉県",
+        "address1": "鴨川市",
+        "address2": "釜沼",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

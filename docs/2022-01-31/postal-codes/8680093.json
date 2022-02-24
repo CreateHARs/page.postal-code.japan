@@ -1,0 +1,19 @@
+[
+    {
+        "code": "43510",
+        "postal_old": "868  ",
+        "postal_new": "8680093",
+        "pref_kana": "ｸﾏﾓﾄｹﾝ",
+        "address1_kana": "ｸﾏｸﾞﾝｻｶﾞﾗﾑﾗ",
+        "address2_kana": "ｶﾜﾍﾞ",
+        "pref": "熊本県",
+        "address1": "球磨郡相良村",
+        "address2": "川辺",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

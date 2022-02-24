@@ -1,0 +1,19 @@
+[
+    {
+        "code": "40225",
+        "postal_old": "83913",
+        "postal_new": "8391308",
+        "pref_kana": "ﾌｸｵｶｹﾝ",
+        "address1_kana": "ｳｷﾊｼ",
+        "address2_kana": "ﾖｼｲﾏﾁﾔﾜﾀ",
+        "pref": "福岡県",
+        "address1": "うきは市",
+        "address2": "吉井町八和田",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

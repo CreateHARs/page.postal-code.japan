@@ -1,0 +1,53 @@
+[
+    {
+        "code": "26102",
+        "postal_old": "602  ",
+        "postal_new": "6020846",
+        "pref_kana": "ｷｮｳﾄﾌ",
+        "address1_kana": "ｷｮｳﾄｼｶﾐｷﾞｮｳｸ",
+        "address2_kana": "ｺﾒﾔﾁｮｳ",
+        "pref": "京都府",
+        "address1": "京都市上京区",
+        "address2": "米屋町（今出川通寺町東入、今出川通寺町東入下る、今出川通河",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    },
+    {
+        "code": "26102",
+        "postal_old": "602  ",
+        "postal_new": "6020846",
+        "pref_kana": "ｷｮｳﾄﾌ",
+        "address1_kana": "ｷｮｳﾄｼｶﾐｷﾞｮｳｸ",
+        "address2_kana": "ｺﾒﾔﾁｮｳ",
+        "pref": "京都府",
+        "address1": "京都市上京区",
+        "address2": "原町西入上る、河原町通今出川下る西入、寺町通今出川下る、寺町通今出川下",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    },
+    {
+        "code": "26102",
+        "postal_old": "602  ",
+        "postal_new": "6020846",
+        "pref_kana": "ｷｮｳﾄﾌ",
+        "address1_kana": "ｷｮｳﾄｼｶﾐｷﾞｮｳｸ",
+        "address2_kana": "ｺﾒﾔﾁｮｳ",
+        "pref": "京都府",
+        "address1": "京都市上京区",
+        "address2": "る東入、中筋通今出川下る）",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

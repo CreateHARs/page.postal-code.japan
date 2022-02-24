@@ -1,0 +1,19 @@
+[
+    {
+        "code": "01206",
+        "postal_old": "085  ",
+        "postal_new": "0850008",
+        "pref_kana": "ﾎｯｶｲﾄﾞｳ",
+        "address1_kana": "ｸｼﾛｼ",
+        "address2_kana": "ｲﾘｴﾁｮｳ",
+        "pref": "北海道",
+        "address1": "釧路市",
+        "address2": "入江町",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

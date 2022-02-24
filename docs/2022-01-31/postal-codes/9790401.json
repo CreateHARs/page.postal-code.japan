@@ -1,0 +1,19 @@
+[
+    {
+        "code": "07541",
+        "postal_old": "97904",
+        "postal_new": "9790401",
+        "pref_kana": "ﾌｸｼﾏｹﾝ",
+        "address1_kana": "ﾌﾀﾊﾞｸﾞﾝﾋﾛﾉﾏﾁ",
+        "address2_kana": "ｶﾐｷﾀﾊﾞ",
+        "pref": "福島県",
+        "address1": "双葉郡広野町",
+        "address2": "上北迫",
+        "is_multi_code": "0",
+        "is_koaza": "1",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

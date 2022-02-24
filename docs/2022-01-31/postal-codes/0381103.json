@@ -1,0 +1,19 @@
+[
+    {
+        "code": "02367",
+        "postal_old": "03811",
+        "postal_new": "0381103",
+        "pref_kana": "ｱｵﾓﾘｹﾝ",
+        "address1_kana": "ﾐﾅﾐﾂｶﾞﾙｸﾞﾝｲﾅｶﾀﾞﾃﾑﾗ",
+        "address2_kana": "ｼﾞｭｳﾆｶﾜﾗ",
+        "pref": "青森県",
+        "address1": "南津軽郡田舎館村",
+        "address2": "十二川原",
+        "is_multi_code": "0",
+        "is_koaza": "1",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

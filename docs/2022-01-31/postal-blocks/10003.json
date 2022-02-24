@@ -1,0 +1,19 @@
+[
+    {
+        "code": "13362",
+        "postal_old": "10003",
+        "postal_new": "1000301",
+        "pref_kana": "ﾄｳｷｮｳﾄ",
+        "address1_kana": "ﾄｼﾏﾑﾗ",
+        "address2_kana": "ﾄｼﾏﾑﾗｲﾁｴﾝ",
+        "pref": "東京都",
+        "address1": "利島村",
+        "address2": "利島村一円",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

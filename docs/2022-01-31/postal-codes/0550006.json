@@ -1,0 +1,19 @@
+[
+    {
+        "code": "01601",
+        "postal_old": "055  ",
+        "postal_new": "0550006",
+        "pref_kana": "ﾎｯｶｲﾄﾞｳ",
+        "address1_kana": "ｻﾙｸﾞﾝﾋﾀﾞｶﾁｮｳ",
+        "address2_kana": "ﾄﾐｶﾜﾐﾅﾐ",
+        "pref": "北海道",
+        "address1": "沙流郡日高町",
+        "address2": "富川南",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "1",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

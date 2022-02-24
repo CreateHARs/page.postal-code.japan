@@ -1,0 +1,19 @@
+[
+    {
+        "code": "28585",
+        "postal_old": "66965",
+        "postal_new": "6696553",
+        "pref_kana": "ﾋｮｳｺﾞｹﾝ",
+        "address1_kana": "ﾐｶﾀｸﾞﾝｶﾐﾁｮｳ",
+        "address2_kana": "ｶｽﾐｸﾐﾀﾆ",
+        "pref": "兵庫県",
+        "address1": "美方郡香美町",
+        "address2": "香住区三谷",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

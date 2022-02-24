@@ -1,0 +1,19 @@
+[
+    {
+        "code": "22137",
+        "postal_old": "43141",
+        "postal_new": "4314103",
+        "pref_kana": "ｼｽﾞｵｶｹﾝ",
+        "address1_kana": "ﾊﾏﾏﾂｼﾃﾝﾘｭｳｸ",
+        "address2_kana": "ﾐｻｸﾎﾞﾁｮｳﾔﾏｽﾞﾐ",
+        "pref": "静岡県",
+        "address1": "浜松市天竜区",
+        "address2": "水窪町山住",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

@@ -1,0 +1,19 @@
+[
+    {
+        "code": "38401",
+        "postal_old": "79131",
+        "postal_new": "7913153",
+        "pref_kana": "ｴﾋﾒｹﾝ",
+        "address1_kana": "ｲﾖｸﾞﾝﾏｻｷﾁｮｳ",
+        "address2_kana": "ｵｵﾐｿﾞ",
+        "pref": "愛媛県",
+        "address1": "伊予郡松前町",
+        "address2": "大溝",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

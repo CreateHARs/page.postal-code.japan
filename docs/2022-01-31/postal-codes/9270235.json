@@ -1,0 +1,19 @@
+[
+    {
+        "code": "17461",
+        "postal_old": "92702",
+        "postal_new": "9270235",
+        "pref_kana": "ｲｼｶﾜｹﾝ",
+        "address1_kana": "ﾎｳｽｸﾞﾝｱﾅﾐｽﾞﾏﾁ",
+        "address2_kana": "ｲﾁﾉｻｶ",
+        "pref": "石川県",
+        "address1": "鳳珠郡穴水町",
+        "address2": "市ノ坂",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

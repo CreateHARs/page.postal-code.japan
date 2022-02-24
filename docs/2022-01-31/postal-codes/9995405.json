@@ -1,0 +1,19 @@
+[
+    {
+        "code": "06361",
+        "postal_old": "99954",
+        "postal_new": "9995405",
+        "pref_kana": "ﾔﾏｶﾞﾀｹﾝ",
+        "address1_kana": "ﾓｶﾞﾐｸﾞﾝｶﾈﾔﾏﾏﾁ",
+        "address2_kana": "ｳﾜﾀﾞｲ",
+        "pref": "山形県",
+        "address1": "最上郡金山町",
+        "address2": "上台",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

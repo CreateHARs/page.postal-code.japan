@@ -1,0 +1,19 @@
+[
+    {
+        "code": "23362",
+        "postal_old": "48001",
+        "postal_new": "4800105",
+        "pref_kana": "ｱｲﾁｹﾝ",
+        "address1_kana": "ﾆﾜｸﾞﾝﾌｿｳﾁｮｳ",
+        "address2_kana": "ﾐﾅﾐﾔﾅ",
+        "pref": "愛知県",
+        "address1": "丹羽郡扶桑町",
+        "address2": "南山名",
+        "is_multi_code": "0",
+        "is_koaza": "1",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

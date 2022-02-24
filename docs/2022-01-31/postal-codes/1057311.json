@@ -1,0 +1,19 @@
+[
+    {
+        "code": "13103",
+        "postal_old": "105  ",
+        "postal_new": "1057311",
+        "pref_kana": "ﾄｳｷｮｳﾄ",
+        "address1_kana": "ﾐﾅﾄｸ",
+        "address2_kana": "ﾋｶﾞｼｼﾝﾊﾞｼﾄｳｷｮｳｼｵﾄﾞﾒﾋﾞﾙﾃﾞｨﾝｸﾞ(11ｶｲ)",
+        "pref": "東京都",
+        "address1": "港区",
+        "address2": "東新橋東京汐留ビルディング（１１階）",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

@@ -1,0 +1,19 @@
+[
+    {
+        "code": "32203",
+        "postal_old": "691  ",
+        "postal_new": "6910064",
+        "pref_kana": "ｼﾏﾈｹﾝ",
+        "address1_kana": "ｲｽﾞﾓｼ",
+        "address2_kana": "ｶﾐｵｶﾀﾞﾁｮｳ",
+        "pref": "島根県",
+        "address1": "出雲市",
+        "address2": "上岡田町",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

@@ -1,0 +1,19 @@
+[
+    {
+        "code": "01638",
+        "postal_old": "08913",
+        "postal_new": "0891361",
+        "pref_kana": "ﾎｯｶｲﾄﾞｳ",
+        "address1_kana": "ｶｻｲｸﾞﾝﾅｶｻﾂﾅｲﾑﾗ",
+        "address2_kana": "ﾓﾄﾀｲｼｮｳ",
+        "pref": "北海道",
+        "address1": "河西郡中札内村",
+        "address2": "元大正",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

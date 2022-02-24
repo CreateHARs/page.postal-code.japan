@@ -1,0 +1,19 @@
+[
+    {
+        "code": "34212",
+        "postal_old": "72911",
+        "postal_new": "7392209",
+        "pref_kana": "ﾋﾛｼﾏｹﾝ",
+        "address1_kana": "ﾋｶﾞｼﾋﾛｼﾏｼ",
+        "address2_kana": "ﾆｭｳﾉﾅｶﾔﾏﾀﾞｲ",
+        "pref": "広島県",
+        "address1": "東広島市",
+        "address2": "入野中山台",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "1",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

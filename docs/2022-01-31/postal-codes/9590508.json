@@ -1,0 +1,19 @@
+[
+    {
+        "code": "15108",
+        "postal_old": "95905",
+        "postal_new": "9590508",
+        "pref_kana": "ﾆｲｶﾞﾀｹﾝ",
+        "address1_kana": "ﾆｲｶﾞﾀｼﾆｼｶﾝｸ",
+        "address2_kana": "ｺﾞﾉｶﾐ",
+        "pref": "新潟県",
+        "address1": "新潟市西蒲区",
+        "address2": "五之上",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

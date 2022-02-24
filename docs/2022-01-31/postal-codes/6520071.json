@@ -1,0 +1,36 @@
+[
+    {
+        "code": "28109",
+        "postal_old": "652  ",
+        "postal_new": "6520071",
+        "pref_kana": "ﾋｮｳｺﾞｹﾝ",
+        "address1_kana": "ｺｳﾍﾞｼｷﾀｸ",
+        "address2_kana": "ﾔﾏﾀﾞﾁｮｳｼﾓﾀﾆｶﾞﾐ(ｷｸｽｲﾔﾏ､ｺｳｻﾞｶﾜﾑｶｲ､ﾅｶｲﾁﾘﾔﾏ<9ﾊﾞﾝﾁﾉ4､12ﾊﾞﾝﾁ>､",
+        "pref": "兵庫県",
+        "address1": "神戸市北区",
+        "address2": "山田町下谷上（菊水山、高座川向、中一里山「９番地の４、１２番地」、",
+        "is_multi_code": "1",
+        "is_koaza": "1",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    },
+    {
+        "code": "28109",
+        "postal_old": "652  ",
+        "postal_new": "6520071",
+        "pref_kana": "ﾋｮｳｺﾞｹﾝ",
+        "address1_kana": "ｺｳﾍﾞｼｷﾀｸ",
+        "address2_kana": "ﾈﾝﾌﾞﾂﾄﾞｳ､ﾋﾖﾄﾞﾘｺﾞｴ)",
+        "pref": "兵庫県",
+        "address1": "神戸市北区",
+        "address2": "念仏堂、ひよどり越）",
+        "is_multi_code": "1",
+        "is_koaza": "1",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

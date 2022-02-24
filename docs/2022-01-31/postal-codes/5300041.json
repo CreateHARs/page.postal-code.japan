@@ -1,0 +1,19 @@
+[
+    {
+        "code": "27127",
+        "postal_old": "530  ",
+        "postal_new": "5300041",
+        "pref_kana": "ｵｵｻｶﾌ",
+        "address1_kana": "ｵｵｻｶｼｷﾀｸ",
+        "address2_kana": "ﾃﾝｼﾞﾝﾊﾞｼ(1-6ﾁｮｳﾒ)",
+        "pref": "大阪府",
+        "address1": "大阪市北区",
+        "address2": "天神橋（１〜６丁目）",
+        "is_multi_code": "1",
+        "is_koaza": "0",
+        "is_choume": "1",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

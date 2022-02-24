@@ -1,0 +1,19 @@
+[
+    {
+        "code": "38422",
+        "postal_old": "79133",
+        "postal_new": "7913331",
+        "pref_kana": "ｴﾋﾒｹﾝ",
+        "address1_kana": "ｷﾀｸﾞﾝｳﾁｺﾁｮｳ",
+        "address2_kana": "ﾀﾁﾔﾏ",
+        "pref": "愛媛県",
+        "address1": "喜多郡内子町",
+        "address2": "立山",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

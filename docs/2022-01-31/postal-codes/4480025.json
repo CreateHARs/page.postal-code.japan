@@ -1,0 +1,19 @@
+[
+    {
+        "code": "23210",
+        "postal_old": "448  ",
+        "postal_new": "4480025",
+        "pref_kana": "ｱｲﾁｹﾝ",
+        "address1_kana": "ｶﾘﾔｼ",
+        "address2_kana": "ｻｲﾜｲﾁｮｳ",
+        "pref": "愛知県",
+        "address1": "刈谷市",
+        "address2": "幸町",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "1",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

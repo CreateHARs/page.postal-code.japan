@@ -1,0 +1,19 @@
+[
+    {
+        "code": "07213",
+        "postal_old": "96008",
+        "postal_new": "9600803",
+        "pref_kana": "ﾌｸｼﾏｹﾝ",
+        "address1_kana": "ﾀﾞﾃｼ",
+        "address2_kana": "ﾘｮｳｾﾞﾝﾏﾁｲｽﾞﾐﾊﾗ",
+        "pref": "福島県",
+        "address1": "伊達市",
+        "address2": "霊山町泉原",
+        "is_multi_code": "0",
+        "is_koaza": "1",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

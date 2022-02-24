@@ -1,0 +1,19 @@
+[
+    {
+        "code": "16209",
+        "postal_old": "932  ",
+        "postal_new": "9320802",
+        "pref_kana": "ﾄﾔﾏｹﾝ",
+        "address1_kana": "ｵﾔﾍﾞｼ",
+        "address2_kana": "ｼﾁｼｬ",
+        "pref": "富山県",
+        "address1": "小矢部市",
+        "address2": "七社",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

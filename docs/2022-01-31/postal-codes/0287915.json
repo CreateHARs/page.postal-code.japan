@@ -1,0 +1,19 @@
+[
+    {
+        "code": "03507",
+        "postal_old": "02879",
+        "postal_new": "0287915",
+        "pref_kana": "ｲﾜﾃｹﾝ",
+        "address1_kana": "ｸﾉﾍｸﾞﾝﾋﾛﾉﾁｮｳ",
+        "address2_kana": "ﾀﾈｲﾁﾀﾞｲ15ﾁﾜﾘ-ﾀﾞｲ21ﾁﾜﾘ(ｶﾇｶ､ｼｮｳｼﾞｱｲ､ﾐﾄﾞﾘﾁｮｳ､ｵｵｸﾎﾞ､ﾀｶﾄﾘ)",
+        "pref": "岩手県",
+        "address1": "九戸郡洋野町",
+        "address2": "種市第１５地割〜第２１地割（鹿糠、小路合、緑町、大久保、高取）",
+        "is_multi_code": "0",
+        "is_koaza": "1",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

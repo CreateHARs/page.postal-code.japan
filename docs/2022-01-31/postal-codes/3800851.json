@@ -1,0 +1,19 @@
+[
+    {
+        "code": "20201",
+        "postal_old": "380  ",
+        "postal_new": "3800851",
+        "pref_kana": "ﾅｶﾞﾉｹﾝ",
+        "address1_kana": "ﾅｶﾞﾉｼ",
+        "address2_kana": "ﾓﾄﾖｼﾁｮｳ",
+        "pref": "長野県",
+        "address1": "長野市",
+        "address2": "元善町",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

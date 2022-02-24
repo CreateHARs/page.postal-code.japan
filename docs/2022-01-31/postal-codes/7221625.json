@@ -1,0 +1,19 @@
+[
+    {
+        "code": "34462",
+        "postal_old": "72216",
+        "postal_new": "7221625",
+        "pref_kana": "ﾋﾛｼﾏｹﾝ",
+        "address1_kana": "ｾﾗｸﾞﾝｾﾗﾁｮｳ",
+        "address2_kana": "ｼｹﾞﾅｶﾞ",
+        "pref": "広島県",
+        "address1": "世羅郡世羅町",
+        "address2": "重永",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

@@ -1,0 +1,19 @@
+[
+    {
+        "code": "22137",
+        "postal_old": "43706",
+        "postal_new": "4370611",
+        "pref_kana": "ｼｽﾞｵｶｹﾝ",
+        "address1_kana": "ﾊﾏﾏﾂｼﾃﾝﾘｭｳｸ",
+        "address2_kana": "ﾊﾙﾉﾁｮｳﾀｺﾞｳﾁ",
+        "pref": "静岡県",
+        "address1": "浜松市天竜区",
+        "address2": "春野町田河内",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

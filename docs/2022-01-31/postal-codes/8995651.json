@@ -1,0 +1,19 @@
+[
+    {
+        "code": "46225",
+        "postal_old": "89956",
+        "postal_new": "8995651",
+        "pref_kana": "ｶｺﾞｼﾏｹﾝ",
+        "address1_kana": "ｱｲﾗｼ",
+        "address2_kana": "ﾜｷﾓﾄ",
+        "pref": "鹿児島県",
+        "address1": "姶良市",
+        "address2": "脇元",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

@@ -1,0 +1,19 @@
+[
+    {
+        "code": "08542",
+        "postal_old": "30603",
+        "postal_new": "3060307",
+        "pref_kana": "ｲﾊﾞﾗｷｹﾝ",
+        "address1_kana": "ｻｼﾏｸﾞﾝｺﾞｶﾏﾁ",
+        "address2_kana": "ｺﾌｸﾀﾞ",
+        "pref": "茨城県",
+        "address1": "猿島郡五霞町",
+        "address2": "小福田",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

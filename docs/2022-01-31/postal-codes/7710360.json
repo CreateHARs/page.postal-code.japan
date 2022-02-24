@@ -1,0 +1,19 @@
+[
+    {
+        "code": "36202",
+        "postal_old": "77103",
+        "postal_new": "7710360",
+        "pref_kana": "ﾄｸｼﾏｹﾝ",
+        "address1_kana": "ﾅﾙﾄｼ",
+        "address2_kana": "ｾﾄﾁｮｳｱｷﾉｶﾐ(ｿﾉﾀ)",
+        "pref": "徳島県",
+        "address1": "鳴門市",
+        "address2": "瀬戸町明神（その他）",
+        "is_multi_code": "1",
+        "is_koaza": "1",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

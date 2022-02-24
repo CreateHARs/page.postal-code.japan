@@ -1,0 +1,53 @@
+[
+    {
+        "code": "02401",
+        "postal_old": "03931",
+        "postal_new": "0393129",
+        "pref_kana": "ｱｵﾓﾘｹﾝ",
+        "address1_kana": "ｶﾐｷﾀｸﾞﾝﾉﾍｼﾞﾏﾁ",
+        "address2_kana": "ｼﾝﾃﾞﾝ",
+        "pref": "青森県",
+        "address1": "上北郡野辺地町",
+        "address2": "新田",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "1",
+        "is_updated": "0",
+        "update_reason": "0"
+    },
+    {
+        "code": "02401",
+        "postal_old": "03931",
+        "postal_new": "0393129",
+        "pref_kana": "ｱｵﾓﾘｹﾝ",
+        "address1_kana": "ｶﾐｷﾀｸﾞﾝﾉﾍｼﾞﾏﾁ",
+        "address2_kana": "ﾄﾀﾞﾉｻﾜ",
+        "pref": "青森県",
+        "address1": "上北郡野辺地町",
+        "address2": "戸田ノ沢",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "1",
+        "is_updated": "0",
+        "update_reason": "0"
+    },
+    {
+        "code": "02401",
+        "postal_old": "03931",
+        "postal_new": "0393129",
+        "pref_kana": "ｱｵﾓﾘｹﾝ",
+        "address1_kana": "ｶﾐｷﾀｸﾞﾝﾉﾍｼﾞﾏﾁ",
+        "address2_kana": "ﾓﾁｱﾜｶﾜﾗ",
+        "pref": "青森県",
+        "address1": "上北郡野辺地町",
+        "address2": "餅粟川原",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "1",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

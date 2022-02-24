@@ -1,0 +1,19 @@
+[
+    {
+        "code": "28111",
+        "postal_old": "65121",
+        "postal_new": "6512107",
+        "pref_kana": "ﾋｮｳｺﾞｹﾝ",
+        "address1_kana": "ｺｳﾍﾞｼﾆｼｸ",
+        "address2_kana": "ｲｶﾜﾀﾞﾆﾁｮｳｺﾃﾞﾗ",
+        "pref": "兵庫県",
+        "address1": "神戸市西区",
+        "address2": "伊川谷町小寺",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

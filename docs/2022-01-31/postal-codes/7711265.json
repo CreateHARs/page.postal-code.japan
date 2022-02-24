@@ -1,0 +1,53 @@
+[
+    {
+        "code": "36403",
+        "postal_old": "77112",
+        "postal_new": "7711265",
+        "pref_kana": "ﾄｸｼﾏｹﾝ",
+        "address1_kana": "ｲﾀﾉｸﾞﾝｱｲｽﾞﾐﾁｮｳ",
+        "address2_kana": "ｽﾐﾖｼ(ｻｶﾌｼﾞ)",
+        "pref": "徳島県",
+        "address1": "板野郡藍住町",
+        "address2": "住吉（逆藤）",
+        "is_multi_code": "1",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "1",
+        "is_updated": "0",
+        "update_reason": "0"
+    },
+    {
+        "code": "36403",
+        "postal_old": "77112",
+        "postal_new": "7711265",
+        "pref_kana": "ﾄｸｼﾏｹﾝ",
+        "address1_kana": "ｲﾀﾉｸﾞﾝｱｲｽﾞﾐﾁｮｳ",
+        "address2_kana": "ｽﾐﾖｼ(ｼﾞﾝｿﾞｳ)",
+        "pref": "徳島県",
+        "address1": "板野郡藍住町",
+        "address2": "住吉（神蔵）",
+        "is_multi_code": "1",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "1",
+        "is_updated": "0",
+        "update_reason": "0"
+    },
+    {
+        "code": "36403",
+        "postal_old": "77112",
+        "postal_new": "7711265",
+        "pref_kana": "ﾄｸｼﾏｹﾝ",
+        "address1_kana": "ｲﾀﾉｸﾞﾝｱｲｽﾞﾐﾁｮｳ",
+        "address2_kana": "ｽﾐﾖｼ(ﾁﾄﾞﾘｶﾞﾊﾏ)",
+        "pref": "徳島県",
+        "address1": "板野郡藍住町",
+        "address2": "住吉（千鳥ケ浜）",
+        "is_multi_code": "1",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "1",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

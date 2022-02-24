@@ -1,0 +1,19 @@
+[
+    {
+        "code": "24441",
+        "postal_old": "51921",
+        "postal_new": "5192151",
+        "pref_kana": "ﾐｴｹﾝ",
+        "address1_kana": "ﾀｷｸﾞﾝﾀｷﾁｮｳ",
+        "address2_kana": "ｱｻｵｻ",
+        "pref": "三重県",
+        "address1": "多気郡多気町",
+        "address2": "朝長",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

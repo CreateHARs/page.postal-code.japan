@@ -1,0 +1,19 @@
+[
+    {
+        "code": "38204",
+        "postal_old": "796  ",
+        "postal_new": "7960027",
+        "pref_kana": "ｴﾋﾒｹﾝ",
+        "address1_kana": "ﾔﾜﾀﾊﾏｼ",
+        "address2_kana": "ﾏﾂｶｹﾞﾁｮｳ",
+        "pref": "愛媛県",
+        "address1": "八幡浜市",
+        "address2": "松蔭町",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

@@ -1,0 +1,53 @@
+[
+    {
+        "code": "05463",
+        "postal_old": "01212",
+        "postal_new": "0121241",
+        "pref_kana": "ｱｷﾀｹﾝ",
+        "address1_kana": "ｵｶﾞﾁｸﾞﾝｳｺﾞﾏﾁ",
+        "address2_kana": "ﾀｼﾛ",
+        "pref": "秋田県",
+        "address1": "雄勝郡羽後町",
+        "address2": "田代",
+        "is_multi_code": "0",
+        "is_koaza": "1",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    },
+    {
+        "code": "05463",
+        "postal_old": "01212",
+        "postal_new": "0121242",
+        "pref_kana": "ｱｷﾀｹﾝ",
+        "address1_kana": "ｵｶﾞﾁｸﾞﾝｳｺﾞﾏﾁ",
+        "address2_kana": "ｶﾐﾄｳﾏｲ",
+        "pref": "秋田県",
+        "address1": "雄勝郡羽後町",
+        "address2": "上到米",
+        "is_multi_code": "0",
+        "is_koaza": "1",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    },
+    {
+        "code": "05463",
+        "postal_old": "01212",
+        "postal_new": "0121243",
+        "pref_kana": "ｱｷﾀｹﾝ",
+        "address1_kana": "ｵｶﾞﾁｸﾞﾝｳｺﾞﾏﾁ",
+        "address2_kana": "ｶﾙｲｻﾞﾜ",
+        "pref": "秋田県",
+        "address1": "雄勝郡羽後町",
+        "address2": "軽井沢",
+        "is_multi_code": "0",
+        "is_koaza": "1",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

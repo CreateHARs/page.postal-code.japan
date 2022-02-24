@@ -1,0 +1,19 @@
+[
+    {
+        "code": "05212",
+        "postal_old": "01923",
+        "postal_new": "0192443",
+        "pref_kana": "ｱｷﾀｹﾝ",
+        "address1_kana": "ﾀﾞｲｾﾝｼ",
+        "address2_kana": "ｷｮｳﾜﾅｶﾖﾄﾞｶﾜ",
+        "pref": "秋田県",
+        "address1": "大仙市",
+        "address2": "協和中淀川",
+        "is_multi_code": "0",
+        "is_koaza": "1",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

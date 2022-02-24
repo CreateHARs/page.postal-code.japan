@@ -1,0 +1,19 @@
+[
+    {
+        "code": "30404",
+        "postal_old": "64921",
+        "postal_new": "6492101",
+        "pref_kana": "ﾜｶﾔﾏｹﾝ",
+        "address1_kana": "ﾆｼﾑﾛｸﾞﾝｶﾐﾄﾝﾀﾞﾁｮｳ",
+        "address2_kana": "ｵｶ",
+        "pref": "和歌山県",
+        "address1": "西牟婁郡上富田町",
+        "address2": "岡",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

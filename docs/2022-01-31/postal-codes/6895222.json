@@ -1,0 +1,19 @@
+[
+    {
+        "code": "31401",
+        "postal_old": "68952",
+        "postal_new": "6895222",
+        "pref_kana": "ﾄｯﾄﾘｹﾝ",
+        "address1_kana": "ﾋﾉｸﾞﾝﾆﾁﾅﾝﾁｮｳ",
+        "address2_kana": "ﾊｷﾞﾊﾗ",
+        "pref": "鳥取県",
+        "address1": "日野郡日南町",
+        "address2": "萩原",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

@@ -1,0 +1,19 @@
+[
+    {
+        "code": "01226",
+        "postal_old": "07911",
+        "postal_new": "0791181",
+        "pref_kana": "ﾎｯｶｲﾄﾞｳ",
+        "address1_kana": "ｽﾅｶﾞﾜｼ",
+        "address2_kana": "ﾄﾐﾋﾗ(331､459-4､543ﾊﾞﾝﾁ)",
+        "pref": "北海道",
+        "address1": "砂川市",
+        "address2": "富平（３３１、４５９−４、５４３番地）",
+        "is_multi_code": "1",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

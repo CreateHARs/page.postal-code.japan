@@ -1,0 +1,19 @@
+[
+    {
+        "code": "35212",
+        "postal_old": "74901",
+        "postal_new": "7490102",
+        "pref_kana": "ﾔﾏｸﾞﾁｹﾝ",
+        "address1_kana": "ﾔﾅｲｼ",
+        "address2_kana": "ｵｵﾊﾞﾀｹ",
+        "pref": "山口県",
+        "address1": "柳井市",
+        "address2": "大畠",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

@@ -1,0 +1,19 @@
+[
+    {
+        "code": "08204",
+        "postal_old": "30601",
+        "postal_new": "3060116",
+        "pref_kana": "ｲﾊﾞﾗｷｹﾝ",
+        "address1_kana": "ｺｶﾞｼ",
+        "address2_kana": "ｼﾝﾜﾀﾞ",
+        "pref": "茨城県",
+        "address1": "古河市",
+        "address2": "新和田",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

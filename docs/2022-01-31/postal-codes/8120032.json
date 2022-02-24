@@ -1,0 +1,19 @@
+[
+    {
+        "code": "40132",
+        "postal_old": "812  ",
+        "postal_new": "8120032",
+        "pref_kana": "ﾌｸｵｶｹﾝ",
+        "address1_kana": "ﾌｸｵｶｼﾊｶﾀｸ",
+        "address2_kana": "ｾｷｼﾞｮｳﾏﾁ",
+        "pref": "福岡県",
+        "address1": "福岡市博多区",
+        "address2": "石城町",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

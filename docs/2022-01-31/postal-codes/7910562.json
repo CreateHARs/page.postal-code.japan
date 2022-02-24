@@ -1,0 +1,19 @@
+[
+    {
+        "code": "38206",
+        "postal_old": "79105",
+        "postal_new": "7910562",
+        "pref_kana": "ｴﾋﾒｹﾝ",
+        "address1_kana": "ｻｲｼﾞｮｳｼ",
+        "address2_kana": "ｺﾏﾂﾁｮｳｲｼﾂﾞﾁ(ｶﾐﾄｲｼ)",
+        "pref": "愛媛県",
+        "address1": "西条市",
+        "address2": "小松町石鎚（上戸石）",
+        "is_multi_code": "1",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

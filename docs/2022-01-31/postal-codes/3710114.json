@@ -1,0 +1,19 @@
+[
+    {
+        "code": "10201",
+        "postal_old": "37101",
+        "postal_new": "3710114",
+        "pref_kana": "ｸﾞﾝﾏｹﾝ",
+        "address1_kana": "ﾏｴﾊﾞｼｼ",
+        "address2_kana": "ﾌｼﾞﾐﾏﾁﾀｼﾞﾏ",
+        "pref": "群馬県",
+        "address1": "前橋市",
+        "address2": "富士見町田島",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

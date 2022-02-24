@@ -1,0 +1,36 @@
+[
+    {
+        "code": "07207",
+        "postal_old": "96202",
+        "postal_new": "9620211",
+        "pref_kana": "ﾌｸｼﾏｹﾝ",
+        "address1_kana": "ｽｶｶﾞﾜｼ",
+        "address2_kana": "ﾀｷ(ｱｶﾂﾁ､ｶﾞﾝﾀﾞ､ｷﾀｸﾎﾞ､ｼﾗｽﾅ､ｼﾗｽﾅﾔﾏ､ﾀﾞｲｼﾝﾊﾞﾀ､ﾀﾞｲﾆﾁﾏｴ､ﾀｷﾆｼ､ﾁｬｸﾉｼﾀ､",
+        "pref": "福島県",
+        "address1": "須賀川市",
+        "address2": "滝（赤土、雁田、北久保、白砂、白砂山、大新畑、大日前、滝西、チャクの下、",
+        "is_multi_code": "1",
+        "is_koaza": "1",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    },
+    {
+        "code": "07207",
+        "postal_old": "96202",
+        "postal_new": "9620211",
+        "pref_kana": "ﾌｸｼﾏｹﾝ",
+        "address1_kana": "ｽｶｶﾞﾜｼ",
+        "address2_kana": "ﾋﾅﾀﾏｴ､ﾎﾝｺﾞｳ､ﾏｴﾀ)",
+        "pref": "福島県",
+        "address1": "須賀川市",
+        "address2": "日向前、本郷、前田）",
+        "is_multi_code": "1",
+        "is_koaza": "1",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

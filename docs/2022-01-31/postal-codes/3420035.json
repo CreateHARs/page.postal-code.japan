@@ -1,0 +1,19 @@
+[
+    {
+        "code": "11243",
+        "postal_old": "342  ",
+        "postal_new": "3420035",
+        "pref_kana": "ｻｲﾀﾏｹﾝ",
+        "address1_kana": "ﾖｼｶﾜｼ",
+        "address2_kana": "ﾀｶﾋｻ",
+        "pref": "埼玉県",
+        "address1": "吉川市",
+        "address2": "高久",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

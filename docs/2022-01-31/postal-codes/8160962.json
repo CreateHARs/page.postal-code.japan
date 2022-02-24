@@ -1,0 +1,19 @@
+[
+    {
+        "code": "40219",
+        "postal_old": "816  ",
+        "postal_new": "8160962",
+        "pref_kana": "ﾌｸｵｶｹﾝ",
+        "address1_kana": "ｵｵﾉｼﾞｮｳｼ",
+        "address2_kana": "ﾂﾂｼﾞｶﾞｵｶ",
+        "pref": "福岡県",
+        "address1": "大野城市",
+        "address2": "つつじケ丘",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "1",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

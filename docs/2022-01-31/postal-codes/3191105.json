@@ -1,0 +1,19 @@
+[
+    {
+        "code": "08341",
+        "postal_old": "31911",
+        "postal_new": "3191105",
+        "pref_kana": "ｲﾊﾞﾗｷｹﾝ",
+        "address1_kana": "ﾅｶｸﾞﾝﾄｳｶｲﾑﾗ",
+        "address2_kana": "ﾄﾖｵｶ",
+        "pref": "茨城県",
+        "address1": "那珂郡東海村",
+        "address2": "豊岡",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

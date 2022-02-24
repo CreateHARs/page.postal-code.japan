@@ -1,0 +1,36 @@
+[
+    {
+        "code": "03441",
+        "postal_old": "02925",
+        "postal_new": "0292501",
+        "pref_kana": "ｲﾜﾃｹﾝ",
+        "address1_kana": "ｹｾﾝｸﾞﾝｽﾐﾀﾁｮｳ",
+        "address2_kana": "ｶﾐｱﾘｽ",
+        "pref": "岩手県",
+        "address1": "気仙郡住田町",
+        "address2": "上有住",
+        "is_multi_code": "0",
+        "is_koaza": "1",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    },
+    {
+        "code": "03441",
+        "postal_old": "02925",
+        "postal_new": "0292502",
+        "pref_kana": "ｲﾜﾃｹﾝ",
+        "address1_kana": "ｹｾﾝｸﾞﾝｽﾐﾀﾁｮｳ",
+        "address2_kana": "ｼﾓｱﾘｽ",
+        "pref": "岩手県",
+        "address1": "気仙郡住田町",
+        "address2": "下有住",
+        "is_multi_code": "0",
+        "is_koaza": "1",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

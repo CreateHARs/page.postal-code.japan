@@ -1,0 +1,53 @@
+[
+    {
+        "code": "16201",
+        "postal_old": "93923",
+        "postal_new": "9392417",
+        "pref_kana": "ﾄﾔﾏｹﾝ",
+        "address1_kana": "ﾄﾔﾏｼ",
+        "address2_kana": "ﾔﾂｵﾏﾁｶﾜｽﾐ",
+        "pref": "富山県",
+        "address1": "富山市",
+        "address2": "八尾町川住",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "1",
+        "is_updated": "0",
+        "update_reason": "0"
+    },
+    {
+        "code": "16201",
+        "postal_old": "93923",
+        "postal_new": "9392417",
+        "pref_kana": "ﾄﾔﾏｹﾝ",
+        "address1_kana": "ﾄﾔﾏｼ",
+        "address2_kana": "ﾔﾂｵﾏﾁｼﾓﾏｷ",
+        "pref": "富山県",
+        "address1": "富山市",
+        "address2": "八尾町下牧",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "1",
+        "is_updated": "0",
+        "update_reason": "0"
+    },
+    {
+        "code": "16201",
+        "postal_old": "93923",
+        "postal_new": "9392417",
+        "pref_kana": "ﾄﾔﾏｹﾝ",
+        "address1_kana": "ﾄﾔﾏｼ",
+        "address2_kana": "ﾔﾂｵﾏﾁﾆｼｶﾜｸﾗ",
+        "pref": "富山県",
+        "address1": "富山市",
+        "address2": "八尾町西川倉",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "1",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

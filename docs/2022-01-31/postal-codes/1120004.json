@@ -1,0 +1,19 @@
+[
+    {
+        "code": "13105",
+        "postal_old": "112  ",
+        "postal_new": "1120004",
+        "pref_kana": "ﾄｳｷｮｳﾄ",
+        "address1_kana": "ﾌﾞﾝｷｮｳｸ",
+        "address2_kana": "ｺｳﾗｸ",
+        "pref": "東京都",
+        "address1": "文京区",
+        "address2": "後楽",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "1",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

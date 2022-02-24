@@ -1,0 +1,19 @@
+[
+    {
+        "code": "01406",
+        "postal_old": "04601",
+        "postal_new": "0460102",
+        "pref_kana": "ﾎｯｶｲﾄﾞｳ",
+        "address1_kana": "ﾌﾙﾋﾞﾗｸﾞﾝﾌﾙﾋﾞﾗﾁｮｳ",
+        "address2_kana": "ﾏﾙﾔﾏﾁｮｳ",
+        "pref": "北海道",
+        "address1": "古平郡古平町",
+        "address2": "丸山町",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

@@ -1,0 +1,19 @@
+[
+    {
+        "code": "17361",
+        "postal_old": "92903",
+        "postal_new": "9290316",
+        "pref_kana": "ｲｼｶﾜｹﾝ",
+        "address1_kana": "ｶﾎｸｸﾞﾝﾂﾊﾞﾀﾏﾁ",
+        "address2_kana": "ﾐｶﾄﾞ",
+        "pref": "石川県",
+        "address1": "河北郡津幡町",
+        "address2": "御門",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

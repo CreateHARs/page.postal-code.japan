@@ -1,0 +1,19 @@
+[
+    {
+        "code": "14116",
+        "postal_old": "245  ",
+        "postal_new": "2450009",
+        "pref_kana": "ｶﾅｶﾞﾜｹﾝ",
+        "address1_kana": "ﾖｺﾊﾏｼｲｽﾞﾐｸ",
+        "address2_kana": "ｼﾝﾊﾞｼﾁｮｳ",
+        "pref": "神奈川県",
+        "address1": "横浜市泉区",
+        "address2": "新橋町",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

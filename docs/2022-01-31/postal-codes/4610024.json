@@ -1,0 +1,19 @@
+[
+    {
+        "code": "23102",
+        "postal_old": "461  ",
+        "postal_new": "4610024",
+        "pref_kana": "ｱｲﾁｹﾝ",
+        "address1_kana": "ﾅｺﾞﾔｼﾋｶﾞｼｸ",
+        "address2_kana": "ﾔﾏｸﾞﾁﾁｮｳ",
+        "pref": "愛知県",
+        "address1": "名古屋市東区",
+        "address2": "山口町",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

@@ -1,0 +1,19 @@
+[
+    {
+        "code": "34103",
+        "postal_old": "732  ",
+        "postal_new": "7320825",
+        "pref_kana": "ﾋﾛｼﾏｹﾝ",
+        "address1_kana": "ﾋﾛｼﾏｼﾐﾅﾐｸ",
+        "address2_kana": "ｷﾝﾔﾁｮｳ",
+        "pref": "広島県",
+        "address1": "広島市南区",
+        "address2": "金屋町",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

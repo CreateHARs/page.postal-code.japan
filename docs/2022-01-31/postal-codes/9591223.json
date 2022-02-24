@@ -1,0 +1,36 @@
+[
+    {
+        "code": "15213",
+        "postal_old": "95912",
+        "postal_new": "9591223",
+        "pref_kana": "ﾆｲｶﾞﾀｹﾝ",
+        "address1_kana": "ﾂﾊﾞﾒｼ",
+        "address2_kana": "ｶﾐﾁｺﾞﾉｷ",
+        "pref": "新潟県",
+        "address1": "燕市",
+        "address2": "上児木",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "1",
+        "is_updated": "0",
+        "update_reason": "0"
+    },
+    {
+        "code": "15213",
+        "postal_old": "95912",
+        "postal_new": "9591223",
+        "pref_kana": "ﾆｲｶﾞﾀｹﾝ",
+        "address1_kana": "ﾂﾊﾞﾒｼ",
+        "address2_kana": "ｼﾓﾁｺﾞﾉｷ",
+        "pref": "新潟県",
+        "address1": "燕市",
+        "address2": "下児木",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "1",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

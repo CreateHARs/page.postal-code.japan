@@ -1,0 +1,19 @@
+[
+    {
+        "code": "38203",
+        "postal_old": "798  ",
+        "postal_new": "7980098",
+        "pref_kana": "ｴﾋﾒｹﾝ",
+        "address1_kana": "ｳﾜｼﾞﾏｼ",
+        "address2_kana": "ﾊﾏｸﾞﾘ",
+        "pref": "愛媛県",
+        "address1": "宇和島市",
+        "address2": "蛤",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

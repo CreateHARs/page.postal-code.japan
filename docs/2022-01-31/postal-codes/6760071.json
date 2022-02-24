@@ -1,0 +1,19 @@
+[
+    {
+        "code": "28216",
+        "postal_old": "676  ",
+        "postal_new": "6760071",
+        "pref_kana": "ﾋｮｳｺﾞｹﾝ",
+        "address1_kana": "ﾀｶｻｺﾞｼ",
+        "address2_kana": "ｲﾎﾋｶﾞｼ",
+        "pref": "兵庫県",
+        "address1": "高砂市",
+        "address2": "伊保東",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "1",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

@@ -1,0 +1,19 @@
+[
+    {
+        "code": "01436",
+        "postal_old": "07826",
+        "postal_new": "0782632",
+        "pref_kana": "ﾎｯｶｲﾄﾞｳ",
+        "address1_kana": "ｳﾘｭｳｸﾞﾝｳﾘｭｳﾁｮｳ",
+        "address2_kana": "ﾀﾞｲ2ﾁｮｳﾅｲ",
+        "pref": "北海道",
+        "address1": "雨竜郡雨竜町",
+        "address2": "第２町内",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

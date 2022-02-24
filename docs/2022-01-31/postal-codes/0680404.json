@@ -1,0 +1,19 @@
+[
+    {
+        "code": "01209",
+        "postal_old": "06804",
+        "postal_new": "0680404",
+        "pref_kana": "ﾎｯｶｲﾄﾞｳ",
+        "address1_kana": "ﾕｳﾊﾞﾘｼ",
+        "address2_kana": "ｼｮｳﾜ",
+        "pref": "北海道",
+        "address1": "夕張市",
+        "address2": "昭和",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

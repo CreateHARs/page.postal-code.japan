@@ -1,0 +1,19 @@
+[
+    {
+        "code": "20411",
+        "postal_old": "39921",
+        "postal_new": "3992101",
+        "pref_kana": "ﾅｶﾞﾉｹﾝ",
+        "address1_kana": "ｼﾓｲﾅｸﾞﾝｼﾓｼﾞｮｳﾑﾗ",
+        "address2_kana": "ﾑﾂｻﾞﾜ",
+        "pref": "長野県",
+        "address1": "下伊那郡下條村",
+        "address2": "睦沢",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

@@ -1,0 +1,19 @@
+[
+    {
+        "code": "18207",
+        "postal_old": "916  ",
+        "postal_new": "9160018",
+        "pref_kana": "ﾌｸｲｹﾝ",
+        "address1_kana": "ｻﾊﾞｴｼ",
+        "address2_kana": "ｻｲﾜｲﾁｮｳ",
+        "pref": "福井県",
+        "address1": "鯖江市",
+        "address2": "幸町",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "1",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

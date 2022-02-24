@@ -1,0 +1,19 @@
+[
+    {
+        "code": "15217",
+        "postal_old": "944  ",
+        "postal_new": "9440004",
+        "pref_kana": "ﾆｲｶﾞﾀｹﾝ",
+        "address1_kana": "ﾐｮｳｺｳｼ",
+        "address2_kana": "ｺｸｶ",
+        "pref": "新潟県",
+        "address1": "妙高市",
+        "address2": "国賀",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

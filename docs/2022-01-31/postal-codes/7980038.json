@@ -1,0 +1,19 @@
+[
+    {
+        "code": "38203",
+        "postal_old": "798  ",
+        "postal_new": "7980038",
+        "pref_kana": "ｴﾋﾒｹﾝ",
+        "address1_kana": "ｳﾜｼﾞﾏｼ",
+        "address2_kana": "ﾏﾙｵ(ﾊﾞﾝﾁ)",
+        "pref": "愛媛県",
+        "address1": "宇和島市",
+        "address2": "丸穂（番地）",
+        "is_multi_code": "1",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

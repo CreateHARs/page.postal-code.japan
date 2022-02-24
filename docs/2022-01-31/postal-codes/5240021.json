@@ -1,0 +1,36 @@
+[
+    {
+        "code": "25207",
+        "postal_old": "524  ",
+        "postal_new": "5240021",
+        "pref_kana": "ｼｶﾞｹﾝ",
+        "address1_kana": "ﾓﾘﾔﾏｼ",
+        "address2_kana": "ﾖｼﾐ",
+        "pref": "滋賀県",
+        "address1": "守山市",
+        "address2": "吉身",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "1",
+        "is_multi_place": "1",
+        "is_updated": "0",
+        "update_reason": "0"
+    },
+    {
+        "code": "25207",
+        "postal_old": "524  ",
+        "postal_new": "5240021",
+        "pref_kana": "ｼｶﾞｹﾝ",
+        "address1_kana": "ﾓﾘﾔﾏｼ",
+        "address2_kana": "ﾖｼﾐﾁｮｳ",
+        "pref": "滋賀県",
+        "address1": "守山市",
+        "address2": "吉身町",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "1",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

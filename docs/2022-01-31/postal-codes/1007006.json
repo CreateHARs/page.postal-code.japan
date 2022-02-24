@@ -1,0 +1,19 @@
+[
+    {
+        "code": "13101",
+        "postal_old": "100  ",
+        "postal_new": "1007006",
+        "pref_kana": "ﾄｳｷｮｳﾄ",
+        "address1_kana": "ﾁﾖﾀﾞｸ",
+        "address2_kana": "ﾏﾙﾉｳﾁｼﾞｪｲﾋﾟｰﾀﾜｰ(6ｶｲ)",
+        "pref": "東京都",
+        "address1": "千代田区",
+        "address2": "丸の内ＪＰタワー（６階）",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

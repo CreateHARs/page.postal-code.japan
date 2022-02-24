@@ -1,0 +1,19 @@
+[
+    {
+        "code": "23211",
+        "postal_old": "47003",
+        "postal_new": "4700331",
+        "pref_kana": "ｱｲﾁｹﾝ",
+        "address1_kana": "ﾄﾖﾀｼ",
+        "address2_kana": "ﾋﾗﾄﾊﾞｼﾁｮｳ",
+        "pref": "愛知県",
+        "address1": "豊田市",
+        "address2": "平戸橋町",
+        "is_multi_code": "0",
+        "is_koaza": "1",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

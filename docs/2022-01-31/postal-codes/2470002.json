@@ -1,0 +1,19 @@
+[
+    {
+        "code": "14115",
+        "postal_old": "247  ",
+        "postal_new": "2470002",
+        "pref_kana": "ｶﾅｶﾞﾜｹﾝ",
+        "address1_kana": "ﾖｺﾊﾏｼｻｶｴｸ",
+        "address2_kana": "ｺﾔﾏﾀﾞｲ",
+        "pref": "神奈川県",
+        "address1": "横浜市栄区",
+        "address2": "小山台",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "1",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

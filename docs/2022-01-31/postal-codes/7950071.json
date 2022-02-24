@@ -1,0 +1,19 @@
+[
+    {
+        "code": "38207",
+        "postal_old": "795  ",
+        "postal_new": "7950071",
+        "pref_kana": "ｴﾋﾒｹﾝ",
+        "address1_kana": "ｵｵｽﾞｼ",
+        "address2_kana": "ﾆｲﾔｵﾂ",
+        "pref": "愛媛県",
+        "address1": "大洲市",
+        "address2": "新谷乙",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

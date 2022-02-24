@@ -1,0 +1,19 @@
+[
+    {
+        "code": "13106",
+        "postal_old": "111  ",
+        "postal_new": "1110056",
+        "pref_kana": "ﾄｳｷｮｳﾄ",
+        "address1_kana": "ﾀｲﾄｳｸ",
+        "address2_kana": "ｺｼﾞﾏ",
+        "pref": "東京都",
+        "address1": "台東区",
+        "address2": "小島",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "1",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

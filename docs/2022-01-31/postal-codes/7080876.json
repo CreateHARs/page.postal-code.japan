@@ -1,0 +1,19 @@
+[
+    {
+        "code": "33203",
+        "postal_old": "708  ",
+        "postal_new": "7080876",
+        "pref_kana": "ｵｶﾔﾏｹﾝ",
+        "address1_kana": "ﾂﾔﾏｼ",
+        "address2_kana": "ﾀｶｵ",
+        "pref": "岡山県",
+        "address1": "津山市",
+        "address2": "高尾",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

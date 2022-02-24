@@ -1,0 +1,36 @@
+[
+    {
+        "code": "34106",
+        "postal_old": "73917",
+        "postal_new": "7391733",
+        "pref_kana": "ﾋﾛｼﾏｹﾝ",
+        "address1_kana": "ﾋﾛｼﾏｼｱｻｷﾀｸ",
+        "address2_kana": "ｸﾁﾀﾐﾅﾐ",
+        "pref": "広島県",
+        "address1": "広島市安佐北区",
+        "address2": "口田南",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "1",
+        "is_multi_place": "1",
+        "is_updated": "0",
+        "update_reason": "0"
+    },
+    {
+        "code": "34106",
+        "postal_old": "73917",
+        "postal_new": "7391733",
+        "pref_kana": "ﾋﾛｼﾏｹﾝ",
+        "address1_kana": "ﾋﾛｼﾏｼｱｻｷﾀｸ",
+        "address2_kana": "ｸﾁﾀﾐﾅﾐﾏﾁ",
+        "pref": "広島県",
+        "address1": "広島市安佐北区",
+        "address2": "口田南町",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "1",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

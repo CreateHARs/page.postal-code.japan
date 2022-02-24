@@ -1,0 +1,19 @@
+[
+    {
+        "code": "08302",
+        "postal_old": "31131",
+        "postal_new": "3113134",
+        "pref_kana": "ｲﾊﾞﾗｷｹﾝ",
+        "address1_kana": "ﾋｶﾞｼｲﾊﾞﾗｷｸﾞﾝｲﾊﾞﾗｷﾏﾁ",
+        "address2_kana": "ｶﾐﾔﾄﾞ",
+        "pref": "茨城県",
+        "address1": "東茨城郡茨城町",
+        "address2": "神宿",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

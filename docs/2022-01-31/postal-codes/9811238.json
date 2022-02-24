@@ -1,0 +1,19 @@
+[
+    {
+        "code": "04207",
+        "postal_old": "98112",
+        "postal_new": "9811238",
+        "pref_kana": "ﾐﾔｷﾞｹﾝ",
+        "address1_kana": "ﾅﾄﾘｼ",
+        "address2_kana": "ﾒﾃﾞｼﾏｶｻｼﾏ",
+        "pref": "宮城県",
+        "address1": "名取市",
+        "address2": "愛島笠島",
+        "is_multi_code": "0",
+        "is_koaza": "1",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

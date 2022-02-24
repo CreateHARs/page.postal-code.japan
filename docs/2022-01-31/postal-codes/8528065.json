@@ -1,0 +1,19 @@
+[
+    {
+        "code": "42201",
+        "postal_old": "852  ",
+        "postal_new": "8528065",
+        "pref_kana": "ﾅｶﾞｻｷｹﾝ",
+        "address1_kana": "ﾅｶﾞｻｷｼ",
+        "address2_kana": "ﾖｺｵ",
+        "pref": "長崎県",
+        "address1": "長崎市",
+        "address2": "横尾",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "1",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

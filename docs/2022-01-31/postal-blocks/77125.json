@@ -1,0 +1,53 @@
+[
+    {
+        "code": "36489",
+        "postal_old": "77125",
+        "postal_new": "7712501",
+        "pref_kana": "ﾄｸｼﾏｹﾝ",
+        "address1_kana": "ﾐﾖｼｸﾞﾝﾋｶﾞｼﾐﾖｼﾁｮｳ",
+        "address2_kana": "ﾋﾙﾏ",
+        "pref": "徳島県",
+        "address1": "三好郡東みよし町",
+        "address2": "昼間",
+        "is_multi_code": "0",
+        "is_koaza": "1",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    },
+    {
+        "code": "36489",
+        "postal_old": "77125",
+        "postal_new": "7712502",
+        "pref_kana": "ﾄｸｼﾏｹﾝ",
+        "address1_kana": "ﾐﾖｼｸﾞﾝﾋｶﾞｼﾐﾖｼﾁｮｳ",
+        "address2_kana": "ｱｼﾛ",
+        "pref": "徳島県",
+        "address1": "三好郡東みよし町",
+        "address2": "足代",
+        "is_multi_code": "0",
+        "is_koaza": "1",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    },
+    {
+        "code": "36489",
+        "postal_old": "77125",
+        "postal_new": "7712503",
+        "pref_kana": "ﾄｸｼﾏｹﾝ",
+        "address1_kana": "ﾐﾖｼｸﾞﾝﾋｶﾞｼﾐﾖｼﾁｮｳ",
+        "address2_kana": "ﾋｶﾞｼﾔﾏ",
+        "pref": "徳島県",
+        "address1": "三好郡東みよし町",
+        "address2": "東山",
+        "is_multi_code": "0",
+        "is_koaza": "1",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

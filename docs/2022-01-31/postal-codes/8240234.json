@@ -1,0 +1,19 @@
+[
+    {
+        "code": "40625",
+        "postal_old": "82402",
+        "postal_new": "8240234",
+        "pref_kana": "ﾌｸｵｶｹﾝ",
+        "address1_kana": "ﾐﾔｺｸﾞﾝﾐﾔｺﾏﾁ",
+        "address2_kana": "ｼﾓﾀｶﾔﾀﾞﾝﾁ",
+        "pref": "福岡県",
+        "address1": "京都郡みやこ町",
+        "address2": "下高屋団地",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

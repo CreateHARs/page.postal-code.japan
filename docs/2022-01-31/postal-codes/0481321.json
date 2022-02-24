@@ -1,0 +1,36 @@
+[
+    {
+        "code": "01394",
+        "postal_old": "04813",
+        "postal_new": "0481321",
+        "pref_kana": "ﾎｯｶｲﾄﾞｳ",
+        "address1_kana": "ｲｿﾔｸﾞﾝﾗﾝｺｼﾁｮｳ",
+        "address2_kana": "ｺﾝﾌﾞｵﾝｾﾝ",
+        "pref": "北海道",
+        "address1": "磯谷郡蘭越町",
+        "address2": "昆布温泉",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "1",
+        "is_updated": "0",
+        "update_reason": "0"
+    },
+    {
+        "code": "01394",
+        "postal_old": "04813",
+        "postal_new": "0481321",
+        "pref_kana": "ﾎｯｶｲﾄﾞｳ",
+        "address1_kana": "ｲｿﾔｸﾞﾝﾗﾝｺｼﾁｮｳ",
+        "address2_kana": "ﾕﾉｻﾄ",
+        "pref": "北海道",
+        "address1": "磯谷郡蘭越町",
+        "address2": "湯里",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "1",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

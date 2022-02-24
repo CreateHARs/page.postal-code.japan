@@ -1,0 +1,19 @@
+[
+    {
+        "code": "01607",
+        "postal_old": "05934",
+        "postal_new": "0593462",
+        "pref_kana": "ﾎｯｶｲﾄﾞｳ",
+        "address1_kana": "ｳﾗｶﾜｸﾞﾝｳﾗｶﾜﾁｮｳ",
+        "address2_kana": "ﾄﾐｻﾄ",
+        "pref": "北海道",
+        "address1": "浦河郡浦河町",
+        "address2": "富里",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

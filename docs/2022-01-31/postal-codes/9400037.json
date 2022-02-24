@@ -1,0 +1,19 @@
+[
+    {
+        "code": "15202",
+        "postal_old": "940  ",
+        "postal_new": "9400037",
+        "pref_kana": "ﾆｲｶﾞﾀｹﾝ",
+        "address1_kana": "ﾅｶﾞｵｶｼ",
+        "address2_kana": "ﾋｶﾞｼｻｶｴ",
+        "pref": "新潟県",
+        "address1": "長岡市",
+        "address2": "東栄",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "1",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

@@ -1,0 +1,19 @@
+[
+    {
+        "code": "23203",
+        "postal_old": "491  ",
+        "postal_new": "4910804",
+        "pref_kana": "ｱｲﾁｹﾝ",
+        "address1_kana": "ｲﾁﾉﾐﾔｼ",
+        "address2_kana": "ﾁｱｷﾁｮｳｻﾉ",
+        "pref": "愛知県",
+        "address1": "一宮市",
+        "address2": "千秋町佐野",
+        "is_multi_code": "0",
+        "is_koaza": "1",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

@@ -1,0 +1,19 @@
+[
+    {
+        "code": "40348",
+        "postal_old": "81125",
+        "postal_new": "8112503",
+        "pref_kana": "ﾌｸｵｶｹﾝ",
+        "address1_kana": "ｶｽﾔｸﾞﾝﾋｻﾔﾏﾏﾁ",
+        "address2_kana": "ｲﾉ",
+        "pref": "福岡県",
+        "address1": "糟屋郡久山町",
+        "address2": "猪野",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

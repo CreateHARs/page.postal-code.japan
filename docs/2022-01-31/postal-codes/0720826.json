@@ -1,0 +1,19 @@
+[
+    {
+        "code": "01215",
+        "postal_old": "072  ",
+        "postal_new": "0720826",
+        "pref_kana": "ﾎｯｶｲﾄﾞｳ",
+        "address1_kana": "ﾋﾞﾊﾞｲｼ",
+        "address2_kana": "ﾐﾅﾐﾋﾞﾊﾞｲﾁｮｳｻｶｴﾏﾁﾐﾅﾐ",
+        "pref": "北海道",
+        "address1": "美唄市",
+        "address2": "南美唄町栄町南",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

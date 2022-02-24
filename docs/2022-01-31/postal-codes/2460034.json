@@ -1,0 +1,19 @@
+[
+    {
+        "code": "14114",
+        "postal_old": "246  ",
+        "postal_new": "2460034",
+        "pref_kana": "ｶﾅｶﾞﾜｹﾝ",
+        "address1_kana": "ﾖｺﾊﾏｼｾﾔｸ",
+        "address2_kana": "ﾐﾅﾐｾﾔ",
+        "pref": "神奈川県",
+        "address1": "横浜市瀬谷区",
+        "address2": "南瀬谷",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "1",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

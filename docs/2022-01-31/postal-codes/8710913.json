@@ -1,0 +1,19 @@
+[
+    {
+        "code": "40646",
+        "postal_old": "87109",
+        "postal_new": "8710913",
+        "pref_kana": "ﾌｸｵｶｹﾝ",
+        "address1_kana": "ﾁｸｼﾞｮｳｸﾞﾝｺｳｹﾞﾏﾁ",
+        "address2_kana": "ﾀﾙﾐ",
+        "pref": "福岡県",
+        "address1": "築上郡上毛町",
+        "address2": "垂水",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

@@ -1,0 +1,19 @@
+[
+    {
+        "code": "25209",
+        "postal_old": "528  ",
+        "postal_new": "5280025",
+        "pref_kana": "ｼｶﾞｹﾝ",
+        "address1_kana": "ｺｳｶｼ",
+        "address2_kana": "ﾐﾅｸﾁﾁｮｳﾆｼﾊﾔｼｸﾞﾁ",
+        "pref": "滋賀県",
+        "address1": "甲賀市",
+        "address2": "水口町西林口",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

@@ -1,0 +1,19 @@
+[
+    {
+        "code": "18322",
+        "postal_old": "91012",
+        "postal_new": "9101204",
+        "pref_kana": "ﾌｸｲｹﾝ",
+        "address1_kana": "ﾖｼﾀﾞｸﾞﾝｴｲﾍｲｼﾞﾁｮｳ",
+        "address2_kana": "ｲﾜﾉ",
+        "pref": "福井県",
+        "address1": "吉田郡永平寺町",
+        "address2": "岩野",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

@@ -1,0 +1,19 @@
+[
+    {
+        "code": "11202",
+        "postal_old": "36002",
+        "postal_new": "3600217",
+        "pref_kana": "ｻｲﾀﾏｹﾝ",
+        "address1_kana": "ｸﾏｶﾞﾔｼ",
+        "address2_kana": "ｶﾐﾈ",
+        "pref": "埼玉県",
+        "address1": "熊谷市",
+        "address2": "上根",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

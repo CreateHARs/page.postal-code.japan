@@ -1,0 +1,19 @@
+[
+    {
+        "code": "03211",
+        "postal_old": "026  ",
+        "postal_new": "0260002",
+        "pref_kana": "ｲﾜﾃｹﾝ",
+        "address1_kana": "ｶﾏｲｼｼ",
+        "address2_kana": "ｵｵﾀﾞｲﾗﾁｮｳ",
+        "pref": "岩手県",
+        "address1": "釜石市",
+        "address2": "大平町",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "1",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

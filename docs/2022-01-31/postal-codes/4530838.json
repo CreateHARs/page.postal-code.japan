@@ -1,0 +1,19 @@
+[
+    {
+        "code": "23105",
+        "postal_old": "453  ",
+        "postal_new": "4530838",
+        "pref_kana": "ｱｲﾁｹﾝ",
+        "address1_kana": "ﾅｺﾞﾔｼﾅｶﾑﾗｸ",
+        "address2_kana": "ﾑｺｳｼﾞﾏﾁｮｳ",
+        "pref": "愛知県",
+        "address1": "名古屋市中村区",
+        "address2": "向島町",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "1",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

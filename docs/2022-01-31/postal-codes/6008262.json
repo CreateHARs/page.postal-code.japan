@@ -1,0 +1,36 @@
+[
+    {
+        "code": "26106",
+        "postal_old": "600  ",
+        "postal_new": "6008262",
+        "pref_kana": "ｷｮｳﾄﾌ",
+        "address1_kana": "ｷｮｳﾄｼｼﾓｷﾞｮｳｸ",
+        "address2_kana": "ﾔｵﾔﾁｮｳ",
+        "pref": "京都府",
+        "address1": "京都市下京区",
+        "address2": "八百屋町（七条通猪熊通東入、七条通東堀川西入、七条通堀川西",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    },
+    {
+        "code": "26106",
+        "postal_old": "600  ",
+        "postal_new": "6008262",
+        "pref_kana": "ｷｮｳﾄﾌ",
+        "address1_kana": "ｷｮｳﾄｼｼﾓｷﾞｮｳｸ",
+        "address2_kana": "ﾔｵﾔﾁｮｳ",
+        "pref": "京都府",
+        "address1": "京都市下京区",
+        "address2": "入、七条通堀川西入下る、東堀川通七条下る西入、下魚棚通堀川西入）",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

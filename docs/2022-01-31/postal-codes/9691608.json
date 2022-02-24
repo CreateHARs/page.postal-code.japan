@@ -1,0 +1,19 @@
+[
+    {
+        "code": "07301",
+        "postal_old": "96916",
+        "postal_new": "9691608",
+        "pref_kana": "ﾌｸｼﾏｹﾝ",
+        "address1_kana": "ﾀﾞﾃｸﾞﾝｺｵﾘﾏﾁ",
+        "address2_kana": "ｼﾊﾞﾂﾂﾐ",
+        "pref": "福島県",
+        "address1": "伊達郡桑折町",
+        "address2": "芝堤",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

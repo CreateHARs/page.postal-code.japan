@@ -1,0 +1,19 @@
+[
+    {
+        "code": "21215",
+        "postal_old": "50121",
+        "postal_new": "5012103",
+        "pref_kana": "ｷﾞﾌｹﾝ",
+        "address1_kana": "ﾔﾏｶﾞﾀｼ",
+        "address2_kana": "ｼｸﾞﾗ",
+        "pref": "岐阜県",
+        "address1": "山県市",
+        "address2": "椎倉",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

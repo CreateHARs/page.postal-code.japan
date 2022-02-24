@@ -1,0 +1,19 @@
+[
+    {
+        "code": "17211",
+        "postal_old": "92312",
+        "postal_new": "9231226",
+        "pref_kana": "ｲｼｶﾜｹﾝ",
+        "address1_kana": "ﾉﾐｼ",
+        "address2_kana": "ﾐﾄﾞﾘｶﾞｵｶ",
+        "pref": "石川県",
+        "address1": "能美市",
+        "address2": "緑が丘",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "1",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

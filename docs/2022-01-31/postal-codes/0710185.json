@@ -1,0 +1,19 @@
+[
+    {
+        "code": "01204",
+        "postal_old": "07101",
+        "postal_new": "0710185",
+        "pref_kana": "ﾎｯｶｲﾄﾞｳ",
+        "address1_kana": "ｱｻﾋｶﾜｼ",
+        "address2_kana": "ﾆｼｶｸﾞﾗ5ｾﾝ",
+        "pref": "北海道",
+        "address1": "旭川市",
+        "address2": "西神楽５線",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

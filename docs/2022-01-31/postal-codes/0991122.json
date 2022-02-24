@@ -1,0 +1,19 @@
+[
+    {
+        "code": "01550",
+        "postal_old": "09911",
+        "postal_new": "0991122",
+        "pref_kana": "ﾎｯｶｲﾄﾞｳ",
+        "address1_kana": "ﾄｺﾛｸﾞﾝｵｹﾄﾁｮｳ",
+        "address2_kana": "ﾘﾝﾕｳ",
+        "pref": "北海道",
+        "address1": "常呂郡置戸町",
+        "address2": "林友",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

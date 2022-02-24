@@ -1,0 +1,19 @@
+[
+    {
+        "code": "03207",
+        "postal_old": "028  ",
+        "postal_new": "0280022",
+        "pref_kana": "ｲﾜﾃｹﾝ",
+        "address1_kana": "ｸｼﾞｼ",
+        "address2_kana": "ﾀﾔﾁｮｳ",
+        "pref": "岩手県",
+        "address1": "久慈市",
+        "address2": "田屋町",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

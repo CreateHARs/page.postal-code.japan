@@ -1,0 +1,53 @@
+[
+    {
+        "code": "32449",
+        "postal_old": "69606",
+        "postal_new": "6960601",
+        "pref_kana": "ｼﾏﾈｹﾝ",
+        "address1_kana": "ｵｵﾁｸﾞﾝｵｵﾅﾝﾁｮｳ",
+        "address2_kana": "ｳｴﾀﾞ",
+        "pref": "島根県",
+        "address1": "邑智郡邑南町",
+        "address2": "上田",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    },
+    {
+        "code": "32449",
+        "postal_old": "69606",
+        "postal_new": "6960602",
+        "pref_kana": "ｼﾏﾈｹﾝ",
+        "address1_kana": "ｵｵﾁｸﾞﾝｵｵﾅﾝﾁｮｳ",
+        "address2_kana": "ｶﾐｸﾁﾊﾞ",
+        "pref": "島根県",
+        "address1": "邑智郡邑南町",
+        "address2": "上口羽",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    },
+    {
+        "code": "32449",
+        "postal_old": "69606",
+        "postal_new": "6960603",
+        "pref_kana": "ｼﾏﾈｹﾝ",
+        "address1_kana": "ｵｵﾁｸﾞﾝｵｵﾅﾝﾁｮｳ",
+        "address2_kana": "ｼﾓｸﾁﾊﾞ",
+        "pref": "島根県",
+        "address1": "邑智郡邑南町",
+        "address2": "下口羽",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

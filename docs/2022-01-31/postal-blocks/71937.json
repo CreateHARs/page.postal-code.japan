@@ -1,0 +1,36 @@
+[
+    {
+        "code": "33210",
+        "postal_old": "71937",
+        "postal_new": "7193701",
+        "pref_kana": "ｵｶﾔﾏｹﾝ",
+        "address1_kana": "ﾆｲﾐｼ",
+        "address2_kana": "ﾃｯｾｲﾁｮｳﾔﾀﾞ",
+        "pref": "岡山県",
+        "address1": "新見市",
+        "address2": "哲西町矢田",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    },
+    {
+        "code": "33210",
+        "postal_old": "71937",
+        "postal_new": "7193702",
+        "pref_kana": "ｵｶﾔﾏｹﾝ",
+        "address1_kana": "ﾆｲﾐｼ",
+        "address2_kana": "ﾃｯｾｲﾁｮｳｶﾐｺｳｼﾞﾛ",
+        "pref": "岡山県",
+        "address1": "新見市",
+        "address2": "哲西町上神代",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

@@ -1,0 +1,19 @@
+[
+    {
+        "code": "26365",
+        "postal_old": "61912",
+        "postal_new": "6191204",
+        "pref_kana": "ｷｮｳﾄﾌ",
+        "address1_kana": "ｿｳﾗｸｸﾞﾝﾜﾂﾞｶﾁｮｳ",
+        "address2_kana": "ﾓﾝｾﾞﾝ",
+        "pref": "京都府",
+        "address1": "相楽郡和束町",
+        "address2": "門前",
+        "is_multi_code": "0",
+        "is_koaza": "1",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

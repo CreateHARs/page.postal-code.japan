@@ -1,0 +1,53 @@
+[
+    {
+        "code": "20215",
+        "postal_old": "39963",
+        "postal_new": "3996301",
+        "pref_kana": "ﾅｶﾞﾉｹﾝ",
+        "address1_kana": "ｼｵｼﾞﾘｼ",
+        "address2_kana": "ﾆｴｶﾜ",
+        "pref": "長野県",
+        "address1": "塩尻市",
+        "address2": "贄川",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    },
+    {
+        "code": "20215",
+        "postal_old": "39963",
+        "postal_new": "3996302",
+        "pref_kana": "ﾅｶﾞﾉｹﾝ",
+        "address1_kana": "ｼｵｼﾞﾘｼ",
+        "address2_kana": "ｷｿﾋﾗｻﾜ",
+        "pref": "長野県",
+        "address1": "塩尻市",
+        "address2": "木曽平沢",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    },
+    {
+        "code": "20215",
+        "postal_old": "39963",
+        "postal_new": "3996303",
+        "pref_kana": "ﾅｶﾞﾉｹﾝ",
+        "address1_kana": "ｼｵｼﾞﾘｼ",
+        "address2_kana": "ﾅﾗｲ",
+        "pref": "長野県",
+        "address1": "塩尻市",
+        "address2": "奈良井",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

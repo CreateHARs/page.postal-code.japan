@@ -1,0 +1,19 @@
+[
+    {
+        "code": "31384",
+        "postal_old": "68935",
+        "postal_new": "6893552",
+        "pref_kana": "ﾄｯﾄﾘｹﾝ",
+        "address1_kana": "ｻｲﾊｸｸﾞﾝﾋｴﾂﾞｿﾝ",
+        "address2_kana": "ﾄﾐﾖｼ",
+        "pref": "鳥取県",
+        "address1": "西伯郡日吉津村",
+        "address2": "富吉",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

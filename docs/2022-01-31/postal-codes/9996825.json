@@ -1,0 +1,19 @@
+[
+    {
+        "code": "06204",
+        "postal_old": "99968",
+        "postal_new": "9996825",
+        "pref_kana": "ﾔﾏｶﾞﾀｹﾝ",
+        "address1_kana": "ｻｶﾀｼ",
+        "address2_kana": "ﾐﾅﾐﾏﾁ",
+        "pref": "山形県",
+        "address1": "酒田市",
+        "address2": "南町",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

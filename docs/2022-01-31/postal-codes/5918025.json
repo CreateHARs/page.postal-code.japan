@@ -1,0 +1,19 @@
+[
+    {
+        "code": "27146",
+        "postal_old": "591  ",
+        "postal_new": "5918025",
+        "pref_kana": "ｵｵｻｶﾌ",
+        "address1_kana": "ｻｶｲｼｷﾀｸ",
+        "address2_kana": "ﾅｶﾞｿﾈﾁｮｳ",
+        "pref": "大阪府",
+        "address1": "堺市北区",
+        "address2": "長曽根町",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

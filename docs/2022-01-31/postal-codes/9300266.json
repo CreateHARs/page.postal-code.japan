@@ -1,0 +1,36 @@
+[
+    {
+        "code": "16323",
+        "postal_old": "93002",
+        "postal_new": "9300266",
+        "pref_kana": "ﾄﾔﾏｹﾝ",
+        "address1_kana": "ﾅｶﾆｲｶﾜｸﾞﾝﾀﾃﾔﾏﾏﾁ",
+        "address2_kana": "ﾐﾂﾂﾞｶ",
+        "pref": "富山県",
+        "address1": "中新川郡立山町",
+        "address2": "三ツ塚",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "1",
+        "is_updated": "0",
+        "update_reason": "0"
+    },
+    {
+        "code": "16323",
+        "postal_old": "93002",
+        "postal_new": "9300266",
+        "pref_kana": "ﾄﾔﾏｹﾝ",
+        "address1_kana": "ﾅｶﾆｲｶﾜｸﾞﾝﾀﾃﾔﾏﾏﾁ",
+        "address2_kana": "ﾐﾂﾂﾞｶｼﾝ",
+        "pref": "富山県",
+        "address1": "中新川郡立山町",
+        "address2": "三ツ塚新",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "1",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

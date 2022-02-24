@@ -1,0 +1,19 @@
+[
+    {
+        "code": "41203",
+        "postal_old": "841  ",
+        "postal_new": "8410064",
+        "pref_kana": "ｻｶﾞｹﾝ",
+        "address1_kana": "ﾄｽｼ",
+        "address2_kana": "ﾐｼﾏﾏﾁ",
+        "pref": "佐賀県",
+        "address1": "鳥栖市",
+        "address2": "三島町",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

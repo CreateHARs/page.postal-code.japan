@@ -1,0 +1,19 @@
+[
+    {
+        "code": "01452",
+        "postal_old": "07112",
+        "postal_new": "0711201",
+        "pref_kana": "ﾎｯｶｲﾄﾞｳ",
+        "address1_kana": "ｶﾐｶﾜｸﾞﾝﾀｶｽﾁｮｳ",
+        "address2_kana": "ﾐﾅﾐ1ｼﾞｮｳ",
+        "pref": "北海道",
+        "address1": "上川郡鷹栖町",
+        "address2": "南一条",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "1",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

@@ -1,0 +1,19 @@
+[
+    {
+        "code": "28213",
+        "postal_old": "67903",
+        "postal_new": "6790312",
+        "pref_kana": "ﾋｮｳｺﾞｹﾝ",
+        "address1_kana": "ﾆｼﾜｷｼ",
+        "address2_kana": "ｸﾛﾀﾞｼｮｳﾁｮｳﾓﾝﾘｭｳ",
+        "pref": "兵庫県",
+        "address1": "西脇市",
+        "address2": "黒田庄町門柳",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

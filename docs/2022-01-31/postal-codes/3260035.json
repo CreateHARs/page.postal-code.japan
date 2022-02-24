@@ -1,0 +1,19 @@
+[
+    {
+        "code": "09202",
+        "postal_old": "326  ",
+        "postal_new": "3260035",
+        "pref_kana": "ﾄﾁｷﾞｹﾝ",
+        "address1_kana": "ｱｼｶｶﾞｼ",
+        "address2_kana": "ﾖｼﾁｮｳ",
+        "pref": "栃木県",
+        "address1": "足利市",
+        "address2": "芳町",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

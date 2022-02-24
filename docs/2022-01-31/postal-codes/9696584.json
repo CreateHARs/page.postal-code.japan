@@ -1,0 +1,19 @@
+[
+    {
+        "code": "07421",
+        "postal_old": "96965",
+        "postal_new": "9696584",
+        "pref_kana": "ﾌｸｼﾏｹﾝ",
+        "address1_kana": "ｶﾜﾇﾏｸﾞﾝｱｲﾂﾞﾊﾞﾝｹﾞﾏﾁ",
+        "address2_kana": "ﾄｳﾃﾞﾗ",
+        "pref": "福島県",
+        "address1": "河沼郡会津坂下町",
+        "address2": "塔寺",
+        "is_multi_code": "0",
+        "is_koaza": "1",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

@@ -1,0 +1,19 @@
+[
+    {
+        "code": "27223",
+        "postal_old": "571  ",
+        "postal_new": "5710041",
+        "pref_kana": "ｵｵｻｶﾌ",
+        "address1_kana": "ｶﾄﾞﾏｼ",
+        "address2_kana": "ﾔﾅｷﾞﾏﾁ",
+        "pref": "大阪府",
+        "address1": "門真市",
+        "address2": "柳町",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

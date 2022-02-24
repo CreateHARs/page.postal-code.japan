@@ -1,0 +1,19 @@
+[
+    {
+        "code": "02208",
+        "postal_old": "03947",
+        "postal_new": "0394701",
+        "pref_kana": "ｱｵﾓﾘｹﾝ",
+        "address1_kana": "ﾑﾂｼ",
+        "address2_kana": "ｶﾜｳﾁﾏﾁ(ｲﾀｹﾞﾄﾞ､ﾉﾀﾞｲ､ﾌｸｳﾗﾔﾏ)",
+        "pref": "青森県",
+        "address1": "むつ市",
+        "address2": "川内町（板家戸、野平、福浦山）",
+        "is_multi_code": "1",
+        "is_koaza": "1",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

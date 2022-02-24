@@ -1,0 +1,19 @@
+[
+    {
+        "code": "04216",
+        "postal_old": "98133",
+        "postal_new": "9813329",
+        "pref_kana": "ﾐﾔｷﾞｹﾝ",
+        "address1_kana": "ﾄﾐﾔｼ",
+        "address2_kana": "ｵｵｼﾐｽﾞ",
+        "pref": "宮城県",
+        "address1": "富谷市",
+        "address2": "大清水",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "1",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

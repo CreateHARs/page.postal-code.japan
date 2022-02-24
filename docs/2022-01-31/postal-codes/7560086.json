@@ -1,0 +1,19 @@
+[
+    {
+        "code": "35216",
+        "postal_old": "756  ",
+        "postal_new": "7560086",
+        "pref_kana": "ﾔﾏｸﾞﾁｹﾝ",
+        "address1_kana": "ｻﾝﾖｳｵﾉﾀﾞｼ",
+        "address2_kana": "ｶﾐﾎﾁｮｳ",
+        "pref": "山口県",
+        "address1": "山陽小野田市",
+        "address2": "神帆町",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

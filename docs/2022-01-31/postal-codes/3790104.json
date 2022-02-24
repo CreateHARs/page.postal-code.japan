@@ -1,0 +1,19 @@
+[
+    {
+        "code": "10211",
+        "postal_old": "37901",
+        "postal_new": "3790104",
+        "pref_kana": "ｸﾞﾝﾏｹﾝ",
+        "address1_kana": "ｱﾝﾅｶｼ",
+        "address2_kana": "ｼﾓｱｷﾏ",
+        "pref": "群馬県",
+        "address1": "安中市",
+        "address2": "下秋間",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

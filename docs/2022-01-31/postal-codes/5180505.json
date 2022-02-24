@@ -1,0 +1,19 @@
+[
+    {
+        "code": "24208",
+        "postal_old": "51805",
+        "postal_new": "5180505",
+        "pref_kana": "ﾐｴｹﾝ",
+        "address1_kana": "ﾅﾊﾞﾘｼ",
+        "address2_kana": "ﾅｶﾞｷ",
+        "pref": "三重県",
+        "address1": "名張市",
+        "address2": "奈垣",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

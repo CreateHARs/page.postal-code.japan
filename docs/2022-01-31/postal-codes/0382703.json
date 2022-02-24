@@ -1,0 +1,19 @@
+[
+    {
+        "code": "02321",
+        "postal_old": "03827",
+        "postal_new": "0382703",
+        "pref_kana": "ｱｵﾓﾘｹﾝ",
+        "address1_kana": "ﾆｼﾂｶﾞﾙｸﾞﾝｱｼﾞｶﾞｻﾜﾏﾁ",
+        "address2_kana": "ｺﾔｼｷﾏﾁ",
+        "pref": "青森県",
+        "address1": "西津軽郡鰺ヶ沢町",
+        "address2": "小屋敷町",
+        "is_multi_code": "0",
+        "is_koaza": "1",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

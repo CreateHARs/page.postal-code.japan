@@ -1,0 +1,19 @@
+[
+    {
+        "code": "01454",
+        "postal_old": "07813",
+        "postal_new": "0781335",
+        "pref_kana": "ﾎｯｶｲﾄﾞｳ",
+        "address1_kana": "ｶﾐｶﾜｸﾞﾝﾄｳﾏﾁｮｳ",
+        "address2_kana": "ﾛｸｺﾞｳ",
+        "pref": "北海道",
+        "address1": "上川郡当麻町",
+        "address2": "緑郷",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

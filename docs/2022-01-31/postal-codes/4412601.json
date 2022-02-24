@@ -1,0 +1,19 @@
+[
+    {
+        "code": "23561",
+        "postal_old": "44126",
+        "postal_new": "4412601",
+        "pref_kana": "ｱｲﾁｹﾝ",
+        "address1_kana": "ｷﾀｼﾀﾗｸﾞﾝｼﾀﾗﾁｮｳ",
+        "address2_kana": "ﾂｸﾞ",
+        "pref": "愛知県",
+        "address1": "北設楽郡設楽町",
+        "address2": "津具",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

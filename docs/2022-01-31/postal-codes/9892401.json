@@ -1,0 +1,19 @@
+[
+    {
+        "code": "04207",
+        "postal_old": "98924",
+        "postal_new": "9892401",
+        "pref_kana": "ﾐﾔｷﾞｹﾝ",
+        "address1_kana": "ﾅﾄﾘｼ",
+        "address2_kana": "ｼﾓﾏｽﾀﾞ(ﾐﾅﾐﾊﾗﾑﾊﾞﾝﾁ､ｾﾝﾀﾞｲｸｳｺｳｶﾝｹｲｼｾﾂ)",
+        "pref": "宮城県",
+        "address1": "名取市",
+        "address2": "下増田（南原無番地、仙台空港関係施設）",
+        "is_multi_code": "1",
+        "is_koaza": "1",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

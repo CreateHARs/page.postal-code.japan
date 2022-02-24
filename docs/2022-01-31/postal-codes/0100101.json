@@ -1,0 +1,19 @@
+[
+    {
+        "code": "05211",
+        "postal_old": "01001",
+        "postal_new": "0100101",
+        "pref_kana": "ｱｷﾀｹﾝ",
+        "address1_kana": "ｶﾀｶﾞﾐｼ",
+        "address2_kana": "ﾃﾝﾉｳ(ｵｲﾜｹ､ｵｲﾜｹﾆｼ､ｶﾐｷﾀﾉ､ﾅｶﾞﾇﾏ)",
+        "pref": "秋田県",
+        "address1": "潟上市",
+        "address2": "天王（追分、追分西、上北野、長沼）",
+        "is_multi_code": "1",
+        "is_koaza": "1",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

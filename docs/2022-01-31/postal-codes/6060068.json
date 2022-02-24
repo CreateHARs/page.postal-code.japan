@@ -1,0 +1,36 @@
+[
+    {
+        "code": "26103",
+        "postal_old": "606  ",
+        "postal_new": "6060068",
+        "pref_kana": "ｷｮｳﾄﾌ",
+        "address1_kana": "ｷｮｳﾄｼｻｷｮｳｸ",
+        "address2_kana": "ﾔｾﾉｾﾁｮｳ(277ﾉ2､279ﾉ1､3-5､281ﾉ2-9､11",
+        "pref": "京都府",
+        "address1": "京都市左京区",
+        "address2": "八瀬野瀬町（２７７の２、２７９の１、３〜５、２８１の２〜９、１１",
+        "is_multi_code": "1",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    },
+    {
+        "code": "26103",
+        "postal_old": "606  ",
+        "postal_new": "6060068",
+        "pref_kana": "ｷｮｳﾄﾌ",
+        "address1_kana": "ｷｮｳﾄｼｻｷｮｳｸ",
+        "address2_kana": "-18､20-22､24-26､32､287､300ﾊﾞﾝﾁ)",
+        "pref": "京都府",
+        "address1": "京都市左京区",
+        "address2": "〜１８、２０〜２２、２４〜２６、３２、２８７、３００番地）",
+        "is_multi_code": "1",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

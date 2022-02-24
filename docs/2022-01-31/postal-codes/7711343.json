@@ -1,0 +1,19 @@
+[
+    {
+        "code": "36405",
+        "postal_old": "77113",
+        "postal_new": "7711343",
+        "pref_kana": "ﾄｸｼﾏｹﾝ",
+        "address1_kana": "ｲﾀﾉｸﾞﾝｶﾐｲﾀﾁｮｳ",
+        "address2_kana": "ｼｲﾉﾓﾄ",
+        "pref": "徳島県",
+        "address1": "板野郡上板町",
+        "address2": "椎本",
+        "is_multi_code": "0",
+        "is_koaza": "1",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

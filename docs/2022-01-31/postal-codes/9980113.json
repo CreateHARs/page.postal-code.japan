@@ -1,0 +1,19 @@
+[
+    {
+        "code": "06204",
+        "postal_old": "99801",
+        "postal_new": "9980113",
+        "pref_kana": "ﾔﾏｶﾞﾀｹﾝ",
+        "address1_kana": "ｻｶﾀｼ",
+        "address2_kana": "ﾋﾛｵｶｼﾝﾃﾞﾝ",
+        "pref": "山形県",
+        "address1": "酒田市",
+        "address2": "広岡新田",
+        "is_multi_code": "0",
+        "is_koaza": "1",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

@@ -1,0 +1,19 @@
+[
+    {
+        "code": "31325",
+        "postal_old": "68007",
+        "postal_new": "6800711",
+        "pref_kana": "ﾄｯﾄﾘｹﾝ",
+        "address1_kana": "ﾔｽﾞｸﾞﾝﾜｶｻﾁｮｳ",
+        "address2_kana": "ﾐｸﾗ",
+        "pref": "鳥取県",
+        "address1": "八頭郡若桜町",
+        "address2": "三倉",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

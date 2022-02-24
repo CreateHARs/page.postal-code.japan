@@ -1,0 +1,19 @@
+[
+    {
+        "code": "40210",
+        "postal_old": "83412",
+        "postal_new": "8341222",
+        "pref_kana": "ﾌｸｵｶｹﾝ",
+        "address1_kana": "ﾔﾒｼ",
+        "address2_kana": "ｸﾛｷﾞﾏﾁｶｻﾊﾗ",
+        "pref": "福岡県",
+        "address1": "八女市",
+        "address2": "黒木町笠原",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

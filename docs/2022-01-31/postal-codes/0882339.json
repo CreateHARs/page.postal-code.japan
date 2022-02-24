@@ -1,0 +1,36 @@
+[
+    {
+        "code": "01664",
+        "postal_old": "08823",
+        "postal_new": "0882339",
+        "pref_kana": "ﾎｯｶｲﾄﾞｳ",
+        "address1_kana": "ｶﾜｶﾐｸﾞﾝｼﾍﾞﾁｬﾁｮｳ",
+        "address2_kana": "ｶﾐﾀﾜ",
+        "pref": "北海道",
+        "address1": "川上郡標茶町",
+        "address2": "上多和",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "1",
+        "is_updated": "0",
+        "update_reason": "0"
+    },
+    {
+        "code": "01664",
+        "postal_old": "08823",
+        "postal_new": "0882339",
+        "pref_kana": "ﾎｯｶｲﾄﾞｳ",
+        "address1_kana": "ｶﾜｶﾐｸﾞﾝｼﾍﾞﾁｬﾁｮｳ",
+        "address2_kana": "ﾀﾜ(ｿﾉﾀ)",
+        "pref": "北海道",
+        "address1": "川上郡標茶町",
+        "address2": "多和（その他）",
+        "is_multi_code": "1",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "1",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

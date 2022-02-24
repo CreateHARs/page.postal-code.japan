@@ -1,0 +1,19 @@
+[
+    {
+        "code": "07564",
+        "postal_old": "96018",
+        "postal_new": "9601812",
+        "pref_kana": "ﾌｸｼﾏｹﾝ",
+        "address1_kana": "ｿｳﾏｸﾞﾝｲｲﾀﾃﾑﾗ",
+        "address2_kana": "ｱｼﾊﾗ",
+        "pref": "福島県",
+        "address1": "相馬郡飯舘村",
+        "address2": "芦原",
+        "is_multi_code": "0",
+        "is_koaza": "1",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

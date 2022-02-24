@@ -1,0 +1,19 @@
+[
+    {
+        "code": "25210",
+        "postal_old": "52402",
+        "postal_new": "5240202",
+        "pref_kana": "ｼｶﾞｹﾝ",
+        "address1_kana": "ﾔｽｼ",
+        "address2_kana": "ｱﾔﾒ",
+        "pref": "滋賀県",
+        "address1": "野洲市",
+        "address2": "菖蒲",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

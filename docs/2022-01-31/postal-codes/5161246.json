@@ -1,0 +1,19 @@
+[
+    {
+        "code": "24470",
+        "postal_old": "51612",
+        "postal_new": "5161246",
+        "pref_kana": "ﾐｴｹﾝ",
+        "address1_kana": "ﾜﾀﾗｲｸﾞﾝﾜﾀﾗｲﾁｮｳ",
+        "address2_kana": "ﾜｷﾃﾞ",
+        "pref": "三重県",
+        "address1": "度会郡度会町",
+        "address2": "脇出",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

@@ -1,0 +1,19 @@
+[
+    {
+        "code": "09301",
+        "postal_old": "32906",
+        "postal_new": "3290601",
+        "pref_kana": "ﾄﾁｷﾞｹﾝ",
+        "address1_kana": "ｶﾜﾁｸﾞﾝｶﾐﾉｶﾜﾏﾁ",
+        "address2_kana": "ｶﾐﾌﾊﾞｻﾐ",
+        "pref": "栃木県",
+        "address1": "河内郡上三川町",
+        "address2": "上文挾",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

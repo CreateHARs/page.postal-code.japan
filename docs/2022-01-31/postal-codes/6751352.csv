@@ -1,0 +1,4 @@
+code,postal_old,postal_new,pref_kana,address1_kana,address2_kana,pref,address1,address2,is_multi_code,is_koaza,is_choume,is_multi_place,is_updated,update_reason
+28218,67513,6751352,ﾋｮｳｺﾞｹﾝ,ｵﾉｼ,ｱｵﾉｶﾞﾊﾗﾁｮｳ,兵庫県,小野市,青野ケ原町,0,0,0,1,0,0
+28218,67513,6751352,ﾋｮｳｺﾞｹﾝ,ｵﾉｼ,ﾆｼﾔﾏﾁｮｳ,兵庫県,小野市,西山町,0,0,0,1,0,0
+28218,67513,6751352,ﾋｮｳｺﾞｹﾝ,ｵﾉｼ,ﾌｸｲﾁｮｳ,兵庫県,小野市,復井町,0,0,0,1,0,0

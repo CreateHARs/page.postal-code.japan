@@ -1,0 +1,19 @@
+[
+    {
+        "code": "20303",
+        "postal_old": "38411",
+        "postal_new": "3841103",
+        "pref_kana": "ﾅｶﾞﾉｹﾝ",
+        "address1_kana": "ﾐﾅﾐｻｸｸﾞﾝｺｳﾐﾏﾁ",
+        "address2_kana": "ﾄﾖｻﾄ",
+        "pref": "長野県",
+        "address1": "南佐久郡小海町",
+        "address2": "豊里",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

@@ -1,0 +1,19 @@
+[
+    {
+        "code": "28218",
+        "postal_old": "67513",
+        "postal_new": "6751367",
+        "pref_kana": "ﾋｮｳｺﾞｹﾝ",
+        "address1_kana": "ｵﾉｼ",
+        "address2_kana": "ｼｷｼﾞﾁｮｳ",
+        "pref": "兵庫県",
+        "address1": "小野市",
+        "address2": "敷地町",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

@@ -1,0 +1,19 @@
+[
+    {
+        "code": "07205",
+        "postal_old": "96104",
+        "postal_new": "9610404",
+        "pref_kana": "ﾌｸｼﾏｹﾝ",
+        "address1_kana": "ｼﾗｶﾜｼ",
+        "address2_kana": "ｵﾓﾃｺﾞｳﾔｼﾛﾀﾞ",
+        "pref": "福島県",
+        "address1": "白河市",
+        "address2": "表郷社田",
+        "is_multi_code": "0",
+        "is_koaza": "1",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

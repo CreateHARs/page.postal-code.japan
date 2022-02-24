@@ -1,0 +1,53 @@
+[
+    {
+        "code": "45403",
+        "postal_old": "88113",
+        "postal_new": "8811301",
+        "pref_kana": "ﾐﾔｻﾞｷｹﾝ",
+        "address1_kana": "ｺﾕｸﾞﾝﾆｼﾒﾗｿﾝ",
+        "address2_kana": "ｺｼﾉｵ",
+        "pref": "宮崎県",
+        "address1": "児湯郡西米良村",
+        "address2": "越野尾",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    },
+    {
+        "code": "45403",
+        "postal_old": "88113",
+        "postal_new": "8811302",
+        "pref_kana": "ﾐﾔｻﾞｷｹﾝ",
+        "address1_kana": "ｺﾕｸﾞﾝﾆｼﾒﾗｿﾝ",
+        "address2_kana": "ｵｶﾞﾜ",
+        "pref": "宮崎県",
+        "address1": "児湯郡西米良村",
+        "address2": "小川",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    },
+    {
+        "code": "45403",
+        "postal_old": "88113",
+        "postal_new": "8811303",
+        "pref_kana": "ﾐﾔｻﾞｷｹﾝ",
+        "address1_kana": "ｺﾕｸﾞﾝﾆｼﾒﾗｿﾝ",
+        "address2_kana": "ﾖｺﾉ",
+        "pref": "宮崎県",
+        "address1": "児湯郡西米良村",
+        "address2": "横野",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

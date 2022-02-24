@@ -1,0 +1,19 @@
+[
+    {
+        "code": "01453",
+        "postal_old": "07115",
+        "postal_new": "0711556",
+        "pref_kana": "ﾎｯｶｲﾄﾞｳ",
+        "address1_kana": "ｶﾐｶﾜｸﾞﾝﾋｶﾞｼｶｸﾞﾗﾁｮｳ",
+        "address2_kana": "26ｺﾞｳ",
+        "pref": "北海道",
+        "address1": "上川郡東神楽町",
+        "address2": "２６号",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

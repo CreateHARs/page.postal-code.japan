@@ -1,0 +1,19 @@
+[
+    {
+        "code": "12231",
+        "postal_old": "27013",
+        "postal_new": "2702308",
+        "pref_kana": "ﾁﾊﾞｹﾝ",
+        "address1_kana": "ｲﾝｻﾞｲｼ",
+        "address2_kana": "ﾓﾄﾉｺﾊﾞﾔｼ",
+        "pref": "千葉県",
+        "address1": "印西市",
+        "address2": "本埜小林",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

@@ -1,0 +1,19 @@
+[
+    {
+        "code": "28202",
+        "postal_old": "661  ",
+        "postal_new": "6610975",
+        "pref_kana": "ﾋｮｳｺﾞｹﾝ",
+        "address1_kana": "ｱﾏｶﾞｻｷｼ",
+        "address2_kana": "ｼﾓｻｶﾍﾞ",
+        "pref": "兵庫県",
+        "address1": "尼崎市",
+        "address2": "下坂部",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "1",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

@@ -1,0 +1,36 @@
+[
+    {
+        "code": "22325",
+        "postal_old": "411  ",
+        "postal_new": "4110001",
+        "pref_kana": "ｼｽﾞｵｶｹﾝ",
+        "address1_kana": "ﾀｶﾞﾀｸﾞﾝｶﾝﾅﾐﾁｮｳ",
+        "address2_kana": "ｸﾜﾊﾗ(ｲﾊﾞﾗｶﾞﾋﾗ)",
+        "pref": "静岡県",
+        "address1": "田方郡函南町",
+        "address2": "桑原（茨ケ平）",
+        "is_multi_code": "1",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "1",
+        "is_updated": "0",
+        "update_reason": "0"
+    },
+    {
+        "code": "22325",
+        "postal_old": "411  ",
+        "postal_new": "4110001",
+        "pref_kana": "ｼｽﾞｵｶｹﾝ",
+        "address1_kana": "ﾀｶﾞﾀｸﾞﾝｶﾝﾅﾐﾁｮｳ",
+        "address2_kana": "ｸﾜﾊﾗ(ﾊｺﾈﾄｳｹﾞ)",
+        "pref": "静岡県",
+        "address1": "田方郡函南町",
+        "address2": "桑原（箱根峠）",
+        "is_multi_code": "1",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "1",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

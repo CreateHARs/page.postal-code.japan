@@ -1,0 +1,19 @@
+[
+    {
+        "code": "02387",
+        "postal_old": "03705",
+        "postal_new": "0370524",
+        "pref_kana": "ｱｵﾓﾘｹﾝ",
+        "address1_kana": "ｷﾀﾂｶﾞﾙｸﾞﾝﾅｶﾄﾞﾏﾘﾏﾁ",
+        "address2_kana": "ｺﾄﾞﾏﾘﾐｽﾞﾉﾏ",
+        "pref": "青森県",
+        "address1": "北津軽郡中泊町",
+        "address2": "小泊水澗",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

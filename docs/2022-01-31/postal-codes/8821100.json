@@ -1,0 +1,19 @@
+[
+    {
+        "code": "45441",
+        "postal_old": "88211",
+        "postal_new": "8821100",
+        "pref_kana": "ﾐﾔｻﾞｷｹﾝ",
+        "address1_kana": "ﾆｼｳｽｷｸﾞﾝﾀｶﾁﾎﾁｮｳ",
+        "address2_kana": "ｲｶﾆｹｲｻｲｶﾞﾅｲﾊﾞｱｲ",
+        "pref": "宮崎県",
+        "address1": "西臼杵郡高千穂町",
+        "address2": "以下に掲載がない場合",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

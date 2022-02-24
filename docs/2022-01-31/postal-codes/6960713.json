@@ -1,0 +1,19 @@
+[
+    {
+        "code": "32448",
+        "postal_old": "69604",
+        "postal_new": "6960713",
+        "pref_kana": "ｼﾏﾈｹﾝ",
+        "address1_kana": "ｵｵﾁｸﾞﾝﾐｻﾄﾁｮｳ",
+        "address2_kana": "ﾑﾗﾉｺﾞｳ",
+        "pref": "島根県",
+        "address1": "邑智郡美郷町",
+        "address2": "村之郷",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

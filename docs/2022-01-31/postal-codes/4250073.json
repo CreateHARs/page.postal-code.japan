@@ -1,0 +1,19 @@
+[
+    {
+        "code": "22212",
+        "postal_old": "425  ",
+        "postal_new": "4250073",
+        "pref_kana": "ｼｽﾞｵｶｹﾝ",
+        "address1_kana": "ﾔｲﾂﾞｼ",
+        "address2_kana": "ｵﾔｲﾂﾞ",
+        "pref": "静岡県",
+        "address1": "焼津市",
+        "address2": "小柳津",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

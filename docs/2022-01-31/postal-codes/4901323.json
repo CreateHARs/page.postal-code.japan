@@ -1,0 +1,36 @@
+[
+    {
+        "code": "23220",
+        "postal_old": "49013",
+        "postal_new": "4901323",
+        "pref_kana": "ｱｲﾁｹﾝ",
+        "address1_kana": "ｲﾅｻﾞﾜｼ",
+        "address2_kana": "ﾍｲﾜﾁｮｳ(ｺｳﾜ､ｼｵｶﾜ､ｼﾓｺｼｷﾀ､ｼﾓｺｼﾅｶ､ｼﾓｺｼﾋｶﾞｼ､ｼﾓｺｼﾐﾅﾐ､ｼｮﾊﾞﾀｼﾝﾃﾞﾝ､ｼﾛﾆｼ､",
+        "pref": "愛知県",
+        "address1": "稲沢市",
+        "address2": "平和町（光和、塩川、下起北、下起中、下起東、下起南、勝幡新田、城西、",
+        "is_multi_code": "1",
+        "is_koaza": "1",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    },
+    {
+        "code": "23220",
+        "postal_old": "49013",
+        "postal_new": "4901323",
+        "pref_kana": "ｱｲﾁｹﾝ",
+        "address1_kana": "ｲﾅｻﾞﾜｼ",
+        "address2_kana": "ｼﾛﾉｳﾁ､ｽｶﾜｷ､ﾅｺﾗ､ﾍｲﾛｸ､ﾏｴﾋﾗ､ﾒｲﾜ､ﾖﾒﾌﾘ､ﾖﾒﾌﾘｷﾀ､ﾖﾒﾌﾘﾋｶﾞｼ､ﾘｮｳﾅｲ)",
+        "pref": "愛知県",
+        "address1": "稲沢市",
+        "address2": "城之内、須ケ脇、那古良、平六、前平、明和、嫁振、嫁振北、嫁振東、領内）",
+        "is_multi_code": "1",
+        "is_koaza": "1",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

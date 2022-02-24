@@ -1,0 +1,19 @@
+[
+    {
+        "code": "14341",
+        "postal_old": "255  ",
+        "postal_new": "2550003",
+        "pref_kana": "ｶﾅｶﾞﾜｹﾝ",
+        "address1_kana": "ﾅｶｸﾞﾝｵｵｲｿﾏﾁ",
+        "address2_kana": "ｵｵｲｿ",
+        "pref": "神奈川県",
+        "address1": "中郡大磯町",
+        "address2": "大磯",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

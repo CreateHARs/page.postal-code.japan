@@ -1,0 +1,19 @@
+[
+    {
+        "code": "43203",
+        "postal_old": "86808",
+        "postal_new": "8680813",
+        "pref_kana": "ｸﾏﾓﾄｹﾝ",
+        "address1_kana": "ﾋﾄﾖｼｼ",
+        "address2_kana": "ﾔﾀｹﾏﾁ",
+        "pref": "熊本県",
+        "address1": "人吉市",
+        "address2": "矢岳町",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

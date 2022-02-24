@@ -1,0 +1,36 @@
+[
+    {
+        "code": "16205",
+        "postal_old": "93501",
+        "postal_new": "9350115",
+        "pref_kana": "ﾄﾔﾏｹﾝ",
+        "address1_kana": "ﾋﾐｼ",
+        "address2_kana": "ｸﾗﾎﾞﾈ",
+        "pref": "富山県",
+        "address1": "氷見市",
+        "address2": "鞍骨",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "1",
+        "is_updated": "0",
+        "update_reason": "0"
+    },
+    {
+        "code": "16205",
+        "postal_old": "93501",
+        "postal_new": "9350115",
+        "pref_kana": "ﾄﾔﾏｹﾝ",
+        "address1_kana": "ﾋﾐｼ",
+        "address2_kana": "ﾎｺﾈ",
+        "pref": "富山県",
+        "address1": "氷見市",
+        "address2": "鉾根",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "1",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

@@ -1,0 +1,36 @@
+[
+    {
+        "code": "29208",
+        "postal_old": "63922",
+        "postal_new": "6392262",
+        "pref_kana": "ﾅﾗｹﾝ",
+        "address1_kana": "ｺﾞｾｼ",
+        "address2_kana": "ﾋｶﾞｼﾓｯﾀ",
+        "pref": "奈良県",
+        "address1": "御所市",
+        "address2": "東持田",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "1",
+        "is_updated": "0",
+        "update_reason": "0"
+    },
+    {
+        "code": "29208",
+        "postal_old": "63922",
+        "postal_new": "6392262",
+        "pref_kana": "ﾅﾗｹﾝ",
+        "address1_kana": "ｺﾞｾｼ",
+        "address2_kana": "ﾓｯﾀ",
+        "pref": "奈良県",
+        "address1": "御所市",
+        "address2": "持田",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "1",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

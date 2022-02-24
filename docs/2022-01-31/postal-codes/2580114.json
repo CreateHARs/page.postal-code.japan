@@ -1,0 +1,19 @@
+[
+    {
+        "code": "14364",
+        "postal_old": "25801",
+        "postal_new": "2580114",
+        "pref_kana": "ｶﾅｶﾞﾜｹﾝ",
+        "address1_kana": "ｱｼｶﾞﾗｶﾐｸﾞﾝﾔﾏｷﾀﾏﾁ",
+        "address2_kana": "ﾋﾗﾔﾏ",
+        "pref": "神奈川県",
+        "address1": "足柄上郡山北町",
+        "address2": "平山",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

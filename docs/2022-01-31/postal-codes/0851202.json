@@ -1,0 +1,19 @@
+[
+    {
+        "code": "01667",
+        "postal_old": "08512",
+        "postal_new": "0851202",
+        "pref_kana": "ﾎｯｶｲﾄﾞｳ",
+        "address1_kana": "ｱｶﾝｸﾞﾝﾂﾙｲﾑﾗ",
+        "address2_kana": "ﾅｶｾﾂﾘ(ﾆｼ)",
+        "pref": "北海道",
+        "address1": "阿寒郡鶴居村",
+        "address2": "中雪裡（西）",
+        "is_multi_code": "1",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

@@ -1,0 +1,19 @@
+[
+    {
+        "code": "05202",
+        "postal_old": "01831",
+        "postal_new": "0183111",
+        "pref_kana": "ｱｷﾀｹﾝ",
+        "address1_kana": "ﾉｼﾛｼ",
+        "address2_kana": "ﾌﾀﾂｲﾏﾁﾀｼﾛ",
+        "pref": "秋田県",
+        "address1": "能代市",
+        "address2": "二ツ井町田代",
+        "is_multi_code": "0",
+        "is_koaza": "1",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

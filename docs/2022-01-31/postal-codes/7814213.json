@@ -1,0 +1,19 @@
+[
+    {
+        "code": "39212",
+        "postal_old": "78142",
+        "postal_new": "7814213",
+        "pref_kana": "ｺｳﾁｹﾝ",
+        "address1_kana": "ｶﾐｼ",
+        "address2_kana": "ｶﾎｸﾁｮｳｼﾓﾉｼﾞﾘ",
+        "pref": "高知県",
+        "address1": "香美市",
+        "address2": "香北町下野尻",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

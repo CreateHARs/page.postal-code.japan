@@ -1,0 +1,53 @@
+[
+    {
+        "code": "02323",
+        "postal_old": "03824",
+        "postal_new": "0382411",
+        "pref_kana": "ｱｵﾓﾘｹﾝ",
+        "address1_kana": "ﾆｼﾂｶﾞﾙｸﾞﾝﾌｶｳﾗﾏﾁ",
+        "address2_kana": "ｶｿｾ",
+        "pref": "青森県",
+        "address1": "西津軽郡深浦町",
+        "address2": "風合瀬",
+        "is_multi_code": "0",
+        "is_koaza": "1",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    },
+    {
+        "code": "02323",
+        "postal_old": "03824",
+        "postal_new": "0382412",
+        "pref_kana": "ｱｵﾓﾘｹﾝ",
+        "address1_kana": "ﾆｼﾂｶﾞﾙｸﾞﾝﾌｶｳﾗﾏﾁ",
+        "address2_kana": "ﾄﾄﾞﾛｷ",
+        "pref": "青森県",
+        "address1": "西津軽郡深浦町",
+        "address2": "驫木",
+        "is_multi_code": "0",
+        "is_koaza": "1",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    },
+    {
+        "code": "02323",
+        "postal_old": "03824",
+        "postal_new": "0382413",
+        "pref_kana": "ｱｵﾓﾘｹﾝ",
+        "address1_kana": "ﾆｼﾂｶﾞﾙｸﾞﾝﾌｶｳﾗﾏﾁ",
+        "address2_kana": "ｵｲﾗｾ",
+        "pref": "青森県",
+        "address1": "西津軽郡深浦町",
+        "address2": "追良瀬",
+        "is_multi_code": "0",
+        "is_koaza": "1",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

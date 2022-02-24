@@ -1,0 +1,19 @@
+[
+    {
+        "code": "23442",
+        "postal_old": "47021",
+        "postal_new": "4702102",
+        "pref_kana": "ｱｲﾁｹﾝ",
+        "address1_kana": "ﾁﾀｸﾞﾝﾋｶﾞｼｳﾗﾁｮｳ",
+        "address2_kana": "ｵｶﾞﾜ",
+        "pref": "愛知県",
+        "address1": "知多郡東浦町",
+        "address2": "緒川",
+        "is_multi_code": "0",
+        "is_koaza": "1",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

@@ -1,0 +1,19 @@
+[
+    {
+        "code": "43369",
+        "postal_old": "86501",
+        "postal_new": "8650126",
+        "pref_kana": "ｸﾏﾓﾄｹﾝ",
+        "address1_kana": "ﾀﾏﾅｸﾞﾝﾅｺﾞﾐﾏﾁ",
+        "address2_kana": "ﾏｴﾊﾞﾙ",
+        "pref": "熊本県",
+        "address1": "玉名郡和水町",
+        "address2": "前原",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

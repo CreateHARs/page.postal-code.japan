@@ -1,0 +1,19 @@
+[
+    {
+        "code": "11101",
+        "postal_old": "331  ",
+        "postal_new": "3310077",
+        "pref_kana": "ｻｲﾀﾏｹﾝ",
+        "address1_kana": "ｻｲﾀﾏｼﾆｼｸ",
+        "address2_kana": "ﾅｶｸｷﾞ",
+        "pref": "埼玉県",
+        "address1": "さいたま市西区",
+        "address2": "中釘",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

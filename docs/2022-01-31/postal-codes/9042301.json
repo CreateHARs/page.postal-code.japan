@@ -1,0 +1,19 @@
+[
+    {
+        "code": "47213",
+        "postal_old": "90423",
+        "postal_new": "9042301",
+        "pref_kana": "ｵｷﾅﾜｹﾝ",
+        "address1_kana": "ｳﾙﾏｼ",
+        "address2_kana": "ﾖﾅｼﾛﾃﾙﾏ",
+        "pref": "沖縄県",
+        "address1": "うるま市",
+        "address2": "与那城照間",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

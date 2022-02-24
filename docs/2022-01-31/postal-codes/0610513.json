@@ -1,0 +1,19 @@
+[
+    {
+        "code": "01430",
+        "postal_old": "06105",
+        "postal_new": "0610513",
+        "pref_kana": "ﾎｯｶｲﾄﾞｳ",
+        "address1_kana": "ｶﾊﾞﾄｸﾞﾝﾂｷｶﾞﾀﾁｮｳ",
+        "address2_kana": "ﾉｳｼﾞｶｲ",
+        "pref": "北海道",
+        "address1": "樺戸郡月形町",
+        "address2": "農事会",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

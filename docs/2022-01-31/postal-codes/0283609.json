@@ -1,0 +1,19 @@
+[
+    {
+        "code": "03322",
+        "postal_old": "02836",
+        "postal_new": "0283609",
+        "pref_kana": "ｲﾜﾃｹﾝ",
+        "address1_kana": "ｼﾜｸﾞﾝﾔﾊﾊﾞﾁｮｳ",
+        "address2_kana": "ｲﾀﾞｲﾄﾞｵﾘ",
+        "pref": "岩手県",
+        "address1": "紫波郡矢巾町",
+        "address2": "医大通",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "1",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

@@ -1,0 +1,19 @@
+[
+    {
+        "code": "01409",
+        "postal_old": "04605",
+        "postal_new": "0460531",
+        "pref_kana": "ﾎｯｶｲﾄﾞｳ",
+        "address1_kana": "ﾖｲﾁｸﾞﾝｱｶｲｶﾞﾜﾑﾗ",
+        "address2_kana": "ｱｻﾋｵｶ",
+        "pref": "北海道",
+        "address1": "余市郡赤井川村",
+        "address2": "旭丘",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

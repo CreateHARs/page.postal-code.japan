@@ -1,0 +1,19 @@
+[
+    {
+        "code": "01101",
+        "postal_old": "064  ",
+        "postal_new": "0640927",
+        "pref_kana": "ﾎｯｶｲﾄﾞｳ",
+        "address1_kana": "ｻｯﾎﾟﾛｼﾁｭｳｵｳｸ",
+        "address2_kana": "ﾐﾅﾐ27ｼﾞｮｳﾆｼ",
+        "pref": "北海道",
+        "address1": "札幌市中央区",
+        "address2": "南二十七条西",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "1",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

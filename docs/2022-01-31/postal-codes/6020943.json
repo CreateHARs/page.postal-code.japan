@@ -1,0 +1,19 @@
+[
+    {
+        "code": "26102",
+        "postal_old": "602  ",
+        "postal_new": "6020943",
+        "pref_kana": "ｷｮｳﾄﾌ",
+        "address1_kana": "ｷｮｳﾄｼｶﾐｷﾞｮｳｸ",
+        "address2_kana": "ｺｳﾄﾞｳﾁｮｳ(ｵｶﾞﾜﾄﾞｵﾘｲﾁｼﾞｮｳｱｶﾞﾙ､ｵｶﾞﾜﾄﾞｵﾘﾑｼｬｺｳｼﾞｻｶﾞﾙ､ﾑｼｬｺｳｼﾞﾄﾞｵﾘｵｶﾞﾜﾋｶﾞｼｲﾙ)",
+        "pref": "京都府",
+        "address1": "京都市上京区",
+        "address2": "革堂町（小川通一条上る、小川通武者小路下る、武者小路通小川東入）",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

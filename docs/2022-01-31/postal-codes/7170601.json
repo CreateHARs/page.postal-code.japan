@@ -1,0 +1,19 @@
+[
+    {
+        "code": "33214",
+        "postal_old": "71706",
+        "postal_new": "7170601",
+        "pref_kana": "ｵｶﾔﾏｹﾝ",
+        "address1_kana": "ﾏﾆﾜｼ",
+        "address2_kana": "ﾋﾙｾﾞﾝﾕﾌﾞﾈ",
+        "pref": "岡山県",
+        "address1": "真庭市",
+        "address2": "蒜山湯船",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

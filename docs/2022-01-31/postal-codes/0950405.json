@@ -1,0 +1,19 @@
+[
+    {
+        "code": "01220",
+        "postal_old": "09504",
+        "postal_new": "0950405",
+        "pref_kana": "ﾎｯｶｲﾄﾞｳ",
+        "address1_kana": "ｼﾍﾞﾂｼ",
+        "address2_kana": "ｱｻﾋﾁｮｳｻﾝｴｲ",
+        "pref": "北海道",
+        "address1": "士別市",
+        "address2": "朝日町三栄",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

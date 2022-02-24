@@ -1,0 +1,36 @@
+[
+    {
+        "code": "24205",
+        "postal_old": "511  ",
+        "postal_new": "5110851",
+        "pref_kana": "ﾐｴｹﾝ",
+        "address1_kana": "ｸﾜﾅｼ",
+        "address2_kana": "ｷﾎﾞｳｶﾞｵｶ",
+        "pref": "三重県",
+        "address1": "桑名市",
+        "address2": "希望ケ丘",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "1",
+        "is_updated": "0",
+        "update_reason": "0"
+    },
+    {
+        "code": "24205",
+        "postal_old": "511  ",
+        "postal_new": "5110851",
+        "pref_kana": "ﾐｴｹﾝ",
+        "address1_kana": "ｸﾜﾅｼ",
+        "address2_kana": "ﾆｼﾍﾞｯｼﾖ",
+        "pref": "三重県",
+        "address1": "桑名市",
+        "address2": "西別所",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "1",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

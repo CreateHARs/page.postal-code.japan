@@ -1,0 +1,19 @@
+[
+    {
+        "code": "45201",
+        "postal_old": "880  ",
+        "postal_new": "8800853",
+        "pref_kana": "ﾐﾔｻﾞｷｹﾝ",
+        "address1_kana": "ﾐﾔｻﾞｷｼ",
+        "address2_kana": "ﾅｶﾆｼﾁｮｳ",
+        "pref": "宮崎県",
+        "address1": "宮崎市",
+        "address2": "中西町",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

@@ -1,0 +1,53 @@
+[
+    {
+        "code": "11343",
+        "postal_old": "35503",
+        "postal_new": "3550300",
+        "pref_kana": "ｻｲﾀﾏｹﾝ",
+        "address1_kana": "ﾋｷｸﾞﾝｵｶﾞﾜﾏﾁ",
+        "address2_kana": "ｲｶﾆｹｲｻｲｶﾞﾅｲﾊﾞｱｲ",
+        "pref": "埼玉県",
+        "address1": "比企郡小川町",
+        "address2": "以下に掲載がない場合",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "1",
+        "is_updated": "0",
+        "update_reason": "0"
+    },
+    {
+        "code": "11349",
+        "postal_old": "35503",
+        "postal_new": "3550300",
+        "pref_kana": "ｻｲﾀﾏｹﾝ",
+        "address1_kana": "ﾋｷｸﾞﾝﾄｷｶﾞﾜﾏﾁ",
+        "address2_kana": "ｲｶﾆｹｲｻｲｶﾞﾅｲﾊﾞｱｲ",
+        "pref": "埼玉県",
+        "address1": "比企郡ときがわ町",
+        "address2": "以下に掲載がない場合",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "1",
+        "is_updated": "0",
+        "update_reason": "0"
+    },
+    {
+        "code": "11369",
+        "postal_old": "35503",
+        "postal_new": "3550300",
+        "pref_kana": "ｻｲﾀﾏｹﾝ",
+        "address1_kana": "ﾁﾁﾌﾞｸﾞﾝﾋｶﾞｼﾁﾁﾌﾞﾑﾗ",
+        "address2_kana": "ｲｶﾆｹｲｻｲｶﾞﾅｲﾊﾞｱｲ",
+        "pref": "埼玉県",
+        "address1": "秩父郡東秩父村",
+        "address2": "以下に掲載がない場合",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "1",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

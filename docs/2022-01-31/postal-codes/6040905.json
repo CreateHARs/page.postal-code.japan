@@ -1,0 +1,53 @@
+[
+    {
+        "code": "26104",
+        "postal_old": "604  ",
+        "postal_new": "6040905",
+        "pref_kana": "ｷｮｳﾄﾌ",
+        "address1_kana": "ｷｮｳﾄｼﾅｶｷﾞｮｳｸ",
+        "address2_kana": "ｳﾒﾉｷﾁｮｳ",
+        "pref": "京都府",
+        "address1": "京都市中京区",
+        "address2": "梅之木町（新烏丸通竹屋町上る、新烏丸通竹屋町下る、新烏丸通夷川上る、",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    },
+    {
+        "code": "26104",
+        "postal_old": "604  ",
+        "postal_new": "6040905",
+        "pref_kana": "ｷｮｳﾄﾌ",
+        "address1_kana": "ｷｮｳﾄｼﾅｶｷﾞｮｳｸ",
+        "address2_kana": "ｳﾒﾉｷﾁｮｳ",
+        "pref": "京都府",
+        "address1": "京都市中京区",
+        "address2": "夷川通新烏丸東入、夷川通新椹木町西入、竹屋町通新烏丸東入、竹屋町通椹木",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    },
+    {
+        "code": "26104",
+        "postal_old": "604  ",
+        "postal_new": "6040905",
+        "pref_kana": "ｷｮｳﾄﾌ",
+        "address1_kana": "ｷｮｳﾄｼﾅｶｷﾞｮｳｸ",
+        "address2_kana": "ｳﾒﾉｷﾁｮｳ",
+        "pref": "京都府",
+        "address1": "京都市中京区",
+        "address2": "町西入、新烏丸通御霊図子下る）",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

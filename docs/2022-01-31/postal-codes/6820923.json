@@ -1,0 +1,19 @@
+[
+    {
+        "code": "31203",
+        "postal_old": "682  ",
+        "postal_new": "6820923",
+        "pref_kana": "ﾄｯﾄﾘｹﾝ",
+        "address1_kana": "ｸﾗﾖｼｼ",
+        "address2_kana": "ｶﾓｶﾞﾜﾁｮｳ",
+        "pref": "鳥取県",
+        "address1": "倉吉市",
+        "address2": "鴨川町",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

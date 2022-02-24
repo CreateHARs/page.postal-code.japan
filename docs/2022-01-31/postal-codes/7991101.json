@@ -1,0 +1,19 @@
+[
+    {
+        "code": "38206",
+        "postal_old": "79911",
+        "postal_new": "7991101",
+        "pref_kana": "ｴﾋﾒｹﾝ",
+        "address1_kana": "ｻｲｼﾞｮｳｼ",
+        "address2_kana": "ｺﾏﾂﾁｮｳｼﾝﾔｼｷ",
+        "pref": "愛媛県",
+        "address1": "西条市",
+        "address2": "小松町新屋敷",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

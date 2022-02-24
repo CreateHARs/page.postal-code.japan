@@ -1,0 +1,53 @@
+[
+    {
+        "code": "24202",
+        "postal_old": "510  ",
+        "postal_new": "5100000",
+        "pref_kana": "ﾐｴｹﾝ",
+        "address1_kana": "ﾖｯｶｲﾁｼ",
+        "address2_kana": "ｲｶﾆｹｲｻｲｶﾞﾅｲﾊﾞｱｲ",
+        "pref": "三重県",
+        "address1": "四日市市",
+        "address2": "以下に掲載がない場合",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "1",
+        "is_updated": "0",
+        "update_reason": "0"
+    },
+    {
+        "code": "24343",
+        "postal_old": "512  ",
+        "postal_new": "5100000",
+        "pref_kana": "ﾐｴｹﾝ",
+        "address1_kana": "ﾐｴｸﾞﾝｱｻﾋﾁｮｳ",
+        "address2_kana": "ｲｶﾆｹｲｻｲｶﾞﾅｲﾊﾞｱｲ",
+        "pref": "三重県",
+        "address1": "三重郡朝日町",
+        "address2": "以下に掲載がない場合",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "1",
+        "is_updated": "0",
+        "update_reason": "0"
+    },
+    {
+        "code": "24344",
+        "postal_old": "512  ",
+        "postal_new": "5100000",
+        "pref_kana": "ﾐｴｹﾝ",
+        "address1_kana": "ﾐｴｸﾞﾝｶﾜｺﾞｴﾁｮｳ",
+        "address2_kana": "ｲｶﾆｹｲｻｲｶﾞﾅｲﾊﾞｱｲ",
+        "pref": "三重県",
+        "address1": "三重郡川越町",
+        "address2": "以下に掲載がない場合",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "1",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

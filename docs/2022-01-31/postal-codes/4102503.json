@@ -1,0 +1,19 @@
+[
+    {
+        "code": "22222",
+        "postal_old": "41025",
+        "postal_new": "4102503",
+        "pref_kana": "ｼｽﾞｵｶｹﾝ",
+        "address1_kana": "ｲｽﾞｼ",
+        "address2_kana": "ｼﾞｮｳ",
+        "pref": "静岡県",
+        "address1": "伊豆市",
+        "address2": "城",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

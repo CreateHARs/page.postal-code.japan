@@ -1,0 +1,19 @@
+[
+    {
+        "code": "43215",
+        "postal_old": "863  ",
+        "postal_new": "8630021",
+        "pref_kana": "ｸﾏﾓﾄｹﾝ",
+        "address1_kana": "ｱﾏｸｻｼ",
+        "address2_kana": "ﾐﾅﾄﾏﾁ",
+        "pref": "熊本県",
+        "address1": "天草市",
+        "address2": "港町",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

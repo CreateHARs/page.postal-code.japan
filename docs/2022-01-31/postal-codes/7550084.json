@@ -1,0 +1,19 @@
+[
+    {
+        "code": "35202",
+        "postal_old": "755  ",
+        "postal_new": "7550084",
+        "pref_kana": "ﾔﾏｸﾞﾁｹﾝ",
+        "address1_kana": "ｳﾍﾞｼ",
+        "address2_kana": "ｶﾜｶﾐ",
+        "pref": "山口県",
+        "address1": "宇部市",
+        "address2": "川上",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

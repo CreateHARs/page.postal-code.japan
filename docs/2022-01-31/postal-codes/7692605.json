@@ -1,0 +1,19 @@
+[
+    {
+        "code": "37207",
+        "postal_old": "76926",
+        "postal_new": "7692605",
+        "pref_kana": "ｶｶﾞﾜｹﾝ",
+        "address1_kana": "ﾋｶﾞｼｶｶﾞﾜｼ",
+        "address2_kana": "ﾅｶｽｼﾞ",
+        "pref": "香川県",
+        "address1": "東かがわ市",
+        "address2": "中筋",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

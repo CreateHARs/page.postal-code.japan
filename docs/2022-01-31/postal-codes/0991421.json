@@ -1,0 +1,19 @@
+[
+    {
+        "code": "01549",
+        "postal_old": "09914",
+        "postal_new": "0991421",
+        "pref_kana": "ﾎｯｶｲﾄﾞｳ",
+        "address1_kana": "ﾄｺﾛｸﾞﾝｸﾝﾈｯﾌﾟﾁｮｳ",
+        "address2_kana": "ｺﾏｻﾄ",
+        "pref": "北海道",
+        "address1": "常呂郡訓子府町",
+        "address2": "駒里",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

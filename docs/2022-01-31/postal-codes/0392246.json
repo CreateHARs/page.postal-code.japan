@@ -1,0 +1,19 @@
+[
+    {
+        "code": "02203",
+        "postal_old": "03922",
+        "postal_new": "0392246",
+        "pref_kana": "ｱｵﾓﾘｹﾝ",
+        "address1_kana": "ﾊﾁﾉﾍｼ",
+        "address2_kana": "ｷｷｮｳﾉｺｳｷﾞｮｳﾀﾞﾝﾁ",
+        "pref": "青森県",
+        "address1": "八戸市",
+        "address2": "桔梗野工業団地",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "1",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

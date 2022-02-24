@@ -1,0 +1,19 @@
+[
+    {
+        "code": "19206",
+        "postal_old": "401  ",
+        "postal_new": "4010013",
+        "pref_kana": "ﾔﾏﾅｼｹﾝ",
+        "address1_kana": "ｵｵﾂｷｼ",
+        "address2_kana": "ｵｵﾂｷ(1-3ﾁｮｳﾒ)",
+        "pref": "山梨県",
+        "address1": "大月市",
+        "address2": "大月（１〜３丁目）",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "1",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

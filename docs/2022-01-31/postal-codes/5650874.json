@@ -1,0 +1,19 @@
+[
+    {
+        "code": "27205",
+        "postal_old": "565  ",
+        "postal_new": "5650874",
+        "pref_kana": "ｵｵｻｶﾌ",
+        "address1_kana": "ｽｲﾀｼ",
+        "address2_kana": "ﾌﾙｴﾀﾞｲ",
+        "pref": "大阪府",
+        "address1": "吹田市",
+        "address2": "古江台",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "1",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

@@ -1,0 +1,19 @@
+[
+    {
+        "code": "04212",
+        "postal_old": "98704",
+        "postal_new": "9870405",
+        "pref_kana": "ﾐﾔｷﾞｹﾝ",
+        "address1_kana": "ﾄﾒｼ",
+        "address2_kana": "ﾐﾅﾐｶﾀﾏﾁｼﾝﾅｶﾔﾏ",
+        "pref": "宮城県",
+        "address1": "登米市",
+        "address2": "南方町新中山",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

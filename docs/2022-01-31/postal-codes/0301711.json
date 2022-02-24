@@ -1,0 +1,36 @@
+[
+    {
+        "code": "02307",
+        "postal_old": "03017",
+        "postal_new": "0301711",
+        "pref_kana": "ｱｵﾓﾘｹﾝ",
+        "address1_kana": "ﾋｶﾞｼﾂｶﾞﾙｸﾞﾝｿﾄｶﾞﾊﾏﾏﾁ",
+        "address2_kana": "ﾐﾝﾏﾔｹﾞﾝﾍﾞｲﾏ",
+        "pref": "青森県",
+        "address1": "東津軽郡外ヶ浜町",
+        "address2": "三厩源兵衛間",
+        "is_multi_code": "0",
+        "is_koaza": "1",
+        "is_choume": "0",
+        "is_multi_place": "1",
+        "is_updated": "0",
+        "update_reason": "0"
+    },
+    {
+        "code": "02307",
+        "postal_old": "03017",
+        "postal_new": "0301711",
+        "pref_kana": "ｱｵﾓﾘｹﾝ",
+        "address1_kana": "ﾋｶﾞｼﾂｶﾞﾙｸﾞﾝｿﾄｶﾞﾊﾏﾏﾁ",
+        "address2_kana": "ﾐﾝﾏﾔﾀﾂﾊﾏ",
+        "pref": "青森県",
+        "address1": "東津軽郡外ヶ浜町",
+        "address2": "三厩龍浜",
+        "is_multi_code": "0",
+        "is_koaza": "1",
+        "is_choume": "0",
+        "is_multi_place": "1",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

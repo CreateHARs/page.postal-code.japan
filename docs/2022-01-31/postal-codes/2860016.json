@@ -1,0 +1,19 @@
+[
+    {
+        "code": "12211",
+        "postal_old": "286  ",
+        "postal_new": "2860016",
+        "pref_kana": "ﾁﾊﾞｹﾝ",
+        "address1_kana": "ﾅﾘﾀｼ",
+        "address2_kana": "ﾖﾈﾉ",
+        "pref": "千葉県",
+        "address1": "成田市",
+        "address2": "米野",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

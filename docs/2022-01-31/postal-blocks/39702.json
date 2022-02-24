@@ -1,0 +1,19 @@
+[
+    {
+        "code": "20429",
+        "postal_old": "39702",
+        "postal_new": "3970201",
+        "pref_kana": "ﾅｶﾞﾉｹﾝ",
+        "address1_kana": "ｷｿｸﾞﾝｵｳﾀｷﾑﾗ",
+        "address2_kana": "ｵｳﾀｷﾑﾗｲﾁｴﾝ",
+        "pref": "長野県",
+        "address1": "木曽郡王滝村",
+        "address2": "王滝村一円",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

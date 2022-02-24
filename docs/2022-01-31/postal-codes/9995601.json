@@ -1,0 +1,19 @@
+[
+    {
+        "code": "06364",
+        "postal_old": "99956",
+        "postal_new": "9995601",
+        "pref_kana": "ﾔﾏｶﾞﾀｹﾝ",
+        "address1_kana": "ﾓｶﾞﾐｸﾞﾝﾏﾑﾛｶﾞﾜﾏﾁ",
+        "address2_kana": "ｶﾜﾉｳﾁ(2-128ﾊﾞﾝﾁ､419-614ﾊﾞﾝﾁ､1717ﾊﾞﾝﾁ､ｻﾝﾀｷ､ﾊﾙｷ)",
+        "pref": "山形県",
+        "address1": "最上郡真室川町",
+        "address2": "川ノ内（２〜１２８番地、４１９〜６１４番地、１７１７番地、三滝、春木）",
+        "is_multi_code": "1",
+        "is_koaza": "1",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

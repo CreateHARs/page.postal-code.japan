@@ -1,0 +1,19 @@
+[
+    {
+        "code": "02450",
+        "postal_old": "03918",
+        "postal_new": "0391801",
+        "pref_kana": "ｱｵﾓﾘｹﾝ",
+        "address1_kana": "ｻﾝﾉﾍｸﾞﾝｼﾝｺﾞｳﾑﾗ",
+        "address2_kana": "ﾍﾗｲ",
+        "pref": "青森県",
+        "address1": "三戸郡新郷村",
+        "address2": "戸来",
+        "is_multi_code": "0",
+        "is_koaza": "1",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

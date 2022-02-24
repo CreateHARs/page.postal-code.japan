@@ -1,0 +1,19 @@
+[
+    {
+        "code": "32206",
+        "postal_old": "69204",
+        "postal_new": "6920412",
+        "pref_kana": "ｼﾏﾈｹﾝ",
+        "address1_kana": "ﾔｽｷﾞｼ",
+        "address2_kana": "ﾋﾛｾﾁｮｳｼﾓﾔﾏｻ",
+        "pref": "島根県",
+        "address1": "安来市",
+        "address2": "広瀬町下山佐",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

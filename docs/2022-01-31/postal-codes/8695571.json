@@ -1,0 +1,19 @@
+[
+    {
+        "code": "43482",
+        "postal_old": "86955",
+        "postal_new": "8695571",
+        "pref_kana": "ｸﾏﾓﾄｹﾝ",
+        "address1_kana": "ｱｼｷﾀｸﾞﾝｱｼｷﾀﾏﾁ",
+        "address2_kana": "ﾄﾖｵｶ",
+        "pref": "熊本県",
+        "address1": "葦北郡芦北町",
+        "address2": "豊岡",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

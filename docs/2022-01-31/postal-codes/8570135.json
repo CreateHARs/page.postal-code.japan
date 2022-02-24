@@ -1,0 +1,19 @@
+[
+    {
+        "code": "42202",
+        "postal_old": "85701",
+        "postal_new": "8570135",
+        "pref_kana": "ﾅｶﾞｻｷｹﾝ",
+        "address1_kana": "ｻｾﾎﾞｼ",
+        "address2_kana": "ｾﾄｺﾞｴﾁｮｳ",
+        "pref": "長崎県",
+        "address1": "佐世保市",
+        "address2": "瀬戸越町",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

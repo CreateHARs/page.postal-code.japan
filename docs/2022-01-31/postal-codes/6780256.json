@@ -1,0 +1,19 @@
+[
+    {
+        "code": "28212",
+        "postal_old": "67802",
+        "postal_new": "6780256",
+        "pref_kana": "ﾋｮｳｺﾞｹﾝ",
+        "address1_kana": "ｱｺｳｼ",
+        "address2_kana": "ﾃﾝﾜ",
+        "pref": "兵庫県",
+        "address1": "赤穂市",
+        "address2": "鷆和",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

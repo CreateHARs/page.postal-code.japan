@@ -1,0 +1,36 @@
+[
+    {
+        "code": "11223",
+        "postal_old": "335  ",
+        "postal_new": "3350000",
+        "pref_kana": "ｻｲﾀﾏｹﾝ",
+        "address1_kana": "ﾜﾗﾋﾞｼ",
+        "address2_kana": "ｲｶﾆｹｲｻｲｶﾞﾅｲﾊﾞｱｲ",
+        "pref": "埼玉県",
+        "address1": "蕨市",
+        "address2": "以下に掲載がない場合",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "1",
+        "is_updated": "0",
+        "update_reason": "0"
+    },
+    {
+        "code": "11224",
+        "postal_old": "335  ",
+        "postal_new": "3350000",
+        "pref_kana": "ｻｲﾀﾏｹﾝ",
+        "address1_kana": "ﾄﾀﾞｼ",
+        "address2_kana": "ｲｶﾆｹｲｻｲｶﾞﾅｲﾊﾞｱｲ",
+        "pref": "埼玉県",
+        "address1": "戸田市",
+        "address2": "以下に掲載がない場合",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "1",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

@@ -1,0 +1,19 @@
+[
+    {
+        "code": "02209",
+        "postal_old": "03831",
+        "postal_new": "0383144",
+        "pref_kana": "ｱｵﾓﾘｹﾝ",
+        "address1_kana": "ﾂｶﾞﾙｼ",
+        "address2_kana": "ｷﾂﾞｸﾘｱｹﾎﾞﾉ",
+        "pref": "青森県",
+        "address1": "つがる市",
+        "address2": "木造曙",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

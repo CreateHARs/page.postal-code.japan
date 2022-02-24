@@ -1,0 +1,19 @@
+[
+    {
+        "code": "19211",
+        "postal_old": "406  ",
+        "postal_new": "4060043",
+        "pref_kana": "ﾔﾏﾅｼｹﾝ",
+        "address1_kana": "ﾌｴﾌｷｼ",
+        "address2_kana": "ｲｻﾜﾁｮｳｺｳﾁ",
+        "pref": "山梨県",
+        "address1": "笛吹市",
+        "address2": "石和町河内",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

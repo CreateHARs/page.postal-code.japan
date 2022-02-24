@@ -1,0 +1,19 @@
+[
+    {
+        "code": "40647",
+        "postal_old": "82903",
+        "postal_new": "8290342",
+        "pref_kana": "ﾌｸｵｶｹﾝ",
+        "address1_kana": "ﾁｸｼﾞｮｳｸﾞﾝﾁｸｼﾞｮｳﾏﾁ",
+        "address2_kana": "ﾋｶﾞｼﾊｯﾀ",
+        "pref": "福岡県",
+        "address1": "築上郡築上町",
+        "address2": "東八田",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

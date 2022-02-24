@@ -1,0 +1,19 @@
+[
+    {
+        "code": "22216",
+        "postal_old": "43713",
+        "postal_new": "4371312",
+        "pref_kana": "ｼｽﾞｵｶｹﾝ",
+        "address1_kana": "ﾌｸﾛｲｼ",
+        "address2_kana": "ｵｶｻﾞｷ",
+        "pref": "静岡県",
+        "address1": "袋井市",
+        "address2": "岡崎",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

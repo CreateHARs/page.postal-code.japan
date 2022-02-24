@@ -1,0 +1,36 @@
+[
+    {
+        "code": "01230",
+        "postal_old": "059  ",
+        "postal_new": "0590005",
+        "pref_kana": "ﾎｯｶｲﾄﾞｳ",
+        "address1_kana": "ﾉﾎﾞﾘﾍﾞﾂｼ",
+        "address2_kana": "ｻﾂﾅｲﾁｮｳ(5､9､11-12､36､42-2､62､80､95､",
+        "pref": "北海道",
+        "address1": "登別市",
+        "address2": "札内町（５、９、１１−１２、３６、４２−２、６２、８０、９５、",
+        "is_multi_code": "1",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    },
+    {
+        "code": "01230",
+        "postal_old": "059  ",
+        "postal_new": "0590005",
+        "pref_kana": "ﾎｯｶｲﾄﾞｳ",
+        "address1_kana": "ﾉﾎﾞﾘﾍﾞﾂｼ",
+        "address2_kana": "184､231､389-2､499､500ﾊﾞﾝﾁ)",
+        "pref": "北海道",
+        "address1": "登別市",
+        "address2": "１８４、２３１、３８９−２、４９９、５００番地）",
+        "is_multi_code": "1",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

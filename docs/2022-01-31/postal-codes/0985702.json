@@ -1,0 +1,36 @@
+[
+    {
+        "code": "01512",
+        "postal_old": "09857",
+        "postal_new": "0985702",
+        "pref_kana": "ﾎｯｶｲﾄﾞｳ",
+        "address1_kana": "ｴｻｼｸﾞﾝﾊﾏﾄﾝﾍﾞﾂﾁｮｳ",
+        "address2_kana": "ﾄﾖｳｼ",
+        "pref": "北海道",
+        "address1": "枝幸郡浜頓別町",
+        "address2": "豊牛",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "1",
+        "is_updated": "0",
+        "update_reason": "0"
+    },
+    {
+        "code": "01512",
+        "postal_old": "09857",
+        "postal_new": "0985702",
+        "pref_kana": "ﾎｯｶｲﾄﾞｳ",
+        "address1_kana": "ｴｻｼｸﾞﾝﾊﾏﾄﾝﾍﾞﾂﾁｮｳ",
+        "address2_kana": "ﾄﾖｶﾝﾍﾞﾂ",
+        "pref": "北海道",
+        "address1": "枝幸郡浜頓別町",
+        "address2": "豊寒別",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "1",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

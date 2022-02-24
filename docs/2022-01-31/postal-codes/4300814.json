@@ -1,0 +1,19 @@
+[
+    {
+        "code": "22134",
+        "postal_old": "430  ",
+        "postal_new": "4300814",
+        "pref_kana": "ｼｽﾞｵｶｹﾝ",
+        "address1_kana": "ﾊﾏﾏﾂｼﾐﾅﾐｸ",
+        "address2_kana": "ｵﾝﾁﾞﾁｮｳ",
+        "pref": "静岡県",
+        "address1": "浜松市南区",
+        "address2": "恩地町",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

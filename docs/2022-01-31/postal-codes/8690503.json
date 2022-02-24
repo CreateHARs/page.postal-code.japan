@@ -1,0 +1,19 @@
+[
+    {
+        "code": "43213",
+        "postal_old": "86905",
+        "postal_new": "8690503",
+        "pref_kana": "ｸﾏﾓﾄｹﾝ",
+        "address1_kana": "ｳｷｼ",
+        "address2_kana": "ﾏﾂﾊﾞｾﾏﾁｷﾗﾗ",
+        "pref": "熊本県",
+        "address1": "宇城市",
+        "address2": "松橋町きらら",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "1",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

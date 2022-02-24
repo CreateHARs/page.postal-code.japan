@@ -1,0 +1,19 @@
+[
+    {
+        "code": "40202",
+        "postal_old": "836  ",
+        "postal_new": "8360822",
+        "pref_kana": "ﾌｸｵｶｹﾝ",
+        "address1_kana": "ｵｵﾑﾀｼ",
+        "address2_kana": "ﾄｳｶﾏﾁ",
+        "pref": "福岡県",
+        "address1": "大牟田市",
+        "address2": "稲荷町",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

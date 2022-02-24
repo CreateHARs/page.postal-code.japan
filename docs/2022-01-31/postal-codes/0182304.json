@@ -1,0 +1,19 @@
+[
+    {
+        "code": "05348",
+        "postal_old": "01823",
+        "postal_new": "0182304",
+        "pref_kana": "ｱｷﾀｹﾝ",
+        "address1_kana": "ﾔﾏﾓﾄｸﾞﾝﾐﾀﾈﾁｮｳ",
+        "address2_kana": "ﾄﾖｵｶｷﾝﾃﾞﾝ",
+        "pref": "秋田県",
+        "address1": "山本郡三種町",
+        "address2": "豊岡金田",
+        "is_multi_code": "0",
+        "is_koaza": "1",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

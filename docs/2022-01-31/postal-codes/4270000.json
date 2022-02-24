@@ -1,0 +1,19 @@
+[
+    {
+        "code": "22209",
+        "postal_old": "427  ",
+        "postal_new": "4270000",
+        "pref_kana": "ｼｽﾞｵｶｹﾝ",
+        "address1_kana": "ｼﾏﾀﾞｼ",
+        "address2_kana": "ｲｶﾆｹｲｻｲｶﾞﾅｲﾊﾞｱｲ",
+        "pref": "静岡県",
+        "address1": "島田市",
+        "address2": "以下に掲載がない場合",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

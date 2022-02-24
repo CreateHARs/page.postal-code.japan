@@ -1,0 +1,19 @@
+[
+    {
+        "code": "36208",
+        "postal_old": "77123",
+        "postal_new": "7712305",
+        "pref_kana": "ﾄｸｼﾏｹﾝ",
+        "address1_kana": "ﾐﾖｼｼ",
+        "address2_kana": "ﾐﾉﾁｮｳﾀﾁﾉ",
+        "pref": "徳島県",
+        "address1": "三好市",
+        "address2": "三野町太刀野",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

@@ -1,0 +1,36 @@
+[
+    {
+        "code": "21383",
+        "postal_old": "50301",
+        "postal_new": "5030112",
+        "pref_kana": "ｷﾞﾌｹﾝ",
+        "address1_kana": "ｱﾝﾊﾟﾁｸﾞﾝｱﾝﾊﾟﾁﾁｮｳ",
+        "address2_kana": "ｼﾊﾞﾊﾗ",
+        "pref": "岐阜県",
+        "address1": "安八郡安八町",
+        "address2": "芝原",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "1",
+        "is_updated": "0",
+        "update_reason": "0"
+    },
+    {
+        "code": "21383",
+        "postal_old": "50301",
+        "postal_new": "5030112",
+        "pref_kana": "ｷﾞﾌｹﾝ",
+        "address1_kana": "ｱﾝﾊﾟﾁｸﾞﾝｱﾝﾊﾟﾁﾁｮｳ",
+        "address2_kana": "ﾋｶﾞｼﾑｽﾌﾞ",
+        "pref": "岐阜県",
+        "address1": "安八郡安八町",
+        "address2": "東結",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "1",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

@@ -1,0 +1,19 @@
+[
+    {
+        "code": "23425",
+        "postal_old": "497  ",
+        "postal_new": "4970058",
+        "pref_kana": "ｱｲﾁｹﾝ",
+        "address1_kana": "ｱﾏｸﾞﾝｶﾆｴﾁｮｳ",
+        "address2_kana": "ﾄﾐﾖｼ",
+        "pref": "愛知県",
+        "address1": "海部郡蟹江町",
+        "address2": "富吉",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "1",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

@@ -1,0 +1,19 @@
+[
+    {
+        "code": "11408",
+        "postal_old": "36912",
+        "postal_new": "3691235",
+        "pref_kana": "ｻｲﾀﾏｹﾝ",
+        "address1_kana": "ｵｵｻﾄｸﾞﾝﾖﾘｲﾏﾁ",
+        "address2_kana": "ﾌｳﾌﾟ",
+        "pref": "埼玉県",
+        "address1": "大里郡寄居町",
+        "address2": "風布",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

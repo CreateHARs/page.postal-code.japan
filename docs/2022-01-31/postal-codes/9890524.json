@@ -1,0 +1,36 @@
+[
+    {
+        "code": "04302",
+        "postal_old": "98905",
+        "postal_new": "9890524",
+        "pref_kana": "ﾐﾔｷﾞｹﾝ",
+        "address1_kana": "ｶｯﾀｸﾞﾝｼﾁｶｼｭｸﾏﾁ",
+        "address2_kana": "ｶﾐｶﾗｽｶﾞﾜ",
+        "pref": "宮城県",
+        "address1": "刈田郡七ヶ宿町",
+        "address2": "上烏川",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "1",
+        "is_updated": "0",
+        "update_reason": "0"
+    },
+    {
+        "code": "04302",
+        "postal_old": "98905",
+        "postal_new": "9890524",
+        "pref_kana": "ﾐﾔｷﾞｹﾝ",
+        "address1_kana": "ｶｯﾀｸﾞﾝｼﾁｶｼｭｸﾏﾁ",
+        "address2_kana": "ﾏﾜﾘﾀﾃ",
+        "pref": "宮城県",
+        "address1": "刈田郡七ヶ宿町",
+        "address2": "廻館",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "1",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

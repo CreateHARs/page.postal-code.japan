@@ -1,0 +1,19 @@
+[
+    {
+        "code": "20583",
+        "postal_old": "38913",
+        "postal_new": "3891311",
+        "pref_kana": "ﾅｶﾞﾉｹﾝ",
+        "address1_kana": "ｶﾐﾐﾉﾁｸﾞﾝｼﾅﾉﾏﾁ",
+        "address2_kana": "ｱﾗｾﾊﾞﾗ",
+        "pref": "長野県",
+        "address1": "上水内郡信濃町",
+        "address2": "荒瀬原",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

@@ -1,0 +1,19 @@
+[
+    {
+        "code": "05206",
+        "postal_old": "01006",
+        "postal_new": "0100676",
+        "pref_kana": "ｱｷﾀｹﾝ",
+        "address1_kana": "ｵｶﾞｼ",
+        "address2_kana": "ｷﾀｳﾗﾆｼｸﾛｻﾜ",
+        "pref": "秋田県",
+        "address1": "男鹿市",
+        "address2": "北浦西黒沢",
+        "is_multi_code": "0",
+        "is_koaza": "1",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

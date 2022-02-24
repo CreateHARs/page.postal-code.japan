@@ -1,0 +1,19 @@
+[
+    {
+        "code": "01560",
+        "postal_old": "09955",
+        "postal_new": "0995553",
+        "pref_kana": "ﾎｯｶｲﾄﾞｳ",
+        "address1_kana": "ﾓﾝﾍﾞﾂｸﾞﾝﾀｷﾉｳｴﾁｮｳ",
+        "address2_kana": "ﾕｳﾊｸ",
+        "pref": "北海道",
+        "address1": "紋別郡滝上町",
+        "address2": "雄柏",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

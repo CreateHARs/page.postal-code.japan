@@ -1,0 +1,19 @@
+[
+    {
+        "code": "28203",
+        "postal_old": "673  ",
+        "postal_new": "6730886",
+        "pref_kana": "ﾋｮｳｺﾞｹﾝ",
+        "address1_kana": "ｱｶｼｼ",
+        "address2_kana": "ﾋｶﾞｼﾅｶﾉﾁｮｳ",
+        "pref": "兵庫県",
+        "address1": "明石市",
+        "address2": "東仲ノ町",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

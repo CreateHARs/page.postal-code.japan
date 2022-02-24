@@ -1,0 +1,19 @@
+[
+    {
+        "code": "27204",
+        "postal_old": "563  ",
+        "postal_new": "5630031",
+        "pref_kana": "ｵｵｻｶﾌ",
+        "address1_kana": "ｲｹﾀﾞｼ",
+        "address2_kana": "ﾃﾝｼﾞﾝ",
+        "pref": "大阪府",
+        "address1": "池田市",
+        "address2": "天神",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "1",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

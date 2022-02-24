@@ -1,0 +1,19 @@
+[
+    {
+        "code": "47329",
+        "postal_old": "90301",
+        "postal_new": "9030101",
+        "pref_kana": "ｵｷﾅﾜｹﾝ",
+        "address1_kana": "ﾅｶｶﾞﾐｸﾞﾝﾆｼﾊﾗﾁｮｳ",
+        "address2_kana": "ｶｹﾎﾞｸ",
+        "pref": "沖縄県",
+        "address1": "中頭郡西原町",
+        "address2": "掛保久",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

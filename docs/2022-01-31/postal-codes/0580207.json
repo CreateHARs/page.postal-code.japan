@@ -1,0 +1,19 @@
+[
+    {
+        "code": "01609",
+        "postal_old": "05802",
+        "postal_new": "0580207",
+        "pref_kana": "ﾎｯｶｲﾄﾞｳ",
+        "address1_kana": "ﾎﾛｲｽﾞﾐｸﾞﾝｴﾘﾓﾁｮｳ",
+        "address2_kana": "ﾁｶｳﾗ",
+        "pref": "北海道",
+        "address1": "幌泉郡えりも町",
+        "address2": "近浦",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

@@ -1,0 +1,19 @@
+[
+    {
+        "code": "11102",
+        "postal_old": "331  ",
+        "postal_new": "3310825",
+        "pref_kana": "ｻｲﾀﾏｹﾝ",
+        "address1_kana": "ｻｲﾀﾏｼｷﾀｸ",
+        "address2_kana": "ｸｼﾋｷﾁｮｳ",
+        "pref": "埼玉県",
+        "address1": "さいたま市北区",
+        "address2": "櫛引町",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "1",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

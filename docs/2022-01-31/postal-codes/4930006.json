@@ -1,0 +1,19 @@
+[
+    {
+        "code": "23203",
+        "postal_old": "493  ",
+        "postal_new": "4930006",
+        "pref_kana": "ｱｲﾁｹﾝ",
+        "address1_kana": "ｲﾁﾉﾐﾔｼ",
+        "address2_kana": "ｷｿｶﾞﾜﾁｮｳｳﾁﾜﾘﾃﾞﾝ",
+        "pref": "愛知県",
+        "address1": "一宮市",
+        "address2": "木曽川町内割田",
+        "is_multi_code": "0",
+        "is_koaza": "1",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

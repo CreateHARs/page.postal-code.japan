@@ -1,0 +1,19 @@
+[
+    {
+        "code": "13113",
+        "postal_old": "150  ",
+        "postal_new": "1506117",
+        "pref_kana": "ﾄｳｷｮｳﾄ",
+        "address1_kana": "ｼﾌﾞﾔｸ",
+        "address2_kana": "ｼﾌﾞﾔｼﾌﾞﾔｽｸﾗﾝﾌﾞﾙｽｸｴｱ(17ｶｲ)",
+        "pref": "東京都",
+        "address1": "渋谷区",
+        "address2": "渋谷渋谷スクランブルスクエア（１７階）",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

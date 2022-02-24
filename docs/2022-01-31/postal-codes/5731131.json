@@ -1,0 +1,19 @@
+[
+    {
+        "code": "27210",
+        "postal_old": "573  ",
+        "postal_new": "5731131",
+        "pref_kana": "ｵｵｻｶﾌ",
+        "address1_kana": "ﾋﾗｶﾀｼ",
+        "address2_kana": "ｺｳﾔﾐﾁ",
+        "pref": "大阪府",
+        "address1": "枚方市",
+        "address2": "高野道",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "1",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

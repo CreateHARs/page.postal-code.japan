@@ -1,0 +1,19 @@
+[
+    {
+        "code": "33211",
+        "postal_old": "705  ",
+        "postal_new": "7050023",
+        "pref_kana": "ｵｶﾔﾏｹﾝ",
+        "address1_kana": "ﾋﾞｾﾞﾝｼ",
+        "address2_kana": "ｲﾘﾅｶ",
+        "pref": "岡山県",
+        "address1": "備前市",
+        "address2": "伊里中",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

@@ -1,0 +1,19 @@
+[
+    {
+        "code": "43367",
+        "postal_old": "86108",
+        "postal_new": "8610812",
+        "pref_kana": "ｸﾏﾓﾄｹﾝ",
+        "address1_kana": "ﾀﾏﾅｸﾞﾝﾅﾝｶﾝﾏﾁ",
+        "address2_kana": "ｱｲﾉﾀﾆ",
+        "pref": "熊本県",
+        "address1": "玉名郡南関町",
+        "address2": "相谷",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

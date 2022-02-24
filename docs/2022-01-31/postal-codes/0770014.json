@@ -1,0 +1,19 @@
+[
+    {
+        "code": "01212",
+        "postal_old": "077  ",
+        "postal_new": "0770014",
+        "pref_kana": "ﾎｯｶｲﾄﾞｳ",
+        "address1_kana": "ﾙﾓｲｼ",
+        "address2_kana": "ﾐﾅﾐﾏﾁ",
+        "pref": "北海道",
+        "address1": "留萌市",
+        "address2": "南町",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "1",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

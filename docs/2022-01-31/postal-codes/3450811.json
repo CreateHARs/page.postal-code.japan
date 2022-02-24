@@ -1,0 +1,19 @@
+[
+    {
+        "code": "11442",
+        "postal_old": "345  ",
+        "postal_new": "3450811",
+        "pref_kana": "ｻｲﾀﾏｹﾝ",
+        "address1_kana": "ﾐﾅﾐｻｲﾀﾏｸﾞﾝﾐﾔｼﾛﾏﾁ",
+        "address2_kana": "ﾄﾞｳﾌﾞﾂ",
+        "pref": "埼玉県",
+        "address1": "南埼玉郡宮代町",
+        "address2": "道佛",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "1",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

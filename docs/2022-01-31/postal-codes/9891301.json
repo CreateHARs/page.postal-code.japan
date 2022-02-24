@@ -1,0 +1,19 @@
+[
+    {
+        "code": "04322",
+        "postal_old": "98913",
+        "postal_new": "9891301",
+        "pref_kana": "ﾐﾔｷﾞｹﾝ",
+        "address1_kana": "ｼﾊﾞﾀｸﾞﾝﾑﾗﾀﾏﾁ",
+        "address2_kana": "ｽｺﾞｳ",
+        "pref": "宮城県",
+        "address1": "柴田郡村田町",
+        "address2": "菅生",
+        "is_multi_code": "0",
+        "is_koaza": "1",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

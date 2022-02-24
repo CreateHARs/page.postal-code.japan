@@ -1,0 +1,19 @@
+[
+    {
+        "code": "08443",
+        "postal_old": "30003",
+        "postal_new": "3000337",
+        "pref_kana": "ｲﾊﾞﾗｷｹﾝ",
+        "address1_kana": "ｲﾅｼｷｸﾞﾝｱﾐﾏﾁ",
+        "address2_kana": "ﾅｶｺﾞｳ",
+        "pref": "茨城県",
+        "address1": "稲敷郡阿見町",
+        "address2": "中郷",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "1",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

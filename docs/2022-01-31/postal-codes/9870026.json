@@ -1,0 +1,19 @@
+[
+    {
+        "code": "04505",
+        "postal_old": "987  ",
+        "postal_new": "9870026",
+        "pref_kana": "ﾐﾔｷﾞｹﾝ",
+        "address1_kana": "ﾄｵﾀﾞｸﾞﾝﾐｻﾄﾏﾁ",
+        "address2_kana": "ﾐﾅﾐﾀｶｷﾞ",
+        "pref": "宮城県",
+        "address1": "遠田郡美里町",
+        "address2": "南高城",
+        "is_multi_code": "0",
+        "is_koaza": "1",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

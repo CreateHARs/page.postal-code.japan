@@ -1,0 +1,19 @@
+[
+    {
+        "code": "27214",
+        "postal_old": "584  ",
+        "postal_new": "5840027",
+        "pref_kana": "ｵｵｻｶﾌ",
+        "address1_kana": "ﾄﾝﾀﾞﾊﾞﾔｼｼ",
+        "address2_kana": "ﾅｶﾉ",
+        "pref": "大阪府",
+        "address1": "富田林市",
+        "address2": "中野",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

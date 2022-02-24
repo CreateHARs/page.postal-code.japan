@@ -1,0 +1,19 @@
+[
+    {
+        "code": "24214",
+        "postal_old": "51102",
+        "postal_new": "5110267",
+        "pref_kana": "ﾐｴｹﾝ",
+        "address1_kana": "ｲﾅﾍﾞｼ",
+        "address2_kana": "ﾀﾞｲｱﾝﾁｮｳｲｼｸﾞﾚｷﾀﾔﾏ",
+        "pref": "三重県",
+        "address1": "いなべ市",
+        "address2": "大安町石榑北山",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

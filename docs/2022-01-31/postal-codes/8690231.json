@@ -1,0 +1,19 @@
+[
+    {
+        "code": "43206",
+        "postal_old": "86902",
+        "postal_new": "8690231",
+        "pref_kana": "ｸﾏﾓﾄｹﾝ",
+        "address1_kana": "ﾀﾏﾅｼ",
+        "address2_kana": "ﾀｲﾒｲﾏﾁｼｮｳﾔﾏ",
+        "pref": "熊本県",
+        "address1": "玉名市",
+        "address2": "岱明町庄山",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

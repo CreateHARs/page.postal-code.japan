@@ -1,0 +1,19 @@
+[
+    {
+        "code": "45382",
+        "postal_old": "88011",
+        "postal_new": "8801113",
+        "pref_kana": "ﾐﾔｻﾞｷｹﾝ",
+        "address1_kana": "ﾋｶﾞｼﾓﾛｶﾀｸﾞﾝｸﾆﾄﾐﾁｮｳ",
+        "address2_kana": "ｷﾜｷ",
+        "pref": "宮崎県",
+        "address1": "東諸県郡国富町",
+        "address2": "木脇",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

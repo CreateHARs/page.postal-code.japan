@@ -1,0 +1,19 @@
+[
+    {
+        "code": "19208",
+        "postal_old": "40003",
+        "postal_new": "4000305",
+        "pref_kana": "ﾔﾏﾅｼｹﾝ",
+        "address1_kana": "ﾐﾅﾐｱﾙﾌﾟｽｼ",
+        "address2_kana": "ｼﾞｭｳｺﾞｼｮ",
+        "pref": "山梨県",
+        "address1": "南アルプス市",
+        "address2": "十五所",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

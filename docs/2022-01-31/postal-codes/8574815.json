@@ -1,0 +1,19 @@
+[
+    {
+        "code": "42202",
+        "postal_old": "85748",
+        "postal_new": "8574815",
+        "pref_kana": "ﾅｶﾞｻｷｹﾝ",
+        "address1_kana": "ｻｾﾎﾞｼ",
+        "address2_kana": "ｳｸﾏﾁｵｵｸﾎﾞ",
+        "pref": "長崎県",
+        "address1": "佐世保市",
+        "address2": "宇久町大久保",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

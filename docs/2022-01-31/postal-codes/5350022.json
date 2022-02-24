@@ -1,0 +1,19 @@
+[
+    {
+        "code": "27117",
+        "postal_old": "535  ",
+        "postal_new": "5350022",
+        "pref_kana": "ｵｵｻｶﾌ",
+        "address1_kana": "ｵｵｻｶｼｱｻﾋｸ",
+        "address2_kana": "ｼﾝﾓﾘ",
+        "pref": "大阪府",
+        "address1": "大阪市旭区",
+        "address2": "新森",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "1",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

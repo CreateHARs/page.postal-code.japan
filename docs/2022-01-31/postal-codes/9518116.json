@@ -1,0 +1,19 @@
+[
+    {
+        "code": "15103",
+        "postal_old": "951  ",
+        "postal_new": "9518116",
+        "pref_kana": "ﾆｲｶﾞﾀｹﾝ",
+        "address1_kana": "ﾆｲｶﾞﾀｼﾁｭｳｵｳｸ",
+        "address2_kana": "ﾋｶﾞｼﾅｶﾄﾞｵﾘ",
+        "pref": "新潟県",
+        "address1": "新潟市中央区",
+        "address2": "東中通",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

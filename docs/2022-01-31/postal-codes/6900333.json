@@ -1,0 +1,19 @@
+[
+    {
+        "code": "32201",
+        "postal_old": "69003",
+        "postal_new": "6900333",
+        "pref_kana": "ｼﾏﾈｹﾝ",
+        "address1_kana": "ﾏﾂｴｼ",
+        "address2_kana": "ｶｼﾏﾁｮｳｺｳﾗ",
+        "pref": "島根県",
+        "address1": "松江市",
+        "address2": "鹿島町古浦",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

@@ -1,0 +1,19 @@
+[
+    {
+        "code": "27211",
+        "postal_old": "567  ",
+        "postal_new": "5670036",
+        "pref_kana": "ｵｵｻｶﾌ",
+        "address1_kana": "ｲﾊﾞﾗｷｼ",
+        "address2_kana": "ｶﾐﾎﾂﾞﾐ",
+        "pref": "大阪府",
+        "address1": "茨木市",
+        "address2": "上穂積",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

@@ -1,0 +1,19 @@
+[
+    {
+        "code": "12224",
+        "postal_old": "27301",
+        "postal_new": "2730134",
+        "pref_kana": "ﾁﾊﾞｹﾝ",
+        "address1_kana": "ｶﾏｶﾞﾔｼ",
+        "address2_kana": "ﾆｼｻﾂﾏ",
+        "pref": "千葉県",
+        "address1": "鎌ケ谷市",
+        "address2": "西佐津間",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "1",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

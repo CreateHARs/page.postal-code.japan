@@ -1,0 +1,19 @@
+[
+    {
+        "code": "41209",
+        "postal_old": "84914",
+        "postal_new": "8491414",
+        "pref_kana": "ｻｶﾞｹﾝ",
+        "address1_kana": "ｳﾚｼﾉｼ",
+        "address2_kana": "ｼｵﾀﾁｮｳｵｵｸｻﾉｺｳ",
+        "pref": "佐賀県",
+        "address1": "嬉野市",
+        "address2": "塩田町大草野甲",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

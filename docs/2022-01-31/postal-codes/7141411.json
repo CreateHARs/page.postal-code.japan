@@ -1,0 +1,19 @@
+[
+    {
+        "code": "33207",
+        "postal_old": "71414",
+        "postal_new": "7141411",
+        "pref_kana": "ｵｶﾔﾏｹﾝ",
+        "address1_kana": "ｲﾊﾞﾗｼ",
+        "address2_kana": "ﾋﾞｾｲﾁｮｳｵｵｸﾗ",
+        "pref": "岡山県",
+        "address1": "井原市",
+        "address2": "美星町大倉",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

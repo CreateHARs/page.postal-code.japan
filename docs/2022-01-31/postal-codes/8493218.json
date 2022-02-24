@@ -1,0 +1,19 @@
+[
+    {
+        "code": "41202",
+        "postal_old": "84932",
+        "postal_new": "8493218",
+        "pref_kana": "ｻｶﾞｹﾝ",
+        "address1_kana": "ｶﾗﾂｼ",
+        "address2_kana": "ｵｳﾁﾁｮｳﾅｶﾔﾏ",
+        "pref": "佐賀県",
+        "address1": "唐津市",
+        "address2": "相知町中山",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

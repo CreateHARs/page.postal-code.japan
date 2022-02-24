@@ -1,0 +1,19 @@
+[
+    {
+        "code": "28204",
+        "postal_old": "66911",
+        "postal_new": "6691103",
+        "pref_kana": "ﾋｮｳｺﾞｹﾝ",
+        "address1_kana": "ﾆｼﾉﾐﾔｼ",
+        "address2_kana": "ﾅﾏｾﾞﾋｶﾞｼﾏﾁ",
+        "pref": "兵庫県",
+        "address1": "西宮市",
+        "address2": "生瀬東町",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

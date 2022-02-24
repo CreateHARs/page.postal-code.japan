@@ -1,0 +1,36 @@
+[
+    {
+        "code": "17201",
+        "postal_old": "92003",
+        "postal_new": "9200374",
+        "pref_kana": "ｲｼｶﾜｹﾝ",
+        "address1_kana": "ｶﾅｻﾞﾜｼ",
+        "address2_kana": "ｶﾐﾔｽﾊﾗﾏﾁ",
+        "pref": "石川県",
+        "address1": "金沢市",
+        "address2": "上安原町",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "1",
+        "is_updated": "0",
+        "update_reason": "0"
+    },
+    {
+        "code": "17201",
+        "postal_old": "92003",
+        "postal_new": "9200374",
+        "pref_kana": "ｲｼｶﾜｹﾝ",
+        "address1_kana": "ｶﾅｻﾞﾜｼ",
+        "address2_kana": "ｶﾐﾔｽﾊﾗﾐﾅﾐ",
+        "pref": "石川県",
+        "address1": "金沢市",
+        "address2": "上安原南",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "1",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

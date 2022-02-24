@@ -1,0 +1,19 @@
+[
+    {
+        "code": "01511",
+        "postal_old": "09862",
+        "postal_new": "0986222",
+        "pref_kana": "ﾎｯｶｲﾄﾞｳ",
+        "address1_kana": "ｿｳﾔｸﾞﾝｻﾙﾌﾂﾑﾗ",
+        "address2_kana": "ﾊﾏｵﾆｼﾍﾞﾂ",
+        "pref": "北海道",
+        "address1": "宗谷郡猿払村",
+        "address2": "浜鬼志別",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

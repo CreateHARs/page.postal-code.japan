@@ -1,0 +1,19 @@
+[
+    {
+        "code": "02201",
+        "postal_old": "038  ",
+        "postal_new": "0380032",
+        "pref_kana": "ｱｵﾓﾘｹﾝ",
+        "address1_kana": "ｱｵﾓﾘｼ",
+        "address2_kana": "ｻﾄﾐ",
+        "pref": "青森県",
+        "address1": "青森市",
+        "address2": "里見",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "1",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

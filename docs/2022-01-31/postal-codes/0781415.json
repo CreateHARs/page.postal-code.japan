@@ -1,0 +1,19 @@
+[
+    {
+        "code": "01456",
+        "postal_old": "07814",
+        "postal_new": "0781415",
+        "pref_kana": "ﾎｯｶｲﾄﾞｳ",
+        "address1_kana": "ｶﾐｶﾜｸﾞﾝｱｲﾍﾞﾂﾁｮｳ",
+        "address2_kana": "ﾄｸｾｲ",
+        "pref": "北海道",
+        "address1": "上川郡愛別町",
+        "address2": "徳星",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

@@ -1,0 +1,19 @@
+[
+    {
+        "code": "12102",
+        "postal_old": "262  ",
+        "postal_new": "2620044",
+        "pref_kana": "ﾁﾊﾞｹﾝ",
+        "address1_kana": "ﾁﾊﾞｼﾊﾅﾐｶﾞﾜｸ",
+        "address2_kana": "ﾅｶﾞｻｸﾁｮｳ",
+        "pref": "千葉県",
+        "address1": "千葉市花見川区",
+        "address2": "長作町",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

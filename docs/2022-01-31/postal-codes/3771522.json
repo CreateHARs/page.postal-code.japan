@@ -1,0 +1,19 @@
+[
+    {
+        "code": "10425",
+        "postal_old": "37715",
+        "postal_new": "3771522",
+        "pref_kana": "ｸﾞﾝﾏｹﾝ",
+        "address1_kana": "ｱｶﾞﾂﾏｸﾞﾝﾂﾏｺﾞｲﾑﾗ",
+        "address2_kana": "ﾌｸﾛｸﾞﾗ",
+        "pref": "群馬県",
+        "address1": "吾妻郡嬬恋村",
+        "address2": "袋倉",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

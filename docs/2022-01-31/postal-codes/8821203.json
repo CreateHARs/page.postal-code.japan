@@ -1,0 +1,19 @@
+[
+    {
+        "code": "45443",
+        "postal_old": "88212",
+        "postal_new": "8821203",
+        "pref_kana": "ﾐﾔｻﾞｷｹﾝ",
+        "address1_kana": "ﾆｼｳｽｷｸﾞﾝｺﾞｶｾﾁｮｳ",
+        "address2_kana": "ｻﾝｶｼｮ",
+        "pref": "宮崎県",
+        "address1": "西臼杵郡五ヶ瀬町",
+        "address2": "三ヶ所",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

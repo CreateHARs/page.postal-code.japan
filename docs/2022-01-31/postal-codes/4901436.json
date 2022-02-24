@@ -1,0 +1,19 @@
+[
+    {
+        "code": "23427",
+        "postal_old": "49014",
+        "postal_new": "4901436",
+        "pref_kana": "ｱｲﾁｹﾝ",
+        "address1_kana": "ｱﾏｸﾞﾝﾄﾋﾞｼﾏﾑﾗ",
+        "address2_kana": "ﾀｹﾉｺﾞｳ",
+        "pref": "愛知県",
+        "address1": "海部郡飛島村",
+        "address2": "竹之郷",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "1",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

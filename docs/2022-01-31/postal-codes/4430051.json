@@ -1,0 +1,36 @@
+[
+    {
+        "code": "23214",
+        "postal_old": "443  ",
+        "postal_new": "4430051",
+        "pref_kana": "ｱｲﾁｹﾝ",
+        "address1_kana": "ｶﾞﾏｺﾞｵﾘｼ",
+        "address2_kana": "ｱﾗｲｶﾞﾀﾁｮｳ",
+        "pref": "愛知県",
+        "address1": "蒲郡市",
+        "address2": "新井形町",
+        "is_multi_code": "0",
+        "is_koaza": "1",
+        "is_choume": "0",
+        "is_multi_place": "1",
+        "is_updated": "0",
+        "update_reason": "0"
+    },
+    {
+        "code": "23214",
+        "postal_old": "443  ",
+        "postal_new": "4430051",
+        "pref_kana": "ｱｲﾁｹﾝ",
+        "address1_kana": "ｶﾞﾏｺﾞｵﾘｼ",
+        "address2_kana": "ｱﾗｲｶﾞﾀﾁｮｳﾐﾅﾐ",
+        "pref": "愛知県",
+        "address1": "蒲郡市",
+        "address2": "新井形町南",
+        "is_multi_code": "0",
+        "is_koaza": "1",
+        "is_choume": "0",
+        "is_multi_place": "1",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

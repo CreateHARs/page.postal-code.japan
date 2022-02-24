@@ -1,0 +1,19 @@
+[
+    {
+        "code": "26102",
+        "postal_old": "602  ",
+        "postal_new": "6020854",
+        "pref_kana": "ｷｮｳﾄﾌ",
+        "address1_kana": "ｷｮｳﾄｼｶﾐｷﾞｮｳｸ",
+        "address2_kana": "ｶﾒﾔﾁｮｳ(ｶﾜﾗﾏﾁﾄﾞｵﾘｺｳｼﾞﾝｸﾞﾁﾋｶﾞｼｲﾙ､ｺｳｼﾞﾝｸﾞﾁﾄﾞｵﾘｶﾜﾊﾗﾁｮｳﾋｶﾞｼｲﾙ)",
+        "pref": "京都府",
+        "address1": "京都市上京区",
+        "address2": "亀屋町（河原町通荒神口東入、荒神口通河原町東入）",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

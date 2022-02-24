@@ -1,0 +1,19 @@
+[
+    {
+        "code": "02201",
+        "postal_old": "03813",
+        "postal_new": "0381304",
+        "pref_kana": "ｱｵﾓﾘｹﾝ",
+        "address1_kana": "ｱｵﾓﾘｼ",
+        "address2_kana": "ﾅﾐｵｶﾀｶﾔｼｷ",
+        "pref": "青森県",
+        "address1": "青森市",
+        "address2": "浪岡高屋敷",
+        "is_multi_code": "0",
+        "is_koaza": "1",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

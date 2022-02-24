@@ -1,0 +1,19 @@
+[
+    {
+        "code": "40604",
+        "postal_old": "82213",
+        "postal_new": "8221313",
+        "pref_kana": "ﾌｸｵｶｹﾝ",
+        "address1_kana": "ﾀｶﾞﾜｸﾞﾝｲﾄﾀﾞﾏﾁ",
+        "address2_kana": "ｳﾁｺｼ",
+        "pref": "福岡県",
+        "address1": "田川郡糸田町",
+        "address2": "打越",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

@@ -1,0 +1,19 @@
+[
+    {
+        "code": "34214",
+        "postal_old": "73105",
+        "postal_new": "7310512",
+        "pref_kana": "ﾋﾛｼﾏｹﾝ",
+        "address1_kana": "ｱｷﾀｶﾀｼ",
+        "address2_kana": "ﾖｼﾀﾞﾁｮｳｵﾔﾏ",
+        "pref": "広島県",
+        "address1": "安芸高田市",
+        "address2": "吉田町小山",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

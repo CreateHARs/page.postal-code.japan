@@ -1,0 +1,19 @@
+[
+    {
+        "code": "10522",
+        "postal_old": "37007",
+        "postal_new": "3700708",
+        "pref_kana": "ｸﾞﾝﾏｹﾝ",
+        "address1_kana": "ｵｳﾗｸﾞﾝﾒｲﾜﾏﾁ",
+        "address2_kana": "ﾆｯｻﾄ",
+        "pref": "群馬県",
+        "address1": "邑楽郡明和町",
+        "address2": "新里",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

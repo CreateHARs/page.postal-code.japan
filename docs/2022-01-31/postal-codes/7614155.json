@@ -1,0 +1,36 @@
+[
+    {
+        "code": "37324",
+        "postal_old": "76141",
+        "postal_new": "7614155",
+        "pref_kana": "ｶｶﾞﾜｹﾝ",
+        "address1_kana": "ｼｮｳｽﾞｸﾞﾝｼｮｳﾄﾞｼﾏﾁｮｳ",
+        "address2_kana": "ﾅｶﾔﾏ(ｳﾂｸｼﾉﾊﾗｺｳｹﾞﾝ)",
+        "pref": "香川県",
+        "address1": "小豆郡小豆島町",
+        "address2": "中山（美しの原高原）",
+        "is_multi_code": "1",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "1",
+        "is_updated": "0",
+        "update_reason": "0"
+    },
+    {
+        "code": "37324",
+        "postal_old": "76141",
+        "postal_new": "7614155",
+        "pref_kana": "ｶｶﾞﾜｹﾝ",
+        "address1_kana": "ｼｮｳｽﾞｸﾞﾝｼｮｳﾄﾞｼﾏﾁｮｳ",
+        "address2_kana": "ﾅｶﾔﾏ(ｶｴﾙｺﾞﾅﾙﾀｷ)",
+        "pref": "香川県",
+        "address1": "小豆郡小豆島町",
+        "address2": "中山（蛙子鳴滝）",
+        "is_multi_code": "1",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "1",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

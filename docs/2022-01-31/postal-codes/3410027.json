@@ -1,0 +1,19 @@
+[
+    {
+        "code": "11237",
+        "postal_old": "341  ",
+        "postal_new": "3410027",
+        "pref_kana": "ｻｲﾀﾏｹﾝ",
+        "address1_kana": "ﾐｻﾄｼ",
+        "address2_kana": "ｻｻﾂﾞｶ",
+        "pref": "埼玉県",
+        "address1": "三郷市",
+        "address2": "笹塚",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

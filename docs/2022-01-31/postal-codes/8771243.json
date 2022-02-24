@@ -1,0 +1,19 @@
+[
+    {
+        "code": "44204",
+        "postal_old": "87712",
+        "postal_new": "8771243",
+        "pref_kana": "ｵｵｲﾀｹﾝ",
+        "address1_kana": "ﾋﾀｼ",
+        "address2_kana": "ｽｽﾞﾚﾏﾁ",
+        "pref": "大分県",
+        "address1": "日田市",
+        "address2": "鈴連町",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

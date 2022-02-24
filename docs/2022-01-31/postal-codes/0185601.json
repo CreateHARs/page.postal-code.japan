@@ -1,0 +1,19 @@
+[
+    {
+        "code": "05204",
+        "postal_old": "01856",
+        "postal_new": "0185601",
+        "pref_kana": "ｱｷﾀｹﾝ",
+        "address1_kana": "ｵｵﾀﾞﾃｼ",
+        "address2_kana": "ｼﾞｭｳﾆｼｮ",
+        "pref": "秋田県",
+        "address1": "大館市",
+        "address2": "十二所",
+        "is_multi_code": "0",
+        "is_koaza": "1",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

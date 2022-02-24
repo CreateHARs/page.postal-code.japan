@@ -1,0 +1,36 @@
+[
+    {
+        "code": "12215",
+        "postal_old": "28926",
+        "postal_new": "2892605",
+        "pref_kana": "ﾁﾊﾞｹﾝ",
+        "address1_kana": "ｱｻﾋｼ",
+        "address2_kana": "ｺﾄﾀﾞ(85-160､1386-1815､2593-2820､",
+        "pref": "千葉県",
+        "address1": "旭市",
+        "address2": "琴田（８５〜１６０、１３８６〜１８１５、２５９３〜２８２０、",
+        "is_multi_code": "1",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    },
+    {
+        "code": "12215",
+        "postal_old": "28926",
+        "postal_new": "2892605",
+        "pref_kana": "ﾁﾊﾞｹﾝ",
+        "address1_kana": "ｱｻﾋｼ",
+        "address2_kana": "3598-3614ﾊﾞﾝﾁ)",
+        "pref": "千葉県",
+        "address1": "旭市",
+        "address2": "３５９８〜３６１４番地）",
+        "is_multi_code": "1",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

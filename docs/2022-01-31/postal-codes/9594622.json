@@ -1,0 +1,19 @@
+[
+    {
+        "code": "15385",
+        "postal_old": "95946",
+        "postal_new": "9594622",
+        "pref_kana": "ﾆｲｶﾞﾀｹﾝ",
+        "address1_kana": "ﾋｶﾞｼｶﾝﾊﾞﾗｸﾞﾝｱｶﾞﾏﾁ",
+        "address2_kana": "ｼﾛｻｷ",
+        "pref": "新潟県",
+        "address1": "東蒲原郡阿賀町",
+        "address2": "白崎",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

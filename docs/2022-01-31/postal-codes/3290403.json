@@ -1,0 +1,19 @@
+[
+    {
+        "code": "09216",
+        "postal_old": "32904",
+        "postal_new": "3290403",
+        "pref_kana": "ﾄﾁｷﾞｹﾝ",
+        "address1_kana": "ｼﾓﾂｹｼ",
+        "address2_kana": "ｲﾀﾞｲﾏｴ",
+        "pref": "栃木県",
+        "address1": "下野市",
+        "address2": "医大前",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "1",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

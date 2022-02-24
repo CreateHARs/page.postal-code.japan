@@ -1,0 +1,36 @@
+[
+    {
+        "code": "43104",
+        "postal_old": "862  ",
+        "postal_new": "8620965",
+        "pref_kana": "ｸﾏﾓﾄｹﾝ",
+        "address1_kana": "ｸﾏﾓﾄｼﾐﾅﾐｸ",
+        "address2_kana": "ﾀｲﾉｼﾏ",
+        "pref": "熊本県",
+        "address1": "熊本市南区",
+        "address2": "田井島",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "1",
+        "is_multi_place": "1",
+        "is_updated": "0",
+        "update_reason": "0"
+    },
+    {
+        "code": "43104",
+        "postal_old": "862  ",
+        "postal_new": "8620965",
+        "pref_kana": "ｸﾏﾓﾄｹﾝ",
+        "address1_kana": "ｸﾏﾓﾄｼﾐﾅﾐｸ",
+        "address2_kana": "ﾀﾑｶｴﾏﾁﾀｲﾉｼﾏ",
+        "pref": "熊本県",
+        "address1": "熊本市南区",
+        "address2": "田迎町田井島",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "1",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

@@ -1,0 +1,19 @@
+[
+    {
+        "code": "08447",
+        "postal_old": "30013",
+        "postal_new": "3001325",
+        "pref_kana": "ｲﾊﾞﾗｷｹﾝ",
+        "address1_kana": "ｲﾅｼｷｸﾞﾝｶﾜﾁﾏﾁ",
+        "address2_kana": "ﾍｲｻﾞﾌﾞﾛｳ",
+        "pref": "茨城県",
+        "address1": "稲敷郡河内町",
+        "address2": "平三郎",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

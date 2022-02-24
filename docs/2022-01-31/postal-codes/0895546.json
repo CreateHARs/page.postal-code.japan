@@ -1,0 +1,19 @@
+[
+    {
+        "code": "01649",
+        "postal_old": "08955",
+        "postal_new": "0895546",
+        "pref_kana": "ﾎｯｶｲﾄﾞｳ",
+        "address1_kana": "ﾄｶﾁｸﾞﾝｳﾗﾎﾛﾁｮｳ",
+        "address2_kana": "ｱｻﾋ",
+        "pref": "北海道",
+        "address1": "十勝郡浦幌町",
+        "address2": "朝日",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

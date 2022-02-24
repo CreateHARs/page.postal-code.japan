@@ -1,0 +1,19 @@
+[
+    {
+        "code": "03202",
+        "postal_old": "027  ",
+        "postal_new": "0270076",
+        "pref_kana": "ｲﾜﾃｹﾝ",
+        "address1_kana": "ﾐﾔｺｼ",
+        "address2_kana": "ｻｶｴﾁｮｳ",
+        "pref": "岩手県",
+        "address1": "宮古市",
+        "address2": "栄町",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

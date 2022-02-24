@@ -1,0 +1,53 @@
+[
+    {
+        "code": "18481",
+        "postal_old": "91922",
+        "postal_new": "9192216",
+        "pref_kana": "ﾌｸｲｹﾝ",
+        "address1_kana": "ｵｵｲｸﾞﾝﾀｶﾊﾏﾁｮｳ",
+        "address2_kana": "ｶｻﾊﾗ",
+        "pref": "福井県",
+        "address1": "大飯郡高浜町",
+        "address2": "笠原",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "1",
+        "is_updated": "0",
+        "update_reason": "0"
+    },
+    {
+        "code": "18481",
+        "postal_old": "91922",
+        "postal_new": "9192216",
+        "pref_kana": "ﾌｸｲｹﾝ",
+        "address1_kana": "ｵｵｲｸﾞﾝﾀｶﾊﾏﾁｮｳ",
+        "address2_kana": "ｺﾋﾞ",
+        "pref": "福井県",
+        "address1": "大飯郡高浜町",
+        "address2": "子生",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "1",
+        "is_updated": "0",
+        "update_reason": "0"
+    },
+    {
+        "code": "18481",
+        "postal_old": "91922",
+        "postal_new": "9192216",
+        "pref_kana": "ﾌｸｲｹﾝ",
+        "address1_kana": "ｵｵｲｸﾞﾝﾀｶﾊﾏﾁｮｳ",
+        "address2_kana": "ｻｶﾀ",
+        "pref": "福井県",
+        "address1": "大飯郡高浜町",
+        "address2": "坂田",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "1",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

@@ -1,0 +1,19 @@
+[
+    {
+        "code": "40503",
+        "postal_old": "83012",
+        "postal_new": "8301212",
+        "pref_kana": "ﾌｸｵｶｹﾝ",
+        "address1_kana": "ﾐｲｸﾞﾝﾀﾁｱﾗｲﾏﾁ",
+        "address2_kana": "ｺｳﾁｮｳ",
+        "pref": "福岡県",
+        "address1": "三井郡大刀洗町",
+        "address2": "甲条",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

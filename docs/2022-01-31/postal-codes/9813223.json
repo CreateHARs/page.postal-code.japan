@@ -1,0 +1,19 @@
+[
+    {
+        "code": "04105",
+        "postal_old": "98132",
+        "postal_new": "9813223",
+        "pref_kana": "ﾐﾔｷﾞｹﾝ",
+        "address1_kana": "ｾﾝﾀﾞｲｼｲｽﾞﾐｸ",
+        "address2_kana": "ｽﾐﾖｼﾀﾞｲﾆｼ",
+        "pref": "宮城県",
+        "address1": "仙台市泉区",
+        "address2": "住吉台西",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "1",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

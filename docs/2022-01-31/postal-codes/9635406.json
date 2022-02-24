@@ -1,0 +1,19 @@
+[
+    {
+        "code": "07483",
+        "postal_old": "96354",
+        "postal_new": "9635406",
+        "pref_kana": "ﾌｸｼﾏｹﾝ",
+        "address1_kana": "ﾋｶﾞｼｼﾗｶﾜｸﾞﾝﾊﾅﾜﾏﾁ",
+        "address2_kana": "ｶﾐｼﾌﾞｲ",
+        "pref": "福島県",
+        "address1": "東白川郡塙町",
+        "address2": "上渋井",
+        "is_multi_code": "0",
+        "is_koaza": "1",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

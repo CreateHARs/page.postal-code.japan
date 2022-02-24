@@ -1,0 +1,19 @@
+[
+    {
+        "code": "34101",
+        "postal_old": "730  ",
+        "postal_new": "7300037",
+        "pref_kana": "ﾋﾛｼﾏｹﾝ",
+        "address1_kana": "ﾋﾛｼﾏｼﾅｶｸ",
+        "address2_kana": "ﾅｶﾏﾁ",
+        "pref": "広島県",
+        "address1": "広島市中区",
+        "address2": "中町",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

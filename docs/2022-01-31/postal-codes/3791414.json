@@ -1,0 +1,19 @@
+[
+    {
+        "code": "10449",
+        "postal_old": "37914",
+        "postal_new": "3791414",
+        "pref_kana": "ｸﾞﾝﾏｹﾝ",
+        "address1_kana": "ﾄﾈｸﾞﾝﾐﾅｶﾐﾏﾁ",
+        "address2_kana": "ﾌｾ",
+        "pref": "群馬県",
+        "address1": "利根郡みなかみ町",
+        "address2": "布施",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

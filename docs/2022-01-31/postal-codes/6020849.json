@@ -1,0 +1,36 @@
+[
+    {
+        "code": "26102",
+        "postal_old": "602  ",
+        "postal_new": "6020849",
+        "pref_kana": "ｷｮｳﾄﾌ",
+        "address1_kana": "ｷｮｳﾄｼｶﾐｷﾞｮｳｸ",
+        "address2_kana": "ｵｵｲﾉｸﾏﾁｮｳ",
+        "pref": "京都府",
+        "address1": "京都市上京区",
+        "address2": "大猪熊町（中筋通石薬師上る、石薬師通河原町西入、石薬師通寺町",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    },
+    {
+        "code": "26102",
+        "postal_old": "602  ",
+        "postal_new": "6020849",
+        "pref_kana": "ｷｮｳﾄﾌ",
+        "address1_kana": "ｷｮｳﾄｼｶﾐｷﾞｮｳｸ",
+        "address2_kana": "ｵｵｲﾉｸﾏﾁｮｳ",
+        "pref": "京都府",
+        "address1": "京都市上京区",
+        "address2": "東入、石薬師通中筋西入、石薬師通中筋東入）",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

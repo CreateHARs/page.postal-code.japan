@@ -1,0 +1,19 @@
+[
+    {
+        "code": "01519",
+        "postal_old": "09702",
+        "postal_new": "0970211",
+        "pref_kana": "ﾎｯｶｲﾄﾞｳ",
+        "address1_kana": "ﾘｼﾘｸﾞﾝﾘｼﾘﾌｼﾞﾁｮｳ",
+        "address2_kana": "ｵﾆﾜｷ",
+        "pref": "北海道",
+        "address1": "利尻郡利尻富士町",
+        "address2": "鬼脇",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

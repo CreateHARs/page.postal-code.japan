@@ -1,0 +1,19 @@
+[
+    {
+        "code": "27144",
+        "postal_old": "593  ",
+        "postal_new": "5938306",
+        "pref_kana": "ｵｵｻｶﾌ",
+        "address1_kana": "ｻｶｲｼﾆｼｸ",
+        "address2_kana": "ﾊﾝﾀﾞｲｼﾞﾁｮｳ(40-1-40-3ﾊﾞﾝﾁ)",
+        "pref": "大阪府",
+        "address1": "堺市西区",
+        "address2": "八田寺町（４０−１〜４０−３番地）",
+        "is_multi_code": "1",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

@@ -1,0 +1,19 @@
+[
+    {
+        "code": "43428",
+        "postal_old": "86918",
+        "postal_new": "8691823",
+        "pref_kana": "ｸﾏﾓﾄｹﾝ",
+        "address1_kana": "ｱｿｸﾞﾝﾀｶﾓﾘﾏﾁ",
+        "address2_kana": "ﾂﾙ",
+        "pref": "熊本県",
+        "address1": "阿蘇郡高森町",
+        "address2": "津留",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

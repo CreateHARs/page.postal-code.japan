@@ -1,0 +1,19 @@
+[
+    {
+        "code": "43404",
+        "postal_old": "86911",
+        "postal_new": "8691108",
+        "pref_kana": "ｸﾏﾓﾄｹﾝ",
+        "address1_kana": "ｷｸﾁｸﾞﾝｷｸﾖｳﾏﾁ",
+        "address2_kana": "ﾋｶﾘﾉﾓﾘ",
+        "pref": "熊本県",
+        "address1": "菊池郡菊陽町",
+        "address2": "光の森",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "1",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

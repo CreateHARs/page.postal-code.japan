@@ -1,0 +1,19 @@
+[
+    {
+        "code": "26209",
+        "postal_old": "617  ",
+        "postal_new": "6170817",
+        "pref_kana": "ｷｮｳﾄﾌ",
+        "address1_kana": "ﾅｶﾞｵｶｷｮｳｼ",
+        "address2_kana": "ﾀｷﾉﾁｮｳ",
+        "pref": "京都府",
+        "address1": "長岡京市",
+        "address2": "滝ノ町",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "1",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

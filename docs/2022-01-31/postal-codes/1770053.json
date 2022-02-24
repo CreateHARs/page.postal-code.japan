@@ -1,0 +1,19 @@
+[
+    {
+        "code": "13120",
+        "postal_old": "177  ",
+        "postal_new": "1770053",
+        "pref_kana": "ﾄｳｷｮｳﾄ",
+        "address1_kana": "ﾈﾘﾏｸ",
+        "address2_kana": "ｾｷﾏﾁﾐﾅﾐ",
+        "pref": "東京都",
+        "address1": "練馬区",
+        "address2": "関町南",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "1",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

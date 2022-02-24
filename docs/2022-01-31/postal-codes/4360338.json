@@ -1,0 +1,19 @@
+[
+    {
+        "code": "22213",
+        "postal_old": "43603",
+        "postal_new": "4360338",
+        "pref_kana": "ｼｽﾞｵｶｹﾝ",
+        "address1_kana": "ｶｹｶﾞﾜｼ",
+        "address2_kana": "ﾜｺｳ",
+        "pref": "静岡県",
+        "address1": "掛川市",
+        "address2": "和光",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "1",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

@@ -1,0 +1,53 @@
+[
+    {
+        "code": "01643",
+        "postal_old": "08918",
+        "postal_new": "0891871",
+        "pref_kana": "ﾎｯｶｲﾄﾞｳ",
+        "address1_kana": "ﾅｶｶﾞﾜｸﾞﾝﾏｸﾍﾞﾂﾁｮｳ",
+        "address2_kana": "ﾁｭｳﾙｲﾊﾞﾝｾｲ",
+        "pref": "北海道",
+        "address1": "中川郡幕別町",
+        "address2": "忠類晩成",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    },
+    {
+        "code": "01641",
+        "postal_old": "08918",
+        "postal_new": "0891881",
+        "pref_kana": "ﾎｯｶｲﾄﾞｳ",
+        "address1_kana": "ﾋﾛｵｸﾞﾝﾀｲｷﾁｮｳ",
+        "address2_kana": "ｾｲｶ",
+        "pref": "北海道",
+        "address1": "広尾郡大樹町",
+        "address2": "生花",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    },
+    {
+        "code": "01641",
+        "postal_old": "08918",
+        "postal_new": "0891882",
+        "pref_kana": "ﾎｯｶｲﾄﾞｳ",
+        "address1_kana": "ﾋﾛｵｸﾞﾝﾀｲｷﾁｮｳ",
+        "address2_kana": "ﾊﾞﾝｾｲ",
+        "pref": "北海道",
+        "address1": "広尾郡大樹町",
+        "address2": "晩成",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

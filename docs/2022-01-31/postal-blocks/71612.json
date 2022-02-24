@@ -1,0 +1,36 @@
+[
+    {
+        "code": "33681",
+        "postal_old": "71612",
+        "postal_new": "7161241",
+        "pref_kana": "ｵｶﾔﾏｹﾝ",
+        "address1_kana": "ｶｶﾞｸﾞﾝｷﾋﾞﾁｭｳｵｳﾁｮｳ",
+        "address2_kana": "ﾖｼｶﾜ",
+        "pref": "岡山県",
+        "address1": "加賀郡吉備中央町",
+        "address2": "吉川",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    },
+    {
+        "code": "33681",
+        "postal_old": "71612",
+        "postal_new": "7161242",
+        "pref_kana": "ｵｶﾔﾏｹﾝ",
+        "address1_kana": "ｶｶﾞｸﾞﾝｷﾋﾞﾁｭｳｵｳﾁｮｳ",
+        "address2_kana": "ｸﾛﾔﾏ",
+        "pref": "岡山県",
+        "address1": "加賀郡吉備中央町",
+        "address2": "黒山",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

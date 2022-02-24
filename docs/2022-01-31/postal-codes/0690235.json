@@ -1,0 +1,19 @@
+[
+    {
+        "code": "01423",
+        "postal_old": "06902",
+        "postal_new": "0690235",
+        "pref_kana": "ﾎｯｶｲﾄﾞｳ",
+        "address1_kana": "ｿﾗﾁｸﾞﾝﾅﾝﾎﾟﾛﾁｮｳ",
+        "address2_kana": "ﾁｭｳｵｳ",
+        "pref": "北海道",
+        "address1": "空知郡南幌町",
+        "address2": "中央",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "1",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

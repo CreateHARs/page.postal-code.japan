@@ -1,0 +1,19 @@
+[
+    {
+        "code": "21203",
+        "postal_old": "50621",
+        "postal_new": "5062131",
+        "pref_kana": "ｷﾞﾌｹﾝ",
+        "address1_kana": "ﾀｶﾔﾏｼ",
+        "address2_kana": "ﾆｭｳｶﾜﾁｮｳｵｵｶﾞﾔ",
+        "pref": "岐阜県",
+        "address1": "高山市",
+        "address2": "丹生川町大萱",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

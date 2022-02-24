@@ -1,0 +1,19 @@
+[
+    {
+        "code": "41210",
+        "postal_old": "842  ",
+        "postal_new": "8420056",
+        "pref_kana": "ｻｶﾞｹﾝ",
+        "address1_kana": "ｶﾝｻﾞｷｼ",
+        "address2_kana": "ﾁﾖﾀﾞﾁｮｳｻｶｲﾊﾞﾙ",
+        "pref": "佐賀県",
+        "address1": "神埼市",
+        "address2": "千代田町境原",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

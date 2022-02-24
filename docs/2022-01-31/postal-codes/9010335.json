@@ -1,0 +1,19 @@
+[
+    {
+        "code": "47210",
+        "postal_old": "90103",
+        "postal_new": "9010335",
+        "pref_kana": "ｵｷﾅﾜｹﾝ",
+        "address1_kana": "ｲﾄﾏﾝｼ",
+        "address2_kana": "ｺﾒｽ",
+        "pref": "沖縄県",
+        "address1": "糸満市",
+        "address2": "米須",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

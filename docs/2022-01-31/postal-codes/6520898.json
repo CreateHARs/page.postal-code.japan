@@ -1,0 +1,19 @@
+[
+    {
+        "code": "28105",
+        "postal_old": "652  ",
+        "postal_new": "6520898",
+        "pref_kana": "ﾋｮｳｺﾞｹﾝ",
+        "address1_kana": "ｺｳﾍﾞｼﾋｮｳｺﾞｸ",
+        "address2_kana": "ｴｷﾏｴﾄﾞｵﾘ",
+        "pref": "兵庫県",
+        "address1": "神戸市兵庫区",
+        "address2": "駅前通",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "1",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

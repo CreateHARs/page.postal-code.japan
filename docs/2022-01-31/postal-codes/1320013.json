@@ -1,0 +1,19 @@
+[
+    {
+        "code": "13123",
+        "postal_old": "132  ",
+        "postal_new": "1320013",
+        "pref_kana": "ﾄｳｷｮｳﾄ",
+        "address1_kana": "ｴﾄﾞｶﾞﾜｸ",
+        "address2_kana": "ｴﾄﾞｶﾞﾜ(1-3ﾁｮｳﾒ､4ﾁｮｳﾒ1-14ﾊﾞﾝ)",
+        "pref": "東京都",
+        "address1": "江戸川区",
+        "address2": "江戸川（１〜３丁目、４丁目１〜１４番）",
+        "is_multi_code": "1",
+        "is_koaza": "0",
+        "is_choume": "1",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

@@ -1,0 +1,53 @@
+[
+    {
+        "code": "36207",
+        "postal_old": "77121",
+        "postal_new": "7712106",
+        "pref_kana": "ﾄｸｼﾏｹﾝ",
+        "address1_kana": "ﾐﾏｼ",
+        "address2_kana": "ﾐﾏﾁｮｳ(ｱﾗｶﾜ､ｲﾃﾞﾍﾞﾘ､ｲﾉｶﾐ､ｵｵｲｽﾞﾐ､ｵｵﾐﾔﾆｼ､ｶﾐﾂｷﾀﾞｼ､ｷｼﾉｼﾀ､ｷﾀﾋｶﾞｼﾊﾞﾗ､",
+        "pref": "徳島県",
+        "address1": "美馬市",
+        "address2": "美馬町（荒川、井出縁、井ノ神、大泉、大宮西、上突出、岸ノ下、北東原、",
+        "is_multi_code": "1",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    },
+    {
+        "code": "36207",
+        "postal_old": "77121",
+        "postal_new": "7712106",
+        "pref_kana": "ﾄｸｼﾏｹﾝ",
+        "address1_kana": "ﾐﾏｼ",
+        "address2_kana": "ｷﾗｲｲﾁ､ｻﾄﾋﾗﾉ､ｼﾓﾂｷﾀﾞｼ､ﾀﾆﾖﾘﾆｼ､ﾁﾁﾉｷ､ﾃﾗﾉｼﾀ､ﾃﾝｼﾞﾝ､ﾃﾝｼﾞﾝｷﾀ､ﾅｶﾋｶﾞｼﾊﾞﾗ､",
+        "pref": "徳島県",
+        "address1": "美馬市",
+        "address2": "喜来市、里平野、下突出、谷ヨリ西、乳ノ木、寺ノ下、天神、天神北、中東原、",
+        "is_multi_code": "1",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    },
+    {
+        "code": "36207",
+        "postal_old": "77121",
+        "postal_new": "7712106",
+        "pref_kana": "ﾄｸｼﾏｹﾝ",
+        "address1_kana": "ﾐﾏｼ",
+        "address2_kana": "ﾆｼｱﾗｶﾜ､ﾇﾏﾀﾞｼﾞﾏ､ﾋｶﾞｼｱﾗｶﾜ､ﾐﾅﾐｱﾗｶﾜ､ﾐﾅﾐﾋｶﾞｼﾊﾞﾗ､ﾐｮｳｹﾝ､ﾔﾏﾖﾒｻﾞｶ)",
+        "pref": "徳島県",
+        "address1": "美馬市",
+        "address2": "西荒川、沼田島、東荒川、南荒川、南東原、妙見、山嫁坂）",
+        "is_multi_code": "1",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

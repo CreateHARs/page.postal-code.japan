@@ -1,0 +1,19 @@
+[
+    {
+        "code": "40344",
+        "postal_old": "81121",
+        "postal_new": "8112114",
+        "pref_kana": "ﾌｸｵｶｹﾝ",
+        "address1_kana": "ｶｽﾔｸﾞﾝｽｴﾏﾁ",
+        "address2_kana": "ｶﾐｽｴ",
+        "pref": "福岡県",
+        "address1": "糟屋郡須惠町",
+        "address2": "上須惠",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

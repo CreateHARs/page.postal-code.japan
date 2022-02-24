@@ -1,0 +1,53 @@
+[
+    {
+        "code": "18204",
+        "postal_old": "917  ",
+        "postal_new": "9170045",
+        "pref_kana": "ﾌｸｲｹﾝ",
+        "address1_kana": "ｵﾊﾞﾏｼ",
+        "address2_kana": "ｶﾄﾞ",
+        "pref": "福井県",
+        "address1": "小浜市",
+        "address2": "加斗",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "1",
+        "is_updated": "0",
+        "update_reason": "0"
+    },
+    {
+        "code": "18204",
+        "postal_old": "917  ",
+        "postal_new": "9170045",
+        "pref_kana": "ﾌｸｲｹﾝ",
+        "address1_kana": "ｵﾊﾞﾏｼ",
+        "address2_kana": "ｶﾐｶﾄﾞ",
+        "pref": "福井県",
+        "address1": "小浜市",
+        "address2": "上加斗",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "1",
+        "is_updated": "0",
+        "update_reason": "0"
+    },
+    {
+        "code": "18204",
+        "postal_old": "917  ",
+        "postal_new": "9170045",
+        "pref_kana": "ﾌｸｲｹﾝ",
+        "address1_kana": "ｵﾊﾞﾏｼ",
+        "address2_kana": "ｼﾓｶﾄﾞ",
+        "pref": "福井県",
+        "address1": "小浜市",
+        "address2": "下加斗",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "1",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

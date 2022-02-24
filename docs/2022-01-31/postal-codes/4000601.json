@@ -1,0 +1,19 @@
+[
+    {
+        "code": "19368",
+        "postal_old": "40006",
+        "postal_new": "4000601",
+        "pref_kana": "ﾔﾏﾅｼｹﾝ",
+        "address1_kana": "ﾐﾅﾐｺﾏｸﾞﾝﾌｼﾞｶﾜﾁｮｳ",
+        "address2_kana": "ｶｼﾞｶｻﾞﾜ",
+        "pref": "山梨県",
+        "address1": "南巨摩郡富士川町",
+        "address2": "鰍沢",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

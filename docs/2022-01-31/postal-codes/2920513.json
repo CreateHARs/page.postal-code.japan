@@ -1,0 +1,19 @@
+[
+    {
+        "code": "12225",
+        "postal_old": "29205",
+        "postal_new": "2920513",
+        "pref_kana": "ﾁﾊﾞｹﾝ",
+        "address1_kana": "ｷﾐﾂｼ",
+        "address2_kana": "ｶﾅﾓﾘ",
+        "pref": "千葉県",
+        "address1": "君津市",
+        "address2": "加名盛",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

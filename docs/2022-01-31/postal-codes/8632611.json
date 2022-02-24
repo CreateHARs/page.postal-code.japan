@@ -1,0 +1,19 @@
+[
+    {
+        "code": "43531",
+        "postal_old": "86326",
+        "postal_new": "8632611",
+        "pref_kana": "ｸﾏﾓﾄｹﾝ",
+        "address1_kana": "ｱﾏｸｻｸﾞﾝﾚｲﾎｸﾏﾁ",
+        "address2_kana": "ﾄﾛﾛ",
+        "pref": "熊本県",
+        "address1": "天草郡苓北町",
+        "address2": "都呂々",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

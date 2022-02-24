@@ -1,0 +1,19 @@
+[
+    {
+        "code": "23114",
+        "postal_old": "458  ",
+        "postal_new": "4580910",
+        "pref_kana": "ｱｲﾁｹﾝ",
+        "address1_kana": "ﾅｺﾞﾔｼﾐﾄﾞﾘｸ",
+        "address2_kana": "ｵｹﾊｻﾞﾏﾓﾘﾏｴ",
+        "pref": "愛知県",
+        "address1": "名古屋市緑区",
+        "address2": "桶狭間森前",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

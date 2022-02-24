@@ -1,0 +1,19 @@
+[
+    {
+        "code": "08216",
+        "postal_old": "30917",
+        "postal_new": "3091723",
+        "pref_kana": "ｲﾊﾞﾗｷｹﾝ",
+        "address1_kana": "ｶｻﾏｼ",
+        "address2_kana": "ﾔﾉｼﾀ",
+        "pref": "茨城県",
+        "address1": "笠間市",
+        "address2": "矢野下",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

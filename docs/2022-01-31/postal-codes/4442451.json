@@ -1,0 +1,19 @@
+[
+    {
+        "code": "23211",
+        "postal_old": "44424",
+        "postal_new": "4442451",
+        "pref_kana": "ｱｲﾁｹﾝ",
+        "address1_kana": "ﾄﾖﾀｼ",
+        "address2_kana": "ﾔｶﾞﾐﾁｮｳ(ｱｽｹｺｳﾄｳｶﾞｯｺｳ)",
+        "pref": "愛知県",
+        "address1": "豊田市",
+        "address2": "岩神町（足助高等学校）",
+        "is_multi_code": "1",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

@@ -1,0 +1,19 @@
+[
+    {
+        "code": "30204",
+        "postal_old": "64903",
+        "postal_new": "6490305",
+        "pref_kana": "ﾜｶﾔﾏｹﾝ",
+        "address1_kana": "ｱﾘﾀﾞｼ",
+        "address2_kana": "ﾐﾅﾄﾏﾁ",
+        "pref": "和歌山県",
+        "address1": "有田市",
+        "address2": "港町",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

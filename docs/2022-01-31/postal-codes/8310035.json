@@ -1,0 +1,19 @@
+[
+    {
+        "code": "40212",
+        "postal_old": "831  ",
+        "postal_new": "8310035",
+        "pref_kana": "ﾌｸｵｶｹﾝ",
+        "address1_kana": "ｵｵｶﾜｼ",
+        "address2_kana": "ﾂ",
+        "pref": "福岡県",
+        "address1": "大川市",
+        "address2": "津",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

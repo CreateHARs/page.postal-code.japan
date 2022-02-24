@@ -1,0 +1,19 @@
+[
+    {
+        "code": "22305",
+        "postal_old": "41036",
+        "postal_new": "4103617",
+        "pref_kana": "ｼｽﾞｵｶｹﾝ",
+        "address1_kana": "ｶﾓｸﾞﾝﾏﾂｻﾞｷﾁｮｳ",
+        "address2_kana": "ｲﾜﾁ",
+        "pref": "静岡県",
+        "address1": "賀茂郡松崎町",
+        "address2": "岩地",
+        "is_multi_code": "0",
+        "is_koaza": "1",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

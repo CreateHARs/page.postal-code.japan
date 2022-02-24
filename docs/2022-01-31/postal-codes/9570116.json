@@ -1,0 +1,19 @@
+[
+    {
+        "code": "15307",
+        "postal_old": "95701",
+        "postal_new": "9570116",
+        "pref_kana": "ﾆｲｶﾞﾀｹﾝ",
+        "address1_kana": "ｷﾀｶﾝﾊﾞﾗｸﾞﾝｾｲﾛｳﾏﾁ",
+        "address2_kana": "ﾔﾏｸﾞﾗ",
+        "pref": "新潟県",
+        "address1": "北蒲原郡聖籠町",
+        "address2": "山倉",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

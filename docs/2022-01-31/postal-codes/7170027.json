@@ -1,0 +1,19 @@
+[
+    {
+        "code": "33214",
+        "postal_old": "717  ",
+        "postal_new": "7170027",
+        "pref_kana": "ｵｶﾔﾏｹﾝ",
+        "address1_kana": "ﾏﾆﾜｼ",
+        "address2_kana": "ｺｳｼﾞﾛ",
+        "pref": "岡山県",
+        "address1": "真庭市",
+        "address2": "神代",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]
