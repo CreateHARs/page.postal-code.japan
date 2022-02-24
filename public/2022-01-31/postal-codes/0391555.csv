@@ -1,0 +1,4 @@
+code,postal_old,postal_new,pref_kana,address1_kana,address2_kana,pref,address1,address2,is_multi_code,is_koaza,is_choume,is_multi_place,is_updated,update_reason
+02442,03915,0391555,ｱｵﾓﾘｹﾝ,ｻﾝﾉﾍｸﾞﾝｺﾞﾉﾍﾏﾁ,ｼﾓﾀｶﾀﾞ,青森県,三戸郡五戸町,下高田,0,0,0,1,0,0
+02442,03915,0391555,ｱｵﾓﾘｹﾝ,ｻﾝﾉﾍｸﾞﾝｺﾞﾉﾍﾏﾁ,ﾌﾙﾄﾞｳ,青森県,三戸郡五戸町,古堂,0,0,0,1,0,0
+02442,03915,0391555,ｱｵﾓﾘｹﾝ,ｻﾝﾉﾍｸﾞﾝｺﾞﾉﾍﾏﾁ,ﾌﾙﾄﾞｳｳｼﾛ,青森県,三戸郡五戸町,古堂後,0,0,0,1,0,0

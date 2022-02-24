@@ -1,0 +1,4 @@
+code,postal_old,postal_new,pref_kana,address1_kana,address2_kana,pref,address1,address2,is_multi_code,is_koaza,is_choume,is_multi_place,is_updated,update_reason
+04212,98703,9870353,ﾐﾔｷﾞｹﾝ,ﾄﾒｼ,ﾄﾖｻﾄﾁｮｳｴﾐｻﾜ,宮城県,登米市,豊里町笑沢,0,0,0,1,0,0
+04212,98703,9870353,ﾐﾔｷﾞｹﾝ,ﾄﾒｼ,ﾄﾖｻﾄﾁｮｳｵｵｸﾇｷﾞ,宮城県,登米市,豊里町大椚,0,0,0,1,0,0
+04212,98703,9870353,ﾐﾔｷﾞｹﾝ,ﾄﾒｼ,ﾄﾖｻﾄﾁｮｳﾋﾗﾊﾞﾔｼ,宮城県,登米市,豊里町平林,0,0,0,1,0,0
