@@ -1,0 +1,4 @@
+code,postal_old,postal_new,pref_kana,address1_kana,address2_kana,pref,address1,address2,is_multi_code,is_koaza,is_choume,is_multi_place,is_updated,update_reason
+16201,93905,9390511,ﾄﾔﾏｹﾝ,ﾄﾔﾏｼ,ﾐｽﾞﾊｼｱｻﾋﾏﾁ,富山県,富山市,水橋朝日町,0,0,0,1,0,0
+16201,93905,9390511,ﾄﾔﾏｹﾝ,ﾄﾔﾏｼ,ﾐｽﾞﾊｼｳｵﾉﾐ,富山県,富山市,水橋魚躬,0,0,0,1,0,0
+16201,93905,9390511,ﾄﾔﾏｹﾝ,ﾄﾔﾏｼ,ﾐｽﾞﾊｼﾀｶﾂｷ,富山県,富山市,水橋高月,0,0,0,1,0,0

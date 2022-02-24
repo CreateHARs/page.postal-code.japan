@@ -1,0 +1,3 @@
+code,postal_old,postal_new,pref_kana,address1_kana,address2_kana,pref,address1,address2,is_multi_code,is_koaza,is_choume,is_multi_place,is_updated,update_reason
+03203,02201,0220101,ｲﾜﾃｹﾝ,ｵｵﾌﾅﾄｼ,ｻﾝﾘｸﾁｮｳｵｷﾗｲ,岩手県,大船渡市,三陸町越喜来,0,1,0,0,0,0
+03203,02201,0220102,ｲﾜﾃｹﾝ,ｵｵﾌﾅﾄｼ,ｻﾝﾘｸﾁｮｳﾖｼﾊﾏ,岩手県,大船渡市,三陸町吉浜,0,1,0,0,0,0
