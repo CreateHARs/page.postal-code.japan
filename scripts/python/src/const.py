@@ -3,7 +3,7 @@
 import os
 
 DIR_SRC_ROOT = os.path.dirname(os.path.abspath(__file__)) # os.curdir
-DIR_PUBLIC = os.path.join(DIR_SRC_ROOT, '../../../public')
+DIR_PUBLIC = os.path.join(DIR_SRC_ROOT, '../../../docs')
 
 DIR_CURRENT = DIR_PUBLIC + '/current'
 DIR_VERSION = DIR_PUBLIC + '/%yyyy-MM-dd%'
