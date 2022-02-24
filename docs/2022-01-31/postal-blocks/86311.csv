@@ -1,0 +1,4 @@
+code,postal_old,postal_new,pref_kana,address1_kana,address2_kana,pref,address1,address2,is_multi_code,is_koaza,is_choume,is_multi_place,is_updated,update_reason
+43215,86311,8631111,ｸﾏﾓﾄｹﾝ,ｱﾏｸｻｼ,ｼﾝﾜﾏﾁｲｶﾘｲｼ,熊本県,天草市,新和町碇石,0,0,0,0,0,0
+43215,86311,8631112,ｸﾏﾓﾄｹﾝ,ｱﾏｸｻｼ,ｼﾝﾜﾏﾁﾅｶﾀﾞ,熊本県,天草市,新和町中田,0,0,0,0,0,0
+43215,86311,8631161,ｸﾏﾓﾄｹﾝ,ｱﾏｸｻｼ,ﾐﾔｼﾞﾀﾞｹﾏﾁ,熊本県,天草市,宮地岳町,0,0,0,0,0,0

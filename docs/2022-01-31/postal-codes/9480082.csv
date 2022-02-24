@@ -1,0 +1,4 @@
+code,postal_old,postal_new,pref_kana,address1_kana,address2_kana,pref,address1,address2,is_multi_code,is_koaza,is_choume,is_multi_place,is_updated,update_reason
+15210,948  ,9480082,ﾆｲｶﾞﾀｹﾝ,ﾄｵｶﾏﾁｼ,ﾎﾝﾁｮｳﾆﾁｮｳﾒ,新潟県,十日町市,本町二丁目,1,0,1,1,0,0
+15210,948  ,9480082,ﾆｲｶﾞﾀｹﾝ,ﾄｵｶﾏﾁｼ,ﾎﾝﾁｮｳｻﾝﾁｮｳﾒ,新潟県,十日町市,本町三丁目,1,0,1,1,0,0
+15210,948  ,9480082,ﾆｲｶﾞﾀｹﾝ,ﾄｵｶﾏﾁｼ,ﾎﾝﾁｮｳﾖﾝﾁｮｳﾒ,新潟県,十日町市,本町四丁目,0,0,1,1,0,0

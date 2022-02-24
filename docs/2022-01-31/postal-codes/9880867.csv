@@ -1,0 +1,3 @@
+code,postal_old,postal_new,pref_kana,address1_kana,address2_kana,pref,address1,address2,is_multi_code,is_koaza,is_choume,is_multi_place,is_updated,update_reason
+04205,988  ,9880867,ﾐﾔｷﾞｹﾝ,ｹｾﾝﾇﾏｼ,ｼﾝﾀﾞｲ,宮城県,気仙沼市,新台,0,0,0,1,0,0
+04205,988  ,9880867,ﾐﾔｷﾞｹﾝ,ｹｾﾝﾇﾏｼ,ﾀﾞｲ,宮城県,気仙沼市,台,0,0,0,1,0,0

@@ -1,0 +1,3 @@
+code,postal_old,postal_new,pref_kana,address1_kana,address2_kana,pref,address1,address2,is_multi_code,is_koaza,is_choume,is_multi_place,is_updated,update_reason
+18205,912  ,9120021,ﾌｸｲｹﾝ,ｵｵﾉｼ,ﾅｶﾉ,福井県,大野市,中野,0,0,0,1,0,0
+18205,912  ,9120021,ﾌｸｲｹﾝ,ｵｵﾉｼ,ﾅｶﾉﾁｮｳ,福井県,大野市,中野町,0,0,1,1,0,0
