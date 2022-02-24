@@ -2,13 +2,14 @@ name: "[cron] automation"
 
 on:
   schedule: # UTC
-    - cron: '*/10 * * * *'
+    - cron: '0 * * * *'
   workflow_dispatch:
 
 jobs:
   run-script:
     name    : run script
     runs-on : ubuntu-latest
+    timeout-minutes : 60
     steps   :
       - name  : Checkout repository
         uses  : actions/checkout@v2
@@ -20,9 +21,9 @@ jobs:
           architecture   : 'x64'
 
       - name  : Run Python
+        id    : step-python
         # working-directory : scripts/python
         run   : |
-          echo "123"
           echo "CURRENT_DATETIME=$(date +'%Y-%m-%d_%H-%M-%S')" >> $GITHUB_ENV
 
           cd scripts/python
@@ -41,11 +42,11 @@ jobs:
           git config --local user.name  github-actions
           git config --local user.email github-actions@github.com
 
-      - name  : Create new branch
+      - name  : Create new branch/pr
         env   :
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run   : |
-          echo ${steps.changes.outputs.count}
+          echo ${{ steps.step-python.outputs.git-diff-count }}
           release_branch="release/auto_${{ env.CURRENT_DATETIME }}"
           git switch -c      ${release_branch}
           git push -u origin ${release_branch}
