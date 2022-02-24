@@ -39,7 +39,7 @@ jobs:
           cd scripts/python
           python -V
           pip install -r requirements.txt
-          python src/main.py
+          python -B src/main.py
 
           git add -N .
           git_diff_count=`git diff --name-only | wc -l`
