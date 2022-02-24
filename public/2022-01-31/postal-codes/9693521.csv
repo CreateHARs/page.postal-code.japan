@@ -1,0 +1,4 @@
+code,postal_old,postal_new,pref_kana,address1_kana,address2_kana,pref,address1,address2,is_multi_code,is_koaza,is_choume,is_multi_place,is_updated,update_reason
+07208,96935,9693521,ﾌｸｼﾏｹﾝ,ｷﾀｶﾀｼ,ｼｵｶﾜﾏﾁｵｶﾉﾏｴ,福島県,喜多方市,塩川町岡ノ前,0,0,0,1,0,0
+07208,96935,9693521,ﾌｸｼﾏｹﾝ,ｷﾀｶﾀｼ,ｼｵｶﾜﾏﾁﾋｶﾞｼｵｶ,福島県,喜多方市,塩川町東岡,0,0,0,1,0,0
+07208,96935,9693521,ﾌｸｼﾏｹﾝ,ｷﾀｶﾀｼ,ｼｵｶﾜﾏﾁﾐｶﾐ,福島県,喜多方市,塩川町身神,0,0,0,1,0,0
