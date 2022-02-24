@@ -41,14 +41,22 @@ jobs:
           pip install -r requirements.txt
           python -B src/main.py
 
-          # git add -N .
-          git add .
+#          # git add -N .
+#          git add .
+#          git_diff_count=`git diff --name-only | wc -l`
+#          echo "git_diff_count: ${git_diff_count}"
+#          echo "::set-output name=git-diff-count::${git_diff_count}"
+
+      - name  : Check Changes
+        id    : step-check-changes
+        run   : |
+          git add -N .
           git_diff_count=`git diff --name-only | wc -l`
           echo "git_diff_count: ${git_diff_count}"
           echo "::set-output name=git-diff-count::${git_diff_count}"
 
       - name  : Create New Branch/PR
-        if    : steps.step-python.outputs.git-diff-count > 0
+        if    : steps.step-check-changes.outputs.git-diff-count > 0
         env   :
           # GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GH_TOKEN : ${{ secrets.ACTIONS_CHAIN_FLOW_PAT }}
