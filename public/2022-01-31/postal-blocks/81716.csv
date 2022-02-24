@@ -1,0 +1,4 @@
+code,postal_old,postal_new,pref_kana,address1_kana,address2_kana,pref,address1,address2,is_multi_code,is_koaza,is_choume,is_multi_place,is_updated,update_reason
+42209,81716,8171601,ﾅｶﾞｻｷｹﾝ,ﾂｼﾏｼ,ｶﾐｱｶﾞﾀﾏﾁﾆｼﾂﾔ,長崎県,対馬市,上県町西津屋,0,0,0,0,0,0
+42209,81716,8171602,ﾅｶﾞｻｷｹﾝ,ﾂｼﾏｼ,ｶﾐｱｶﾞﾀﾏﾁｻｽﾅ,長崎県,対馬市,上県町佐須奈,0,0,0,0,0,0
+42209,81716,8171603,ﾅｶﾞｻｷｹﾝ,ﾂｼﾏｼ,ｶﾐｱｶﾞﾀﾏﾁｻｺﾞ,長崎県,対馬市,上県町佐護,0,0,0,0,0,0

@@ -1,0 +1,4 @@
+code,postal_old,postal_new,pref_kana,address1_kana,address2_kana,pref,address1,address2,is_multi_code,is_koaza,is_choume,is_multi_place,is_updated,update_reason
+20205,39922,3992221,ﾅｶﾞﾉｹﾝ,ｲｲﾀﾞｼ,ﾀﾂｴ,長野県,飯田市,龍江,0,0,0,0,0,0
+20205,39922,3992222,ﾅｶﾞﾉｹﾝ,ｲｲﾀﾞｼ,ﾁﾖ,長野県,飯田市,千代,0,0,0,0,0,0
+20205,39922,3992223,ﾅｶﾞﾉｹﾝ,ｲｲﾀﾞｼ,ﾁﾊｴ,長野県,飯田市,千栄,0,0,0,0,0,0

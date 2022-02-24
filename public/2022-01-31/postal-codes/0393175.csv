@@ -1,0 +1,4 @@
+code,postal_old,postal_new,pref_kana,address1_kana,address2_kana,pref,address1,address2,is_multi_code,is_koaza,is_choume,is_multi_place,is_updated,update_reason
+02401,03931,0393175,ｱｵﾓﾘｹﾝ,ｶﾐｷﾀｸﾞﾝﾉﾍｼﾞﾏﾁ,ｼﾞﾂﾂﾞｷﾔﾏ,青森県,上北郡野辺地町,地続山,0,0,0,1,0,0
+02401,03931,0393175,ｱｵﾓﾘｹﾝ,ｶﾐｷﾀｸﾞﾝﾉﾍｼﾞﾏﾁ,ﾕｻﾞﾜ,青森県,上北郡野辺地町,湯沢,0,0,0,1,0,0
+02401,03931,0393175,ｱｵﾓﾘｹﾝ,ｶﾐｷﾀｸﾞﾝﾉﾍｼﾞﾏﾁ,ﾕｻﾞﾜｼﾞﾘ,青森県,上北郡野辺地町,湯沢尻,0,0,0,1,0,0

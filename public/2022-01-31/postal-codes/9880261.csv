@@ -1,0 +1,4 @@
+code,postal_old,postal_new,pref_kana,address1_kana,address2_kana,pref,address1,address2,is_multi_code,is_koaza,is_choume,is_multi_place,is_updated,update_reason
+04205,98802,9880261,ﾐﾔｷﾞｹﾝ,ｹｾﾝﾇﾏｼ,ﾓﾄﾖｼﾁｮｳｳｼﾛﾀﾞ,宮城県,気仙沼市,本吉町後田,0,0,0,1,0,0
+04205,98802,9880261,ﾐﾔｷﾞｹﾝ,ｹｾﾝﾇﾏｼ,ﾓﾄﾖｼﾁｮｳｼﾞｷﾃﾞﾝ,宮城県,気仙沼市,本吉町直伝,0,0,0,1,0,0
+04205,98802,9880261,ﾐﾔｷﾞｹﾝ,ｹｾﾝﾇﾏｼ,ﾓﾄﾖｼﾁｮｳﾂﾁﾄﾞｲｼﾀ,宮城県,気仙沼市,本吉町土樋下,0,0,0,1,0,0
