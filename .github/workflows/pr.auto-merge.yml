@@ -2,9 +2,10 @@ name: "[PR] auto merge"
 
 on:
   pull_request:
+    types:
+      - opened
     branches:
       - 'actions/cron_auto-pr_**'
-    types: [opened]
 
 jobs:
   main:
