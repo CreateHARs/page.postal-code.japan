@@ -1,0 +1,36 @@
+[
+    {
+        "code": "24208",
+        "postal_old": "51804",
+        "postal_new": "5180614",
+        "pref_kana": "ﾐｴｹﾝ",
+        "address1_kana": "ﾅﾊﾞﾘｼ",
+        "address2_kana": "ﾐﾊﾀﾁｮｳｲｹﾉﾀﾞｲﾋｶﾞｼ",
+        "pref": "三重県",
+        "address1": "名張市",
+        "address2": "美旗町池の台東",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "1",
+        "is_updated": "0",
+        "update_reason": "0"
+    },
+    {
+        "code": "24208",
+        "postal_old": "51804",
+        "postal_new": "5180614",
+        "pref_kana": "ﾐｴｹﾝ",
+        "address1_kana": "ﾅﾊﾞﾘｼ",
+        "address2_kana": "ﾐﾊﾀﾁｮｳｲｹﾉﾀﾞｲﾆｼ",
+        "pref": "三重県",
+        "address1": "名張市",
+        "address2": "美旗町池の台西",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "1",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

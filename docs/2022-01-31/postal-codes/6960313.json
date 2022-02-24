@@ -1,0 +1,19 @@
+[
+    {
+        "code": "32449",
+        "postal_old": "69603",
+        "postal_new": "6960313",
+        "pref_kana": "ｼﾏﾈｹﾝ",
+        "address1_kana": "ｵｵﾁｸﾞﾝｵｵﾅﾝﾁｮｳ",
+        "address2_kana": "ﾔﾏﾀﾞ",
+        "pref": "島根県",
+        "address1": "邑智郡邑南町",
+        "address2": "山田",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

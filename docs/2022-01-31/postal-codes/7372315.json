@@ -1,0 +1,19 @@
+[
+    {
+        "code": "34215",
+        "postal_old": "73723",
+        "postal_new": "7372315",
+        "pref_kana": "ﾋﾛｼﾏｹﾝ",
+        "address1_kana": "ｴﾀｼﾞﾏｼ",
+        "address2_kana": "ｵｷﾐﾁｮｳｺｳｿ",
+        "pref": "広島県",
+        "address1": "江田島市",
+        "address2": "沖美町高祖",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

@@ -1,0 +1,19 @@
+[
+    {
+        "code": "19206",
+        "postal_old": "40906",
+        "postal_new": "4090613",
+        "pref_kana": "ﾔﾏﾅｼｹﾝ",
+        "address1_kana": "ｵｵﾂｷｼ",
+        "address2_kana": "ｻﾙﾊｼﾏﾁｲﾗﾊﾞﾗ",
+        "pref": "山梨県",
+        "address1": "大月市",
+        "address2": "猿橋町伊良原",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

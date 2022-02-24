@@ -1,0 +1,36 @@
+[
+    {
+        "code": "03209",
+        "postal_old": "02935",
+        "postal_new": "0293521",
+        "pref_kana": "ｲﾜﾃｹﾝ",
+        "address1_kana": "ｲﾁﾉｾｷｼ",
+        "address2_kana": "ﾌｼﾞｻﾜﾁｮｳﾎﾛﾜ",
+        "pref": "岩手県",
+        "address1": "一関市",
+        "address2": "藤沢町保呂羽",
+        "is_multi_code": "0",
+        "is_koaza": "1",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    },
+    {
+        "code": "03209",
+        "postal_old": "02935",
+        "postal_new": "0293522",
+        "pref_kana": "ｲﾜﾃｹﾝ",
+        "address1_kana": "ｲﾁﾉｾｷｼ",
+        "address2_kana": "ﾌｼﾞｻﾜﾁｮｳｵｵｶｺﾞ",
+        "pref": "岩手県",
+        "address1": "一関市",
+        "address2": "藤沢町大籠",
+        "is_multi_code": "0",
+        "is_koaza": "1",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

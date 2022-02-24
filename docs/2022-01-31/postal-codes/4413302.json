@@ -1,0 +1,19 @@
+[
+    {
+        "code": "23201",
+        "postal_old": "44133",
+        "postal_new": "4413302",
+        "pref_kana": "ｱｲﾁｹﾝ",
+        "address1_kana": "ﾄﾖﾊｼｼ",
+        "address2_kana": "ｽｷﾞﾔﾏﾁｮｳ",
+        "pref": "愛知県",
+        "address1": "豊橋市",
+        "address2": "杉山町",
+        "is_multi_code": "0",
+        "is_koaza": "1",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

@@ -1,0 +1,19 @@
+[
+    {
+        "code": "19202",
+        "postal_old": "403  ",
+        "postal_new": "4030032",
+        "pref_kana": "ﾔﾏﾅｼｹﾝ",
+        "address1_kana": "ﾌｼﾞﾖｼﾀﾞｼ",
+        "address2_kana": "ｶﾐﾖｼﾀﾞﾋｶﾞｼ",
+        "pref": "山梨県",
+        "address1": "富士吉田市",
+        "address2": "上吉田東",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "1",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

@@ -1,0 +1,19 @@
+[
+    {
+        "code": "20382",
+        "postal_old": "39904",
+        "postal_new": "3990425",
+        "pref_kana": "ﾅｶﾞﾉｹﾝ",
+        "address1_kana": "ｶﾐｲﾅｸﾞﾝﾀﾂﾉﾏﾁ",
+        "address2_kana": "ﾋｸﾞﾁ",
+        "pref": "長野県",
+        "address1": "上伊那郡辰野町",
+        "address2": "樋口",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

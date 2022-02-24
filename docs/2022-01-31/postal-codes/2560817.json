@@ -1,0 +1,19 @@
+[
+    {
+        "code": "14206",
+        "postal_old": "256  ",
+        "postal_new": "2560817",
+        "pref_kana": "ｶﾅｶﾞﾜｹﾝ",
+        "address1_kana": "ｵﾀﾞﾜﾗｼ",
+        "address2_kana": "ﾆｼｻｶﾜ",
+        "pref": "神奈川県",
+        "address1": "小田原市",
+        "address2": "西酒匂",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "1",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

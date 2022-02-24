@@ -1,0 +1,19 @@
+[
+    {
+        "code": "08220",
+        "postal_old": "305  ",
+        "postal_new": "3050004",
+        "pref_kana": "ｲﾊﾞﾗｷｹﾝ",
+        "address1_kana": "ﾂｸﾊﾞｼ",
+        "address2_kana": "ｼﾊﾞｻｷ",
+        "pref": "茨城県",
+        "address1": "つくば市",
+        "address2": "柴崎",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "1",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

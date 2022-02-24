@@ -1,0 +1,19 @@
+[
+    {
+        "code": "40522",
+        "postal_old": "83004",
+        "postal_new": "8300403",
+        "pref_kana": "ﾌｸｵｶｹﾝ",
+        "address1_kana": "ﾐｽﾞﾏｸﾞﾝｵｵｷﾏﾁ",
+        "address2_kana": "ｵｵｽﾞﾐ",
+        "pref": "福岡県",
+        "address1": "三潴郡大木町",
+        "address2": "大角",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

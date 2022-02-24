@@ -1,0 +1,19 @@
+[
+    {
+        "code": "46220",
+        "postal_old": "89713",
+        "postal_new": "8971302",
+        "pref_kana": "ｶｺﾞｼﾏｹﾝ",
+        "address1_kana": "ﾐﾅﾐｻﾂﾏｼ",
+        "address2_kana": "ｶｻｻﾁｮｳｱｺｳｷﾞ",
+        "pref": "鹿児島県",
+        "address1": "南さつま市",
+        "address2": "笠沙町赤生木",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

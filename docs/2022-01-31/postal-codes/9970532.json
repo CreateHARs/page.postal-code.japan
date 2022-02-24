@@ -1,0 +1,19 @@
+[
+    {
+        "code": "06203",
+        "postal_old": "99705",
+        "postal_new": "9970532",
+        "pref_kana": "ﾔﾏｶﾞﾀｹﾝ",
+        "address1_kana": "ﾂﾙｵｶｼ",
+        "address2_kana": "ﾀﾑｷﾞﾏﾀ",
+        "pref": "山形県",
+        "address1": "鶴岡市",
+        "address2": "田麦俣",
+        "is_multi_code": "0",
+        "is_koaza": "1",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

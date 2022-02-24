@@ -1,0 +1,19 @@
+[
+    {
+        "code": "14207",
+        "postal_old": "253  ",
+        "postal_new": "2530084",
+        "pref_kana": "ｶﾅｶﾞﾜｹﾝ",
+        "address1_kana": "ﾁｶﾞｻｷｼ",
+        "address2_kana": "ｴﾝｿﾞｳ",
+        "pref": "神奈川県",
+        "address1": "茅ヶ崎市",
+        "address2": "円蔵",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "1",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

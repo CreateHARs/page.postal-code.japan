@@ -1,0 +1,19 @@
+[
+    {
+        "code": "07303",
+        "postal_old": "96917",
+        "postal_new": "9691787",
+        "pref_kana": "ﾌｸｼﾏｹﾝ",
+        "address1_kana": "ﾀﾞﾃｸﾞﾝｸﾆﾐﾏﾁ",
+        "address2_kana": "ｼﾝｺｻｶ",
+        "pref": "福島県",
+        "address1": "伊達郡国見町",
+        "address2": "新小坂",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

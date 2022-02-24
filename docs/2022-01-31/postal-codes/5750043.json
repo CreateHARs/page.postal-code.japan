@@ -1,0 +1,19 @@
+[
+    {
+        "code": "27229",
+        "postal_old": "575  ",
+        "postal_new": "5750043",
+        "pref_kana": "ｵｵｻｶﾌ",
+        "address1_kana": "ｼｼﾞｮｳﾅﾜﾃｼ",
+        "address2_kana": "ｷﾀﾃﾞﾁｮｳ",
+        "pref": "大阪府",
+        "address1": "四條畷市",
+        "address2": "北出町",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

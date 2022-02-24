@@ -1,0 +1,19 @@
+[
+    {
+        "code": "27111",
+        "postal_old": "556  ",
+        "postal_new": "5560024",
+        "pref_kana": "ｵｵｻｶﾌ",
+        "address1_kana": "ｵｵｻｶｼﾅﾆﾜｸ",
+        "address2_kana": "ｼｵｸｻ",
+        "pref": "大阪府",
+        "address1": "大阪市浪速区",
+        "address2": "塩草",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "1",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

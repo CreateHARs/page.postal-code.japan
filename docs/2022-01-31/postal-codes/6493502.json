@@ -1,0 +1,19 @@
+[
+    {
+        "code": "30428",
+        "postal_old": "64935",
+        "postal_new": "6493502",
+        "pref_kana": "ﾜｶﾔﾏｹﾝ",
+        "address1_kana": "ﾋｶﾞｼﾑﾛｸﾞﾝｸｼﾓﾄﾁｮｳ",
+        "address2_kana": "ｼｵﾉﾐｻｷ",
+        "pref": "和歌山県",
+        "address1": "東牟婁郡串本町",
+        "address2": "潮岬",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

@@ -1,0 +1,19 @@
+[
+    {
+        "code": "10212",
+        "postal_old": "37923",
+        "postal_new": "3792314",
+        "pref_kana": "ｸﾞﾝﾏｹﾝ",
+        "address1_kana": "ﾐﾄﾞﾘｼ",
+        "address2_kana": "ｶｻｶｹﾁｮｳｻｲｼｶﾀﾞ",
+        "pref": "群馬県",
+        "address1": "みどり市",
+        "address2": "笠懸町西鹿田",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

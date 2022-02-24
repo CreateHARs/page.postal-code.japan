@@ -1,0 +1,36 @@
+[
+    {
+        "code": "01631",
+        "postal_old": "08002",
+        "postal_new": "0800271",
+        "pref_kana": "ﾎｯｶｲﾄﾞｳ",
+        "address1_kana": "ｶﾄｳｸﾞﾝｵﾄﾌｹﾁｮｳ",
+        "address2_kana": "ｵｻﾙｼ",
+        "pref": "北海道",
+        "address1": "河東郡音更町",
+        "address2": "長流枝",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "1",
+        "is_updated": "0",
+        "update_reason": "0"
+    },
+    {
+        "code": "01631",
+        "postal_old": "08002",
+        "postal_new": "0800271",
+        "pref_kana": "ﾎｯｶｲﾄﾞｳ",
+        "address1_kana": "ｶﾄｳｸﾞﾝｵﾄﾌｹﾁｮｳ",
+        "address2_kana": "ｵｻﾙｼｶﾝｾﾝ",
+        "pref": "北海道",
+        "address1": "河東郡音更町",
+        "address2": "長流枝幹線",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "1",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

@@ -1,0 +1,19 @@
+[
+    {
+        "code": "27142",
+        "postal_old": "588  ",
+        "postal_new": "5998243",
+        "pref_kana": "ｵｵｻｶﾌ",
+        "address1_kana": "ｻｶｲｼﾅｶｸ",
+        "address2_kana": "ﾐﾉﾔﾏ",
+        "pref": "大阪府",
+        "address1": "堺市中区",
+        "address2": "見野山",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

@@ -1,0 +1,19 @@
+[
+    {
+        "code": "35502",
+        "postal_old": "75936",
+        "postal_new": "7593621",
+        "pref_kana": "ﾔﾏｸﾞﾁｹﾝ",
+        "address1_kana": "ｱﾌﾞｸﾞﾝｱﾌﾞﾁｮｳ",
+        "address2_kana": "ｷﾖ",
+        "pref": "山口県",
+        "address1": "阿武郡阿武町",
+        "address2": "木与",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

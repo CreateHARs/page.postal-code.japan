@@ -1,0 +1,19 @@
+[
+    {
+        "code": "01483",
+        "postal_old": "07836",
+        "postal_new": "0783638",
+        "pref_kana": "ﾎｯｶｲﾄﾞｳ",
+        "address1_kana": "ﾄﾏﾏｴｸﾞﾝﾄﾏﾏｴﾁｮｳ",
+        "address2_kana": "ｻﾝｹｲ",
+        "pref": "北海道",
+        "address1": "苫前郡苫前町",
+        "address2": "三渓",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

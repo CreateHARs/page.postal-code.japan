@@ -1,0 +1,19 @@
+[
+    {
+        "code": "12222",
+        "postal_old": "27011",
+        "postal_new": "2701143",
+        "pref_kana": "ﾁﾊﾞｹﾝ",
+        "address1_kana": "ｱﾋﾞｺｼ",
+        "address2_kana": "ﾃﾝﾉｳﾀﾞｲ",
+        "pref": "千葉県",
+        "address1": "我孫子市",
+        "address2": "天王台",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "1",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

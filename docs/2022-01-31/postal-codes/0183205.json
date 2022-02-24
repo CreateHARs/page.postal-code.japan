@@ -1,0 +1,19 @@
+[
+    {
+        "code": "05346",
+        "postal_old": "01832",
+        "postal_new": "0183205",
+        "pref_kana": "ｱｷﾀｹﾝ",
+        "address1_kana": "ﾔﾏﾓﾄｸﾞﾝﾌｼﾞｻﾄﾏﾁ",
+        "address2_kana": "ｶｽｹﾞ",
+        "pref": "秋田県",
+        "address1": "山本郡藤里町",
+        "address2": "粕毛",
+        "is_multi_code": "0",
+        "is_koaza": "1",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

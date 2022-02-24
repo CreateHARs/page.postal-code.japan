@@ -1,0 +1,19 @@
+[
+    {
+        "code": "23424",
+        "postal_old": "49011",
+        "postal_new": "4901141",
+        "pref_kana": "ｱｲﾁｹﾝ",
+        "address1_kana": "ｱﾏｸﾞﾝｵｵﾊﾙﾁｮｳ",
+        "address2_kana": "ﾏｼﾞﾏ",
+        "pref": "愛知県",
+        "address1": "海部郡大治町",
+        "address2": "馬島",
+        "is_multi_code": "0",
+        "is_koaza": "1",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

@@ -1,0 +1,19 @@
+[
+    {
+        "code": "42207",
+        "postal_old": "85951",
+        "postal_new": "8595103",
+        "pref_kana": "ﾅｶﾞｻｷｹﾝ",
+        "address1_kana": "ﾋﾗﾄﾞｼ",
+        "address2_kana": "ﾀｽｹﾁｮｳ",
+        "pref": "長崎県",
+        "address1": "平戸市",
+        "address2": "田助町",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

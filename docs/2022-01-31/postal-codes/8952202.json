@@ -1,0 +1,19 @@
+[
+    {
+        "code": "46392",
+        "postal_old": "89522",
+        "postal_new": "8952202",
+        "pref_kana": "ｶｺﾞｼﾏｹﾝ",
+        "address1_kana": "ｻﾂﾏｸﾞﾝｻﾂﾏﾁｮｳ",
+        "address2_kana": "ﾅｶﾂｶﾞﾜ",
+        "pref": "鹿児島県",
+        "address1": "薩摩郡さつま町",
+        "address2": "中津川",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

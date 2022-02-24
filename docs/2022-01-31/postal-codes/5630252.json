@@ -1,0 +1,19 @@
+[
+    {
+        "code": "27220",
+        "postal_old": "56302",
+        "postal_new": "5630252",
+        "pref_kana": "ｵｵｻｶﾌ",
+        "address1_kana": "ﾐﾉｵｼ",
+        "address2_kana": "ｼﾓﾄﾄﾞﾛﾐ",
+        "pref": "大阪府",
+        "address1": "箕面市",
+        "address2": "下止々呂美",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

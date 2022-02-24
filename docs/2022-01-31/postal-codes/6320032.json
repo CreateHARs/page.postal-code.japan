@@ -1,0 +1,19 @@
+[
+    {
+        "code": "29204",
+        "postal_old": "632  ",
+        "postal_new": "6320032",
+        "pref_kana": "ﾅﾗｹﾝ",
+        "address1_kana": "ﾃﾝﾘｼ",
+        "address2_kana": "ｿﾏﾉｳﾁﾁｮｳ",
+        "pref": "奈良県",
+        "address1": "天理市",
+        "address2": "杣之内町",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

@@ -1,0 +1,36 @@
+[
+    {
+        "code": "02442",
+        "postal_old": "03915",
+        "postal_new": "0391542",
+        "pref_kana": "ｱｵﾓﾘｹﾝ",
+        "address1_kana": "ｻﾝﾉﾍｸﾞﾝｺﾞﾉﾍﾏﾁ",
+        "address2_kana": "ﾅｶﾐﾁ",
+        "pref": "青森県",
+        "address1": "三戸郡五戸町",
+        "address2": "中道",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "1",
+        "is_updated": "0",
+        "update_reason": "0"
+    },
+    {
+        "code": "02442",
+        "postal_old": "03915",
+        "postal_new": "0391542",
+        "pref_kana": "ｱｵﾓﾘｹﾝ",
+        "address1_kana": "ｻﾝﾉﾍｸﾞﾝｺﾞﾉﾍﾏﾁ",
+        "address2_kana": "ﾅｶﾐﾁｼﾞｭｳﾓﾝｼﾞ",
+        "pref": "青森県",
+        "address1": "三戸郡五戸町",
+        "address2": "中道十文字",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "1",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

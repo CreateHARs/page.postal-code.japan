@@ -1,0 +1,36 @@
+[
+    {
+        "code": "23220",
+        "postal_old": "492  ",
+        "postal_new": "4928242",
+        "pref_kana": "ｱｲﾁｹﾝ",
+        "address1_kana": "ｲﾅｻﾞﾜｼ",
+        "address2_kana": "ｵｸﾀﾞﾁｮｳﾀﾊﾞﾀｷﾘ",
+        "pref": "愛知県",
+        "address1": "稲沢市",
+        "address2": "奥田町田畑切",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "1",
+        "is_updated": "0",
+        "update_reason": "0"
+    },
+    {
+        "code": "23220",
+        "postal_old": "492  ",
+        "postal_new": "4928242",
+        "pref_kana": "ｱｲﾁｹﾝ",
+        "address1_kana": "ｲﾅｻﾞﾜｼ",
+        "address2_kana": "ｵｸﾀﾞﾁｮｳﾌﾞﾝﾋﾁﾆｼ",
+        "pref": "愛知県",
+        "address1": "稲沢市",
+        "address2": "奥田町文七西",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "1",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

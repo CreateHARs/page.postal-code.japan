@@ -1,0 +1,19 @@
+[
+    {
+        "code": "22133",
+        "postal_old": "43112",
+        "postal_new": "4311209",
+        "pref_kana": "ｼｽﾞｵｶｹﾝ",
+        "address1_kana": "ﾊﾏﾏﾂｼﾆｼｸ",
+        "address2_kana": "ｶﾝｻﾞﾝｼﾞﾁｮｳ",
+        "pref": "静岡県",
+        "address1": "浜松市西区",
+        "address2": "舘山寺町",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

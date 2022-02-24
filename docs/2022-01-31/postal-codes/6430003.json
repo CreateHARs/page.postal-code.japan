@@ -1,0 +1,19 @@
+[
+    {
+        "code": "30361",
+        "postal_old": "643  ",
+        "postal_new": "6430003",
+        "pref_kana": "ﾜｶﾔﾏｹﾝ",
+        "address1_kana": "ｱﾘﾀﾞｸﾞﾝﾕｱｻﾁｮｳ",
+        "address2_kana": "ﾍﾞｯｼﾖ",
+        "pref": "和歌山県",
+        "address1": "有田郡湯浅町",
+        "address2": "別所",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

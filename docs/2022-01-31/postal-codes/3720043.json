@@ -1,0 +1,19 @@
+[
+    {
+        "code": "10204",
+        "postal_old": "372  ",
+        "postal_new": "3720043",
+        "pref_kana": "ｸﾞﾝﾏｹﾝ",
+        "address1_kana": "ｲｾｻｷｼ",
+        "address2_kana": "ﾐﾄﾞﾘﾁｮｳ",
+        "pref": "群馬県",
+        "address1": "伊勢崎市",
+        "address2": "緑町",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

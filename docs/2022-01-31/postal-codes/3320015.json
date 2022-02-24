@@ -1,0 +1,19 @@
+[
+    {
+        "code": "11203",
+        "postal_old": "332  ",
+        "postal_new": "3320015",
+        "pref_kana": "ｻｲﾀﾏｹﾝ",
+        "address1_kana": "ｶﾜｸﾞﾁｼ",
+        "address2_kana": "ｶﾜｸﾞﾁ",
+        "pref": "埼玉県",
+        "address1": "川口市",
+        "address2": "川口",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "1",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

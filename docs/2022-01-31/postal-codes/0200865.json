@@ -1,0 +1,19 @@
+[
+    {
+        "code": "03201",
+        "postal_old": "020  ",
+        "postal_new": "0200865",
+        "pref_kana": "ｲﾜﾃｹﾝ",
+        "address1_kana": "ﾓﾘｵｶｼ",
+        "address2_kana": "ｾﾝﾎﾞｸﾁｮｳ",
+        "pref": "岩手県",
+        "address1": "盛岡市",
+        "address2": "仙北町",
+        "is_multi_code": "0",
+        "is_koaza": "1",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

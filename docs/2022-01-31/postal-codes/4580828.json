@@ -1,0 +1,19 @@
+[
+    {
+        "code": "23114",
+        "postal_old": "458  ",
+        "postal_new": "4580828",
+        "pref_kana": "ｱｲﾁｹﾝ",
+        "address1_kana": "ﾅｺﾞﾔｼﾐﾄﾞﾘｸ",
+        "address2_kana": "ﾅﾙﾐﾁｮｳ(ｳﾊﾞｺﾔﾏ)",
+        "pref": "愛知県",
+        "address1": "名古屋市緑区",
+        "address2": "鳴海町（姥子山）",
+        "is_multi_code": "1",
+        "is_koaza": "1",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

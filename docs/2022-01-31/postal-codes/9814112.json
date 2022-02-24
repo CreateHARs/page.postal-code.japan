@@ -1,0 +1,19 @@
+[
+    {
+        "code": "04444",
+        "postal_old": "98141",
+        "postal_new": "9814112",
+        "pref_kana": "ﾐﾔｷﾞｹﾝ",
+        "address1_kana": "ｶﾐｸﾞﾝｼｶﾏﾁｮｳ",
+        "address2_kana": "ｼﾂﾞ",
+        "pref": "宮城県",
+        "address1": "加美郡色麻町",
+        "address2": "志津",
+        "is_multi_code": "0",
+        "is_koaza": "1",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

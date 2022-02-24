@@ -1,0 +1,19 @@
+[
+    {
+        "code": "06402",
+        "postal_old": "99208",
+        "postal_new": "9920831",
+        "pref_kana": "ﾔﾏｶﾞﾀｹﾝ",
+        "address1_kana": "ﾆｼｵｷﾀﾏｸﾞﾝｼﾗﾀｶﾏﾁ",
+        "address2_kana": "ｱﾗﾄｺｳ",
+        "pref": "山形県",
+        "address1": "西置賜郡白鷹町",
+        "address2": "荒砥甲",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

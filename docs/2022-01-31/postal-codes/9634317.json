@@ -1,0 +1,19 @@
+[
+    {
+        "code": "07211",
+        "postal_old": "96343",
+        "postal_new": "9634317",
+        "pref_kana": "ﾌｸｼﾏｹﾝ",
+        "address1_kana": "ﾀﾑﾗｼ",
+        "address2_kana": "ﾌﾈﾋｷﾏﾁﾄｳﾌﾞﾀﾞｲ",
+        "pref": "福島県",
+        "address1": "田村市",
+        "address2": "船引町東部台",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "1",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

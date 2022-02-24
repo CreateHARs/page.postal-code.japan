@@ -1,0 +1,4 @@
+code,postal_old,postal_new,pref_kana,address1_kana,address2_kana,pref,address1,address2,is_multi_code,is_koaza,is_choume,is_multi_place,is_updated,update_reason
+18442,91911,9191135,ﾌｸｲｹﾝ,ﾐｶﾀｸﾞﾝﾐﾊﾏﾁｮｳ,ｲｻﾀﾞﾆ,福井県,三方郡美浜町,五十谷,0,0,0,1,0,0
+18442,91911,9191135,ﾌｸｲｹﾝ,ﾐｶﾀｸﾞﾝﾐﾊﾏﾁｮｳ,ﾔｽｴ,福井県,三方郡美浜町,安江,0,0,0,1,0,0
+18442,91911,9191135,ﾌｸｲｹﾝ,ﾐｶﾀｸﾞﾝﾐﾊﾏﾁｮｳ,ﾖﾘﾄ,福井県,三方郡美浜町,寄戸,0,0,0,1,0,0

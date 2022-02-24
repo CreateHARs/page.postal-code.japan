@@ -1,0 +1,19 @@
+[
+    {
+        "code": "06301",
+        "postal_old": "99003",
+        "postal_new": "9900323",
+        "pref_kana": "ﾔﾏｶﾞﾀｹﾝ",
+        "address1_kana": "ﾋｶﾞｼﾑﾗﾔﾏｸﾞﾝﾔﾏﾉﾍﾞﾏﾁ",
+        "address2_kana": "ｵｵﾂｶ",
+        "pref": "山形県",
+        "address1": "東村山郡山辺町",
+        "address2": "大塚",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

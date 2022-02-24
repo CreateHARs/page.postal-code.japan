@@ -1,0 +1,36 @@
+[
+    {
+        "code": "18205",
+        "postal_old": "912  ",
+        "postal_new": "9120061",
+        "pref_kana": "ﾌｸｲｹﾝ",
+        "address1_kana": "ｵｵﾉｼ",
+        "address2_kana": "ｼﾉｸﾗ",
+        "pref": "福井県",
+        "address1": "大野市",
+        "address2": "篠座",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "1",
+        "is_updated": "0",
+        "update_reason": "0"
+    },
+    {
+        "code": "18205",
+        "postal_old": "912  ",
+        "postal_new": "9120061",
+        "pref_kana": "ﾌｸｲｹﾝ",
+        "address1_kana": "ｵｵﾉｼ",
+        "address2_kana": "ｼﾉｸﾗﾁｮｳ",
+        "pref": "福井県",
+        "address1": "大野市",
+        "address2": "篠座町",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "1",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

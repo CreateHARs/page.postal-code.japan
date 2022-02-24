@@ -1,0 +1,19 @@
+[
+    {
+        "code": "28225",
+        "postal_old": "66952",
+        "postal_new": "6695245",
+        "pref_kana": "ﾋｮｳｺﾞｹﾝ",
+        "address1_kana": "ｱｻｺﾞｼ",
+        "address2_kana": "ﾜﾀﾞﾔﾏﾁｮｳﾎｳﾄﾞｳｼﾞ",
+        "pref": "兵庫県",
+        "address1": "朝来市",
+        "address2": "和田山町法道寺",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

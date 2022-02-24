@@ -1,0 +1,19 @@
+[
+    {
+        "code": "20207",
+        "postal_old": "38622",
+        "postal_new": "3862211",
+        "pref_kana": "ﾅｶﾞﾉｹﾝ",
+        "address1_kana": "ｽｻﾞｶｼ",
+        "address2_kana": "ﾆﾚｲﾏﾁ(3153-1-3153-1100<ﾐﾈﾉﾊﾗ>)",
+        "pref": "長野県",
+        "address1": "須坂市",
+        "address2": "仁礼町（３１５３−１〜３１５３−１１００「峰の原」）",
+        "is_multi_code": "1",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

@@ -1,0 +1,19 @@
+[
+    {
+        "code": "04202",
+        "postal_old": "986  ",
+        "postal_new": "9860032",
+        "pref_kana": "ﾐﾔｷﾞｹﾝ",
+        "address1_kana": "ｲｼﾉﾏｷｼ",
+        "address2_kana": "ｶｲｾｲ",
+        "pref": "宮城県",
+        "address1": "石巻市",
+        "address2": "開成",
+        "is_multi_code": "0",
+        "is_koaza": "1",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

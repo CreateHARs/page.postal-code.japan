@@ -1,0 +1,19 @@
+[
+    {
+        "code": "35203",
+        "postal_old": "74702",
+        "postal_new": "7470234",
+        "pref_kana": "ﾔﾏｸﾞﾁｹﾝ",
+        "address1_kana": "ﾔﾏｸﾞﾁｼ",
+        "address2_kana": "ﾄｸﾁﾞｵｺﾞｿ",
+        "pref": "山口県",
+        "address1": "山口市",
+        "address2": "徳地小古祖",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

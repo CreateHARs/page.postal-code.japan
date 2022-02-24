@@ -1,0 +1,19 @@
+[
+    {
+        "code": "01648",
+        "postal_old": "08943",
+        "postal_new": "0894311",
+        "pref_kana": "ﾎｯｶｲﾄﾞｳ",
+        "address1_kana": "ｱｼｮﾛｸﾞﾝﾘｸﾍﾞﾂﾁｮｳ",
+        "address2_kana": "ﾋｶﾞｼ1ｼﾞｮｳ2ｸ",
+        "pref": "北海道",
+        "address1": "足寄郡陸別町",
+        "address2": "東一条二区",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

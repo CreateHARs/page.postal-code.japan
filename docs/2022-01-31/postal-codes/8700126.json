@@ -1,0 +1,19 @@
+[
+    {
+        "code": "44201",
+        "postal_old": "87001",
+        "postal_new": "8700126",
+        "pref_kana": "ｵｵｲﾀｹﾝ",
+        "address1_kana": "ｵｵｲﾀｼ",
+        "address2_kana": "ﾖｺｵ",
+        "pref": "大分県",
+        "address1": "大分市",
+        "address2": "横尾",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

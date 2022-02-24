@@ -1,0 +1,19 @@
+[
+    {
+        "code": "27212",
+        "postal_old": "581  ",
+        "postal_new": "5810068",
+        "pref_kana": "ｵｵｻｶﾌ",
+        "address1_kana": "ﾔｵｼ",
+        "address2_kana": "ｱﾄﾍﾞｷﾀﾉﾁｮｳ",
+        "pref": "大阪府",
+        "address1": "八尾市",
+        "address2": "跡部北の町",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "1",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

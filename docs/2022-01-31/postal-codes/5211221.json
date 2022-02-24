@@ -1,0 +1,19 @@
+[
+    {
+        "code": "25213",
+        "postal_old": "52112",
+        "postal_new": "5211221",
+        "pref_kana": "ｼｶﾞｹﾝ",
+        "address1_kana": "ﾋｶﾞｼｵｳﾐｼ",
+        "address2_kana": "ｶｷﾐﾁｮｳ",
+        "pref": "滋賀県",
+        "address1": "東近江市",
+        "address2": "垣見町",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

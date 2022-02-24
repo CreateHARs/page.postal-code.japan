@@ -1,0 +1,19 @@
+[
+    {
+        "code": "01434",
+        "postal_old": "07821",
+        "postal_new": "0782106",
+        "pref_kana": "ﾎｯｶｲﾄﾞｳ",
+        "address1_kana": "ｳﾘｭｳｸﾞﾝﾁｯﾌﾟﾍﾞﾂﾁｮｳ",
+        "address2_kana": "6ｼﾞｮｳ",
+        "pref": "北海道",
+        "address1": "雨竜郡秩父別町",
+        "address2": "６条",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

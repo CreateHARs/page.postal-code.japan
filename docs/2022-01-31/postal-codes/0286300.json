@@ -1,0 +1,19 @@
+[
+    {
+        "code": "03501",
+        "postal_old": "02863",
+        "postal_new": "0286300",
+        "pref_kana": "ｲﾜﾃｹﾝ",
+        "address1_kana": "ｸﾉﾍｸﾞﾝｶﾙﾏｲﾏﾁ",
+        "address2_kana": "ｲｶﾆｹｲｻｲｶﾞﾅｲﾊﾞｱｲ",
+        "pref": "岩手県",
+        "address1": "九戸郡軽米町",
+        "address2": "以下に掲載がない場合",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

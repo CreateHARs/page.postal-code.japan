@@ -1,0 +1,19 @@
+[
+    {
+        "code": "28365",
+        "postal_old": "67701",
+        "postal_new": "6770112",
+        "pref_kana": "ﾋｮｳｺﾞｹﾝ",
+        "address1_kana": "ﾀｶｸﾞﾝﾀｶﾁｮｳ",
+        "address2_kana": "ﾔﾁﾖｸｱｶｻｶ",
+        "pref": "兵庫県",
+        "address1": "多可郡多可町",
+        "address2": "八千代区赤坂",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

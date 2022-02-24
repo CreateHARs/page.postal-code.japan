@@ -1,0 +1,19 @@
+[
+    {
+        "code": "11201",
+        "postal_old": "35011",
+        "postal_new": "3501160",
+        "pref_kana": "ｻｲﾀﾏｹﾝ",
+        "address1_kana": "ｶﾜｺﾞｴｼ",
+        "address2_kana": "ﾆｯﾄｳﾁｮｳ",
+        "pref": "埼玉県",
+        "address1": "川越市",
+        "address2": "日東町",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

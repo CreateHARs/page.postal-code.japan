@@ -1,0 +1,19 @@
+[
+    {
+        "code": "23561",
+        "postal_old": "44123",
+        "postal_new": "4412312",
+        "pref_kana": "ｱｲﾁｹﾝ",
+        "address1_kana": "ｷﾀｼﾀﾗｸﾞﾝｼﾀﾗﾁｮｳ",
+        "address2_kana": "ﾅｶﾞｴ",
+        "pref": "愛知県",
+        "address1": "北設楽郡設楽町",
+        "address2": "長江",
+        "is_multi_code": "0",
+        "is_koaza": "1",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

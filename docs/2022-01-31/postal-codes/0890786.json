@@ -1,0 +1,19 @@
+[
+    {
+        "code": "01643",
+        "postal_old": "08907",
+        "postal_new": "0890786",
+        "pref_kana": "ﾎｯｶｲﾄﾞｳ",
+        "address1_kana": "ﾅｶｶﾞﾜｸﾞﾝﾏｸﾍﾞﾂﾁｮｳ",
+        "address2_kana": "ﾇｶﾅｲ",
+        "pref": "北海道",
+        "address1": "中川郡幕別町",
+        "address2": "糠内",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

@@ -1,0 +1,19 @@
+[
+    {
+        "code": "05213",
+        "postal_old": "01845",
+        "postal_new": "0184513",
+        "pref_kana": "ｱｷﾀｹﾝ",
+        "address1_kana": "ｷﾀｱｷﾀｼ",
+        "address2_kana": "ｺﾏﾀ",
+        "pref": "秋田県",
+        "address1": "北秋田市",
+        "address2": "小又",
+        "is_multi_code": "0",
+        "is_koaza": "1",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

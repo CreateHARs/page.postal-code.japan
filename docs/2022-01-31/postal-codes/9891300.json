@@ -1,0 +1,19 @@
+[
+    {
+        "code": "04322",
+        "postal_old": "98912",
+        "postal_new": "9891300",
+        "pref_kana": "ﾐﾔｷﾞｹﾝ",
+        "address1_kana": "ｼﾊﾞﾀｸﾞﾝﾑﾗﾀﾏﾁ",
+        "address2_kana": "ｲｶﾆｹｲｻｲｶﾞﾅｲﾊﾞｱｲ",
+        "pref": "宮城県",
+        "address1": "柴田郡村田町",
+        "address2": "以下に掲載がない場合",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

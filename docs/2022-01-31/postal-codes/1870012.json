@@ -1,0 +1,19 @@
+[
+    {
+        "code": "13211",
+        "postal_old": "187  ",
+        "postal_new": "1870012",
+        "pref_kana": "ﾄｳｷｮｳﾄ",
+        "address1_kana": "ｺﾀﾞｲﾗｼ",
+        "address2_kana": "ﾐﾕｷﾁｮｳ",
+        "pref": "東京都",
+        "address1": "小平市",
+        "address2": "御幸町",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

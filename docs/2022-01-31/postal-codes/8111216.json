@@ -1,0 +1,19 @@
+[
+    {
+        "code": "40231",
+        "postal_old": "81112",
+        "postal_new": "8111216",
+        "pref_kana": "ﾌｸｵｶｹﾝ",
+        "address1_kana": "ﾅｶｶﾞﾜｼ",
+        "address2_kana": "ﾐﾊﾙｶﾞｵｶ",
+        "pref": "福岡県",
+        "address1": "那珂川市",
+        "address2": "観晴が丘",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

@@ -1,0 +1,19 @@
+[
+    {
+        "code": "44214",
+        "postal_old": "87303",
+        "postal_new": "8730353",
+        "pref_kana": "ｵｵｲﾀｹﾝ",
+        "address1_kana": "ｸﾆｻｷｼ",
+        "address2_kana": "ｱｷﾏﾁﾔｶﾞﾜ(ｿﾉﾀ)",
+        "pref": "大分県",
+        "address1": "国東市",
+        "address2": "安岐町矢川（その他）",
+        "is_multi_code": "1",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

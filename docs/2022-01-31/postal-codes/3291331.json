@@ -1,0 +1,19 @@
+[
+    {
+        "code": "09214",
+        "postal_old": "32913",
+        "postal_new": "3291331",
+        "pref_kana": "ﾄﾁｷﾞｹﾝ",
+        "address1_kana": "ｻｸﾗｼ",
+        "address2_kana": "ﾏﾂｼﾏ",
+        "pref": "栃木県",
+        "address1": "さくら市",
+        "address2": "松島",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

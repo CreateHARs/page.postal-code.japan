@@ -1,0 +1,19 @@
+[
+    {
+        "code": "08227",
+        "postal_old": "30911",
+        "postal_new": "3091101",
+        "pref_kana": "ｲﾊﾞﾗｷｹﾝ",
+        "address1_kana": "ﾁｸｾｲｼ",
+        "address2_kana": "ｵｸﾞﾘ",
+        "pref": "茨城県",
+        "address1": "筑西市",
+        "address2": "小栗",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

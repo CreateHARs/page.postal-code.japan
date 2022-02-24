@@ -1,0 +1,19 @@
+[
+    {
+        "code": "01219",
+        "postal_old": "09953",
+        "postal_new": "0995352",
+        "pref_kana": "ﾎｯｶｲﾄﾞｳ",
+        "address1_kana": "ﾓﾝﾍﾞﾂｼ",
+        "address2_kana": "ｶﾐｼｮｺﾂﾁｮｳﾅｶｼｮｺﾂ",
+        "pref": "北海道",
+        "address1": "紋別市",
+        "address2": "上渚滑町中渚滑",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

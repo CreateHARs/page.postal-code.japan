@@ -1,0 +1,19 @@
+[
+    {
+        "code": "36201",
+        "postal_old": "77111",
+        "postal_new": "7711154",
+        "pref_kana": "ﾄｸｼﾏｹﾝ",
+        "address1_kana": "ﾄｸｼﾏｼ",
+        "address2_kana": "ｵｳｼﾞﾝﾁｮｳﾋｶﾞｼｻﾀﾞｶﾀ",
+        "pref": "徳島県",
+        "address1": "徳島市",
+        "address2": "応神町東貞方",
+        "is_multi_code": "0",
+        "is_koaza": "1",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

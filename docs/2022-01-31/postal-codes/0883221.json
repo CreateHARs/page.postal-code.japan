@@ -1,0 +1,36 @@
+[
+    {
+        "code": "01665",
+        "postal_old": "08832",
+        "postal_new": "0883221",
+        "pref_kana": "ﾎｯｶｲﾄﾞｳ",
+        "address1_kana": "ｶﾜｶﾐｸﾞﾝﾃｼｶｶﾞﾁｮｳ",
+        "address2_kana": "ﾄｳﾍﾞﾂ",
+        "pref": "北海道",
+        "address1": "川上郡弟子屈町",
+        "address2": "鐺別",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "1",
+        "is_updated": "0",
+        "update_reason": "0"
+    },
+    {
+        "code": "01665",
+        "postal_old": "08832",
+        "postal_new": "0883221",
+        "pref_kana": "ﾎｯｶｲﾄﾞｳ",
+        "address1_kana": "ｶﾜｶﾐｸﾞﾝﾃｼｶｶﾞﾁｮｳ",
+        "address2_kana": "ﾄｳﾍﾞﾂｹﾞﾝﾔ",
+        "pref": "北海道",
+        "address1": "川上郡弟子屈町",
+        "address2": "鐺別原野",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "1",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

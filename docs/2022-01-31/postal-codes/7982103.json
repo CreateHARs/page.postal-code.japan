@@ -1,0 +1,19 @@
+[
+    {
+        "code": "38484",
+        "postal_old": "79821",
+        "postal_new": "7982103",
+        "pref_kana": "ｴﾋﾒｹﾝ",
+        "address1_kana": "ｷﾀｳﾜｸﾞﾝﾏﾂﾉﾁｮｳ",
+        "address2_kana": "ﾄﾖｵｶ",
+        "pref": "愛媛県",
+        "address1": "北宇和郡松野町",
+        "address2": "豊岡",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

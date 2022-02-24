@@ -1,0 +1,19 @@
+[
+    {
+        "code": "14206",
+        "postal_old": "250  ",
+        "postal_new": "2500022",
+        "pref_kana": "ｶﾅｶﾞﾜｹﾝ",
+        "address1_kana": "ｵﾀﾞﾜﾗｼ",
+        "address2_kana": "ｲｼﾊﾞｼ",
+        "pref": "神奈川県",
+        "address1": "小田原市",
+        "address2": "石橋",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

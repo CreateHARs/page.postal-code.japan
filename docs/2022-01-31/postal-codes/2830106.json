@@ -1,0 +1,19 @@
+[
+    {
+        "code": "12403",
+        "postal_old": "28301",
+        "postal_new": "2830106",
+        "pref_kana": "ﾁﾊﾞｹﾝ",
+        "address1_kana": "ｻﾝﾌﾞｸﾞﾝｸｼﾞｭｳｸﾘﾏﾁ",
+        "address2_kana": "ｼｭｸ",
+        "pref": "千葉県",
+        "address1": "山武郡九十九里町",
+        "address2": "宿",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

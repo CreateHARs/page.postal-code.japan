@@ -1,0 +1,19 @@
+[
+    {
+        "code": "13224",
+        "postal_old": "206  ",
+        "postal_new": "2060023",
+        "pref_kana": "ﾄｳｷｮｳﾄ",
+        "address1_kana": "ﾀﾏｼ",
+        "address2_kana": "ﾏﾋｷｻﾞﾜ",
+        "pref": "東京都",
+        "address1": "多摩市",
+        "address2": "馬引沢",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "1",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

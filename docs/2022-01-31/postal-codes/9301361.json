@@ -1,0 +1,36 @@
+[
+    {
+        "code": "16323",
+        "postal_old": "93013",
+        "postal_new": "9301361",
+        "pref_kana": "ﾄﾔﾏｹﾝ",
+        "address1_kana": "ﾅｶﾆｲｶﾜｸﾞﾝﾀﾃﾔﾏﾏﾁ",
+        "address2_kana": "ｲｽﾞﾊﾞﾔｼ",
+        "pref": "富山県",
+        "address1": "中新川郡立山町",
+        "address2": "伊豆林",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "1",
+        "is_updated": "0",
+        "update_reason": "0"
+    },
+    {
+        "code": "16323",
+        "postal_old": "93013",
+        "postal_new": "9301361",
+        "pref_kana": "ﾄﾔﾏｹﾝ",
+        "address1_kana": "ﾅｶﾆｲｶﾜｸﾞﾝﾀﾃﾔﾏﾏﾁ",
+        "address2_kana": "ﾐｻﾀﾞ",
+        "pref": "富山県",
+        "address1": "中新川郡立山町",
+        "address2": "下田",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "1",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

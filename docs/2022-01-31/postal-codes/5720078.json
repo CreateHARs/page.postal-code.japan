@@ -1,0 +1,19 @@
+[
+    {
+        "code": "27215",
+        "postal_old": "572  ",
+        "postal_new": "5720078",
+        "pref_kana": "ｵｵｻｶﾌ",
+        "address1_kana": "ﾈﾔｶﾞﾜｼ",
+        "address2_kana": "ﾀｲﾏﾁｮｳ",
+        "pref": "大阪府",
+        "address1": "寝屋川市",
+        "address2": "太間町",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

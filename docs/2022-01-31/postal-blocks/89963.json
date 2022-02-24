@@ -1,0 +1,53 @@
+[
+    {
+        "code": "46218",
+        "postal_old": "89963",
+        "postal_new": "8996301",
+        "pref_kana": "ｶｺﾞｼﾏｹﾝ",
+        "address1_kana": "ｷﾘｼﾏｼ",
+        "address2_kana": "ﾖｺｶﾞﾜﾁｮｳｶﾐﾉ",
+        "pref": "鹿児島県",
+        "address1": "霧島市",
+        "address2": "横川町上ノ",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    },
+    {
+        "code": "46218",
+        "postal_old": "89963",
+        "postal_new": "8996302",
+        "pref_kana": "ｶｺﾞｼﾏｹﾝ",
+        "address1_kana": "ｷﾘｼﾏｼ",
+        "address2_kana": "ﾖｺｶﾞﾜﾁｮｳｼﾓﾉ",
+        "pref": "鹿児島県",
+        "address1": "霧島市",
+        "address2": "横川町下ノ",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    },
+    {
+        "code": "46218",
+        "postal_old": "89963",
+        "postal_new": "8996303",
+        "pref_kana": "ｶｺﾞｼﾏｹﾝ",
+        "address1_kana": "ｷﾘｼﾏｼ",
+        "address2_kana": "ﾖｺｶﾞﾜﾁｮｳﾅｶﾉ",
+        "pref": "鹿児島県",
+        "address1": "霧島市",
+        "address2": "横川町中ノ",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

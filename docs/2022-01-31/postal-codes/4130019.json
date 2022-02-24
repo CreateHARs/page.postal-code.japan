@@ -1,0 +1,19 @@
+[
+    {
+        "code": "22205",
+        "postal_old": "413  ",
+        "postal_new": "4130019",
+        "pref_kana": "ｼｽﾞｵｶｹﾝ",
+        "address1_kana": "ｱﾀﾐｼ",
+        "address2_kana": "ｻｷﾐﾁｮｳ",
+        "pref": "静岡県",
+        "address1": "熱海市",
+        "address2": "咲見町",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

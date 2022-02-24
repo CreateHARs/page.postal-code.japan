@@ -1,0 +1,53 @@
+[
+    {
+        "code": "26104",
+        "postal_old": "604  ",
+        "postal_new": "6048111",
+        "pref_kana": "ｷｮｳﾄﾌ",
+        "address1_kana": "ｷｮｳﾄｼﾅｶｷﾞｮｳｸ",
+        "address2_kana": "ﾏｽﾔﾁｮｳ",
+        "pref": "京都府",
+        "address1": "京都市中京区",
+        "address2": "桝屋町（柳馬場通三条上る、柳馬場通三条下る、堺町通三条上る、堺町通三条",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    },
+    {
+        "code": "26104",
+        "postal_old": "604  ",
+        "postal_new": "6048111",
+        "pref_kana": "ｷｮｳﾄﾌ",
+        "address1_kana": "ｷｮｳﾄｼﾅｶｷﾞｮｳｸ",
+        "address2_kana": "ﾏｽﾔﾁｮｳ",
+        "pref": "京都府",
+        "address1": "京都市中京区",
+        "address2": "下る、高倉通三条上る、高倉通三条下る、三条通柳馬場西入、三条通堺町",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    },
+    {
+        "code": "26104",
+        "postal_old": "604  ",
+        "postal_new": "6048111",
+        "pref_kana": "ｷｮｳﾄﾌ",
+        "address1_kana": "ｷｮｳﾄｼﾅｶｷﾞｮｳｸ",
+        "address2_kana": "ﾏｽﾔﾁｮｳ",
+        "pref": "京都府",
+        "address1": "京都市中京区",
+        "address2": "西入、三条通堺町東入、三条通高倉東入）",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

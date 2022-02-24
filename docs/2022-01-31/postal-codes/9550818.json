@@ -1,0 +1,19 @@
+[
+    {
+        "code": "15204",
+        "postal_old": "955  ",
+        "postal_new": "9550818",
+        "pref_kana": "ﾆｲｶﾞﾀｹﾝ",
+        "address1_kana": "ｻﾝｼﾞｮｳｼ",
+        "address2_kana": "ｴﾀﾞｺﾞｳ",
+        "pref": "新潟県",
+        "address1": "三条市",
+        "address2": "枝郷",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

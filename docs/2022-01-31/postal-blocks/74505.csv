@@ -1,0 +1,4 @@
+code,postal_old,postal_new,pref_kana,address1_kana,address2_kana,pref,address1,address2,is_multi_code,is_koaza,is_choume,is_multi_place,is_updated,update_reason
+35215,74505,7450501,ﾔﾏｸﾞﾁｹﾝ,ｼｭｳﾅﾝｼ,ﾔｼﾛ,山口県,周南市,八代,0,0,0,0,0,0
+35215,74505,7450511,ﾔﾏｸﾞﾁｹﾝ,ｼｭｳﾅﾝｼ,ﾅｶｽﾞｷﾀ,山口県,周南市,中須北,0,0,0,0,0,0
+35215,74505,7450512,ﾔﾏｸﾞﾁｹﾝ,ｼｭｳﾅﾝｼ,ﾅｶｽﾞﾐﾅﾐ,山口県,周南市,中須南,0,0,0,0,0,0

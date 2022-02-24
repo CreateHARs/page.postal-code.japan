@@ -1,0 +1,19 @@
+[
+    {
+        "code": "27115",
+        "postal_old": "537  ",
+        "postal_new": "5370011",
+        "pref_kana": "ｵｵｻｶﾌ",
+        "address1_kana": "ｵｵｻｶｼﾋｶﾞｼﾅﾘｸ",
+        "address2_kana": "ﾋｶﾞｼｲﾏｻﾞﾄ",
+        "pref": "大阪府",
+        "address1": "大阪市東成区",
+        "address2": "東今里",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "1",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

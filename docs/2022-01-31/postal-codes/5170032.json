@@ -1,0 +1,19 @@
+[
+    {
+        "code": "24211",
+        "postal_old": "517  ",
+        "postal_new": "5170032",
+        "pref_kana": "ﾐｴｹﾝ",
+        "address1_kana": "ﾄﾊﾞｼ",
+        "address2_kana": "ｵｳｻﾂﾁｮｳ",
+        "pref": "三重県",
+        "address1": "鳥羽市",
+        "address2": "相差町",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

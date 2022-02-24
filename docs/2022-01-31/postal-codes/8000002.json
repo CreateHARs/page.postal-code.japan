@@ -1,0 +1,19 @@
+[
+    {
+        "code": "40101",
+        "postal_old": "800  ",
+        "postal_new": "8000002",
+        "pref_kana": "ﾌｸｵｶｹﾝ",
+        "address1_kana": "ｷﾀｷｭｳｼｭｳｼﾓｼﾞｸ",
+        "address2_kana": "ﾌﾀﾏﾂﾁｮｳ",
+        "pref": "福岡県",
+        "address1": "北九州市門司区",
+        "address2": "二タ松町",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

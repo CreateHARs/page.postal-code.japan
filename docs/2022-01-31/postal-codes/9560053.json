@@ -1,0 +1,19 @@
+[
+    {
+        "code": "15105",
+        "postal_old": "956  ",
+        "postal_new": "9560053",
+        "pref_kana": "ﾆｲｶﾞﾀｹﾝ",
+        "address1_kana": "ﾆｲｶﾞﾀｼｱｷﾊｸ",
+        "address2_kana": "ﾉｶﾞﾀ",
+        "pref": "新潟県",
+        "address1": "新潟市秋葉区",
+        "address2": "野方",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

@@ -1,0 +1,19 @@
+[
+    {
+        "code": "45204",
+        "postal_old": "88925",
+        "postal_new": "8892536",
+        "pref_kana": "ﾐﾔｻﾞｷｹﾝ",
+        "address1_kana": "ﾆﾁﾅﾝｼ",
+        "address2_kana": "ｱｶﾞﾀﾆｼ",
+        "pref": "宮崎県",
+        "address1": "日南市",
+        "address2": "吾田西",
+        "is_multi_code": "1",
+        "is_koaza": "0",
+        "is_choume": "1",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

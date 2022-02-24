@@ -1,0 +1,19 @@
+[
+    {
+        "code": "40349",
+        "postal_old": "81123",
+        "postal_new": "8112313",
+        "pref_kana": "ﾌｸｵｶｹﾝ",
+        "address1_kana": "ｶｽﾔｸﾞﾝｶｽﾔﾏﾁ",
+        "address2_kana": "ｴﾂｼﾞ",
+        "pref": "福岡県",
+        "address1": "糟屋郡粕屋町",
+        "address2": "江辻",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

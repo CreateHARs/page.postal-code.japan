@@ -1,0 +1,36 @@
+[
+    {
+        "code": "29452",
+        "postal_old": "63936",
+        "postal_new": "6393622",
+        "pref_kana": "ﾅﾗｹﾝ",
+        "address1_kana": "ﾖｼﾉｸﾞﾝｶﾜｶﾐﾑﾗ",
+        "address2_kana": "ｲﾄﾞ(ﾈｼﾞﾊﾞﾀ)",
+        "pref": "奈良県",
+        "address1": "吉野郡川上村",
+        "address2": "井戸（ネジ畑）",
+        "is_multi_code": "1",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "1",
+        "is_updated": "0",
+        "update_reason": "0"
+    },
+    {
+        "code": "29452",
+        "postal_old": "63936",
+        "postal_new": "6393622",
+        "pref_kana": "ﾅﾗｹﾝ",
+        "address1_kana": "ﾖｼﾉｸﾞﾝｶﾜｶﾐﾑﾗ",
+        "address2_kana": "ﾀｷｷﾞ",
+        "pref": "奈良県",
+        "address1": "吉野郡川上村",
+        "address2": "武木",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "1",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

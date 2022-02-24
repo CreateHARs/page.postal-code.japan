@@ -1,0 +1,19 @@
+[
+    {
+        "code": "42208",
+        "postal_old": "84804",
+        "postal_new": "8480401",
+        "pref_kana": "ﾅｶﾞｻｷｹﾝ",
+        "address1_kana": "ﾏﾂｳﾗｼ",
+        "address2_kana": "ﾌｸｼﾏﾁｮｳｷﾅｲｾﾒﾝ",
+        "pref": "長崎県",
+        "address1": "松浦市",
+        "address2": "福島町喜内瀬免",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

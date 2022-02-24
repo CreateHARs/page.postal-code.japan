@@ -1,0 +1,19 @@
+[
+    {
+        "code": "28201",
+        "postal_old": "67111",
+        "postal_new": "6711131",
+        "pref_kana": "ﾋｮｳｺﾞｹﾝ",
+        "address1_kana": "ﾋﾒｼﾞｼ",
+        "address2_kana": "ｵｵﾂｸﾃﾝｼﾞﾝﾏﾁ",
+        "pref": "兵庫県",
+        "address1": "姫路市",
+        "address2": "大津区天神町",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "1",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

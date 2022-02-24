@@ -1,0 +1,19 @@
+[
+    {
+        "code": "45429",
+        "postal_old": "88314",
+        "postal_new": "8831402",
+        "pref_kana": "ﾐﾔｻﾞｷｹﾝ",
+        "address1_kana": "ﾋｶﾞｼｳｽｷｸﾞﾝﾓﾛﾂｶｿﾝ",
+        "address2_kana": "ﾅﾅﾂﾔﾏ(ｲｲﾎﾞｼ､ｵﾊﾞﾗｲ､ｶﾜｳﾁ､ﾀﾃｲﾜ､ﾊｴﾉﾋﾗ､ﾎﾝﾑﾗ)",
+        "pref": "宮崎県",
+        "address1": "東臼杵郡諸塚村",
+        "address2": "七ツ山（飯干、小原井、川内、立岩、八重の平、本村）",
+        "is_multi_code": "1",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

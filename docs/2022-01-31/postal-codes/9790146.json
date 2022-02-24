@@ -1,0 +1,19 @@
+[
+    {
+        "code": "07204",
+        "postal_old": "97901",
+        "postal_new": "9790146",
+        "pref_kana": "ﾌｸｼﾏｹﾝ",
+        "address1_kana": "ｲﾜｷｼ",
+        "address2_kana": "ﾅｺｿﾏﾁ(ｾｷﾀ)",
+        "pref": "福島県",
+        "address1": "いわき市",
+        "address2": "勿来町（関田）",
+        "is_multi_code": "1",
+        "is_koaza": "1",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

@@ -1,0 +1,19 @@
+[
+    {
+        "code": "01229",
+        "postal_old": "07601",
+        "postal_new": "0760171",
+        "pref_kana": "ﾎｯｶｲﾄﾞｳ",
+        "address1_kana": "ﾌﾗﾉｼ",
+        "address2_kana": "ﾌﾚﾍﾞﾂｼｶﾞｲﾁ",
+        "pref": "北海道",
+        "address1": "富良野市",
+        "address2": "布礼別市街地",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

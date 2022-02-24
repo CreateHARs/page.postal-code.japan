@@ -1,0 +1,19 @@
+[
+    {
+        "code": "08217",
+        "postal_old": "30015",
+        "postal_new": "3001543",
+        "pref_kana": "ｲﾊﾞﾗｷｹﾝ",
+        "address1_kana": "ﾄﾘﾃﾞｼ",
+        "address2_kana": "ﾅｶｳﾁ",
+        "pref": "茨城県",
+        "address1": "取手市",
+        "address2": "中内",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

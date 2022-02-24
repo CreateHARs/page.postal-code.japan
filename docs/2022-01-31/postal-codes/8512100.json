@@ -1,0 +1,36 @@
+[
+    {
+        "code": "42307",
+        "postal_old": "85906",
+        "postal_new": "8512100",
+        "pref_kana": "ﾅｶﾞｻｷｹﾝ",
+        "address1_kana": "ﾆｼｿﾉｷﾞｸﾞﾝﾅｶﾞﾖﾁｮｳ",
+        "address2_kana": "ｲｶﾆｹｲｻｲｶﾞﾅｲﾊﾞｱｲ",
+        "pref": "長崎県",
+        "address1": "西彼杵郡長与町",
+        "address2": "以下に掲載がない場合",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "1",
+        "is_updated": "0",
+        "update_reason": "0"
+    },
+    {
+        "code": "42308",
+        "postal_old": "85121",
+        "postal_new": "8512100",
+        "pref_kana": "ﾅｶﾞｻｷｹﾝ",
+        "address1_kana": "ﾆｼｿﾉｷﾞｸﾞﾝﾄｷﾞﾂﾁｮｳ",
+        "address2_kana": "ｲｶﾆｹｲｻｲｶﾞﾅｲﾊﾞｱｲ",
+        "pref": "長崎県",
+        "address1": "西彼杵郡時津町",
+        "address2": "以下に掲載がない場合",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "1",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

@@ -1,0 +1,19 @@
+[
+    {
+        "code": "03206",
+        "postal_old": "02403",
+        "postal_new": "0240331",
+        "pref_kana": "ｲﾜﾃｹﾝ",
+        "address1_kana": "ｷﾀｶﾐｼ",
+        "address2_kana": "ﾜｶﾞﾁｮｳﾖｺｶﾜﾒ",
+        "pref": "岩手県",
+        "address1": "北上市",
+        "address2": "和賀町横川目",
+        "is_multi_code": "0",
+        "is_koaza": "1",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

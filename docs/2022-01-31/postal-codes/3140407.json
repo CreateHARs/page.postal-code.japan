@@ -1,0 +1,19 @@
+[
+    {
+        "code": "08232",
+        "postal_old": "31404",
+        "postal_new": "3140407",
+        "pref_kana": "ｲﾊﾞﾗｷｹﾝ",
+        "address1_kana": "ｶﾐｽｼ",
+        "address2_kana": "ﾊｻｷｼﾝｺｳ",
+        "pref": "茨城県",
+        "address1": "神栖市",
+        "address2": "波崎新港",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

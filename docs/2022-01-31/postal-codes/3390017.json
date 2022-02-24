@@ -1,0 +1,19 @@
+[
+    {
+        "code": "11110",
+        "postal_old": "339  ",
+        "postal_new": "3390017",
+        "pref_kana": "ｻｲﾀﾏｹﾝ",
+        "address1_kana": "ｻｲﾀﾏｼｲﾜﾂｷｸ",
+        "address2_kana": "ｵｵﾓﾘ",
+        "pref": "埼玉県",
+        "address1": "さいたま市岩槻区",
+        "address2": "大森",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

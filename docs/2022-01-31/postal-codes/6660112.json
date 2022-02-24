@@ -1,0 +1,19 @@
+[
+    {
+        "code": "28217",
+        "postal_old": "66601",
+        "postal_new": "6660112",
+        "pref_kana": "ﾋｮｳｺﾞｹﾝ",
+        "address1_kana": "ｶﾜﾆｼｼ",
+        "address2_kana": "ﾀﾞｲﾜﾆｼ",
+        "pref": "兵庫県",
+        "address1": "川西市",
+        "address2": "大和西",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "1",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

@@ -1,0 +1,19 @@
+[
+    {
+        "code": "03461",
+        "postal_old": "02811",
+        "postal_new": "0281114",
+        "pref_kana": "ｲﾜﾃｹﾝ",
+        "address1_kana": "ｶﾐﾍｲｸﾞﾝｵｵﾂﾁﾁｮｳ",
+        "address2_kana": "ｻｶｴﾁｮｳ",
+        "pref": "岩手県",
+        "address1": "上閉伊郡大槌町",
+        "address2": "栄町",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

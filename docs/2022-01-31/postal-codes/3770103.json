@@ -1,0 +1,19 @@
+[
+    {
+        "code": "10208",
+        "postal_old": "37701",
+        "postal_new": "3770103",
+        "pref_kana": "ｸﾞﾝﾏｹﾝ",
+        "address1_kana": "ｼﾌﾞｶﾜｼ",
+        "address2_kana": "ｲｶﾎﾏﾁﾐｽﾞｻﾜ",
+        "pref": "群馬県",
+        "address1": "渋川市",
+        "address2": "伊香保町水沢",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

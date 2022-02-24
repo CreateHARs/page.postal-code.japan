@@ -1,0 +1,19 @@
+[
+    {
+        "code": "40206",
+        "postal_old": "826  ",
+        "postal_new": "8260041",
+        "pref_kana": "ﾌｸｵｶｹﾝ",
+        "address1_kana": "ﾀｶﾞﾜｼ",
+        "address2_kana": "ﾕｹﾞﾀ(ｶｸﾄﾞｳﾊﾞﾙ､ﾉｶﾞﾐ､ﾌﾅｵ､ﾐﾀﾃ､ﾓｼﾞﾔﾏ)",
+        "pref": "福岡県",
+        "address1": "田川市",
+        "address2": "弓削田（角銅原、野上、船尾、見立、文字山）",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

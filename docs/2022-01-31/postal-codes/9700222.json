@@ -1,0 +1,36 @@
+[
+    {
+        "code": "07204",
+        "postal_old": "97002",
+        "postal_new": "9700222",
+        "pref_kana": "ﾌｸｼﾏｹﾝ",
+        "address1_kana": "ｲﾜｷｼ",
+        "address2_kana": "ﾀｲﾗﾇﾏﾉｳﾁ",
+        "pref": "福島県",
+        "address1": "いわき市",
+        "address2": "平沼ノ内",
+        "is_multi_code": "0",
+        "is_koaza": "1",
+        "is_choume": "0",
+        "is_multi_place": "1",
+        "is_updated": "0",
+        "update_reason": "0"
+    },
+    {
+        "code": "07204",
+        "postal_old": "97002",
+        "postal_new": "9700222",
+        "pref_kana": "ﾌｸｼﾏｹﾝ",
+        "address1_kana": "ｲﾜｷｼ",
+        "address2_kana": "ﾀｲﾗﾇﾏﾉｳﾁｽﾜﾊﾗ",
+        "pref": "福島県",
+        "address1": "いわき市",
+        "address2": "平沼ノ内諏訪原",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "1",
+        "is_multi_place": "1",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

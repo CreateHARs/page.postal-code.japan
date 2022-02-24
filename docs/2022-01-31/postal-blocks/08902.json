@@ -1,0 +1,53 @@
+[
+    {
+        "code": "01636",
+        "postal_old": "08902",
+        "postal_new": "0890241",
+        "pref_kana": "ﾎｯｶｲﾄﾞｳ",
+        "address1_kana": "ｶﾐｶﾜｸﾞﾝｼﾐｽﾞﾁｮｳ",
+        "address2_kana": "ｸﾏｳｼ",
+        "pref": "北海道",
+        "address1": "上川郡清水町",
+        "address2": "熊牛",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    },
+    {
+        "code": "01636",
+        "postal_old": "08902",
+        "postal_new": "0890242",
+        "pref_kana": "ﾎｯｶｲﾄﾞｳ",
+        "address1_kana": "ｶﾐｶﾜｸﾞﾝｼﾐｽﾞﾁｮｳ",
+        "address2_kana": "ﾋﾞﾏﾝ",
+        "pref": "北海道",
+        "address1": "上川郡清水町",
+        "address2": "美蔓",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    },
+    {
+        "code": "01636",
+        "postal_old": "08902",
+        "postal_new": "0890243",
+        "pref_kana": "ﾎｯｶｲﾄﾞｳ",
+        "address1_kana": "ｶﾐｶﾜｸﾞﾝｼﾐｽﾞﾁｮｳ",
+        "address2_kana": "ｶﾐｼｶﾘﾍﾞﾂ",
+        "pref": "北海道",
+        "address1": "上川郡清水町",
+        "address2": "上然別",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

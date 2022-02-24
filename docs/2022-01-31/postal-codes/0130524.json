@@ -1,0 +1,19 @@
+[
+    {
+        "code": "05203",
+        "postal_old": "01305",
+        "postal_new": "0130524",
+        "pref_kana": "ｱｷﾀｹﾝ",
+        "address1_kana": "ﾖｺﾃｼ",
+        "address2_kana": "ｵｵﾓﾘﾏﾁｼﾐｽﾞﾉｳｴ",
+        "pref": "秋田県",
+        "address1": "横手市",
+        "address2": "大森町清水上",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

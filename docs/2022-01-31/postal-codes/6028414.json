@@ -1,0 +1,53 @@
+[
+    {
+        "code": "26102",
+        "postal_old": "602  ",
+        "postal_new": "6028414",
+        "pref_kana": "ｷｮｳﾄﾌ",
+        "address1_kana": "ｷｮｳﾄｼｶﾐｷﾞｮｳｸ",
+        "address2_kana": "ﾆｼｷﾀｺｳｼﾞﾁｮｳ",
+        "pref": "京都府",
+        "address1": "京都市上京区",
+        "address2": "西北小路町（猪熊通上立売上る、猪熊通寺之内下る、大宮通寺之内下",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    },
+    {
+        "code": "26102",
+        "postal_old": "602  ",
+        "postal_new": "6028414",
+        "pref_kana": "ｷｮｳﾄﾌ",
+        "address1_kana": "ｷｮｳﾄｼｶﾐｷﾞｮｳｸ",
+        "address2_kana": "ﾆｼｷﾀｺｳｼﾞﾁｮｳ",
+        "pref": "京都府",
+        "address1": "京都市上京区",
+        "address2": "る東入、大宮通寺之内半丁下る東入、大宮通寺之内下る東入１丁目、寺之内通大",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    },
+    {
+        "code": "26102",
+        "postal_old": "602  ",
+        "postal_new": "6028414",
+        "pref_kana": "ｷｮｳﾄﾌ",
+        "address1_kana": "ｷｮｳﾄｼｶﾐｷﾞｮｳｸ",
+        "address2_kana": "ﾆｼｷﾀｺｳｼﾞﾁｮｳ",
+        "pref": "京都府",
+        "address1": "京都市上京区",
+        "address2": "宮東入下る、寺之内通大宮東入１丁目下る）",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

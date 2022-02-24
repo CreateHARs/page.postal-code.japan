@@ -1,0 +1,36 @@
+[
+    {
+        "code": "03202",
+        "postal_old": "027  ",
+        "postal_new": "0270021",
+        "pref_kana": "ｲﾜﾃｹﾝ",
+        "address1_kana": "ﾐﾔｺｼ",
+        "address2_kana": "ﾌｼﾞﾜﾗ",
+        "pref": "岩手県",
+        "address1": "宮古市",
+        "address2": "藤原",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "1",
+        "is_multi_place": "1",
+        "is_updated": "0",
+        "update_reason": "0"
+    },
+    {
+        "code": "03202",
+        "postal_old": "027  ",
+        "postal_new": "0270021",
+        "pref_kana": "ｲﾜﾃｹﾝ",
+        "address1_kana": "ﾐﾔｺｼ",
+        "address2_kana": "ﾌｼﾞﾜﾗｶﾐﾏﾁ",
+        "pref": "岩手県",
+        "address1": "宮古市",
+        "address2": "藤原上町",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "1",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

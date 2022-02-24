@@ -1,0 +1,19 @@
+[
+    {
+        "code": "01516",
+        "postal_old": "09844",
+        "postal_new": "0984456",
+        "pref_kana": "ﾎｯｶｲﾄﾞｳ",
+        "address1_kana": "ﾃｼｵｸﾞﾝﾄﾖﾄﾐﾁｮｳ",
+        "address2_kana": "ｶｲｹﾞﾝ",
+        "pref": "北海道",
+        "address1": "天塩郡豊富町",
+        "address2": "開源",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

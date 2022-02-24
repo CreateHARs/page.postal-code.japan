@@ -1,0 +1,19 @@
+[
+    {
+        "code": "26206",
+        "postal_old": "621  ",
+        "postal_new": "6210013",
+        "pref_kana": "ｷｮｳﾄﾌ",
+        "address1_kana": "ｶﾒｵｶｼ",
+        "address2_kana": "ｵｵｲﾁｮｳﾅﾐｶﾜ",
+        "pref": "京都府",
+        "address1": "亀岡市",
+        "address2": "大井町並河",
+        "is_multi_code": "0",
+        "is_koaza": "1",
+        "is_choume": "1",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

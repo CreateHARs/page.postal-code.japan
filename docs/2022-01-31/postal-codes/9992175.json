@@ -1,0 +1,19 @@
+[
+    {
+        "code": "06381",
+        "postal_old": "99921",
+        "postal_new": "9992175",
+        "pref_kana": "ﾔﾏｶﾞﾀｹﾝ",
+        "address1_kana": "ﾋｶﾞｼｵｷﾀﾏｸﾞﾝﾀｶﾊﾀﾏﾁ",
+        "address2_kana": "ﾌｸｻﾞﾜﾐﾅﾐ",
+        "pref": "山形県",
+        "address1": "東置賜郡高畠町",
+        "address2": "福沢南",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

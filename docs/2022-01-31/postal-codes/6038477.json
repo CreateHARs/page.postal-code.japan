@@ -1,0 +1,19 @@
+[
+    {
+        "code": "26101",
+        "postal_old": "603  ",
+        "postal_new": "6038477",
+        "pref_kana": "ｷｮｳﾄﾌ",
+        "address1_kana": "ｷｮｳﾄｼｷﾀｸ",
+        "address2_kana": "ｵｵﾐﾔｲﾁﾉｲﾁｮｳ",
+        "pref": "京都府",
+        "address1": "京都市北区",
+        "address2": "大宮一ノ井町",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

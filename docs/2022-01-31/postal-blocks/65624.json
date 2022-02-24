@@ -1,0 +1,36 @@
+[
+    {
+        "code": "28226",
+        "postal_old": "65624",
+        "postal_new": "6562401",
+        "pref_kana": "ﾋｮｳｺﾞｹﾝ",
+        "address1_kana": "ｱﾜｼﾞｼ",
+        "address2_kana": "ｲﾜﾔ",
+        "pref": "兵庫県",
+        "address1": "淡路市",
+        "address2": "岩屋",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    },
+    {
+        "code": "28226",
+        "postal_old": "65624",
+        "postal_new": "6562451",
+        "pref_kana": "ﾋｮｳｺﾞｹﾝ",
+        "address1_kana": "ｱﾜｼﾞｼ",
+        "address2_kana": "ﾉｼﾞﾏｴｻﾞｷ(13､14ﾊﾞﾝﾁ､10ﾊﾞﾝﾁﾉ2､5)",
+        "pref": "兵庫県",
+        "address1": "淡路市",
+        "address2": "野島江崎（１３、１４番地、１０番地の２、５）",
+        "is_multi_code": "1",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

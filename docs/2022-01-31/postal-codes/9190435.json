@@ -1,0 +1,19 @@
+[
+    {
+        "code": "18210",
+        "postal_old": "91904",
+        "postal_new": "9190435",
+        "pref_kana": "ﾌｸｲｹﾝ",
+        "address1_kana": "ｻｶｲｼ",
+        "address2_kana": "ﾊﾙｴﾁｮｳﾀﾒｸﾆｻｲﾜｲ",
+        "pref": "福井県",
+        "address1": "坂井市",
+        "address2": "春江町為国幸",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

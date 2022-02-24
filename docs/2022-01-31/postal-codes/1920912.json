@@ -1,0 +1,19 @@
+[
+    {
+        "code": "13201",
+        "postal_old": "192  ",
+        "postal_new": "1920912",
+        "pref_kana": "ﾄｳｷｮｳﾄ",
+        "address1_kana": "ﾊﾁｵｳｼﾞｼ",
+        "address2_kana": "ｷﾇｶﾞｵｶ",
+        "pref": "東京都",
+        "address1": "八王子市",
+        "address2": "絹ケ丘",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "1",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

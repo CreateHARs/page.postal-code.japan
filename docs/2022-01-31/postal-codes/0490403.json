@@ -1,0 +1,19 @@
+[
+    {
+        "code": "01334",
+        "postal_old": "04904",
+        "postal_new": "0490403",
+        "pref_kana": "ﾎｯｶｲﾄﾞｳ",
+        "address1_kana": "ｶﾐｲｿｸﾞﾝｷｺﾅｲﾁｮｳ",
+        "address2_kana": "ｶﾏﾔ",
+        "pref": "北海道",
+        "address1": "上磯郡木古内町",
+        "address2": "釜谷",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

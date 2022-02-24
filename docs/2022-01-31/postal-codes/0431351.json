@@ -1,0 +1,19 @@
+[
+    {
+        "code": "01363",
+        "postal_old": "04313",
+        "postal_new": "0431351",
+        "pref_kana": "ﾎｯｶｲﾄﾞｳ",
+        "address1_kana": "ﾋﾔﾏｸﾞﾝｱｯｻﾌﾞﾁｮｳ",
+        "address2_kana": "ﾀﾃﾏﾁ",
+        "pref": "北海道",
+        "address1": "檜山郡厚沢部町",
+        "address2": "館町",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

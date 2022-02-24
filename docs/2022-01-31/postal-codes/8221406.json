@@ -1,0 +1,19 @@
+[
+    {
+        "code": "40601",
+        "postal_old": "82214",
+        "postal_new": "8221406",
+        "pref_kana": "ﾌｸｵｶｹﾝ",
+        "address1_kana": "ﾀｶﾞﾜｸﾞﾝｶﾜﾗﾏﾁ",
+        "address2_kana": "ｶﾜﾗ",
+        "pref": "福岡県",
+        "address1": "田川郡香春町",
+        "address2": "香春",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

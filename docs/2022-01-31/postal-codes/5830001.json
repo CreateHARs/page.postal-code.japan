@@ -1,0 +1,19 @@
+[
+    {
+        "code": "27226",
+        "postal_old": "583  ",
+        "postal_new": "5830001",
+        "pref_kana": "ｵｵｻｶﾌ",
+        "address1_kana": "ﾌｼﾞｲﾃﾞﾗｼ",
+        "address2_kana": "ｶﾜｷﾀ",
+        "pref": "大阪府",
+        "address1": "藤井寺市",
+        "address2": "川北",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "1",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

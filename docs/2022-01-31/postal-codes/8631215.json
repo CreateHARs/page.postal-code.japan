@@ -1,0 +1,19 @@
+[
+    {
+        "code": "43215",
+        "postal_old": "86312",
+        "postal_new": "8631215",
+        "pref_kana": "ｸﾏﾓﾄｹﾝ",
+        "address1_kana": "ｱﾏｸｻｼ",
+        "address2_kana": "ｶﾜｳﾗﾏﾁｼﾗｷｶﾜﾁ",
+        "pref": "熊本県",
+        "address1": "天草市",
+        "address2": "河浦町白木河内",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

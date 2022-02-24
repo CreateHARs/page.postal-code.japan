@@ -1,0 +1,19 @@
+[
+    {
+        "code": "06207",
+        "postal_old": "99931",
+        "postal_new": "9993165",
+        "pref_kana": "ﾔﾏｶﾞﾀｹﾝ",
+        "address1_kana": "ｶﾐﾉﾔﾏｼ",
+        "address2_kana": "ｳﾗﾏﾁ",
+        "pref": "山形県",
+        "address1": "上山市",
+        "address2": "裏町",
+        "is_multi_code": "0",
+        "is_koaza": "1",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

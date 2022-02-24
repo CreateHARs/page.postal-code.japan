@@ -1,0 +1,19 @@
+[
+    {
+        "code": "36403",
+        "postal_old": "77112",
+        "postal_new": "7711201",
+        "pref_kana": "ﾄｸｼﾏｹﾝ",
+        "address1_kana": "ｲﾀﾉｸﾞﾝｱｲｽﾞﾐﾁｮｳ",
+        "address2_kana": "ｵｸﾉ(ｿﾉﾀ)",
+        "pref": "徳島県",
+        "address1": "板野郡藍住町",
+        "address2": "奥野（その他）",
+        "is_multi_code": "1",
+        "is_koaza": "1",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

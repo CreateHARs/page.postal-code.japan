@@ -1,0 +1,19 @@
+[
+    {
+        "code": "01215",
+        "postal_old": "072  ",
+        "postal_new": "0720037",
+        "pref_kana": "ﾎｯｶｲﾄﾞｳ",
+        "address1_kana": "ﾋﾞﾊﾞｲｼ",
+        "address2_kana": "ﾇﾏﾉｳﾁﾁｮｳｷﾀ",
+        "pref": "北海道",
+        "address1": "美唄市",
+        "address2": "沼の内町北",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

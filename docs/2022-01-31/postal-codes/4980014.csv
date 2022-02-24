@@ -1,0 +1,3 @@
+code,postal_old,postal_new,pref_kana,address1_kana,address2_kana,pref,address1,address2,is_multi_code,is_koaza,is_choume,is_multi_place,is_updated,update_reason
+23235,498  ,4980014,ｱｲﾁｹﾝ,ﾔﾄﾐｼ,ｺﾞﾐｮｳ,愛知県,弥富市,五明,0,0,1,1,0,0
+23235,498  ,4980014,ｱｲﾁｹﾝ,ﾔﾄﾐｼ,ｺﾞﾐｮｳﾁｮｳ,愛知県,弥富市,五明町,0,0,0,1,0,0

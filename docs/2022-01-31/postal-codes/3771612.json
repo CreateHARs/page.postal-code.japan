@@ -1,0 +1,19 @@
+[
+    {
+        "code": "10425",
+        "postal_old": "37716",
+        "postal_new": "3771612",
+        "pref_kana": "ｸﾞﾝﾏｹﾝ",
+        "address1_kana": "ｱｶﾞﾂﾏｸﾞﾝﾂﾏｺﾞｲﾑﾗ",
+        "address2_kana": "ｵｵﾏｴ(ｿﾉﾀ)",
+        "pref": "群馬県",
+        "address1": "吾妻郡嬬恋村",
+        "address2": "大前（その他）",
+        "is_multi_code": "1",
+        "is_koaza": "1",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

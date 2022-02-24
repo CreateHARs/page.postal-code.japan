@@ -1,0 +1,19 @@
+[
+    {
+        "code": "31204",
+        "postal_old": "684  ",
+        "postal_new": "6840053",
+        "pref_kana": "ﾄｯﾄﾘｹﾝ",
+        "address1_kana": "ｻｶｲﾐﾅﾄｼ",
+        "address2_kana": "ｺｼﾉﾂﾞﾁｮｳ",
+        "pref": "鳥取県",
+        "address1": "境港市",
+        "address2": "小篠津町",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

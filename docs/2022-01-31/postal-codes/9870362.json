@@ -1,0 +1,53 @@
+[
+    {
+        "code": "04212",
+        "postal_old": "98703",
+        "postal_new": "9870362",
+        "pref_kana": "ﾐﾔｷﾞｹﾝ",
+        "address1_kana": "ﾄﾒｼ",
+        "address2_kana": "ﾄﾖｻﾄﾁｮｳｶﾐﾏﾁｳﾗ",
+        "pref": "宮城県",
+        "address1": "登米市",
+        "address2": "豊里町上町裏",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "1",
+        "is_updated": "0",
+        "update_reason": "0"
+    },
+    {
+        "code": "04212",
+        "postal_old": "98703",
+        "postal_new": "9870362",
+        "pref_kana": "ﾐﾔｷﾞｹﾝ",
+        "address1_kana": "ﾄﾒｼ",
+        "address2_kana": "ﾄﾖｻﾄﾁｮｳｺｸﾞﾁﾏｴ",
+        "pref": "宮城県",
+        "address1": "登米市",
+        "address2": "豊里町小口前",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "1",
+        "is_updated": "0",
+        "update_reason": "0"
+    },
+    {
+        "code": "04212",
+        "postal_old": "98703",
+        "postal_new": "9870362",
+        "pref_kana": "ﾐﾔｷﾞｹﾝ",
+        "address1_kana": "ﾄﾒｼ",
+        "address2_kana": "ﾄﾖｻﾄﾁｮｳﾋｶﾞｼﾏﾁｲｼﾀ",
+        "pref": "宮城県",
+        "address1": "登米市",
+        "address2": "豊里町東待井下",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "1",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

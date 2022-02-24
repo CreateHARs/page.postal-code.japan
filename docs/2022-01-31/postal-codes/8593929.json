@@ -1,0 +1,19 @@
+[
+    {
+        "code": "42321",
+        "postal_old": "85939",
+        "postal_new": "8593929",
+        "pref_kana": "ﾅｶﾞｻｷｹﾝ",
+        "address1_kana": "ﾋｶﾞｼｿﾉｷﾞｸﾞﾝﾋｶﾞｼｿﾉｷﾞﾁｮｳ",
+        "address2_kana": "ｻﾄｺﾞｳ",
+        "pref": "長崎県",
+        "address1": "東彼杵郡東彼杵町",
+        "address2": "里郷",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

@@ -1,0 +1,36 @@
+[
+    {
+        "code": "09201",
+        "postal_old": "321  ",
+        "postal_new": "3210951",
+        "pref_kana": "ﾄﾁｷﾞｹﾝ",
+        "address1_kana": "ｳﾂﾉﾐﾔｼ",
+        "address2_kana": "ｺｴﾄﾞ",
+        "pref": "栃木県",
+        "address1": "宇都宮市",
+        "address2": "越戸",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "1",
+        "is_multi_place": "1",
+        "is_updated": "0",
+        "update_reason": "0"
+    },
+    {
+        "code": "09201",
+        "postal_old": "321  ",
+        "postal_new": "3210951",
+        "pref_kana": "ﾄﾁｷﾞｹﾝ",
+        "address1_kana": "ｳﾂﾉﾐﾔｼ",
+        "address2_kana": "ｺｴﾄﾞﾏﾁ",
+        "pref": "栃木県",
+        "address1": "宇都宮市",
+        "address2": "越戸町",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "1",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

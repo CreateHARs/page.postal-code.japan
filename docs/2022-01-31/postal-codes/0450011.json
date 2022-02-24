@@ -1,0 +1,19 @@
+[
+    {
+        "code": "01402",
+        "postal_old": "045  ",
+        "postal_new": "0450011",
+        "pref_kana": "ﾎｯｶｲﾄﾞｳ",
+        "address1_kana": "ｲﾜﾅｲｸﾞﾝｲﾜﾅｲﾁｮｳ",
+        "address2_kana": "ｻｶｴ",
+        "pref": "北海道",
+        "address1": "岩内郡岩内町",
+        "address2": "栄",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

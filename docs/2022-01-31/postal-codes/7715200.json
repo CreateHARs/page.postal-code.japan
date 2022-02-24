@@ -1,0 +1,19 @@
+[
+    {
+        "code": "36368",
+        "postal_old": "77152",
+        "postal_new": "7715200",
+        "pref_kana": "ﾄｸｼﾏｹﾝ",
+        "address1_kana": "ﾅｶｸﾞﾝﾅｶﾁｮｳ",
+        "address2_kana": "ｲｶﾆｹｲｻｲｶﾞﾅｲﾊﾞｱｲ",
+        "pref": "徳島県",
+        "address1": "那賀郡那賀町",
+        "address2": "以下に掲載がない場合",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

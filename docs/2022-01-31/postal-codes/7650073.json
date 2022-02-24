@@ -1,0 +1,19 @@
+[
+    {
+        "code": "37204",
+        "postal_old": "765  ",
+        "postal_new": "7650073",
+        "pref_kana": "ｶｶﾞﾜｹﾝ",
+        "address1_kana": "ｾﾞﾝﾂｳｼﾞｼ",
+        "address2_kana": "ﾅｶﾑﾗﾁｮｳ(ｿﾉﾀ)",
+        "pref": "香川県",
+        "address1": "善通寺市",
+        "address2": "中村町（その他）",
+        "is_multi_code": "1",
+        "is_koaza": "0",
+        "is_choume": "1",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

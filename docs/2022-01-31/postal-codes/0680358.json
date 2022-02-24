@@ -1,0 +1,19 @@
+[
+    {
+        "code": "01429",
+        "postal_old": "06803",
+        "postal_new": "0680358",
+        "pref_kana": "ﾎｯｶｲﾄﾞｳ",
+        "address1_kana": "ﾕｳﾊﾞﾘｸﾞﾝｸﾘﾔﾏﾁｮｳ",
+        "address2_kana": "ｻｸﾗﾔﾏ(200､269ﾊﾞﾝﾁ)",
+        "pref": "北海道",
+        "address1": "夕張郡栗山町",
+        "address2": "桜山（２００、２６９番地）",
+        "is_multi_code": "1",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

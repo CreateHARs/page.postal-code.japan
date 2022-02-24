@@ -1,0 +1,19 @@
+[
+    {
+        "code": "28207",
+        "postal_old": "664  ",
+        "postal_new": "6640023",
+        "pref_kana": "ﾋｮｳｺﾞｹﾝ",
+        "address1_kana": "ｲﾀﾐｼ",
+        "address2_kana": "ﾅｶﾉﾆｼ",
+        "pref": "兵庫県",
+        "address1": "伊丹市",
+        "address2": "中野西",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "1",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

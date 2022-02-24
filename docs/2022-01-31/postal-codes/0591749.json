@@ -1,0 +1,19 @@
+[
+    {
+        "code": "01581",
+        "postal_old": "05917",
+        "postal_new": "0591749",
+        "pref_kana": "ﾎｯｶｲﾄﾞｳ",
+        "address1_kana": "ﾕｳﾌﾂｸﾞﾝｱﾂﾏﾁｮｳ",
+        "address2_kana": "ｷﾖｽﾞﾐ",
+        "pref": "北海道",
+        "address1": "勇払郡厚真町",
+        "address2": "清住",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

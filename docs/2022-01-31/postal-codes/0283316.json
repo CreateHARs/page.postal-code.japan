@@ -1,0 +1,19 @@
+[
+    {
+        "code": "03321",
+        "postal_old": "02833",
+        "postal_new": "0283316",
+        "pref_kana": "ｲﾜﾃｹﾝ",
+        "address1_kana": "ｼﾜｸﾞﾝｼﾜﾁｮｳ",
+        "address2_kana": "ｻﾋﾅｲ",
+        "pref": "岩手県",
+        "address1": "紫波郡紫波町",
+        "address2": "佐比内",
+        "is_multi_code": "0",
+        "is_koaza": "1",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

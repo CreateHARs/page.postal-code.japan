@@ -1,0 +1,19 @@
+[
+    {
+        "code": "01518",
+        "postal_old": "09704",
+        "postal_new": "0970400",
+        "pref_kana": "ﾎｯｶｲﾄﾞｳ",
+        "address1_kana": "ﾘｼﾘｸﾞﾝﾘｼﾘﾁｮｳ",
+        "address2_kana": "ｲｶﾆｹｲｻｲｶﾞﾅｲﾊﾞｱｲ",
+        "pref": "北海道",
+        "address1": "利尻郡利尻町",
+        "address2": "以下に掲載がない場合",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

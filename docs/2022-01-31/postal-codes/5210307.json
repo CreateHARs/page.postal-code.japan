@@ -1,0 +1,19 @@
+[
+    {
+        "code": "25214",
+        "postal_old": "52103",
+        "postal_new": "5210307",
+        "pref_kana": "ｼｶﾞｹﾝ",
+        "address1_kana": "ﾏｲﾊﾞﾗｼ",
+        "address2_kana": "ｵｵｸﾎﾞ",
+        "pref": "滋賀県",
+        "address1": "米原市",
+        "address2": "大久保",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

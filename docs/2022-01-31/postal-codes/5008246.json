@@ -1,0 +1,19 @@
+[
+    {
+        "code": "21201",
+        "postal_old": "500  ",
+        "postal_new": "5008246",
+        "pref_kana": "ｷﾞﾌｹﾝ",
+        "address1_kana": "ｷﾞﾌｼ",
+        "address2_kana": "ｼﾓｶﾜﾃ",
+        "pref": "岐阜県",
+        "address1": "岐阜市",
+        "address2": "下川手",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

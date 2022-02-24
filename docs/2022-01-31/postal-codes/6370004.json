@@ -1,0 +1,36 @@
+[
+    {
+        "code": "29207",
+        "postal_old": "637  ",
+        "postal_new": "6370004",
+        "pref_kana": "ﾅﾗｹﾝ",
+        "address1_kana": "ｺﾞｼﾞｮｳｼ",
+        "address2_kana": "ｲﾏｲ",
+        "pref": "奈良県",
+        "address1": "五條市",
+        "address2": "今井",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "1",
+        "is_multi_place": "1",
+        "is_updated": "0",
+        "update_reason": "0"
+    },
+    {
+        "code": "29207",
+        "postal_old": "637  ",
+        "postal_new": "6370004",
+        "pref_kana": "ﾅﾗｹﾝ",
+        "address1_kana": "ｺﾞｼﾞｮｳｼ",
+        "address2_kana": "ｲﾏｲﾁｮｳ",
+        "pref": "奈良県",
+        "address1": "五條市",
+        "address2": "今井町",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "1",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

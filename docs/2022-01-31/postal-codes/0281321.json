@@ -1,0 +1,19 @@
+[
+    {
+        "code": "03482",
+        "postal_old": "02813",
+        "postal_new": "0281321",
+        "pref_kana": "ｲﾜﾃｹﾝ",
+        "address1_kana": "ｼﾓﾍｲｸﾞﾝﾔﾏﾀﾞﾏﾁ",
+        "address2_kana": "ﾔﾏﾀﾞ",
+        "pref": "岩手県",
+        "address1": "下閉伊郡山田町",
+        "address2": "山田",
+        "is_multi_code": "0",
+        "is_koaza": "1",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

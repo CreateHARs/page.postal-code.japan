@@ -1,0 +1,19 @@
+[
+    {
+        "code": "27205",
+        "postal_old": "564  ",
+        "postal_new": "5640039",
+        "pref_kana": "ｵｵｻｶﾌ",
+        "address1_kana": "ｽｲﾀｼ",
+        "address2_kana": "ｾｲﾜｴﾝﾁｮｳ",
+        "pref": "大阪府",
+        "address1": "吹田市",
+        "address2": "清和園町",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

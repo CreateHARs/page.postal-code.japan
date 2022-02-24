@@ -1,0 +1,19 @@
+[
+    {
+        "code": "04104",
+        "postal_old": "982  ",
+        "postal_new": "9820801",
+        "pref_kana": "ﾐﾔｷﾞｹﾝ",
+        "address1_kana": "ｾﾝﾀﾞｲｼﾀｲﾊｸｸ",
+        "address2_kana": "ﾔｷﾞﾔﾏﾎﾝﾁｮｳ",
+        "pref": "宮城県",
+        "address1": "仙台市太白区",
+        "address2": "八木山本町",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "1",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

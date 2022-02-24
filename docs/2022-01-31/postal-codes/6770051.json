@@ -1,0 +1,19 @@
+[
+    {
+        "code": "28213",
+        "postal_old": "677  ",
+        "postal_new": "6770051",
+        "pref_kana": "ﾋｮｳｺﾞｹﾝ",
+        "address1_kana": "ﾆｼﾜｷｼ",
+        "address2_kana": "ﾀﾆﾁｮｳ",
+        "pref": "兵庫県",
+        "address1": "西脇市",
+        "address2": "谷町",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

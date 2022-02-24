@@ -1,0 +1,19 @@
+[
+    {
+        "code": "23114",
+        "postal_old": "459  ",
+        "postal_new": "4598002",
+        "pref_kana": "ｱｲﾁｹﾝ",
+        "address1_kana": "ﾅｺﾞﾔｼﾐﾄﾞﾘｸ",
+        "address2_kana": "ﾓﾘﾉｻﾄ",
+        "pref": "愛知県",
+        "address1": "名古屋市緑区",
+        "address2": "森の里",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "1",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

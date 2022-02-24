@@ -1,0 +1,19 @@
+[
+    {
+        "code": "02412",
+        "postal_old": "03921",
+        "postal_new": "0392111",
+        "pref_kana": "ｱｵﾓﾘｹﾝ",
+        "address1_kana": "ｶﾐｷﾀｸﾞﾝｵｲﾗｾﾁｮｳ",
+        "address2_kana": "ﾆｼｳｼﾛﾔﾁ",
+        "pref": "青森県",
+        "address1": "上北郡おいらせ町",
+        "address2": "西後谷地",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

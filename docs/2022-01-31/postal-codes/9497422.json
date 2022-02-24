@@ -1,0 +1,19 @@
+[
+    {
+        "code": "15225",
+        "postal_old": "94974",
+        "postal_new": "9497422",
+        "pref_kana": "ﾆｲｶﾞﾀｹﾝ",
+        "address1_kana": "ｳｵﾇﾏｼ",
+        "address2_kana": "ﾊﾗ",
+        "pref": "新潟県",
+        "address1": "魚沼市",
+        "address2": "原",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

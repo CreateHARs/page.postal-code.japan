@@ -1,0 +1,19 @@
+[
+    {
+        "code": "23202",
+        "postal_old": "44421",
+        "postal_new": "4442122",
+        "pref_kana": "ｱｲﾁｹﾝ",
+        "address1_kana": "ｵｶｻﾞｷｼ",
+        "address2_kana": "ｶﾓﾀﾞﾎﾝﾏﾁ",
+        "pref": "愛知県",
+        "address1": "岡崎市",
+        "address2": "鴨田本町",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

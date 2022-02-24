@@ -1,0 +1,19 @@
+[
+    {
+        "code": "04203",
+        "postal_old": "985  ",
+        "postal_new": "9850024",
+        "pref_kana": "ﾐﾔｷﾞｹﾝ",
+        "address1_kana": "ｼｵｶﾞﾏｼ",
+        "address2_kana": "ﾆｼｷﾁｮｳ",
+        "pref": "宮城県",
+        "address1": "塩竈市",
+        "address2": "錦町",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

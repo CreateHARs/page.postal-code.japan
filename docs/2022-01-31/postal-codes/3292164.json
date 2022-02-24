@@ -1,0 +1,19 @@
+[
+    {
+        "code": "09211",
+        "postal_old": "32921",
+        "postal_new": "3292164",
+        "pref_kana": "ﾄﾁｷﾞｹﾝ",
+        "address1_kana": "ﾔｲﾀｼ",
+        "address2_kana": "ﾎﾝﾁｮｳ",
+        "pref": "栃木県",
+        "address1": "矢板市",
+        "address2": "本町",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

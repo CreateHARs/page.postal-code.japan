@@ -1,0 +1,19 @@
+[
+    {
+        "code": "35321",
+        "postal_old": "740  ",
+        "postal_new": "7400063",
+        "pref_kana": "ﾔﾏｸﾞﾁｹﾝ",
+        "address1_kana": "ｸｶﾞｸﾞﾝﾜｷﾁｮｳ",
+        "address2_kana": "ｾｷｶﾞﾊﾏ",
+        "pref": "山口県",
+        "address1": "玖珂郡和木町",
+        "address2": "関ケ浜",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

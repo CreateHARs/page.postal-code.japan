@@ -1,0 +1,19 @@
+[
+    {
+        "code": "05349",
+        "postal_old": "01825",
+        "postal_new": "0182505",
+        "pref_kana": "ｱｷﾀｹﾝ",
+        "address1_kana": "ﾔﾏﾓﾄｸﾞﾝﾊｯﾎﾟｳﾁｮｳ",
+        "address2_kana": "ﾐﾈﾊﾏｳﾁｱﾗﾏｷ",
+        "pref": "秋田県",
+        "address1": "山本郡八峰町",
+        "address2": "峰浜内荒巻",
+        "is_multi_code": "0",
+        "is_koaza": "1",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

@@ -1,0 +1,19 @@
+[
+    {
+        "code": "42207",
+        "postal_old": "85957",
+        "postal_new": "8595707",
+        "pref_kana": "ﾅｶﾞｻｷｹﾝ",
+        "address1_kana": "ﾋﾗﾄﾞｼ",
+        "address2_kana": "ｲｷﾂｷﾁｮｳﾐｻｷ",
+        "pref": "長崎県",
+        "address1": "平戸市",
+        "address2": "生月町御崎",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

@@ -1,0 +1,36 @@
+[
+    {
+        "code": "46213",
+        "postal_old": "89134",
+        "postal_new": "8913431",
+        "pref_kana": "ｶｺﾞｼﾏｹﾝ",
+        "address1_kana": "ﾆｼﾉｵﾓﾃｼ",
+        "address2_kana": "ﾌﾙﾀ",
+        "pref": "鹿児島県",
+        "address1": "西之表市",
+        "address2": "古田",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    },
+    {
+        "code": "46213",
+        "postal_old": "89134",
+        "postal_new": "8913432",
+        "pref_kana": "ｶｺﾞｼﾏｹﾝ",
+        "address1_kana": "ﾆｼﾉｵﾓﾃｼ",
+        "address2_kana": "ｱﾝｼﾞｮｳ",
+        "pref": "鹿児島県",
+        "address1": "西之表市",
+        "address2": "安城",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

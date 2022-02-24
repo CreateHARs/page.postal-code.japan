@@ -1,0 +1,19 @@
+[
+    {
+        "code": "06210",
+        "postal_old": "99401",
+        "postal_new": "9940103",
+        "pref_kana": "ﾔﾏｶﾞﾀｹﾝ",
+        "address1_kana": "ﾃﾝﾄﾞｳｼ",
+        "address2_kana": "ｶﾜﾗｺﾞ",
+        "pref": "山形県",
+        "address1": "天童市",
+        "address2": "川原子",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

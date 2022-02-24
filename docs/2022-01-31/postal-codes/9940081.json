@@ -1,0 +1,19 @@
+[
+    {
+        "code": "06210",
+        "postal_old": "994  ",
+        "postal_new": "9940081",
+        "pref_kana": "ﾔﾏｶﾞﾀｹﾝ",
+        "address1_kana": "ﾃﾝﾄﾞｳｼ",
+        "address2_kana": "ﾐﾅﾐｵﾊﾞﾀ",
+        "pref": "山形県",
+        "address1": "天童市",
+        "address2": "南小畑",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "1",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

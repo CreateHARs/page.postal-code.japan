@@ -1,0 +1,53 @@
+[
+    {
+        "code": "04212",
+        "postal_old": "98704",
+        "postal_new": "9870411",
+        "pref_kana": "ﾐﾔｷﾞｹﾝ",
+        "address1_kana": "ﾄﾒｼ",
+        "address2_kana": "ﾐﾅﾐｶﾀﾏﾁｱﾏﾇﾏ",
+        "pref": "宮城県",
+        "address1": "登米市",
+        "address2": "南方町天沼",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "1",
+        "is_updated": "0",
+        "update_reason": "0"
+    },
+    {
+        "code": "04212",
+        "postal_old": "98704",
+        "postal_new": "9870411",
+        "pref_kana": "ﾐﾔｷﾞｹﾝ",
+        "address1_kana": "ﾄﾒｼ",
+        "address2_kana": "ﾐﾅﾐｶﾀﾏﾁｾﾉﾌﾁ",
+        "pref": "宮城県",
+        "address1": "登米市",
+        "address2": "南方町瀬ノ淵",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "1",
+        "is_updated": "0",
+        "update_reason": "0"
+    },
+    {
+        "code": "04212",
+        "postal_old": "98704",
+        "postal_new": "9870411",
+        "pref_kana": "ﾐﾔｷﾞｹﾝ",
+        "address1_kana": "ﾄﾒｼ",
+        "address2_kana": "ﾐﾅﾐｶﾀﾏﾁﾃﾗﾌﾞｸﾛ",
+        "pref": "宮城県",
+        "address1": "登米市",
+        "address2": "南方町寺袋",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "1",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

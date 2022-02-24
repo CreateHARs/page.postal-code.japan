@@ -1,0 +1,19 @@
+[
+    {
+        "code": "05368",
+        "postal_old": "01004",
+        "postal_new": "0100445",
+        "pref_kana": "ｱｷﾀｹﾝ",
+        "address1_kana": "ﾐﾅﾐｱｷﾀｸﾞﾝｵｵｶﾞﾀﾑﾗ",
+        "address2_kana": "ﾆｼ",
+        "pref": "秋田県",
+        "address1": "南秋田郡大潟村",
+        "address2": "西",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "1",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

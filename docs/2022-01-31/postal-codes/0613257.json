@@ -1,0 +1,19 @@
+[
+    {
+        "code": "01235",
+        "postal_old": "06132",
+        "postal_new": "0613257",
+        "pref_kana": "ﾎｯｶｲﾄﾞｳ",
+        "address1_kana": "ｲｼｶﾘｼ",
+        "address2_kana": "ﾀﾙｶﾜ7ｼﾞｮｳ",
+        "pref": "北海道",
+        "address1": "石狩市",
+        "address2": "樽川七条",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "1",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

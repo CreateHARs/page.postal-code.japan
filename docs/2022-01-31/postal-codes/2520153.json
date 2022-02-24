@@ -1,0 +1,19 @@
+[
+    {
+        "code": "14151",
+        "postal_old": "22002",
+        "postal_new": "2520153",
+        "pref_kana": "ｶﾅｶﾞﾜｹﾝ",
+        "address1_kana": "ｻｶﾞﾐﾊﾗｼﾐﾄﾞﾘｸ",
+        "address2_kana": "ﾈｺﾞﾔ",
+        "pref": "神奈川県",
+        "address1": "相模原市緑区",
+        "address2": "根小屋",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

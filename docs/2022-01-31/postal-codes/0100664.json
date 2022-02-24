@@ -1,0 +1,19 @@
+[
+    {
+        "code": "05206",
+        "postal_old": "01006",
+        "postal_new": "0100664",
+        "pref_kana": "ｱｷﾀｹﾝ",
+        "address1_kana": "ｵｶﾞｼ",
+        "address2_kana": "ｵｶﾞﾅｶｺｸﾕｳﾁﾅｲ",
+        "pref": "秋田県",
+        "address1": "男鹿市",
+        "address2": "男鹿中国有地内",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

@@ -1,0 +1,5 @@
+code,postal_old,postal_new,pref_kana,address1_kana,address2_kana,pref,address1,address2,is_multi_code,is_koaza,is_choume,is_multi_place,is_updated,update_reason
+20203,38612,3861211,ﾅｶﾞﾉｹﾝ,ｳｴﾀﾞｼ,ｼﾓﾉｺﾞｳ,長野県,上田市,下之郷,0,0,0,0,0,0
+20203,38612,3861212,ﾅｶﾞﾉｹﾝ,ｳｴﾀﾞｼ,ﾌｼﾞﾔﾏ,長野県,上田市,富士山,0,0,0,0,0,0
+20203,38612,3861213,ﾅｶﾞﾉｹﾝ,ｳｴﾀﾞｼ,ｺｱｿ,長野県,上田市,古安曽,0,0,0,0,0,0
+20203,38612,3861214,ﾅｶﾞﾉｹﾝ,ｳｴﾀﾞｼ,ｼﾓﾉｺﾞｳｵﾂ,長野県,上田市,下之郷乙,0,0,0,0,0,0

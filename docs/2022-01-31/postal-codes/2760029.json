@@ -1,0 +1,19 @@
+[
+    {
+        "code": "12221",
+        "postal_old": "276  ",
+        "postal_new": "2760029",
+        "pref_kana": "ﾁﾊﾞｹﾝ",
+        "address1_kana": "ﾔﾁﾖｼ",
+        "address2_kana": "ﾑﾗｶﾐﾐﾅﾐ",
+        "pref": "千葉県",
+        "address1": "八千代市",
+        "address2": "村上南",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "1",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

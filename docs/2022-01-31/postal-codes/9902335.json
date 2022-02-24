@@ -1,0 +1,19 @@
+[
+    {
+        "code": "06201",
+        "postal_old": "99023",
+        "postal_new": "9902335",
+        "pref_kana": "ﾔﾏｶﾞﾀｹﾝ",
+        "address1_kana": "ﾔﾏｶﾞﾀｼ",
+        "address2_kana": "ｻﾞｵｳﾐﾅﾐﾅﾘｻﾜ",
+        "pref": "山形県",
+        "address1": "山形市",
+        "address2": "蔵王南成沢",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

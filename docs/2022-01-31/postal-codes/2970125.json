@@ -1,0 +1,19 @@
+[
+    {
+        "code": "12427",
+        "postal_old": "29701",
+        "postal_new": "2970125",
+        "pref_kana": "ﾁﾊﾞｹﾝ",
+        "address1_kana": "ﾁｮｳｾｲｸﾞﾝﾁｮｳﾅﾝﾏﾁ",
+        "address2_kana": "ｶｻﾓﾘ",
+        "pref": "千葉県",
+        "address1": "長生郡長南町",
+        "address2": "笠森",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

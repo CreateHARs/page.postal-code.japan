@@ -1,0 +1,19 @@
+[
+    {
+        "code": "26344",
+        "postal_old": "61002",
+        "postal_new": "6100202",
+        "pref_kana": "ｷｮｳﾄﾌ",
+        "address1_kana": "ﾂﾂﾞｷｸﾞﾝｳｼﾞﾀﾜﾗﾁｮｳ",
+        "address2_kana": "ﾘｮｸｴﾝｻﾞｶ",
+        "pref": "京都府",
+        "address1": "綴喜郡宇治田原町",
+        "address2": "緑苑坂",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

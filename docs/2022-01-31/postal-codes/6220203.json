@@ -1,0 +1,19 @@
+[
+    {
+        "code": "26407",
+        "postal_old": "62202",
+        "postal_new": "6220203",
+        "pref_kana": "ｷｮｳﾄﾌ",
+        "address1_kana": "ﾌﾅｲｸﾞﾝｷｮｳﾀﾝﾊﾞﾁｮｳ",
+        "address2_kana": "ﾄﾐﾀ",
+        "pref": "京都府",
+        "address1": "船井郡京丹波町",
+        "address2": "富田",
+        "is_multi_code": "0",
+        "is_koaza": "1",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

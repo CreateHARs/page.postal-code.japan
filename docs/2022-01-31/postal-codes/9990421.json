@@ -1,0 +1,19 @@
+[
+    {
+        "code": "06403",
+        "postal_old": "99904",
+        "postal_new": "9990421",
+        "pref_kana": "ﾔﾏｶﾞﾀｹﾝ",
+        "address1_kana": "ﾆｼｵｷﾀﾏｸﾞﾝｲｲﾃﾞﾏﾁ",
+        "address2_kana": "ｺﾔ",
+        "pref": "山形県",
+        "address1": "西置賜郡飯豊町",
+        "address2": "小屋",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

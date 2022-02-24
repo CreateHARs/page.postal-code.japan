@@ -1,0 +1,19 @@
+[
+    {
+        "code": "07402",
+        "postal_old": "96604",
+        "postal_new": "9660405",
+        "pref_kana": "ﾌｸｼﾏｹﾝ",
+        "address1_kana": "ﾔﾏｸﾞﾝｷﾀｼｵﾊﾞﾗﾑﾗ",
+        "address2_kana": "ｼﾓﾖｼ",
+        "pref": "福島県",
+        "address1": "耶麻郡北塩原村",
+        "address2": "下吉",
+        "is_multi_code": "0",
+        "is_koaza": "1",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

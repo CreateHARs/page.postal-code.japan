@@ -1,0 +1,19 @@
+[
+    {
+        "code": "12105",
+        "postal_old": "267  ",
+        "postal_new": "2670063",
+        "pref_kana": "ﾁﾊﾞｹﾝ",
+        "address1_kana": "ﾁﾊﾞｼﾐﾄﾞﾘｸ",
+        "address2_kana": "ｵﾔﾏﾁｮｳ",
+        "pref": "千葉県",
+        "address1": "千葉市緑区",
+        "address2": "小山町",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

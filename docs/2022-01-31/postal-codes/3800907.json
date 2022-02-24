@@ -1,0 +1,19 @@
+[
+    {
+        "code": "20201",
+        "postal_old": "380  ",
+        "postal_new": "3800907",
+        "pref_kana": "ﾅｶﾞﾉｹﾝ",
+        "address1_kana": "ﾅｶﾞﾉｼ",
+        "address2_kana": "ﾂﾙｶﾞ",
+        "pref": "長野県",
+        "address1": "長野市",
+        "address2": "鶴賀",
+        "is_multi_code": "1",
+        "is_koaza": "1",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

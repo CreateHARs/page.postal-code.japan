@@ -1,0 +1,19 @@
+[
+    {
+        "code": "15107",
+        "postal_old": "95011",
+        "postal_new": "9501122",
+        "pref_kana": "ﾆｲｶﾞﾀｹﾝ",
+        "address1_kana": "ﾆｲｶﾞﾀｼﾆｼｸ",
+        "address2_kana": "ｷﾊﾞ",
+        "pref": "新潟県",
+        "address1": "新潟市西区",
+        "address2": "木場",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

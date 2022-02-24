@@ -1,0 +1,19 @@
+[
+    {
+        "code": "33681",
+        "postal_old": "70923",
+        "postal_new": "7092331",
+        "pref_kana": "ｵｶﾔﾏｹﾝ",
+        "address1_kana": "ｶｶﾞｸﾞﾝｷﾋﾞﾁｭｳｵｳﾁｮｳ",
+        "address2_kana": "ｼﾓｶﾞﾓ",
+        "pref": "岡山県",
+        "address1": "加賀郡吉備中央町",
+        "address2": "下加茂",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

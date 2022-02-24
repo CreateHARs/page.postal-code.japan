@@ -1,0 +1,19 @@
+[
+    {
+        "code": "13212",
+        "postal_old": "191  ",
+        "postal_new": "1910054",
+        "pref_kana": "ﾄｳｷｮｳﾄ",
+        "address1_kana": "ﾋﾉｼ",
+        "address2_kana": "ﾋｶﾞｼﾋﾗﾔﾏ",
+        "pref": "東京都",
+        "address1": "日野市",
+        "address2": "東平山",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "1",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

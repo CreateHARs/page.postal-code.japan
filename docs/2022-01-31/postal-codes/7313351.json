@@ -1,0 +1,19 @@
+[
+    {
+        "code": "34106",
+        "postal_old": "73133",
+        "postal_new": "7313351",
+        "pref_kana": "ﾋﾛｼﾏｹﾝ",
+        "address1_kana": "ﾋﾛｼﾏｼｱｻｷﾀｸ",
+        "address2_kana": "ｱｻﾁｮｳｹｷﾞ",
+        "pref": "広島県",
+        "address1": "広島市安佐北区",
+        "address2": "安佐町毛木",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

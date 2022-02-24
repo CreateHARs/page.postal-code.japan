@@ -1,0 +1,19 @@
+[
+    {
+        "code": "16211",
+        "postal_old": "934  ",
+        "postal_new": "9340002",
+        "pref_kana": "ﾄﾔﾏｹﾝ",
+        "address1_kana": "ｲﾐｽﾞｼ",
+        "address2_kana": "ﾐﾅﾄﾏﾁ",
+        "pref": "富山県",
+        "address1": "射水市",
+        "address2": "港町",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

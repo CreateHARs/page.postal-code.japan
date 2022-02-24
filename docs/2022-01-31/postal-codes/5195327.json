@@ -1,0 +1,19 @@
+[
+    {
+        "code": "24561",
+        "postal_old": "51953",
+        "postal_new": "5195327",
+        "pref_kana": "ﾐｴｹﾝ",
+        "address1_kana": "ﾐﾅﾐﾑﾛｸﾞﾝﾐﾊﾏﾁｮｳ",
+        "address2_kana": "ｶﾜｾ",
+        "pref": "三重県",
+        "address1": "南牟婁郡御浜町",
+        "address2": "川瀬",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

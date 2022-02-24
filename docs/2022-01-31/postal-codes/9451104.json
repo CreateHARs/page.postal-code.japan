@@ -1,0 +1,19 @@
+[
+    {
+        "code": "15205",
+        "postal_old": "94511",
+        "postal_new": "9451104",
+        "pref_kana": "ﾆｲｶﾞﾀｹﾝ",
+        "address1_kana": "ｶｼﾜｻﾞｷｼ",
+        "address2_kana": "ｼﾓｶﾞﾀ",
+        "pref": "新潟県",
+        "address1": "柏崎市",
+        "address2": "下方",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

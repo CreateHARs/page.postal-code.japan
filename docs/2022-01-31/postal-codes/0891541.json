@@ -1,0 +1,19 @@
+[
+    {
+        "code": "01639",
+        "postal_old": "08915",
+        "postal_new": "0891541",
+        "pref_kana": "ﾎｯｶｲﾄﾞｳ",
+        "address1_kana": "ｶｻｲｸﾞﾝｻﾗﾍﾞﾂﾑﾗ",
+        "address2_kana": "ｺｳﾅﾝ",
+        "pref": "北海道",
+        "address1": "河西郡更別村",
+        "address2": "更南",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

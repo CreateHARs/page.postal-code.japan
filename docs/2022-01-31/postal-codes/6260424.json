@@ -1,0 +1,19 @@
+[
+    {
+        "code": "26463",
+        "postal_old": "62604",
+        "postal_new": "6260424",
+        "pref_kana": "ｷｮｳﾄﾌ",
+        "address1_kana": "ﾖｻｸﾞﾝｲﾈﾁｮｳ",
+        "address2_kana": "ｶﾒｼﾏ",
+        "pref": "京都府",
+        "address1": "与謝郡伊根町",
+        "address2": "亀島",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

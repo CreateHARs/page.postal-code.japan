@@ -1,0 +1,19 @@
+[
+    {
+        "code": "03214",
+        "postal_old": "02874",
+        "postal_new": "0287401",
+        "pref_kana": "ｲﾜﾃｹﾝ",
+        "address1_kana": "ﾊﾁﾏﾝﾀｲｼ",
+        "address2_kana": "ﾆｼﾈﾃﾗﾀﾞ",
+        "pref": "岩手県",
+        "address1": "八幡平市",
+        "address2": "西根寺田",
+        "is_multi_code": "0",
+        "is_koaza": "1",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

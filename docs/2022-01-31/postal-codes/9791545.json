@@ -1,0 +1,19 @@
+[
+    {
+        "code": "07547",
+        "postal_old": "97915",
+        "postal_new": "9791545",
+        "pref_kana": "ﾌｸｼﾏｹﾝ",
+        "address1_kana": "ﾌﾀﾊﾞｸﾞﾝﾅﾐｴﾏﾁ",
+        "address2_kana": "ｵﾏﾙ",
+        "pref": "福島県",
+        "address1": "双葉郡浪江町",
+        "address2": "小丸",
+        "is_multi_code": "0",
+        "is_koaza": "1",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

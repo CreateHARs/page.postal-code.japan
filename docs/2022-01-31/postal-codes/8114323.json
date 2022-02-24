@@ -1,0 +1,19 @@
+[
+    {
+        "code": "40384",
+        "postal_old": "81143",
+        "postal_new": "8114323",
+        "pref_kana": "ﾌｸｵｶｹﾝ",
+        "address1_kana": "ｵﾝｶﾞｸﾞﾝｵﾝｶﾞﾁｮｳ",
+        "address2_kana": "ﾜｶﾊﾞﾀﾞｲ",
+        "pref": "福岡県",
+        "address1": "遠賀郡遠賀町",
+        "address2": "若葉台",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

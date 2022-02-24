@@ -1,0 +1,19 @@
+[
+    {
+        "code": "20481",
+        "postal_old": "39986",
+        "postal_new": "3998601",
+        "pref_kana": "ﾅｶﾞﾉｹﾝ",
+        "address1_kana": "ｷﾀｱﾂﾞﾐｸﾞﾝｲｹﾀﾞﾏﾁ",
+        "address2_kana": "ｲｹﾀﾞ",
+        "pref": "長野県",
+        "address1": "北安曇郡池田町",
+        "address2": "池田",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

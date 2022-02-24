@@ -1,0 +1,19 @@
+[
+    {
+        "code": "17205",
+        "postal_old": "92714",
+        "postal_new": "9271461",
+        "pref_kana": "ｲｼｶﾜｹﾝ",
+        "address1_kana": "ｽｽﾞｼ",
+        "address2_kana": "ﾐｻｷﾏﾁﾌｼﾐ",
+        "pref": "石川県",
+        "address1": "珠洲市",
+        "address2": "三崎町伏見",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

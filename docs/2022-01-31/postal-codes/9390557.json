@@ -1,0 +1,53 @@
+[
+    {
+        "code": "16201",
+        "postal_old": "93905",
+        "postal_new": "9390557",
+        "pref_kana": "ﾄﾔﾏｹﾝ",
+        "address1_kana": "ﾄﾔﾏｼ",
+        "address2_kana": "ﾐｽﾞﾊｼﾀｲｼｮｳ",
+        "pref": "富山県",
+        "address1": "富山市",
+        "address2": "水橋大正",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "1",
+        "is_updated": "0",
+        "update_reason": "0"
+    },
+    {
+        "code": "16201",
+        "postal_old": "93905",
+        "postal_new": "9390557",
+        "pref_kana": "ﾄﾔﾏｹﾝ",
+        "address1_kana": "ﾄﾔﾏｼ",
+        "address2_kana": "ﾐｽﾞﾊｼﾀｲｼｮｳﾅﾝﾌﾞ",
+        "pref": "富山県",
+        "address1": "富山市",
+        "address2": "水橋大正南部",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "1",
+        "is_updated": "0",
+        "update_reason": "0"
+    },
+    {
+        "code": "16201",
+        "postal_old": "93905",
+        "postal_new": "9390557",
+        "pref_kana": "ﾄﾔﾏｹﾝ",
+        "address1_kana": "ﾄﾔﾏｼ",
+        "address2_kana": "ﾐｽﾞﾊｼﾀｲｼｮｳﾎｸﾌﾞ",
+        "pref": "富山県",
+        "address1": "富山市",
+        "address2": "水橋大正北部",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "1",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

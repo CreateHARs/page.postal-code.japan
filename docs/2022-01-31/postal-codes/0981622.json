@@ -1,0 +1,19 @@
+[
+    {
+        "code": "01561",
+        "postal_old": "09816",
+        "postal_new": "0981622",
+        "pref_kana": "ﾎｯｶｲﾄﾞｳ",
+        "address1_kana": "ﾓﾝﾍﾞﾂｸﾞﾝｵｺｯﾍﾟﾁｮｳ",
+        "address2_kana": "ﾎｯｺｳ",
+        "pref": "北海道",
+        "address1": "紋別郡興部町",
+        "address2": "北興",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

@@ -1,0 +1,19 @@
+[
+    {
+        "code": "26102",
+        "postal_old": "602  ",
+        "postal_new": "6028044",
+        "pref_kana": "ｷｮｳﾄﾌ",
+        "address1_kana": "ｷｮｳﾄｼｶﾐｷﾞｮｳｸ",
+        "address2_kana": "ﾋｶﾞｼﾊｼﾂﾞﾒﾁｮｳ(ｼﾓﾀﾞﾁｳﾘﾄﾞｵﾘﾎﾘｶﾜﾋｶﾞｼｲﾙ)",
+        "pref": "京都府",
+        "address1": "京都市上京区",
+        "address2": "東橋詰町（下立売通堀川東入）",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

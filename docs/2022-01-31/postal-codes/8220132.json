@@ -1,0 +1,19 @@
+[
+    {
+        "code": "40226",
+        "postal_old": "82201",
+        "postal_new": "8220132",
+        "pref_kana": "ﾌｸｵｶｹﾝ",
+        "address1_kana": "ﾐﾔﾜｶｼ",
+        "address2_kana": "ｺﾌﾞｼ",
+        "pref": "福岡県",
+        "address1": "宮若市",
+        "address2": "小伏",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

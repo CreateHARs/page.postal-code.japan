@@ -1,0 +1,19 @@
+[
+    {
+        "code": "12236",
+        "postal_old": "287  ",
+        "postal_new": "2870018",
+        "pref_kana": "ﾁﾊﾞｹﾝ",
+        "address1_kana": "ｶﾄﾘｼ",
+        "address2_kana": "ﾖｳﾛｺﾞ",
+        "pref": "千葉県",
+        "address1": "香取市",
+        "address2": "丁子",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

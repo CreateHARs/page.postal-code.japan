@@ -1,0 +1,53 @@
+[
+    {
+        "code": "16206",
+        "postal_old": "936  ",
+        "postal_new": "9360811",
+        "pref_kana": "ﾄﾔﾏｹﾝ",
+        "address1_kana": "ﾅﾒﾘｶﾜｼ",
+        "address2_kana": "ｵｵｳﾗ",
+        "pref": "富山県",
+        "address1": "滑川市",
+        "address2": "大浦",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "1",
+        "is_updated": "0",
+        "update_reason": "0"
+    },
+    {
+        "code": "16206",
+        "postal_old": "936  ",
+        "postal_new": "9360811",
+        "pref_kana": "ﾄﾔﾏｹﾝ",
+        "address1_kana": "ﾅﾒﾘｶﾜｼ",
+        "address2_kana": "ｶﾐｵｵｳﾗ",
+        "pref": "富山県",
+        "address1": "滑川市",
+        "address2": "上大浦",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "1",
+        "is_updated": "0",
+        "update_reason": "0"
+    },
+    {
+        "code": "16206",
+        "postal_old": "936  ",
+        "postal_new": "9360811",
+        "pref_kana": "ﾄﾔﾏｹﾝ",
+        "address1_kana": "ﾅﾒﾘｶﾜｼ",
+        "address2_kana": "ｼﾓｵｵｳﾗ",
+        "pref": "富山県",
+        "address1": "滑川市",
+        "address2": "下大浦",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "1",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

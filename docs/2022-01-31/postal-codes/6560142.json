@@ -1,0 +1,19 @@
+[
+    {
+        "code": "28224",
+        "postal_old": "65601",
+        "postal_new": "6560142",
+        "pref_kana": "ﾋｮｳｺﾞｹﾝ",
+        "address1_kana": "ﾐﾅﾐｱﾜｼﾞｼ",
+        "address2_kana": "ﾁｭｳｼﾞｮｳﾄｸﾊﾗ",
+        "pref": "兵庫県",
+        "address1": "南あわじ市",
+        "address2": "中条徳原",
+        "is_multi_code": "0",
+        "is_koaza": "1",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

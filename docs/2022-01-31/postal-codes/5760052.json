@@ -1,0 +1,19 @@
+[
+    {
+        "code": "27230",
+        "postal_old": "576  ",
+        "postal_new": "5760052",
+        "pref_kana": "ｵｵｻｶﾌ",
+        "address1_kana": "ｶﾀﾉｼ",
+        "address2_kana": "ｷｻﾍﾞ(ﾁｮｳﾒ)",
+        "pref": "大阪府",
+        "address1": "交野市",
+        "address2": "私部（丁目）",
+        "is_multi_code": "1",
+        "is_koaza": "0",
+        "is_choume": "1",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

@@ -1,0 +1,19 @@
+[
+    {
+        "code": "34212",
+        "postal_old": "739  ",
+        "postal_new": "7390008",
+        "pref_kana": "ﾋﾛｼﾏｹﾝ",
+        "address1_kana": "ﾋｶﾞｼﾋﾛｼﾏｼ",
+        "address2_kana": "ｻｲｼﾞｮｳﾖｼﾕｷﾋｶﾞｼ",
+        "pref": "広島県",
+        "address1": "東広島市",
+        "address2": "西条吉行東",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "1",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

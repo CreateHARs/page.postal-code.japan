@@ -1,0 +1,19 @@
+[
+    {
+        "code": "11104",
+        "postal_old": "330  ",
+        "postal_new": "3370007",
+        "pref_kana": "ｻｲﾀﾏｹﾝ",
+        "address1_kana": "ｻｲﾀﾏｼﾐﾇﾏｸ",
+        "address2_kana": "ﾏﾙｶﾞｻｷﾁｮｳ",
+        "pref": "埼玉県",
+        "address1": "さいたま市見沼区",
+        "address2": "丸ケ崎町",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

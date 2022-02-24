@@ -1,0 +1,19 @@
+[
+    {
+        "code": "23220",
+        "postal_old": "492  ",
+        "postal_new": "4928421",
+        "pref_kana": "ｱｲﾁｹﾝ",
+        "address1_kana": "ｲﾅｻﾞﾜｼ",
+        "address2_kana": "ﾀｶｼｹﾞﾆｼﾏﾁ",
+        "pref": "愛知県",
+        "address1": "稲沢市",
+        "address2": "高重西町",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

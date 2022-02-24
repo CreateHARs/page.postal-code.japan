@@ -1,0 +1,19 @@
+[
+    {
+        "code": "30202",
+        "postal_old": "64011",
+        "postal_new": "6401171",
+        "pref_kana": "ﾜｶﾔﾏｹﾝ",
+        "address1_kana": "ｶｲﾅﾝｼ",
+        "address2_kana": "ﾉｶﾐﾅｶ",
+        "pref": "和歌山県",
+        "address1": "海南市",
+        "address2": "野上中",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

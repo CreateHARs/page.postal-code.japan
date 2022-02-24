@@ -1,0 +1,19 @@
+[
+    {
+        "code": "14301",
+        "postal_old": "24001",
+        "postal_new": "2400112",
+        "pref_kana": "ｶﾅｶﾞﾜｹﾝ",
+        "address1_kana": "ﾐｳﾗｸﾞﾝﾊﾔﾏﾏﾁ",
+        "address2_kana": "ﾎﾘｳﾁ",
+        "pref": "神奈川県",
+        "address1": "三浦郡葉山町",
+        "address2": "堀内",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

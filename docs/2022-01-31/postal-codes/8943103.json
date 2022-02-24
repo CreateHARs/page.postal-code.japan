@@ -1,0 +1,19 @@
+[
+    {
+        "code": "46523",
+        "postal_old": "89431",
+        "postal_new": "8943103",
+        "pref_kana": "ｶｺﾞｼﾏｹﾝ",
+        "address1_kana": "ｵｵｼﾏｸﾞﾝﾔﾏﾄｿﾝ",
+        "address2_kana": "ﾂﾅｸﾞ",
+        "pref": "鹿児島県",
+        "address1": "大島郡大和村",
+        "address2": "津名久",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

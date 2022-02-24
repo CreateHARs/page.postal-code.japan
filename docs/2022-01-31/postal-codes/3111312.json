@@ -1,0 +1,19 @@
+[
+    {
+        "code": "08309",
+        "postal_old": "31113",
+        "postal_new": "3111312",
+        "pref_kana": "ｲﾊﾞﾗｷｹﾝ",
+        "address1_kana": "ﾋｶﾞｼｲﾊﾞﾗｷｸﾞﾝｵｵｱﾗｲﾏﾁ",
+        "address2_kana": "ｶﾐﾔﾏﾁｮｳ",
+        "pref": "茨城県",
+        "address1": "東茨城郡大洗町",
+        "address2": "神山町",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

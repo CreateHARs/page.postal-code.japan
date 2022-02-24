@@ -1,0 +1,19 @@
+[
+    {
+        "code": "40213",
+        "postal_old": "824  ",
+        "postal_new": "8240036",
+        "pref_kana": "ﾌｸｵｶｹﾝ",
+        "address1_kana": "ﾕｸﾊｼｼ",
+        "address2_kana": "ﾐﾅﾐｲｽﾞﾐ",
+        "pref": "福岡県",
+        "address1": "行橋市",
+        "address2": "南泉",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "1",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

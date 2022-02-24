@@ -1,0 +1,19 @@
+[
+    {
+        "code": "26109",
+        "postal_old": "60113",
+        "postal_new": "6011321",
+        "pref_kana": "ｷｮｳﾄﾌ",
+        "address1_kana": "ｷｮｳﾄｼﾌｼﾐｸ",
+        "address2_kana": "ﾀﾞｲｺﾞｷﾀﾊﾔﾏ",
+        "pref": "京都府",
+        "address1": "京都市伏見区",
+        "address2": "醍醐北端山",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

@@ -1,0 +1,53 @@
+[
+    {
+        "code": "43441",
+        "postal_old": "86133",
+        "postal_new": "8613321",
+        "pref_kana": "ｸﾏﾓﾄｹﾝ",
+        "address1_kana": "ｶﾐﾏｼｷｸﾞﾝﾐﾌﾈﾏﾁ",
+        "address2_kana": "ﾅﾅﾀｷ(ｿﾉﾀ)",
+        "pref": "熊本県",
+        "address1": "上益城郡御船町",
+        "address2": "七滝（その他）",
+        "is_multi_code": "1",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    },
+    {
+        "code": "43441",
+        "postal_old": "86133",
+        "postal_new": "8613322",
+        "pref_kana": "ｸﾏﾓﾄｹﾝ",
+        "address1_kana": "ｶﾐﾏｼｷｸﾞﾝﾐﾌﾈﾏﾁ",
+        "address2_kana": "ｳｴﾉ",
+        "pref": "熊本県",
+        "address1": "上益城郡御船町",
+        "address2": "上野",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    },
+    {
+        "code": "43441",
+        "postal_old": "86133",
+        "postal_new": "8613323",
+        "pref_kana": "ｸﾏﾓﾄｹﾝ",
+        "address1_kana": "ｶﾐﾏｼｷｸﾞﾝﾐﾌﾈﾏﾁ",
+        "address2_kana": "ﾀｼﾛ",
+        "pref": "熊本県",
+        "address1": "上益城郡御船町",
+        "address2": "田代",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

@@ -1,0 +1,19 @@
+[
+    {
+        "code": "02412",
+        "postal_old": "03922",
+        "postal_new": "0392215",
+        "pref_kana": "ｱｵﾓﾘｹﾝ",
+        "address1_kana": "ｶﾐｷﾀｸﾞﾝｵｲﾗｾﾁｮｳ",
+        "address2_kana": "ｼﾓﾔｼｷ",
+        "pref": "青森県",
+        "address1": "上北郡おいらせ町",
+        "address2": "下屋敷",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

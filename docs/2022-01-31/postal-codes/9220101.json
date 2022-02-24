@@ -1,0 +1,36 @@
+[
+    {
+        "code": "17206",
+        "postal_old": "92201",
+        "postal_new": "9220101",
+        "pref_kana": "ｲｼｶﾜｹﾝ",
+        "address1_kana": "ｶｶﾞｼ",
+        "address2_kana": "ﾔﾏﾅｶｵﾝｾﾝﾅｶﾀﾞﾏﾁ",
+        "pref": "石川県",
+        "address1": "加賀市",
+        "address2": "山中温泉中田町",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "1",
+        "is_updated": "0",
+        "update_reason": "0"
+    },
+    {
+        "code": "17206",
+        "postal_old": "92201",
+        "postal_new": "9220101",
+        "pref_kana": "ｲｼｶﾜｹﾝ",
+        "address1_kana": "ｶｶﾞｼ",
+        "address2_kana": "ﾔﾏﾅｶｵﾝｾﾝﾆﾃﾝﾏﾁ",
+        "pref": "石川県",
+        "address1": "加賀市",
+        "address2": "山中温泉二天町",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "1",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

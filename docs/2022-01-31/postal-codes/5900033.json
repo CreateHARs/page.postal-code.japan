@@ -1,0 +1,19 @@
+[
+    {
+        "code": "27141",
+        "postal_old": "590  ",
+        "postal_new": "5900033",
+        "pref_kana": "ｵｵｻｶﾌ",
+        "address1_kana": "ｻｶｲｼｻｶｲｸ",
+        "address2_kana": "ﾅｶﾅｶﾞﾔﾏｴﾝ",
+        "pref": "大阪府",
+        "address1": "堺市堺区",
+        "address2": "中永山園",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

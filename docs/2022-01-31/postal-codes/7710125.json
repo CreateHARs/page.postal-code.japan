@@ -1,0 +1,19 @@
+[
+    {
+        "code": "36201",
+        "postal_old": "77101",
+        "postal_new": "7710125",
+        "pref_kana": "ﾄｸｼﾏｹﾝ",
+        "address1_kana": "ﾄｸｼﾏｼ",
+        "address2_kana": "ｶﾜｳﾁﾁｮｳ(ｶﾅｵｶ)",
+        "pref": "徳島県",
+        "address1": "徳島市",
+        "address2": "川内町（金岡）",
+        "is_multi_code": "1",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

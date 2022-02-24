@@ -1,0 +1,19 @@
+[
+    {
+        "code": "24212",
+        "postal_old": "64713",
+        "postal_new": "6471324",
+        "pref_kana": "ﾐｴｹﾝ",
+        "address1_kana": "ｸﾏﾉｼ",
+        "address2_kana": "ｷﾜﾁｮｳﾜｹ",
+        "pref": "三重県",
+        "address1": "熊野市",
+        "address2": "紀和町和気",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

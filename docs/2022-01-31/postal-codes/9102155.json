@@ -1,0 +1,19 @@
+[
+    {
+        "code": "18201",
+        "postal_old": "91021",
+        "postal_new": "9102155",
+        "pref_kana": "ﾌｸｲｹﾝ",
+        "address1_kana": "ﾌｸｲｼ",
+        "address2_kana": "ｼﾞｮｳｷｮｳｼﾞﾁｮｳ",
+        "pref": "福井県",
+        "address1": "福井市",
+        "address2": "浄教寺町",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

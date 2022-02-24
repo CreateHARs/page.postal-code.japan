@@ -1,0 +1,19 @@
+[
+    {
+        "code": "16342",
+        "postal_old": "93906",
+        "postal_new": "9390641",
+        "pref_kana": "ﾄﾔﾏｹﾝ",
+        "address1_kana": "ｼﾓﾆｲｶﾜｸﾞﾝﾆｭｳｾﾞﾝﾏﾁ",
+        "address2_kana": "ｼﾓｳﾜﾉ",
+        "pref": "富山県",
+        "address1": "下新川郡入善町",
+        "address2": "下上野",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

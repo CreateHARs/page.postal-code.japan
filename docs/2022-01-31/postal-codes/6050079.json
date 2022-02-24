@@ -1,0 +1,19 @@
+[
+    {
+        "code": "26105",
+        "postal_old": "605  ",
+        "postal_new": "6050079",
+        "pref_kana": "ｷｮｳﾄﾌ",
+        "address1_kana": "ｷｮｳﾄｼﾋｶﾞｼﾔﾏｸ",
+        "address2_kana": "ﾄｷﾜﾁｮｳ(ﾔﾏﾄｵｵｼﾞﾄﾞｵﾘ4ｼﾞｮｳｱｶﾞﾙ､ｶﾜﾊﾞﾀﾄﾞｵﾘ4ｼﾞｮｳｱｶﾞﾙ)",
+        "pref": "京都府",
+        "address1": "京都市東山区",
+        "address2": "常盤町（大和大路通四条上る、川端通四条上る）",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

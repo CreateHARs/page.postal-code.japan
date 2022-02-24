@@ -1,0 +1,19 @@
+[
+    {
+        "code": "40101",
+        "postal_old": "801  ",
+        "postal_new": "8010814",
+        "pref_kana": "ﾌｸｵｶｹﾝ",
+        "address1_kana": "ｷﾀｷｭｳｼｭｳｼﾓｼﾞｸ",
+        "address2_kana": "ﾋｼｬｸﾀﾞﾏﾁ",
+        "pref": "福岡県",
+        "address1": "北九州市門司区",
+        "address2": "柄杓田町",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

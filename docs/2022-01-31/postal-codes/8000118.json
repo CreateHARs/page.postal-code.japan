@@ -1,0 +1,19 @@
+[
+    {
+        "code": "40101",
+        "postal_old": "80001",
+        "postal_new": "8000118",
+        "pref_kana": "ﾌｸｵｶｹﾝ",
+        "address1_kana": "ｷﾀｷｭｳｼｭｳｼﾓｼﾞｸ",
+        "address2_kana": "ｷｼｼﾝﾏﾁ",
+        "pref": "福岡県",
+        "address1": "北九州市門司区",
+        "address2": "吉志新町",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "1",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

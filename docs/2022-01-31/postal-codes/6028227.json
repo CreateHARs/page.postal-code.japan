@@ -1,0 +1,36 @@
+[
+    {
+        "code": "26102",
+        "postal_old": "602  ",
+        "postal_new": "6028227",
+        "pref_kana": "ｷｮｳﾄﾌ",
+        "address1_kana": "ｷｮｳﾄｼｶﾐｷﾞｮｳｸ",
+        "address2_kana": "ﾋﾞｼｬﾓﾝﾁｮｳ",
+        "pref": "京都府",
+        "address1": "京都市上京区",
+        "address2": "毘沙門町（大宮通一条上る東入、黒門通一条上る、黒門通元誓願寺",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    },
+    {
+        "code": "26102",
+        "postal_old": "602  ",
+        "postal_new": "6028227",
+        "pref_kana": "ｷｮｳﾄﾌ",
+        "address1_kana": "ｷｮｳﾄｼｶﾐｷﾞｮｳｸ",
+        "address2_kana": "ﾋﾞｼｬﾓﾝﾁｮｳ",
+        "pref": "京都府",
+        "address1": "京都市上京区",
+        "address2": "下る、黒門通元誓願寺下る西入、黒門通一条上る西入）",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

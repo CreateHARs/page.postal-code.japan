@@ -1,0 +1,53 @@
+[
+    {
+        "code": "30401",
+        "postal_old": "64922",
+        "postal_new": "6492200",
+        "pref_kana": "ﾜｶﾔﾏｹﾝ",
+        "address1_kana": "ﾆｼﾑﾛｸﾞﾝｼﾗﾊﾏﾁｮｳ",
+        "address2_kana": "ｲｶﾆｹｲｻｲｶﾞﾅｲﾊﾞｱｲ",
+        "pref": "和歌山県",
+        "address1": "西牟婁郡白浜町",
+        "address2": "以下に掲載がない場合",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    },
+    {
+        "code": "30401",
+        "postal_old": "64922",
+        "postal_new": "6492201",
+        "pref_kana": "ﾜｶﾔﾏｹﾝ",
+        "address1_kana": "ﾆｼﾑﾛｸﾞﾝｼﾗﾊﾏﾁｮｳ",
+        "address2_kana": "ｶﾀﾀ",
+        "pref": "和歌山県",
+        "address1": "西牟婁郡白浜町",
+        "address2": "堅田",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    },
+    {
+        "code": "30401",
+        "postal_old": "64922",
+        "postal_new": "6492211",
+        "pref_kana": "ﾜｶﾔﾏｹﾝ",
+        "address1_kana": "ﾆｼﾑﾛｸﾞﾝｼﾗﾊﾏﾁｮｳ",
+        "address2_kana": "ｼﾗﾊﾏﾁｮｳﾉﾂｷﾞﾆﾊﾞﾝﾁｶﾞｸﾙﾊﾞｱｲ",
+        "pref": "和歌山県",
+        "address1": "西牟婁郡白浜町",
+        "address2": "白浜町の次に番地がくる場合",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

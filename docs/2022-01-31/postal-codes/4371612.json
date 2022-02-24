@@ -1,0 +1,19 @@
+[
+    {
+        "code": "22223",
+        "postal_old": "43716",
+        "postal_new": "4371612",
+        "pref_kana": "ｼｽﾞｵｶｹﾝ",
+        "address1_kana": "ｵﾏｴｻﾞｷｼ",
+        "address2_kana": "ｲｹｼﾝﾃﾞﾝ",
+        "pref": "静岡県",
+        "address1": "御前崎市",
+        "address2": "池新田",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

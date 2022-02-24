@@ -1,0 +1,19 @@
+[
+    {
+        "code": "26203",
+        "postal_old": "623  ",
+        "postal_new": "6230013",
+        "pref_kana": "ｷｮｳﾄﾌ",
+        "address1_kana": "ｱﾔﾍﾞｼ",
+        "address2_kana": "ｱﾔﾅｶﾁｮｳ",
+        "pref": "京都府",
+        "address1": "綾部市",
+        "address2": "綾中町",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

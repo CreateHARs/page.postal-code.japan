@@ -1,0 +1,19 @@
+[
+    {
+        "code": "31201",
+        "postal_old": "680  ",
+        "postal_new": "6808021",
+        "pref_kana": "ﾄｯﾄﾘｹﾝ",
+        "address1_kana": "ﾄｯﾄﾘｼ",
+        "address2_kana": "ﾌｸﾍﾞﾁｮｳｸｼﾞﾗ(ｳｴﾉ)",
+        "pref": "鳥取県",
+        "address1": "鳥取市",
+        "address2": "福部町久志羅（上野）",
+        "is_multi_code": "1",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

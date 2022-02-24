@@ -1,0 +1,19 @@
+[
+    {
+        "code": "23105",
+        "postal_old": "450  ",
+        "postal_new": "4506030",
+        "pref_kana": "ｱｲﾁｹﾝ",
+        "address1_kana": "ﾅｺﾞﾔｼﾅｶﾑﾗｸ",
+        "address2_kana": "ﾒｲｴｷｼﾞｪｲｱｰﾙｾﾝﾄﾗﾙﾀﾜｰｽﾞ(30ｶｲ)",
+        "pref": "愛知県",
+        "address1": "名古屋市中村区",
+        "address2": "名駅ＪＲセントラルタワーズ（３０階）",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

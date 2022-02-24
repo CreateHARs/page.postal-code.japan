@@ -1,0 +1,19 @@
+[
+    {
+        "code": "05361",
+        "postal_old": "01818",
+        "postal_new": "0181853",
+        "pref_kana": "ｱｷﾀｹﾝ",
+        "address1_kana": "ﾐﾅﾐｱｷﾀｸﾞﾝｺﾞｼﾞｮｳﾒﾏﾁ",
+        "address2_kana": "ﾌﾂﾅｲﾅｶﾂﾏﾀ",
+        "pref": "秋田県",
+        "address1": "南秋田郡五城目町",
+        "address2": "富津内中津又",
+        "is_multi_code": "0",
+        "is_koaza": "1",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

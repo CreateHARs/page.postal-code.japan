@@ -1,0 +1,19 @@
+[
+    {
+        "code": "42209",
+        "postal_old": "81715",
+        "postal_new": "8171531",
+        "pref_kana": "ﾅｶﾞｻｷｹﾝ",
+        "address1_kana": "ﾂｼﾏｼ",
+        "address2_kana": "ｶﾐｱｶﾞﾀﾏﾁｺｼﾀｶ",
+        "pref": "長崎県",
+        "address1": "対馬市",
+        "address2": "上県町越高",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

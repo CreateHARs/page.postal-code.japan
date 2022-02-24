@@ -1,0 +1,19 @@
+[
+    {
+        "code": "02361",
+        "postal_old": "03838",
+        "postal_new": "0383835",
+        "pref_kana": "ｱｵﾓﾘｹﾝ",
+        "address1_kana": "ﾐﾅﾐﾂｶﾞﾙｸﾞﾝﾌｼﾞｻｷﾏﾁ",
+        "address2_kana": "ﾀﾜﾗﾏｽ",
+        "pref": "青森県",
+        "address1": "南津軽郡藤崎町",
+        "address2": "俵舛",
+        "is_multi_code": "0",
+        "is_koaza": "1",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

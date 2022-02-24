@@ -1,0 +1,19 @@
+[
+    {
+        "code": "12204",
+        "postal_old": "274  ",
+        "postal_new": "2740826",
+        "pref_kana": "ﾁﾊﾞｹﾝ",
+        "address1_kana": "ﾌﾅﾊﾞｼｼ",
+        "address2_kana": "ﾅｶﾉｷ",
+        "pref": "千葉県",
+        "address1": "船橋市",
+        "address2": "中野木",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "1",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

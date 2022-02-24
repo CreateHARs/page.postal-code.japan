@@ -1,0 +1,19 @@
+[
+    {
+        "code": "15216",
+        "postal_old": "94904",
+        "postal_new": "9490461",
+        "pref_kana": "ﾆｲｶﾞﾀｹﾝ",
+        "address1_kana": "ｲﾄｲｶﾞﾜｼ",
+        "address2_kana": "ﾆｼﾔﾏ(ｵｵﾏｴ)",
+        "pref": "新潟県",
+        "address1": "糸魚川市",
+        "address2": "西山（大前）",
+        "is_multi_code": "1",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

@@ -1,0 +1,19 @@
+[
+    {
+        "code": "26201",
+        "postal_old": "62913",
+        "postal_new": "6291315",
+        "pref_kana": "ｷｮｳﾄﾌ",
+        "address1_kana": "ﾌｸﾁﾔﾏｼ",
+        "address2_kana": "ﾔｸﾉﾁｮｳｵﾕｺﾞ",
+        "pref": "京都府",
+        "address1": "福知山市",
+        "address2": "夜久野町大油子",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

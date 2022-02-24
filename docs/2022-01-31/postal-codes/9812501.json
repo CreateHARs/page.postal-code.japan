@@ -1,0 +1,19 @@
+[
+    {
+        "code": "04341",
+        "postal_old": "98125",
+        "postal_new": "9812501",
+        "pref_kana": "ﾐﾔｷﾞｹﾝ",
+        "address1_kana": "ｲｸﾞｸﾞﾝﾏﾙﾓﾘﾏﾁ",
+        "address2_kana": "ｵｵｳﾁ",
+        "pref": "宮城県",
+        "address1": "伊具郡丸森町",
+        "address2": "大内",
+        "is_multi_code": "0",
+        "is_koaza": "1",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

@@ -1,0 +1,36 @@
+[
+    {
+        "code": "45207",
+        "postal_old": "88802",
+        "postal_new": "8880221",
+        "pref_kana": "ﾐﾔｻﾞｷｹﾝ",
+        "address1_kana": "ｸｼﾏｼ",
+        "address2_kana": "ｵｵﾉ",
+        "pref": "宮崎県",
+        "address1": "串間市",
+        "address2": "大納",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    },
+    {
+        "code": "45207",
+        "postal_old": "88802",
+        "postal_new": "8880222",
+        "pref_kana": "ﾐﾔｻﾞｷｹﾝ",
+        "address1_kana": "ｸｼﾏｼ",
+        "address2_kana": "ﾄｲ",
+        "pref": "宮崎県",
+        "address1": "串間市",
+        "address2": "都井",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

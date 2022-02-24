@@ -1,0 +1,19 @@
+[
+    {
+        "code": "12220",
+        "postal_old": "27001",
+        "postal_new": "2700139",
+        "pref_kana": "ﾁﾊﾞｹﾝ",
+        "address1_kana": "ﾅｶﾞﾚﾔﾏｼ",
+        "address2_kana": "ｵｵﾀｶﾉﾓﾘﾐﾅﾐ",
+        "pref": "千葉県",
+        "address1": "流山市",
+        "address2": "おおたかの森南",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "1",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

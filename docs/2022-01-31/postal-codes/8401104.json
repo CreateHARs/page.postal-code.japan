@@ -1,0 +1,19 @@
+[
+    {
+        "code": "41346",
+        "postal_old": "84011",
+        "postal_new": "8401104",
+        "pref_kana": "ｻｶﾞｹﾝ",
+        "address1_kana": "ﾐﾔｷｸﾞﾝﾐﾔｷﾁｮｳ",
+        "address2_kana": "ﾋｶﾞｼﾂ",
+        "pref": "佐賀県",
+        "address1": "三養基郡みやき町",
+        "address2": "東津",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

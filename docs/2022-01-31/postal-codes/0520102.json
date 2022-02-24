@@ -1,0 +1,19 @@
+[
+    {
+        "code": "01575",
+        "postal_old": "05201",
+        "postal_new": "0520102",
+        "pref_kana": "ﾎｯｶｲﾄﾞｳ",
+        "address1_kana": "ｳｽｸﾞﾝｿｳﾍﾞﾂﾁｮｳ",
+        "address2_kana": "ｼｮｳﾜｼﾝｻﾞﾝ",
+        "pref": "北海道",
+        "address1": "有珠郡壮瞥町",
+        "address2": "昭和新山",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

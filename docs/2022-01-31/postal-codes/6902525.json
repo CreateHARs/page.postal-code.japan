@@ -1,0 +1,19 @@
+[
+    {
+        "code": "32209",
+        "postal_old": "69025",
+        "postal_new": "6902525",
+        "pref_kana": "ｼﾏﾈｹﾝ",
+        "address1_kana": "ｳﾝﾅﾝｼ",
+        "address2_kana": "ﾐﾄﾔﾁｮｳｻｶﾓﾄ(ﾓﾘﾀﾞﾆ)",
+        "pref": "島根県",
+        "address1": "雲南市",
+        "address2": "三刀屋町坂本（森谷）",
+        "is_multi_code": "1",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

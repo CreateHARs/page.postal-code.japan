@@ -1,0 +1,19 @@
+[
+    {
+        "code": "23202",
+        "postal_old": "44435",
+        "postal_new": "4443513",
+        "pref_kana": "ｱｲﾁｹﾝ",
+        "address1_kana": "ｵｶｻﾞｷｼ",
+        "address2_kana": "ﾔﾏﾂﾅﾁｮｳ(ｿﾉﾀ)",
+        "pref": "愛知県",
+        "address1": "岡崎市",
+        "address2": "山綱町（その他）",
+        "is_multi_code": "1",
+        "is_koaza": "1",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

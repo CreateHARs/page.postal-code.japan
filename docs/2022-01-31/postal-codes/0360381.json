@@ -1,0 +1,19 @@
+[
+    {
+        "code": "02204",
+        "postal_old": "03603",
+        "postal_new": "0360381",
+        "pref_kana": "ｱｵﾓﾘｹﾝ",
+        "address1_kana": "ｸﾛｲｼｼ",
+        "address2_kana": "ｸﾞﾐﾉｷ",
+        "pref": "青森県",
+        "address1": "黒石市",
+        "address2": "株梗木",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

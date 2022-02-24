@@ -1,0 +1,19 @@
+[
+    {
+        "code": "20203",
+        "postal_old": "38612",
+        "postal_new": "3861214",
+        "pref_kana": "ﾅｶﾞﾉｹﾝ",
+        "address1_kana": "ｳｴﾀﾞｼ",
+        "address2_kana": "ｼﾓﾉｺﾞｳｵﾂ",
+        "pref": "長野県",
+        "address1": "上田市",
+        "address2": "下之郷乙",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

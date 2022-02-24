@@ -1,0 +1,36 @@
+[
+    {
+        "code": "28218",
+        "postal_old": "67513",
+        "postal_new": "6751378",
+        "pref_kana": "ﾋｮｳｺﾞｹﾝ",
+        "address1_kana": "ｵﾉｼ",
+        "address2_kana": "ｵｳｼﾞﾁｮｳ",
+        "pref": "兵庫県",
+        "address1": "小野市",
+        "address2": "王子町",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "1",
+        "is_updated": "0",
+        "update_reason": "0"
+    },
+    {
+        "code": "28218",
+        "postal_old": "67513",
+        "postal_new": "6751378",
+        "pref_kana": "ﾋｮｳｺﾞｹﾝ",
+        "address1_kana": "ｵﾉｼ",
+        "address2_kana": "ｶﾐｼﾝﾏﾁ",
+        "pref": "兵庫県",
+        "address1": "小野市",
+        "address2": "上新町",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "1",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

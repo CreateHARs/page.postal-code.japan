@@ -1,0 +1,19 @@
+[
+    {
+        "code": "09210",
+        "postal_old": "324  ",
+        "postal_new": "3240047",
+        "pref_kana": "ﾄﾁｷﾞｹﾝ",
+        "address1_kana": "ｵｵﾀﾜﾗｼ",
+        "address2_kana": "ﾐﾊﾗ",
+        "pref": "栃木県",
+        "address1": "大田原市",
+        "address2": "美原",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "1",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

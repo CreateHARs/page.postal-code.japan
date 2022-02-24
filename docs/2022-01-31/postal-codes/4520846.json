@@ -1,0 +1,19 @@
+[
+    {
+        "code": "23104",
+        "postal_old": "452  ",
+        "postal_new": "4520846",
+        "pref_kana": "ｱｲﾁｹﾝ",
+        "address1_kana": "ﾅｺﾞﾔｼﾆｼｸ",
+        "address2_kana": "ｳｷﾉﾁｮｳ",
+        "pref": "愛知県",
+        "address1": "名古屋市西区",
+        "address2": "浮野町",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

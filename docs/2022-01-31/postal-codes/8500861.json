@@ -1,0 +1,19 @@
+[
+    {
+        "code": "42201",
+        "postal_old": "850  ",
+        "postal_new": "8500861",
+        "pref_kana": "ﾅｶﾞｻｷｹﾝ",
+        "address1_kana": "ﾅｶﾞｻｷｼ",
+        "address2_kana": "ｴﾄﾞﾏﾁ",
+        "pref": "長崎県",
+        "address1": "長崎市",
+        "address2": "江戸町",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

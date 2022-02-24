@@ -1,0 +1,19 @@
+[
+    {
+        "code": "40109",
+        "postal_old": "80711",
+        "postal_new": "8071135",
+        "pref_kana": "ﾌｸｵｶｹﾝ",
+        "address1_kana": "ｷﾀｷｭｳｼｭｳｼﾔﾊﾀﾆｼｸ",
+        "address2_kana": "ﾊﾞﾊﾞﾔﾏﾊﾗ",
+        "pref": "福岡県",
+        "address1": "北九州市八幡西区",
+        "address2": "馬場山原",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

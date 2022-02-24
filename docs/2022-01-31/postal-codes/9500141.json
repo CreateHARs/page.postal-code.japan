@@ -1,0 +1,19 @@
+[
+    {
+        "code": "15104",
+        "postal_old": "95001",
+        "postal_new": "9500141",
+        "pref_kana": "ﾆｲｶﾞﾀｹﾝ",
+        "address1_kana": "ﾆｲｶﾞﾀｼｺｳﾅﾝｸ",
+        "address2_kana": "ｶﾒﾀﾞｺｳｷﾞｮｳﾀﾞﾝﾁ",
+        "pref": "新潟県",
+        "address1": "新潟市江南区",
+        "address2": "亀田工業団地",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "1",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

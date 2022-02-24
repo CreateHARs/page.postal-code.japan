@@ -1,0 +1,19 @@
+[
+    {
+        "code": "32505",
+        "postal_old": "69955",
+        "postal_new": "6995511",
+        "pref_kana": "ｼﾏﾈｹﾝ",
+        "address1_kana": "ｶﾉｱｼｸﾞﾝﾖｼｶﾁｮｳ",
+        "address2_kana": "ﾀﾁﾄﾞ",
+        "pref": "島根県",
+        "address1": "鹿足郡吉賀町",
+        "address2": "立戸",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

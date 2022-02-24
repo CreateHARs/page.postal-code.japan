@@ -1,0 +1,19 @@
+[
+    {
+        "code": "40131",
+        "postal_old": "81102",
+        "postal_new": "8110201",
+        "pref_kana": "ﾌｸｵｶｹﾝ",
+        "address1_kana": "ﾌｸｵｶｼﾋｶﾞｼｸ",
+        "address2_kana": "ﾐﾄﾏ",
+        "pref": "福岡県",
+        "address1": "福岡市東区",
+        "address2": "三苫",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "1",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

@@ -1,0 +1,19 @@
+[
+    {
+        "code": "28201",
+        "postal_old": "670  ",
+        "postal_new": "6700038",
+        "pref_kana": "ﾋｮｳｺﾞｹﾝ",
+        "address1_kana": "ﾋﾒｼﾞｼ",
+        "address2_kana": "ﾉｳﾆﾝﾏﾁ",
+        "pref": "兵庫県",
+        "address1": "姫路市",
+        "address2": "農人町",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

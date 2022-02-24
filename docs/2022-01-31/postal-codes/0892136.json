@@ -1,0 +1,19 @@
+[
+    {
+        "code": "01641",
+        "postal_old": "08921",
+        "postal_new": "0892136",
+        "pref_kana": "ﾎｯｶｲﾄﾞｳ",
+        "address1_kana": "ﾋﾛｵｸﾞﾝﾀｲｷﾁｮｳ",
+        "address2_kana": "ｼﾝﾄﾞｵﾘ",
+        "pref": "北海道",
+        "address1": "広尾郡大樹町",
+        "address2": "新通",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "1",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

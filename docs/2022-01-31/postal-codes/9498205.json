@@ -1,0 +1,19 @@
+[
+    {
+        "code": "15482",
+        "postal_old": "94982",
+        "postal_new": "9498205",
+        "pref_kana": "ﾆｲｶﾞﾀｹﾝ",
+        "address1_kana": "ﾅｶｳｵﾇﾏｸﾞﾝﾂﾅﾝﾏﾁ",
+        "address2_kana": "ｶﾐｺﾞｳｳｴﾀﾞｵﾂ(ｿﾉﾀ)",
+        "pref": "新潟県",
+        "address1": "中魚沼郡津南町",
+        "address2": "上郷上田乙（その他）",
+        "is_multi_code": "1",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

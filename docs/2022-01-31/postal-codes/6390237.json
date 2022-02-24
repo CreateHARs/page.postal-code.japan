@@ -1,0 +1,19 @@
+[
+    {
+        "code": "29210",
+        "postal_old": "63902",
+        "postal_new": "6390237",
+        "pref_kana": "ﾅﾗｹﾝ",
+        "address1_kana": "ｶｼﾊﾞｼ",
+        "address2_kana": "ｽﾐﾚﾉ",
+        "pref": "奈良県",
+        "address1": "香芝市",
+        "address2": "すみれ野",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "1",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

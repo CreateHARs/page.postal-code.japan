@@ -1,0 +1,19 @@
+[
+    {
+        "code": "01226",
+        "postal_old": "07301",
+        "postal_new": "0730112",
+        "pref_kana": "ﾎｯｶｲﾄﾞｳ",
+        "address1_kana": "ｽﾅｶﾞﾜｼ",
+        "address2_kana": "ﾊﾙﾐ2ｼﾞｮｳｷﾀ",
+        "pref": "北海道",
+        "address1": "砂川市",
+        "address2": "晴見二条北",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "1",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

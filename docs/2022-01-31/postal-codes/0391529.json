@@ -1,0 +1,19 @@
+[
+    {
+        "code": "02442",
+        "postal_old": "03915",
+        "postal_new": "0391529",
+        "pref_kana": "ｱｵﾓﾘｹﾝ",
+        "address1_kana": "ｻﾝﾉﾍｸﾞﾝｺﾞﾉﾍﾏﾁ",
+        "address2_kana": "ﾃｸﾞﾗﾊﾞｼ",
+        "pref": "青森県",
+        "address1": "三戸郡五戸町",
+        "address2": "手倉橋",
+        "is_multi_code": "0",
+        "is_koaza": "1",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

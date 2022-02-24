@@ -1,0 +1,19 @@
+[
+    {
+        "code": "12424",
+        "postal_old": "29942",
+        "postal_new": "2994218",
+        "pref_kana": "ﾁﾊﾞｹﾝ",
+        "address1_kana": "ﾁｮｳｾｲｸﾞﾝｼﾗｺﾏﾁ",
+        "address2_kana": "ｾｷ",
+        "pref": "千葉県",
+        "address1": "長生郡白子町",
+        "address2": "関",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

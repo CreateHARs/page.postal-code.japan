@@ -1,0 +1,19 @@
+[
+    {
+        "code": "15212",
+        "postal_old": "95934",
+        "postal_new": "9593428",
+        "pref_kana": "ﾆｲｶﾞﾀｹﾝ",
+        "address1_kana": "ﾑﾗｶﾐｼ",
+        "address2_kana": "ﾏﾂｷﾜ",
+        "pref": "新潟県",
+        "address1": "村上市",
+        "address2": "松喜和",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

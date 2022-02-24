@@ -1,0 +1,19 @@
+[
+    {
+        "code": "27322",
+        "postal_old": "56303",
+        "postal_new": "5630373",
+        "pref_kana": "ｵｵｻｶﾌ",
+        "address1_kana": "ﾄﾖﾉｸﾞﾝﾉｾﾁｮｳ",
+        "address2_kana": "ﾔﾏﾀﾞ",
+        "pref": "大阪府",
+        "address1": "豊能郡能勢町",
+        "address2": "山田",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

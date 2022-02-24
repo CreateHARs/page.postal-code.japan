@@ -1,0 +1,19 @@
+[
+    {
+        "code": "01224",
+        "postal_old": "066  ",
+        "postal_new": "0660017",
+        "pref_kana": "ﾎｯｶｲﾄﾞｳ",
+        "address1_kana": "ﾁﾄｾｼ",
+        "address2_kana": "ﾋﾉﾃﾞ",
+        "pref": "北海道",
+        "address1": "千歳市",
+        "address2": "日の出",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "1",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

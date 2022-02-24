@@ -1,0 +1,19 @@
+[
+    {
+        "code": "20362",
+        "postal_old": "39902",
+        "postal_new": "3990213",
+        "pref_kana": "ﾅｶﾞﾉｹﾝ",
+        "address1_kana": "ｽﾜｸﾞﾝﾌｼﾞﾐﾏﾁ",
+        "address2_kana": "ｵｯｺﾄ",
+        "pref": "長野県",
+        "address1": "諏訪郡富士見町",
+        "address2": "乙事",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

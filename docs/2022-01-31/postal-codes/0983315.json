@@ -1,0 +1,19 @@
+[
+    {
+        "code": "01487",
+        "postal_old": "09833",
+        "postal_new": "0983315",
+        "pref_kana": "ﾎｯｶｲﾄﾞｳ",
+        "address1_kana": "ﾃｼｵｸﾞﾝﾃｼｵﾁｮｳ",
+        "address2_kana": "ﾃｼｵ",
+        "pref": "北海道",
+        "address1": "天塩郡天塩町",
+        "address2": "天塩",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

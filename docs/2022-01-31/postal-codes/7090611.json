@@ -1,0 +1,19 @@
+[
+    {
+        "code": "33103",
+        "postal_old": "70908",
+        "postal_new": "7090611",
+        "pref_kana": "ｵｶﾔﾏｹﾝ",
+        "address1_kana": "ｵｶﾔﾏｼﾋｶﾞｼｸ",
+        "address2_kana": "ﾅﾗﾊﾞﾗ",
+        "pref": "岡山県",
+        "address1": "岡山市東区",
+        "address2": "楢原",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

@@ -1,0 +1,19 @@
+[
+    {
+        "code": "12103",
+        "postal_old": "263  ",
+        "postal_new": "2630032",
+        "pref_kana": "ﾁﾊﾞｹﾝ",
+        "address1_kana": "ﾁﾊﾞｼｲﾅｹﾞｸ",
+        "address2_kana": "ｲﾅｹﾞﾀﾞｲﾁｮｳ",
+        "pref": "千葉県",
+        "address1": "千葉市稲毛区",
+        "address2": "稲毛台町",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

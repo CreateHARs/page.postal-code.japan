@@ -1,0 +1,19 @@
+[
+    {
+        "code": "39210",
+        "postal_old": "78701",
+        "postal_new": "7870151",
+        "pref_kana": "ｺｳﾁｹﾝ",
+        "address1_kana": "ｼﾏﾝﾄｼ",
+        "address2_kana": "ﾀｹｼﾏ",
+        "pref": "高知県",
+        "address1": "四万十市",
+        "address2": "竹島",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

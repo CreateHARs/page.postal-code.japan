@@ -1,0 +1,19 @@
+[
+    {
+        "code": "17202",
+        "postal_old": "92922",
+        "postal_new": "9292231",
+        "pref_kana": "ｲｼｶﾜｹﾝ",
+        "address1_kana": "ﾅﾅｵｼ",
+        "address2_kana": "ﾅｶｼﾞﾏﾏﾁｵｸﾖｼﾀ",
+        "pref": "石川県",
+        "address1": "七尾市",
+        "address2": "中島町奥吉田",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

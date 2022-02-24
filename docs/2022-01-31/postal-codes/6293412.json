@@ -1,0 +1,53 @@
+[
+    {
+        "code": "26212",
+        "postal_old": "62934",
+        "postal_new": "6293412",
+        "pref_kana": "ｷｮｳﾄﾌ",
+        "address1_kana": "ｷｮｳﾀﾝｺﾞｼ",
+        "address2_kana": "ｸﾐﾊﾏﾁｮｳｵｸﾐﾀﾆ",
+        "pref": "京都府",
+        "address1": "京丹後市",
+        "address2": "久美浜町奥三谷",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "1",
+        "is_updated": "0",
+        "update_reason": "0"
+    },
+    {
+        "code": "26212",
+        "postal_old": "62934",
+        "postal_new": "6293412",
+        "pref_kana": "ｷｮｳﾄﾌ",
+        "address1_kana": "ｷｮｳﾀﾝｺﾞｼ",
+        "address2_kana": "ｸﾐﾊﾏﾁｮｳｸﾁﾐﾀﾆ",
+        "pref": "京都府",
+        "address1": "京丹後市",
+        "address2": "久美浜町口三谷",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "1",
+        "is_updated": "0",
+        "update_reason": "0"
+    },
+    {
+        "code": "26212",
+        "postal_old": "62934",
+        "postal_new": "6293412",
+        "pref_kana": "ｷｮｳﾄﾌ",
+        "address1_kana": "ｷｮｳﾀﾝｺﾞｼ",
+        "address2_kana": "ｸﾐﾊﾏﾁｮｳﾐﾀﾆ",
+        "pref": "京都府",
+        "address1": "京丹後市",
+        "address2": "久美浜町三谷",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "1",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

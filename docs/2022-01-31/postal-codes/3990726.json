@@ -1,0 +1,19 @@
+[
+    {
+        "code": "20215",
+        "postal_old": "39907",
+        "postal_new": "3990726",
+        "pref_kana": "ﾅｶﾞﾉｹﾝ",
+        "address1_kana": "ｼｵｼﾞﾘｼ",
+        "address2_kana": "ｼﾓﾆｼｼﾞｮｳ",
+        "pref": "長野県",
+        "address1": "塩尻市",
+        "address2": "下西条",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

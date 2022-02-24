@@ -1,0 +1,19 @@
+[
+    {
+        "code": "38201",
+        "postal_old": "791  ",
+        "postal_new": "7918062",
+        "pref_kana": "ｴﾋﾒｹﾝ",
+        "address1_kana": "ﾏﾂﾔﾏｼ",
+        "address2_kana": "ｽﾐﾖｼ",
+        "pref": "愛媛県",
+        "address1": "松山市",
+        "address2": "住吉",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "1",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

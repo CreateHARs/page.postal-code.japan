@@ -1,0 +1,53 @@
+[
+    {
+        "code": "43215",
+        "postal_old": "86314",
+        "postal_new": "8631403",
+        "pref_kana": "ｸﾏﾓﾄｹﾝ",
+        "address1_kana": "ｱﾏｸｻｼ",
+        "address2_kana": "ｶﾜｳﾗﾏﾁｲﾏﾄﾐ(1933､1939､1945､1955-4､1960､",
+        "pref": "熊本県",
+        "address1": "天草市",
+        "address2": "河浦町今富（１９３３、１９３９、１９４５、１９５５−４、１９６０、",
+        "is_multi_code": "1",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    },
+    {
+        "code": "43215",
+        "postal_old": "86314",
+        "postal_new": "8631403",
+        "pref_kana": "ｸﾏﾓﾄｹﾝ",
+        "address1_kana": "ｱﾏｸｻｼ",
+        "address2_kana": "1970､1974､1976､1983､1988-3､1990-5､",
+        "pref": "熊本県",
+        "address1": "天草市",
+        "address2": "１９７０、１９７４、１９７６、１９８３、１９８８−３、１９９０−５、",
+        "is_multi_code": "1",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    },
+    {
+        "code": "43215",
+        "postal_old": "86314",
+        "postal_new": "8631403",
+        "pref_kana": "ｸﾏﾓﾄｹﾝ",
+        "address1_kana": "ｱﾏｸｻｼ",
+        "address2_kana": "2003､2051)",
+        "pref": "熊本県",
+        "address1": "天草市",
+        "address2": "２００３、２０５１）",
+        "is_multi_code": "1",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

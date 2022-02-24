@@ -1,0 +1,19 @@
+[
+    {
+        "code": "10202",
+        "postal_old": "37031",
+        "postal_new": "3703116",
+        "pref_kana": "ｸﾞﾝﾏｹﾝ",
+        "address1_kana": "ﾀｶｻｷｼ",
+        "address2_kana": "ﾐｻﾄﾏﾁﾜﾀﾞﾔﾏ",
+        "pref": "群馬県",
+        "address1": "高崎市",
+        "address2": "箕郷町和田山",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

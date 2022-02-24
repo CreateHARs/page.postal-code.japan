@@ -1,0 +1,19 @@
+[
+    {
+        "code": "15107",
+        "postal_old": "95021",
+        "postal_new": "9502133",
+        "pref_kana": "ﾆｲｶﾞﾀｹﾝ",
+        "address1_kana": "ﾆｲｶﾞﾀｼﾆｼｸ",
+        "address2_kana": "ﾏｴﾉｿﾄｼﾝﾃﾞﾝ",
+        "pref": "新潟県",
+        "address1": "新潟市西区",
+        "address2": "前野外新田",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

@@ -1,0 +1,19 @@
+[
+    {
+        "code": "23222",
+        "postal_old": "477  ",
+        "postal_new": "4770036",
+        "pref_kana": "ｱｲﾁｹﾝ",
+        "address1_kana": "ﾄｳｶｲｼ",
+        "address2_kana": "ﾖｺｽｶﾏﾁ",
+        "pref": "愛知県",
+        "address1": "東海市",
+        "address2": "横須賀町",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

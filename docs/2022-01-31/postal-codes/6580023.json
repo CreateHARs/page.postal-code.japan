@@ -1,0 +1,19 @@
+[
+    {
+        "code": "28101",
+        "postal_old": "658  ",
+        "postal_new": "6580023",
+        "pref_kana": "ﾋｮｳｺﾞｹﾝ",
+        "address1_kana": "ｺｳﾍﾞｼﾋｶﾞｼﾅﾀﾞｸ",
+        "address2_kana": "ﾌｶｴﾊﾏﾏﾁ",
+        "pref": "兵庫県",
+        "address1": "神戸市東灘区",
+        "address2": "深江浜町",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

@@ -1,0 +1,19 @@
+[
+    {
+        "code": "29345",
+        "postal_old": "63911",
+        "postal_new": "6391062",
+        "pref_kana": "ﾅﾗｹﾝ",
+        "address1_kana": "ｲｺﾏｸﾞﾝｱﾝﾄﾞﾁｮｳ",
+        "address2_kana": "ｵｶｻｷ",
+        "pref": "奈良県",
+        "address1": "生駒郡安堵町",
+        "address2": "岡崎",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

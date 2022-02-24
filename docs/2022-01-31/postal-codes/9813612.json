@@ -1,0 +1,19 @@
+[
+    {
+        "code": "04424",
+        "postal_old": "98136",
+        "postal_new": "9813612",
+        "pref_kana": "ﾐﾔｷﾞｹﾝ",
+        "address1_kana": "ｸﾛｶﾜｸﾞﾝｵｵﾋﾗﾑﾗ",
+        "address2_kana": "ﾄｷﾜﾀﾞｲﾐﾅﾐ",
+        "pref": "宮城県",
+        "address1": "黒川郡大衡村",
+        "address2": "ときわ台南",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

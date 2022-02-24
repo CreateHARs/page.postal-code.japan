@@ -1,0 +1,19 @@
+[
+    {
+        "code": "21212",
+        "postal_old": "50951",
+        "postal_new": "5095115",
+        "pref_kana": "ｷﾞﾌｹﾝ",
+        "address1_kana": "ﾄｷｼ",
+        "address2_kana": "ﾋﾀﾞﾁｮｳﾋﾀﾞ(ｿﾉﾀ)",
+        "pref": "岐阜県",
+        "address1": "土岐市",
+        "address2": "肥田町肥田（その他）",
+        "is_multi_code": "1",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

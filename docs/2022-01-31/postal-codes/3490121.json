@@ -1,0 +1,19 @@
+[
+    {
+        "code": "11238",
+        "postal_old": "34901",
+        "postal_new": "3490121",
+        "pref_kana": "ｻｲﾀﾏｹﾝ",
+        "address1_kana": "ﾊｽﾀﾞｼ",
+        "address2_kana": "ｾｷﾔﾏ",
+        "pref": "埼玉県",
+        "address1": "蓮田市",
+        "address2": "関山",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "1",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

@@ -1,0 +1,19 @@
+[
+    {
+        "code": "01643",
+        "postal_old": "08905",
+        "postal_new": "0890546",
+        "pref_kana": "ﾎｯｶｲﾄﾞｳ",
+        "address1_kana": "ﾅｶｶﾞﾜｸﾞﾝﾏｸﾍﾞﾂﾁｮｳ",
+        "address2_kana": "ｻﾂﾅｲﾂﾂﾐﾏﾁ",
+        "pref": "北海道",
+        "address1": "中川郡幕別町",
+        "address2": "札内堤町",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

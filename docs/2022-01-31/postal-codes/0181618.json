@@ -1,0 +1,19 @@
+[
+    {
+        "code": "05363",
+        "postal_old": "01816",
+        "postal_new": "0181618",
+        "pref_kana": "ｱｷﾀｹﾝ",
+        "address1_kana": "ﾐﾅﾐｱｷﾀｸﾞﾝﾊﾁﾛｳｶﾞﾀﾏﾁ",
+        "address2_kana": "ｶﾜｸﾞﾁ",
+        "pref": "秋田県",
+        "address1": "南秋田郡八郎潟町",
+        "address2": "川口",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

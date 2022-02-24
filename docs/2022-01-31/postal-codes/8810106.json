@@ -1,0 +1,19 @@
+[
+    {
+        "code": "45208",
+        "postal_old": "88101",
+        "postal_new": "8810106",
+        "pref_kana": "ﾐﾔｻﾞｷｹﾝ",
+        "address1_kana": "ｻｲﾄｼ",
+        "address2_kana": "ｲﾜﾂﾞﾒ",
+        "pref": "宮崎県",
+        "address1": "西都市",
+        "address2": "岩爪",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

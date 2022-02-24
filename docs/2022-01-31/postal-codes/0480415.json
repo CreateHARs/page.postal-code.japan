@@ -1,0 +1,19 @@
+[
+    {
+        "code": "01392",
+        "postal_old": "04804",
+        "postal_new": "0480415",
+        "pref_kana": "ﾎｯｶｲﾄﾞｳ",
+        "address1_kana": "ｽｯﾂｸﾞﾝｽｯﾂﾁｮｳ",
+        "address2_kana": "ｳﾀｽﾂﾁｮｳ",
+        "pref": "北海道",
+        "address1": "寿都郡寿都町",
+        "address2": "歌棄町",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

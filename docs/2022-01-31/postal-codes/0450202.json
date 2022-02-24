@@ -1,0 +1,19 @@
+[
+    {
+        "code": "01403",
+        "postal_old": "04502",
+        "postal_new": "0450202",
+        "pref_kana": "ﾎｯｶｲﾄﾞｳ",
+        "address1_kana": "ﾌﾙｳｸﾞﾝﾄﾏﾘﾑﾗ",
+        "address2_kana": "ｶﾔﾇﾏﾑﾗ",
+        "pref": "北海道",
+        "address1": "古宇郡泊村",
+        "address2": "茅沼村",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

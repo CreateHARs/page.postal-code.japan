@@ -1,0 +1,19 @@
+[
+    {
+        "code": "13106",
+        "postal_old": "111  ",
+        "postal_new": "1110042",
+        "pref_kana": "ﾄｳｷｮｳﾄ",
+        "address1_kana": "ﾀｲﾄｳｸ",
+        "address2_kana": "ｺﾄﾌﾞｷ",
+        "pref": "東京都",
+        "address1": "台東区",
+        "address2": "寿",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "1",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

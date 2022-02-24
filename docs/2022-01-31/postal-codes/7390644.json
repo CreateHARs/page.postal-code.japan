@@ -1,0 +1,19 @@
+[
+    {
+        "code": "34211",
+        "postal_old": "73906",
+        "postal_new": "7390644",
+        "pref_kana": "ﾋﾛｼﾏｹﾝ",
+        "address1_kana": "ｵｵﾀｹｼ",
+        "address2_kana": "ｸﾘﾀﾆﾁｮｳｳｼﾛﾊﾞﾗ",
+        "pref": "広島県",
+        "address1": "大竹市",
+        "address2": "栗谷町後原",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

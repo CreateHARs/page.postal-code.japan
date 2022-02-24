@@ -1,0 +1,19 @@
+[
+    {
+        "code": "40220",
+        "postal_old": "81141",
+        "postal_new": "8114171",
+        "pref_kana": "ﾌｸｵｶｹﾝ",
+        "address1_kana": "ﾑﾅｶﾀｼ",
+        "address2_kana": "ﾊﾔﾏ",
+        "pref": "福岡県",
+        "address1": "宗像市",
+        "address2": "葉山",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "1",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

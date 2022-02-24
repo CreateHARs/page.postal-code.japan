@@ -1,0 +1,19 @@
+[
+    {
+        "code": "11209",
+        "postal_old": "357  ",
+        "postal_new": "3570015",
+        "pref_kana": "ｻｲﾀﾏｹﾝ",
+        "address1_kana": "ﾊﾝﾉｳｼ",
+        "address2_kana": "ｺｸﾎﾞ",
+        "pref": "埼玉県",
+        "address1": "飯能市",
+        "address2": "小久保",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

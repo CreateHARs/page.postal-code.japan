@@ -1,0 +1,19 @@
+[
+    {
+        "code": "36468",
+        "postal_old": "77941",
+        "postal_new": "7794101",
+        "pref_kana": "ﾄｸｼﾏｹﾝ",
+        "address1_kana": "ﾐﾏｸﾞﾝﾂﾙｷﾞﾁｮｳ",
+        "address2_kana": "ｻﾀﾞﾐﾂ(ｳﾏﾀﾞｼ､ｵｵｽｶ､ﾅｶｽｶ､ﾆｼｳﾗ､ﾋｶﾞｼｳﾗ､ﾏﾁ､ﾐﾔｼﾀ)",
+        "pref": "徳島県",
+        "address1": "美馬郡つるぎ町",
+        "address2": "貞光（馬出、大須賀、中須賀、西浦、東浦、町、宮下）",
+        "is_multi_code": "1",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

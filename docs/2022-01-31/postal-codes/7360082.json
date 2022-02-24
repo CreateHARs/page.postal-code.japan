@@ -1,0 +1,19 @@
+[
+    {
+        "code": "34107",
+        "postal_old": "736  ",
+        "postal_new": "7360082",
+        "pref_kana": "ﾋﾛｼﾏｹﾝ",
+        "address1_kana": "ﾋﾛｼﾏｼｱｷｸ",
+        "address2_kana": "ﾌﾅｺｼﾐﾅﾐ",
+        "pref": "広島県",
+        "address1": "広島市安芸区",
+        "address2": "船越南",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "1",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

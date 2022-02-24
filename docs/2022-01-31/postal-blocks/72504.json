@@ -1,0 +1,53 @@
+[
+    {
+        "code": "34431",
+        "postal_old": "72504",
+        "postal_new": "7250401",
+        "pref_kana": "ﾋﾛｼﾏｹﾝ",
+        "address1_kana": "ﾄﾖﾀｸﾞﾝｵｵｻｷｶﾐｼﾞﾏﾁｮｳ",
+        "address2_kana": "ｷﾉｴ",
+        "pref": "広島県",
+        "address1": "豊田郡大崎上島町",
+        "address2": "木江",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    },
+    {
+        "code": "34431",
+        "postal_old": "72504",
+        "postal_new": "7250402",
+        "pref_kana": "ﾋﾛｼﾏｹﾝ",
+        "address1_kana": "ﾄﾖﾀｸﾞﾝｵｵｻｷｶﾐｼﾞﾏﾁｮｳ",
+        "address2_kana": "ｵｷｳﾗ",
+        "pref": "広島県",
+        "address1": "豊田郡大崎上島町",
+        "address2": "沖浦",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    },
+    {
+        "code": "34431",
+        "postal_old": "72504",
+        "postal_new": "7250403",
+        "pref_kana": "ﾋﾛｼﾏｹﾝ",
+        "address1_kana": "ﾄﾖﾀｸﾞﾝｵｵｻｷｶﾐｼﾞﾏﾁｮｳ",
+        "address2_kana": "ｱｶｼ",
+        "pref": "広島県",
+        "address1": "豊田郡大崎上島町",
+        "address2": "明石",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

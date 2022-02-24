@@ -1,0 +1,19 @@
+[
+    {
+        "code": "01457",
+        "postal_old": "07817",
+        "postal_new": "0781731",
+        "pref_kana": "ﾎｯｶｲﾄﾞｳ",
+        "address1_kana": "ｶﾐｶﾜｸﾞﾝｶﾐｶﾜﾁｮｳ",
+        "address2_kana": "ﾄｳｳﾝ",
+        "pref": "北海道",
+        "address1": "上川郡上川町",
+        "address2": "東雲",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

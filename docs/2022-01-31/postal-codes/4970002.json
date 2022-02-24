@@ -1,0 +1,19 @@
+[
+    {
+        "code": "23237",
+        "postal_old": "497  ",
+        "postal_new": "4970002",
+        "pref_kana": "ｱｲﾁｹﾝ",
+        "address1_kana": "ｱﾏｼ",
+        "address2_kana": "ｼｯﾎﾟｳﾁｮｳﾄｵｼﾏ",
+        "pref": "愛知県",
+        "address1": "あま市",
+        "address2": "七宝町遠島",
+        "is_multi_code": "0",
+        "is_koaza": "1",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

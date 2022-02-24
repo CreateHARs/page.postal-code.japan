@@ -1,0 +1,19 @@
+[
+    {
+        "code": "37403",
+        "postal_old": "766  ",
+        "postal_new": "7660005",
+        "pref_kana": "ｶｶﾞﾜｹﾝ",
+        "address1_kana": "ﾅｶﾀﾄﾞｸﾞﾝｺﾄﾋﾗﾁｮｳ",
+        "address2_kana": "ﾉｳﾀﾞ",
+        "pref": "香川県",
+        "address1": "仲多度郡琴平町",
+        "address2": "苗田",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

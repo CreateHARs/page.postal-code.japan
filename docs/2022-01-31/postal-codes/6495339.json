@@ -1,0 +1,19 @@
+[
+    {
+        "code": "30421",
+        "postal_old": "64951",
+        "postal_new": "6495339",
+        "pref_kana": "ﾜｶﾔﾏｹﾝ",
+        "address1_kana": "ﾋｶﾞｼﾑﾛｸﾞﾝﾅﾁｶﾂｳﾗﾁｮｳ",
+        "address2_kana": "ｲﾁﾔ(ｵｵｳﾗ､1054-9)",
+        "pref": "和歌山県",
+        "address1": "東牟婁郡那智勝浦町",
+        "address2": "市屋（大浦、１０５４−９）",
+        "is_multi_code": "1",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

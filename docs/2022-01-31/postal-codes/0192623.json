@@ -1,0 +1,19 @@
+[
+    {
+        "code": "05201",
+        "postal_old": "01926",
+        "postal_new": "0192623",
+        "pref_kana": "ｱｷﾀｹﾝ",
+        "address1_kana": "ｱｷﾀｼ",
+        "address2_kana": "ｶﾜﾍﾞｱｶﾋﾗ",
+        "pref": "秋田県",
+        "address1": "秋田市",
+        "address2": "河辺赤平",
+        "is_multi_code": "0",
+        "is_koaza": "1",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

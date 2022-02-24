@@ -1,0 +1,19 @@
+[
+    {
+        "code": "37404",
+        "postal_old": "764  ",
+        "postal_new": "7640028",
+        "pref_kana": "ｶｶﾞﾜｹﾝ",
+        "address1_kana": "ﾅｶﾀﾄﾞｸﾞﾝﾀﾄﾞﾂﾁｮｳ",
+        "address2_kana": "ｶｽﾞﾊﾗ",
+        "pref": "香川県",
+        "address1": "仲多度郡多度津町",
+        "address2": "葛原",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

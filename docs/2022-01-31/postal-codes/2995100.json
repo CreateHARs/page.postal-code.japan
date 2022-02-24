@@ -1,0 +1,19 @@
+[
+    {
+        "code": "12443",
+        "postal_old": "29951",
+        "postal_new": "2995100",
+        "pref_kana": "ﾁﾊﾞｹﾝ",
+        "address1_kana": "ｲｽﾐｸﾞﾝｵﾝｼﾞｭｸﾏﾁ",
+        "address2_kana": "ｲｶﾆｹｲｻｲｶﾞﾅｲﾊﾞｱｲ",
+        "pref": "千葉県",
+        "address1": "夷隅郡御宿町",
+        "address2": "以下に掲載がない場合",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

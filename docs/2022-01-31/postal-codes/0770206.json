@@ -1,0 +1,19 @@
+[
+    {
+        "code": "01481",
+        "postal_old": "07702",
+        "postal_new": "0770206",
+        "pref_kana": "ﾎｯｶｲﾄﾞｳ",
+        "address1_kana": "ﾏｼｹｸﾞﾝﾏｼｹﾁｮｳ",
+        "address2_kana": "ﾅｶｳﾀ",
+        "pref": "北海道",
+        "address1": "増毛郡増毛町",
+        "address2": "中歌",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

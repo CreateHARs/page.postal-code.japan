@@ -1,0 +1,53 @@
+[
+    {
+        "code": "03209",
+        "postal_old": "02902",
+        "postal_new": "0290201",
+        "pref_kana": "ｲﾜﾃｹﾝ",
+        "address1_kana": "ｲﾁﾉｾｷｼ",
+        "address2_kana": "ｶﾜｻｷﾁｮｳｶﾝｻﾞｷ",
+        "pref": "岩手県",
+        "address1": "一関市",
+        "address2": "川崎町門崎",
+        "is_multi_code": "0",
+        "is_koaza": "1",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    },
+    {
+        "code": "03209",
+        "postal_old": "02902",
+        "postal_new": "0290202",
+        "pref_kana": "ｲﾜﾃｹﾝ",
+        "address1_kana": "ｲﾁﾉｾｷｼ",
+        "address2_kana": "ｶﾜｻｷﾁｮｳｳｽｷﾞﾇ",
+        "pref": "岩手県",
+        "address1": "一関市",
+        "address2": "川崎町薄衣",
+        "is_multi_code": "0",
+        "is_koaza": "1",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    },
+    {
+        "code": "03209",
+        "postal_old": "02902",
+        "postal_new": "0290211",
+        "pref_kana": "ｲﾜﾃｹﾝ",
+        "address1_kana": "ｲﾁﾉｾｷｼ",
+        "address2_kana": "ﾔｻｶｴ",
+        "pref": "岩手県",
+        "address1": "一関市",
+        "address2": "弥栄",
+        "is_multi_code": "0",
+        "is_koaza": "1",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

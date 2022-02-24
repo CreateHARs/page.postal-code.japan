@@ -1,0 +1,19 @@
+[
+    {
+        "code": "31202",
+        "postal_old": "683  ",
+        "postal_new": "6830008",
+        "pref_kana": "ﾄｯﾄﾘｹﾝ",
+        "address1_kana": "ﾖﾅｺﾞｼ",
+        "address2_kana": "ｸｽﾞﾓﾐﾅﾐ",
+        "pref": "鳥取県",
+        "address1": "米子市",
+        "address2": "車尾南",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "1",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

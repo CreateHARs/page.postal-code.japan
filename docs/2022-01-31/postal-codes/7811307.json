@@ -1,0 +1,19 @@
+[
+    {
+        "code": "39403",
+        "postal_old": "78113",
+        "postal_new": "7811307",
+        "pref_kana": "ｺｳﾁｹﾝ",
+        "address1_kana": "ﾀｶｵｶｸﾞﾝｵﾁﾁｮｳ",
+        "address2_kana": "ｼﾎﾞｵ",
+        "pref": "高知県",
+        "address1": "高岡郡越知町",
+        "address2": "柴尾",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

@@ -1,0 +1,19 @@
+[
+    {
+        "code": "21218",
+        "postal_old": "50115",
+        "postal_new": "5011503",
+        "pref_kana": "ｷﾞﾌｹﾝ",
+        "address1_kana": "ﾓﾄｽｼ",
+        "address2_kana": "ﾈｵﾅｶﾞﾐﾈ",
+        "pref": "岐阜県",
+        "address1": "本巣市",
+        "address2": "根尾長嶺",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

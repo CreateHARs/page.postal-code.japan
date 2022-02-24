@@ -1,0 +1,19 @@
+[
+    {
+        "code": "01204",
+        "postal_old": "07111",
+        "postal_new": "0711173",
+        "pref_kana": "ﾎｯｶｲﾄﾞｳ",
+        "address1_kana": "ｱｻﾋｶﾜｼ",
+        "address2_kana": "ｴﾀﾝﾍﾞﾂﾁｮｳﾁｭｳｵｳ",
+        "pref": "北海道",
+        "address1": "旭川市",
+        "address2": "江丹別町中央",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

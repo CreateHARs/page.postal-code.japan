@@ -1,0 +1,19 @@
+[
+    {
+        "code": "21211",
+        "postal_old": "505  ",
+        "postal_new": "5050036",
+        "pref_kana": "ｷﾞﾌｹﾝ",
+        "address1_kana": "ﾐﾉｶﾓｼ",
+        "address2_kana": "ﾔﾏﾃﾁｮｳ",
+        "pref": "岐阜県",
+        "address1": "美濃加茂市",
+        "address2": "山手町",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "1",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

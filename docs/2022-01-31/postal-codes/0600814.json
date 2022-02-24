@@ -1,0 +1,19 @@
+[
+    {
+        "code": "01102",
+        "postal_old": "060  ",
+        "postal_new": "0600814",
+        "pref_kana": "ﾎｯｶｲﾄﾞｳ",
+        "address1_kana": "ｻｯﾎﾟﾛｼｷﾀｸ",
+        "address2_kana": "ｷﾀ14ｼﾞｮｳﾆｼ(5-13ﾁｮｳﾒ)",
+        "pref": "北海道",
+        "address1": "札幌市北区",
+        "address2": "北十四条西（５〜１３丁目）",
+        "is_multi_code": "1",
+        "is_koaza": "0",
+        "is_choume": "1",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

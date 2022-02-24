@@ -1,0 +1,19 @@
+[
+    {
+        "code": "01635",
+        "postal_old": "081  ",
+        "postal_new": "0810035",
+        "pref_kana": "ﾎｯｶｲﾄﾞｳ",
+        "address1_kana": "ｶﾐｶﾜｸﾞﾝｼﾝﾄｸﾁｮｳ",
+        "address2_kana": "ｶﾐｻﾎﾛ",
+        "pref": "北海道",
+        "address1": "上川郡新得町",
+        "address2": "上佐幌",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

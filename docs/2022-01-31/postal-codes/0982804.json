@@ -1,0 +1,19 @@
+[
+    {
+        "code": "01471",
+        "postal_old": "09828",
+        "postal_new": "0982804",
+        "pref_kana": "ﾎｯｶｲﾄﾞｳ",
+        "address1_kana": "ﾅｶｶﾞﾜｸﾞﾝﾅｶｶﾞﾜﾁｮｳ",
+        "address2_kana": "ｵｵﾄﾐ",
+        "pref": "北海道",
+        "address1": "中川郡中川町",
+        "address2": "大富",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

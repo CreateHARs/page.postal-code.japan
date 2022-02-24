@@ -1,0 +1,53 @@
+[
+    {
+        "code": "42212",
+        "postal_old": "85731",
+        "postal_new": "8573101",
+        "pref_kana": "ﾅｶﾞｻｷｹﾝ",
+        "address1_kana": "ｻｲｶｲｼ",
+        "address2_kana": "ｻｷﾄﾁｮｳｶｷﾉｳﾗｺﾞｳ",
+        "pref": "長崎県",
+        "address1": "西海市",
+        "address2": "崎戸町蠣浦郷",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    },
+    {
+        "code": "42212",
+        "postal_old": "85731",
+        "postal_new": "8573102",
+        "pref_kana": "ﾅｶﾞｻｷｹﾝ",
+        "address1_kana": "ｻｲｶｲｼ",
+        "address2_kana": "ｻｷﾄﾁｮｳﾎﾝｺﾞｳ",
+        "pref": "長崎県",
+        "address1": "西海市",
+        "address2": "崎戸町本郷",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    },
+    {
+        "code": "42212",
+        "postal_old": "85731",
+        "postal_new": "8573103",
+        "pref_kana": "ﾅｶﾞｻｷｹﾝ",
+        "address1_kana": "ｻｲｶｲｼ",
+        "address2_kana": "ｻｷﾄﾁｮｳｴﾉｼﾏ",
+        "pref": "長崎県",
+        "address1": "西海市",
+        "address2": "崎戸町江島",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

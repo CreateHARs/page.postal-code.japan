@@ -1,0 +1,19 @@
+[
+    {
+        "code": "29362",
+        "postal_old": "63603",
+        "postal_new": "6360211",
+        "pref_kana": "ﾅﾗｹﾝ",
+        "address1_kana": "ｼｷｸﾞﾝﾐﾔｹﾁｮｳ",
+        "address2_kana": "ﾐｶﾜ",
+        "pref": "奈良県",
+        "address1": "磯城郡三宅町",
+        "address2": "三河",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

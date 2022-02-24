@@ -1,0 +1,19 @@
+[
+    {
+        "code": "14321",
+        "postal_old": "25301",
+        "postal_new": "2530112",
+        "pref_kana": "ｶﾅｶﾞﾜｹﾝ",
+        "address1_kana": "ｺｳｻﾞｸﾞﾝｻﾑｶﾜﾏﾁ",
+        "address2_kana": "ﾅｶｾﾞ",
+        "pref": "神奈川県",
+        "address1": "高座郡寒川町",
+        "address2": "中瀬",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

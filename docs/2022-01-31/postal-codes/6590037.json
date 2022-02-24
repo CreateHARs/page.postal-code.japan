@@ -1,0 +1,19 @@
+[
+    {
+        "code": "28206",
+        "postal_old": "659  ",
+        "postal_new": "6590037",
+        "pref_kana": "ﾋｮｳｺﾞｹﾝ",
+        "address1_kana": "ｱｼﾔｼ",
+        "address2_kana": "ﾐﾅﾐﾊﾏﾁｮｳ",
+        "pref": "兵庫県",
+        "address1": "芦屋市",
+        "address2": "南浜町",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

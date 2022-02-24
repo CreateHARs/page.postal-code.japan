@@ -1,0 +1,19 @@
+[
+    {
+        "code": "20423",
+        "postal_old": "39953",
+        "postal_new": "3995303",
+        "pref_kana": "ﾅｶﾞﾉｹﾝ",
+        "address1_kana": "ｷｿｸﾞﾝﾅｷﾞｿﾏﾁ",
+        "address2_kana": "ﾀﾀﾞﾁ",
+        "pref": "長野県",
+        "address1": "木曽郡南木曽町",
+        "address2": "田立",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

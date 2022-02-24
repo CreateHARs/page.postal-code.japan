@@ -1,0 +1,19 @@
+[
+    {
+        "code": "34203",
+        "postal_old": "72923",
+        "postal_new": "7292315",
+        "pref_kana": "ﾋﾛｼﾏｹﾝ",
+        "address1_kana": "ﾀｹﾊﾗｼ",
+        "address2_kana": "ﾀﾀﾞﾉｳﾐﾅｶﾞﾊﾏ",
+        "pref": "広島県",
+        "address1": "竹原市",
+        "address2": "忠海長浜",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "1",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

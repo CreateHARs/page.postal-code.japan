@@ -1,0 +1,19 @@
+[
+    {
+        "code": "01550",
+        "postal_old": "09911",
+        "postal_new": "0991138",
+        "pref_kana": "ﾎｯｶｲﾄﾞｳ",
+        "address1_kana": "ﾄｺﾛｸﾞﾝｵｹﾄﾁｮｳ",
+        "address2_kana": "ﾅｶｻﾄ",
+        "pref": "北海道",
+        "address1": "常呂郡置戸町",
+        "address2": "中里",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

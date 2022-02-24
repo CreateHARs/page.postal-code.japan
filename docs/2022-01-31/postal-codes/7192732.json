@@ -1,0 +1,19 @@
+[
+    {
+        "code": "33210",
+        "postal_old": "71927",
+        "postal_new": "7192732",
+        "pref_kana": "ｵｶﾔﾏｹﾝ",
+        "address1_kana": "ﾆｲﾐｼ",
+        "address2_kana": "ｸｻﾏ(ｼﾓﾕｶﾜ､ﾖｺﾊﾀ)",
+        "pref": "岡山県",
+        "address1": "新見市",
+        "address2": "草間（下湯川、横畑）",
+        "is_multi_code": "1",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

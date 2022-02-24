@@ -1,0 +1,19 @@
+[
+    {
+        "code": "17201",
+        "postal_old": "920  ",
+        "postal_new": "9200017",
+        "pref_kana": "ｲｼｶﾜｹﾝ",
+        "address1_kana": "ｶﾅｻﾞﾜｼ",
+        "address2_kana": "ﾓﾛｴﾏﾁ(ｼﾓﾁｮｳ)",
+        "pref": "石川県",
+        "address1": "金沢市",
+        "address2": "諸江町（下丁）",
+        "is_multi_code": "1",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

@@ -1,0 +1,19 @@
+[
+    {
+        "code": "39210",
+        "postal_old": "78712",
+        "postal_new": "7871224",
+        "pref_kana": "ｺｳﾁｹﾝ",
+        "address1_kana": "ｼﾏﾝﾄｼ",
+        "address2_kana": "ｶﾂﾏ(ｿﾉﾀ)",
+        "pref": "高知県",
+        "address1": "四万十市",
+        "address2": "勝間（その他）",
+        "is_multi_code": "1",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

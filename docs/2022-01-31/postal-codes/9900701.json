@@ -1,0 +1,19 @@
+[
+    {
+        "code": "06322",
+        "postal_old": "99007",
+        "postal_new": "9900701",
+        "pref_kana": "ﾔﾏｶﾞﾀｹﾝ",
+        "address1_kana": "ﾆｼﾑﾗﾔﾏｸﾞﾝﾆｼｶﾜﾏﾁ",
+        "address2_kana": "ﾑﾂｱｲ",
+        "pref": "山形県",
+        "address1": "西村山郡西川町",
+        "address2": "睦合",
+        "is_multi_code": "0",
+        "is_koaza": "1",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

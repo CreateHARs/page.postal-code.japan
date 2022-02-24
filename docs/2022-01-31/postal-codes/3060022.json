@@ -1,0 +1,19 @@
+[
+    {
+        "code": "08204",
+        "postal_old": "306  ",
+        "postal_new": "3060022",
+        "pref_kana": "ｲﾊﾞﾗｷｹﾝ",
+        "address1_kana": "ｺｶﾞｼ",
+        "address2_kana": "ﾖｺﾔﾏﾁｮｳ",
+        "pref": "茨城県",
+        "address1": "古河市",
+        "address2": "横山町",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "1",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

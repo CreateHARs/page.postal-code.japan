@@ -1,0 +1,53 @@
+[
+    {
+        "code": "01230",
+        "postal_old": "05905",
+        "postal_new": "0590551",
+        "pref_kana": "ﾎｯｶｲﾄﾞｳ",
+        "address1_kana": "ﾉﾎﾞﾘﾍﾞﾂｼ",
+        "address2_kana": "ﾉﾎﾞﾘﾍﾞﾂｵﾝｾﾝﾁｮｳ",
+        "pref": "北海道",
+        "address1": "登別市",
+        "address2": "登別温泉町",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    },
+    {
+        "code": "01230",
+        "postal_old": "05905",
+        "postal_new": "0590552",
+        "pref_kana": "ﾎｯｶｲﾄﾞｳ",
+        "address1_kana": "ﾉﾎﾞﾘﾍﾞﾂｼ",
+        "address2_kana": "ｶﾐﾉﾎﾞﾘﾍﾞﾂﾁｮｳ",
+        "pref": "北海道",
+        "address1": "登別市",
+        "address2": "上登別町",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    },
+    {
+        "code": "01230",
+        "postal_old": "05905",
+        "postal_new": "0590553",
+        "pref_kana": "ﾎｯｶｲﾄﾞｳ",
+        "address1_kana": "ﾉﾎﾞﾘﾍﾞﾂｼ",
+        "address2_kana": "ｶﾙﾙｽﾁｮｳ",
+        "pref": "北海道",
+        "address1": "登別市",
+        "address2": "カルルス町",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

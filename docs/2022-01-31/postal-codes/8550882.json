@@ -1,0 +1,19 @@
+[
+    {
+        "code": "42203",
+        "postal_old": "855  ",
+        "postal_new": "8550882",
+        "pref_kana": "ﾅｶﾞｻｷｹﾝ",
+        "address1_kana": "ｼﾏﾊﾞﾗｼ",
+        "address2_kana": "ﾌﾀﾞﾉﾓﾄﾏﾁ",
+        "pref": "長崎県",
+        "address1": "島原市",
+        "address2": "札の元町",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

@@ -1,0 +1,19 @@
+[
+    {
+        "code": "12233",
+        "postal_old": "28602",
+        "postal_new": "2860213",
+        "pref_kana": "ﾁﾊﾞｹﾝ",
+        "address1_kana": "ﾄﾐｻﾄｼ",
+        "address2_kana": "ﾀｶﾏﾂ",
+        "pref": "千葉県",
+        "address1": "富里市",
+        "address2": "高松",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

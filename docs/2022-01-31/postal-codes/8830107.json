@@ -1,0 +1,19 @@
+[
+    {
+        "code": "45206",
+        "postal_old": "88301",
+        "postal_new": "8830107",
+        "pref_kana": "ﾐﾔｻﾞｷｹﾝ",
+        "address1_kana": "ﾋｭｳｶﾞｼ",
+        "address2_kana": "ﾄｳｺﾞｳﾁｮｳﾔﾏｹﾞｺｳ",
+        "pref": "宮崎県",
+        "address1": "日向市",
+        "address2": "東郷町山陰庚",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

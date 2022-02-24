@@ -1,0 +1,19 @@
+[
+    {
+        "code": "20349",
+        "postal_old": "38616",
+        "postal_new": "3861604",
+        "pref_kana": "ﾅｶﾞﾉｹﾝ",
+        "address1_kana": "ﾁｲｻｶﾞﾀｸﾞﾝｱｵｷﾑﾗ",
+        "address2_kana": "ﾄﾉﾄﾞ",
+        "pref": "長野県",
+        "address1": "小県郡青木村",
+        "address2": "殿戸",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

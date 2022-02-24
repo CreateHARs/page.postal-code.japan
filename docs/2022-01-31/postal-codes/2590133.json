@@ -1,0 +1,19 @@
+[
+    {
+        "code": "14342",
+        "postal_old": "25901",
+        "postal_new": "2590133",
+        "pref_kana": "ｶﾅｶﾞﾜｹﾝ",
+        "address1_kana": "ﾅｶｸﾞﾝﾆﾉﾐﾔﾏﾁ",
+        "address2_kana": "ﾕﾘｶﾞｵｶ",
+        "pref": "神奈川県",
+        "address1": "中郡二宮町",
+        "address2": "百合が丘",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "1",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

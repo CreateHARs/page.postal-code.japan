@@ -1,0 +1,19 @@
+[
+    {
+        "code": "02343",
+        "postal_old": "03614",
+        "postal_new": "0361400",
+        "pref_kana": "ｱｵﾓﾘｹﾝ",
+        "address1_kana": "ﾅｶﾂｶﾞﾙｸﾞﾝﾆｼﾒﾔﾑﾗ",
+        "address2_kana": "ｲｶﾆｹｲｻｲｶﾞﾅｲﾊﾞｱｲ",
+        "pref": "青森県",
+        "address1": "中津軽郡西目屋村",
+        "address2": "以下に掲載がない場合",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

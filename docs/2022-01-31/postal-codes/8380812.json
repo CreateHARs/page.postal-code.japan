@@ -1,0 +1,19 @@
+[
+    {
+        "code": "40447",
+        "postal_old": "838  ",
+        "postal_new": "8380812",
+        "pref_kana": "ﾌｸｵｶｹﾝ",
+        "address1_kana": "ｱｻｸﾗｸﾞﾝﾁｸｾﾞﾝﾏﾁ",
+        "address2_kana": "ｵｵﾂﾞｶ",
+        "pref": "福岡県",
+        "address1": "朝倉郡筑前町",
+        "address2": "大塚",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

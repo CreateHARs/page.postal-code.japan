@@ -1,0 +1,19 @@
+[
+    {
+        "code": "27224",
+        "postal_old": "566  ",
+        "postal_new": "5660012",
+        "pref_kana": "ｵｵｻｶﾌ",
+        "address1_kana": "ｾｯﾂｼ",
+        "address2_kana": "ｼｮｳﾔ",
+        "pref": "大阪府",
+        "address1": "摂津市",
+        "address2": "庄屋",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "1",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

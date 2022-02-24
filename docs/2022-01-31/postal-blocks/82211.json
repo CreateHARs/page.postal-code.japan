@@ -1,0 +1,53 @@
+[
+    {
+        "code": "40610",
+        "postal_old": "82211",
+        "postal_new": "8221101",
+        "pref_kana": "ﾌｸｵｶｹﾝ",
+        "address1_kana": "ﾀｶﾞﾜｸﾞﾝﾌｸﾁﾏﾁ",
+        "address2_kana": "ｱｶｲｹ",
+        "pref": "福岡県",
+        "address1": "田川郡福智町",
+        "address2": "赤池",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    },
+    {
+        "code": "40610",
+        "postal_old": "82211",
+        "postal_new": "8221102",
+        "pref_kana": "ﾌｸｵｶｹﾝ",
+        "address1_kana": "ﾀｶﾞﾜｸﾞﾝﾌｸﾁﾏﾁ",
+        "address2_kana": "ｱｶﾞﾉ",
+        "pref": "福岡県",
+        "address1": "田川郡福智町",
+        "address2": "上野",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    },
+    {
+        "code": "40610",
+        "postal_old": "82211",
+        "postal_new": "8221103",
+        "pref_kana": "ﾌｸｵｶｹﾝ",
+        "address1_kana": "ﾀｶﾞﾜｸﾞﾝﾌｸﾁﾏﾁ",
+        "address2_kana": "ｲﾁﾊﾞ",
+        "pref": "福岡県",
+        "address1": "田川郡福智町",
+        "address2": "市場",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

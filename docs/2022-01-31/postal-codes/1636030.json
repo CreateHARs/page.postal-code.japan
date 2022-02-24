@@ -1,0 +1,19 @@
+[
+    {
+        "code": "13104",
+        "postal_old": "163  ",
+        "postal_new": "1636030",
+        "pref_kana": "ﾄｳｷｮｳﾄ",
+        "address1_kana": "ｼﾝｼﾞｭｸｸ",
+        "address2_kana": "ﾆｼｼﾝｼﾞｭｸｽﾐﾄﾓﾌﾄﾞｳｻﾝｼﾝｼﾞｭｸｵｰｸﾀﾜｰ(30ｶｲ)",
+        "pref": "東京都",
+        "address1": "新宿区",
+        "address2": "西新宿住友不動産新宿オークタワー（３０階）",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

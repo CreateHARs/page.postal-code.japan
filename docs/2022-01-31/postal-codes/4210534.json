@@ -1,0 +1,19 @@
+[
+    {
+        "code": "22226",
+        "postal_old": "42105",
+        "postal_new": "4210534",
+        "pref_kana": "ｼｽﾞｵｶｹﾝ",
+        "address1_kana": "ﾏｷﾉﾊﾗｼ",
+        "address2_kana": "ﾎﾘﾉｼﾝﾃﾞﾝ",
+        "pref": "静岡県",
+        "address1": "牧之原市",
+        "address2": "堀野新田",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

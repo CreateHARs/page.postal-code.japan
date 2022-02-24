@@ -1,0 +1,19 @@
+[
+    {
+        "code": "14113",
+        "postal_old": "226  ",
+        "postal_new": "2260018",
+        "pref_kana": "ｶﾅｶﾞﾜｹﾝ",
+        "address1_kana": "ﾖｺﾊﾏｼﾐﾄﾞﾘｸ",
+        "address2_kana": "ﾅｶﾞﾂﾀﾐﾅﾐﾀﾞｲ",
+        "pref": "神奈川県",
+        "address1": "横浜市緑区",
+        "address2": "長津田みなみ台",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "1",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

@@ -1,0 +1,19 @@
+[
+    {
+        "code": "37324",
+        "postal_old": "76143",
+        "postal_new": "7614307",
+        "pref_kana": "ｶｶﾞﾜｹﾝ",
+        "address1_kana": "ｼｮｳｽﾞｸﾞﾝｼｮｳﾄﾞｼﾏﾁｮｳ",
+        "address2_kana": "ｶﾏﾉ",
+        "pref": "香川県",
+        "address1": "小豆郡小豆島町",
+        "address2": "蒲野",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

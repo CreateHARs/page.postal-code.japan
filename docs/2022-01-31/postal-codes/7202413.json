@@ -1,0 +1,19 @@
+[
+    {
+        "code": "34207",
+        "postal_old": "72024",
+        "postal_new": "7202413",
+        "pref_kana": "ﾋﾛｼﾏｹﾝ",
+        "address1_kana": "ﾌｸﾔﾏｼ",
+        "address2_kana": "ｴｷﾔﾁｮｳﾎｳｼﾞｮｳｼﾞ",
+        "pref": "広島県",
+        "address1": "福山市",
+        "address2": "駅家町法成寺",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

@@ -1,0 +1,19 @@
+[
+    {
+        "code": "42211",
+        "postal_old": "85305",
+        "postal_new": "8530503",
+        "pref_kana": "ﾅｶﾞｻｷｹﾝ",
+        "address1_kana": "ｺﾞﾄｳｼ",
+        "address2_kana": "ﾀﾏﾉｳﾗﾏﾁｵｶﾞﾜ",
+        "pref": "長崎県",
+        "address1": "五島市",
+        "address2": "玉之浦町小川",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

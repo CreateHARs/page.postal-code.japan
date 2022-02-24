@@ -1,0 +1,19 @@
+[
+    {
+        "code": "08219",
+        "postal_old": "30011",
+        "postal_new": "3001287",
+        "pref_kana": "ｲﾊﾞﾗｷｹﾝ",
+        "address1_kana": "ｳｼｸｼ",
+        "address2_kana": "ﾌｸﾀﾞﾁｮｳ",
+        "pref": "茨城県",
+        "address1": "牛久市",
+        "address2": "福田町",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

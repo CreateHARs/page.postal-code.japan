@@ -1,0 +1,19 @@
+[
+    {
+        "code": "27147",
+        "postal_old": "587  ",
+        "postal_new": "5870061",
+        "pref_kana": "ｵｵｻｶﾌ",
+        "address1_kana": "ｻｶｲｼﾐﾊﾗｸ",
+        "address2_kana": "ｲﾏｲ",
+        "pref": "大阪府",
+        "address1": "堺市美原区",
+        "address2": "今井",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

@@ -1,0 +1,19 @@
+[
+    {
+        "code": "08221",
+        "postal_old": "31112",
+        "postal_new": "3111243",
+        "pref_kana": "ｲﾊﾞﾗｷｹﾝ",
+        "address1_kana": "ﾋﾀﾁﾅｶｼ",
+        "address2_kana": "ｷﾀｶﾐｼｷﾀﾞｲ",
+        "pref": "茨城県",
+        "address1": "ひたちなか市",
+        "address2": "北神敷台",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

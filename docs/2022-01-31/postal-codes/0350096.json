@@ -1,0 +1,19 @@
+[
+    {
+        "code": "02208",
+        "postal_old": "035  ",
+        "postal_new": "0350096",
+        "pref_kana": "ｱｵﾓﾘｹﾝ",
+        "address1_kana": "ﾑﾂｼ",
+        "address2_kana": "ｵｵﾐﾅﾄ",
+        "pref": "青森県",
+        "address1": "むつ市",
+        "address2": "大湊",
+        "is_multi_code": "0",
+        "is_koaza": "1",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

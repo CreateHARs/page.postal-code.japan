@@ -1,0 +1,19 @@
+[
+    {
+        "code": "11231",
+        "postal_old": "363  ",
+        "postal_new": "3630005",
+        "pref_kana": "ｻｲﾀﾏｹﾝ",
+        "address1_kana": "ｵｹｶﾞﾜｼ",
+        "address2_kana": "ﾄﾈﾘｼﾝﾃﾞﾝ",
+        "pref": "埼玉県",
+        "address1": "桶川市",
+        "address2": "舎人新田",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

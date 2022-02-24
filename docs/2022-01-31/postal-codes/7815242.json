@@ -1,0 +1,19 @@
+[
+    {
+        "code": "39211",
+        "postal_old": "78152",
+        "postal_new": "7815242",
+        "pref_kana": "ｺｳﾁｹﾝ",
+        "address1_kana": "ｺｳﾅﾝｼ",
+        "address2_kana": "ﾖｼｶﾜﾁｮｳﾌﾙｶﾜ",
+        "pref": "高知県",
+        "address1": "香南市",
+        "address2": "吉川町古川",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

@@ -1,0 +1,19 @@
+[
+    {
+        "code": "06362",
+        "postal_old": "99962",
+        "postal_new": "9996214",
+        "pref_kana": "ﾔﾏｶﾞﾀｹﾝ",
+        "address1_kana": "ﾓｶﾞﾐｸﾞﾝﾓｶﾞﾐﾏﾁ",
+        "address2_kana": "ﾜｶﾐﾔ",
+        "pref": "山形県",
+        "address1": "最上郡最上町",
+        "address2": "若宮",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

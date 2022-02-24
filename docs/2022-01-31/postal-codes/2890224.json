@@ -1,0 +1,19 @@
+[
+    {
+        "code": "12342",
+        "postal_old": "28902",
+        "postal_new": "2890224",
+        "pref_kana": "ﾁﾊﾞｹﾝ",
+        "address1_kana": "ｶﾄﾘｸﾞﾝｺｳｻﾞｷﾏﾁ",
+        "address2_kana": "ﾏﾂｻﾞｷ",
+        "pref": "千葉県",
+        "address1": "香取郡神崎町",
+        "address2": "松崎",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

@@ -1,0 +1,19 @@
+[
+    {
+        "code": "43102",
+        "postal_old": "86121",
+        "postal_new": "8612103",
+        "pref_kana": "ｸﾏﾓﾄｹﾝ",
+        "address1_kana": "ｸﾏﾓﾄｼﾋｶﾞｼｸ",
+        "address2_kana": "ﾜｶﾊﾞ(4-6ﾁｮｳﾒ)",
+        "pref": "熊本県",
+        "address1": "熊本市東区",
+        "address2": "若葉（４〜６丁目）",
+        "is_multi_code": "1",
+        "is_koaza": "0",
+        "is_choume": "1",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

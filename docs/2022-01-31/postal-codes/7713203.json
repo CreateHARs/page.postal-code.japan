@@ -1,0 +1,19 @@
+[
+    {
+        "code": "36342",
+        "postal_old": "77132",
+        "postal_new": "7713203",
+        "pref_kana": "ﾄｸｼﾏｹﾝ",
+        "address1_kana": "ﾐｮｳｻﾞｲｸﾞﾝｶﾐﾔﾏﾁｮｳ",
+        "address2_kana": "ｵﾛﾉ",
+        "pref": "徳島県",
+        "address1": "名西郡神山町",
+        "address2": "鬼籠野",
+        "is_multi_code": "0",
+        "is_koaza": "1",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

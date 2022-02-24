@@ -1,0 +1,19 @@
+[
+    {
+        "code": "01464",
+        "postal_old": "09801",
+        "postal_new": "0980122",
+        "pref_kana": "ﾎｯｶｲﾄﾞｳ",
+        "address1_kana": "ｶﾐｶﾜｸﾞﾝﾜｯｻﾑﾁｮｳ",
+        "address2_kana": "ﾁｭｳﾜ",
+        "pref": "北海道",
+        "address1": "上川郡和寒町",
+        "address2": "中和",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

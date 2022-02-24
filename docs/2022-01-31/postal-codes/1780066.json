@@ -1,0 +1,19 @@
+[
+    {
+        "code": "13120",
+        "postal_old": "178  ",
+        "postal_new": "1780066",
+        "pref_kana": "ﾄｳｷｮｳﾄ",
+        "address1_kana": "ﾈﾘﾏｸ",
+        "address2_kana": "ﾆｼｵｵｲｽﾞﾐﾏﾁ",
+        "pref": "東京都",
+        "address1": "練馬区",
+        "address2": "西大泉町",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

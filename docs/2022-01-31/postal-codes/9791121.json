@@ -1,0 +1,19 @@
+[
+    {
+        "code": "07543",
+        "postal_old": "97911",
+        "postal_new": "9791121",
+        "pref_kana": "ﾌｸｼﾏｹﾝ",
+        "address1_kana": "ﾌﾀﾊﾞｸﾞﾝﾄﾐｵｶﾏﾁ",
+        "address2_kana": "ﾎﾄｹﾊﾏ",
+        "pref": "福島県",
+        "address1": "双葉郡富岡町",
+        "address2": "仏浜",
+        "is_multi_code": "0",
+        "is_koaza": "1",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

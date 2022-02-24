@@ -1,0 +1,19 @@
+[
+    {
+        "code": "33204",
+        "postal_old": "706  ",
+        "postal_new": "7060021",
+        "pref_kana": "ｵｶﾔﾏｹﾝ",
+        "address1_kana": "ﾀﾏﾉｼ",
+        "address2_kana": "ﾜﾀﾞ",
+        "pref": "岡山県",
+        "address1": "玉野市",
+        "address2": "和田",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "1",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

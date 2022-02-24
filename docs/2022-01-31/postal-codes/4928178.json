@@ -1,0 +1,19 @@
+[
+    {
+        "code": "23220",
+        "postal_old": "492  ",
+        "postal_new": "4928178",
+        "pref_kana": "ｱｲﾁｹﾝ",
+        "address1_kana": "ｲﾅｻﾞﾜｼ",
+        "address2_kana": "ｷﾀｲﾁﾊﾞﾎﾝﾏﾁ",
+        "pref": "愛知県",
+        "address1": "稲沢市",
+        "address2": "北市場本町",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "1",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

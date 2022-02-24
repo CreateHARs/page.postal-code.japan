@@ -1,0 +1,19 @@
+[
+    {
+        "code": "06341",
+        "postal_old": "99941",
+        "postal_new": "9994116",
+        "pref_kana": "ﾔﾏｶﾞﾀｹﾝ",
+        "address1_kana": "ｷﾀﾑﾗﾔﾏｸﾞﾝｵｵｲｼﾀﾞﾏﾁ",
+        "address2_kana": "ｴｷﾏｴﾄﾞｵﾘ",
+        "pref": "山形県",
+        "address1": "北村山郡大石田町",
+        "address2": "駅前通り",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

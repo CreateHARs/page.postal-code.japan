@@ -1,0 +1,19 @@
+[
+    {
+        "code": "28382",
+        "postal_old": "67501",
+        "postal_new": "6750159",
+        "pref_kana": "ﾋｮｳｺﾞｹﾝ",
+        "address1_kana": "ｶｺｸﾞﾝﾊﾘﾏﾁｮｳ",
+        "address2_kana": "ﾋｶﾞｼﾉｿﾞｴ",
+        "pref": "兵庫県",
+        "address1": "加古郡播磨町",
+        "address2": "東野添",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "1",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

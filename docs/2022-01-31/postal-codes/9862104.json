@@ -1,0 +1,19 @@
+[
+    {
+        "code": "04202",
+        "postal_old": "98621",
+        "postal_new": "9862104",
+        "pref_kana": "ﾐﾔｷﾞｹﾝ",
+        "address1_kana": "ｲｼﾉﾏｷｼ",
+        "address2_kana": "ﾀﾚﾐｽﾞﾁｮｳ",
+        "pref": "宮城県",
+        "address1": "石巻市",
+        "address2": "垂水町",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "1",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

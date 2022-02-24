@@ -1,0 +1,19 @@
+[
+    {
+        "code": "08234",
+        "postal_old": "31115",
+        "postal_new": "3111505",
+        "pref_kana": "ｲﾊﾞﾗｷｹﾝ",
+        "address1_kana": "ﾎｺﾀｼ",
+        "address2_kana": "ｺﾏｷﾞﾈ",
+        "pref": "茨城県",
+        "address1": "鉾田市",
+        "address2": "駒木根",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

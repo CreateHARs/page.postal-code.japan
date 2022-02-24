@@ -1,0 +1,19 @@
+[
+    {
+        "code": "40402",
+        "postal_old": "80713",
+        "postal_new": "8071312",
+        "pref_kana": "ﾌｸｵｶｹﾝ",
+        "address1_kana": "ｸﾗﾃｸﾞﾝｸﾗﾃﾏﾁ",
+        "address2_kana": "ﾅｶﾔﾏ",
+        "pref": "福岡県",
+        "address1": "鞍手郡鞍手町",
+        "address2": "中山",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

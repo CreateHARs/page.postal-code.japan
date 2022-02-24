@@ -1,0 +1,19 @@
+[
+    {
+        "code": "11234",
+        "postal_old": "340  ",
+        "postal_new": "3400821",
+        "pref_kana": "ｻｲﾀﾏｹﾝ",
+        "address1_kana": "ﾔｼｵｼ",
+        "address2_kana": "ｲｾﾉ",
+        "pref": "埼玉県",
+        "address1": "八潮市",
+        "address2": "伊勢野",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

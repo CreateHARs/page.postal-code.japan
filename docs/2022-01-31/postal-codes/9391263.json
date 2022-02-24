@@ -1,0 +1,36 @@
+[
+    {
+        "code": "16202",
+        "postal_old": "93912",
+        "postal_new": "9391263",
+        "pref_kana": "ﾄﾔﾏｹﾝ",
+        "address1_kana": "ﾀｶｵｶｼ",
+        "address2_kana": "ｺﾞﾎﾞｳﾔﾏ",
+        "pref": "富山県",
+        "address1": "高岡市",
+        "address2": "御坊山",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "1",
+        "is_updated": "0",
+        "update_reason": "0"
+    },
+    {
+        "code": "16202",
+        "postal_old": "93912",
+        "postal_new": "9391263",
+        "pref_kana": "ﾄﾔﾏｹﾝ",
+        "address1_kana": "ﾀｶｵｶｼ",
+        "address2_kana": "ｼﾏｼﾝ",
+        "pref": "富山県",
+        "address1": "高岡市",
+        "address2": "島新",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "1",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

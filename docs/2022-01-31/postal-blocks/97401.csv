@@ -1,0 +1,4 @@
+code,postal_old,postal_new,pref_kana,address1_kana,address2_kana,pref,address1,address2,is_multi_code,is_koaza,is_choume,is_multi_place,is_updated,update_reason
+07204,97401,9740151,ﾌｸｼﾏｹﾝ,ｲﾜｷｼ,ﾀﾋﾞﾄﾏﾁｸﾛﾀﾞ,福島県,いわき市,田人町黒田,0,1,0,0,0,0
+07204,97401,9740152,ﾌｸｼﾏｹﾝ,ｲﾜｷｼ,ﾀﾋﾞﾄﾏﾁﾀﾋﾞｳﾄ(ｿﾉﾀ),福島県,いわき市,田人町旅人（その他）,1,1,0,0,0,0
+07204,97401,9740153,ﾌｸｼﾏｹﾝ,ｲﾜｷｼ,ﾀﾋﾞﾄﾏﾁﾐﾅﾐｵｵﾀﾞｲﾗ,福島県,いわき市,田人町南大平,0,1,0,0,0,0

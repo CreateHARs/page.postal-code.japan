@@ -1,0 +1,19 @@
+[
+    {
+        "code": "33606",
+        "postal_old": "70804",
+        "postal_new": "7080434",
+        "pref_kana": "ｵｶﾔﾏｹﾝ",
+        "address1_kana": "ﾄﾏﾀｸﾞﾝｶｶﾞﾐﾉﾁｮｳ",
+        "address2_kana": "ﾊﾌﾞ",
+        "pref": "岡山県",
+        "address1": "苫田郡鏡野町",
+        "address2": "土生",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

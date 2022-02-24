@@ -1,0 +1,36 @@
+[
+    {
+        "code": "07214",
+        "postal_old": "96911",
+        "postal_new": "9691156",
+        "pref_kana": "ﾌｸｼﾏｹﾝ",
+        "address1_kana": "ﾓﾄﾐﾔｼ",
+        "address2_kana": "ﾓﾄﾐﾔｽﾜ",
+        "pref": "福島県",
+        "address1": "本宮市",
+        "address2": "本宮諏訪",
+        "is_multi_code": "0",
+        "is_koaza": "1",
+        "is_choume": "0",
+        "is_multi_place": "1",
+        "is_updated": "0",
+        "update_reason": "0"
+    },
+    {
+        "code": "07214",
+        "postal_old": "96911",
+        "postal_new": "9691156",
+        "pref_kana": "ﾌｸｼﾏｹﾝ",
+        "address1_kana": "ﾓﾄﾐﾔｼ",
+        "address2_kana": "ﾓﾄﾐﾔﾅﾍﾞﾀ",
+        "pref": "福島県",
+        "address1": "本宮市",
+        "address2": "本宮鍋田",
+        "is_multi_code": "0",
+        "is_koaza": "1",
+        "is_choume": "0",
+        "is_multi_place": "1",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

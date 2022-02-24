@@ -1,0 +1,19 @@
+[
+    {
+        "code": "22131",
+        "postal_old": "430  ",
+        "postal_new": "4307723",
+        "pref_kana": "ｼｽﾞｵｶｹﾝ",
+        "address1_kana": "ﾊﾏﾏﾂｼﾅｶｸ",
+        "address2_kana": "ｲﾀﾔﾏﾁﾊﾏﾏﾂｱｸﾄﾀﾜｰ(23ｶｲ)",
+        "pref": "静岡県",
+        "address1": "浜松市中区",
+        "address2": "板屋町浜松アクトタワー（２３階）",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

@@ -1,0 +1,19 @@
+[
+    {
+        "code": "44461",
+        "postal_old": "87948",
+        "postal_new": "8794803",
+        "pref_kana": "ｵｵｲﾀｹﾝ",
+        "address1_kana": "ｸｽｸﾞﾝｺｺﾉｴﾏﾁ",
+        "address2_kana": "ｳｼﾛﾉｶﾞﾐ",
+        "pref": "大分県",
+        "address1": "玖珠郡九重町",
+        "address2": "後野上",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

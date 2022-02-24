@@ -1,0 +1,19 @@
+[
+    {
+        "code": "04213",
+        "postal_old": "98721",
+        "postal_new": "9872154",
+        "pref_kana": "ﾐﾔｷﾞｹﾝ",
+        "address1_kana": "ｸﾘﾊﾗｼ",
+        "address2_kana": "ﾀｶｼﾐｽﾞﾐﾅﾐﾊﾗ",
+        "pref": "宮城県",
+        "address1": "栗原市",
+        "address2": "高清水南原",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

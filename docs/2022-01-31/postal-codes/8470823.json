@@ -1,0 +1,19 @@
+[
+    {
+        "code": "41202",
+        "postal_old": "847  ",
+        "postal_new": "8470823",
+        "pref_kana": "ｻｶﾞｹﾝ",
+        "address1_kana": "ｶﾗﾂｼ",
+        "address2_kana": "ｱｻﾋｶﾞｵｶ",
+        "pref": "佐賀県",
+        "address1": "唐津市",
+        "address2": "旭が丘",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

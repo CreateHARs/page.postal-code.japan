@@ -1,0 +1,19 @@
+[
+    {
+        "code": "16210",
+        "postal_old": "93916",
+        "postal_new": "9391641",
+        "pref_kana": "ﾄﾔﾏｹﾝ",
+        "address1_kana": "ﾅﾝﾄｼ",
+        "address2_kana": "ﾌｸﾐﾂ(ｶﾜﾊﾗﾏﾁ)",
+        "pref": "富山県",
+        "address1": "南砺市",
+        "address2": "福光（川原町）",
+        "is_multi_code": "1",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

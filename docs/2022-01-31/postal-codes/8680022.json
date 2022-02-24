@@ -1,0 +1,36 @@
+[
+    {
+        "code": "43203",
+        "postal_old": "868  ",
+        "postal_new": "8680022",
+        "pref_kana": "ｸﾏﾓﾄｹﾝ",
+        "address1_kana": "ﾋﾄﾖｼｼ",
+        "address2_kana": "ｶﾞﾝｼﾞｮｳｼﾞﾏﾁ",
+        "pref": "熊本県",
+        "address1": "人吉市",
+        "address2": "願成寺町",
+        "is_multi_code": "1",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "1",
+        "is_updated": "0",
+        "update_reason": "0"
+    },
+    {
+        "code": "43203",
+        "postal_old": "868  ",
+        "postal_new": "8680022",
+        "pref_kana": "ｸﾏﾓﾄｹﾝ",
+        "address1_kana": "ﾋﾄﾖｼｼ",
+        "address2_kana": "ｷﾀｶﾞﾝｼﾞｮｳｼﾞﾏﾁ",
+        "pref": "熊本県",
+        "address1": "人吉市",
+        "address2": "北願成寺町",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "1",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

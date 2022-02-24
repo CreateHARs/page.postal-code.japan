@@ -1,0 +1,19 @@
+[
+    {
+        "code": "38506",
+        "postal_old": "79841",
+        "postal_new": "7984122",
+        "pref_kana": "ｴﾋﾒｹﾝ",
+        "address1_kana": "ﾐﾅﾐｳﾜｸﾞﾝｱｲﾅﾝﾁｮｳ",
+        "address2_kana": "ﾎﾞｳｼﾞｮｳﾅﾙｶﾜ",
+        "pref": "愛媛県",
+        "address1": "南宇和郡愛南町",
+        "address2": "防城成川",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

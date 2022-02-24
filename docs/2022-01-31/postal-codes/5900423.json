@@ -1,0 +1,19 @@
+[
+    {
+        "code": "27361",
+        "postal_old": "59004",
+        "postal_new": "5900423",
+        "pref_kana": "ｵｵｻｶﾌ",
+        "address1_kana": "ｾﾝﾅﾝｸﾞﾝｸﾏﾄﾘﾁｮｳ",
+        "address2_kana": "ｼﾞｭｳｶﾞｵｶ",
+        "pref": "大阪府",
+        "address1": "泉南郡熊取町",
+        "address2": "自由が丘",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "1",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

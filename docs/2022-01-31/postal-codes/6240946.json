@@ -1,0 +1,19 @@
+[
+    {
+        "code": "26202",
+        "postal_old": "624  ",
+        "postal_new": "6240946",
+        "pref_kana": "ｷｮｳﾄﾌ",
+        "address1_kana": "ﾏｲﾂﾞﾙｼ",
+        "address2_kana": "ｼﾓﾌｸｲ",
+        "pref": "京都府",
+        "address1": "舞鶴市",
+        "address2": "下福井",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

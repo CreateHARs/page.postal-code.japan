@@ -1,0 +1,19 @@
+[
+    {
+        "code": "24207",
+        "postal_old": "51002",
+        "postal_new": "5100254",
+        "pref_kana": "ﾐｴｹﾝ",
+        "address1_kana": "ｽｽﾞｶｼ",
+        "address2_kana": "ｼﾞｹ",
+        "pref": "三重県",
+        "address1": "鈴鹿市",
+        "address2": "寺家",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "1",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

@@ -1,0 +1,19 @@
+[
+    {
+        "code": "01694",
+        "postal_old": "08618",
+        "postal_new": "0861823",
+        "pref_kana": "ﾎｯｶｲﾄﾞｳ",
+        "address1_kana": "ﾒﾅｼｸﾞﾝﾗｳｽﾁｮｳ",
+        "address2_kana": "ｻｶｴﾁｮｳ",
+        "pref": "北海道",
+        "address1": "目梨郡羅臼町",
+        "address2": "栄町",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

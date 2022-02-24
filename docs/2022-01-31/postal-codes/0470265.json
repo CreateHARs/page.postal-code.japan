@@ -1,0 +1,19 @@
+[
+    {
+        "code": "01203",
+        "postal_old": "04702",
+        "postal_new": "0470265",
+        "pref_kana": "ﾎｯｶｲﾄﾞｳ",
+        "address1_kana": "ｵﾀﾙｼ",
+        "address2_kana": "ﾊﾙｶﾁｮｳ",
+        "pref": "北海道",
+        "address1": "小樽市",
+        "address2": "春香町",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

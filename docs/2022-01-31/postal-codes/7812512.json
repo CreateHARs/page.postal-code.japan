@@ -1,0 +1,19 @@
+[
+    {
+        "code": "39386",
+        "postal_old": "78125",
+        "postal_new": "7812512",
+        "pref_kana": "ｺｳﾁｹﾝ",
+        "address1_kana": "ｱｶﾞﾜｸﾞﾝｲﾉﾁｮｳ",
+        "address2_kana": "ｷﾖﾐｽﾞｼﾓﾌﾞﾝ(ﾊﾞﾛｳ､ｵｵﾉ､ｶﾜｸﾞﾁ､ﾋﾋﾞﾊﾗ､ﾏｷｶﾞﾜ､ﾏﾂﾉｷ)",
+        "pref": "高知県",
+        "address1": "吾川郡いの町",
+        "address2": "清水下分（馬路、大野、川口、日比原、槇川、松ノ木）",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

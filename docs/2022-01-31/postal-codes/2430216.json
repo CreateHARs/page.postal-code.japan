@@ -1,0 +1,19 @@
+[
+    {
+        "code": "14212",
+        "postal_old": "24302",
+        "postal_new": "2430216",
+        "pref_kana": "ｶﾅｶﾞﾜｹﾝ",
+        "address1_kana": "ｱﾂｷﾞｼ",
+        "address2_kana": "ﾐﾔﾉｻﾄ",
+        "pref": "神奈川県",
+        "address1": "厚木市",
+        "address2": "宮の里",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "1",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

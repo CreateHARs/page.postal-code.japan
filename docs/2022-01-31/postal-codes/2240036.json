@@ -1,0 +1,19 @@
+[
+    {
+        "code": "14118",
+        "postal_old": "224  ",
+        "postal_new": "2240036",
+        "pref_kana": "ｶﾅｶﾞﾜｹﾝ",
+        "address1_kana": "ﾖｺﾊﾏｼﾂﾂﾞｷｸ",
+        "address2_kana": "ｶﾁﾀﾞﾐﾅﾐ",
+        "pref": "神奈川県",
+        "address1": "横浜市都筑区",
+        "address2": "勝田南",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "1",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

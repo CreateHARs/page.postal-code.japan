@@ -1,0 +1,19 @@
+[
+    {
+        "code": "27207",
+        "postal_old": "569  ",
+        "postal_new": "5690095",
+        "pref_kana": "ｵｵｻｶﾌ",
+        "address1_kana": "ﾀｶﾂｷｼ",
+        "address2_kana": "ﾊｯﾁｮｳﾆｼﾏﾁ",
+        "pref": "大阪府",
+        "address1": "高槻市",
+        "address2": "八丁西町",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

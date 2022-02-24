@@ -1,0 +1,19 @@
+[
+    {
+        "code": "14103",
+        "postal_old": "220  ",
+        "postal_new": "2208190",
+        "pref_kana": "ｶﾅｶﾞﾜｹﾝ",
+        "address1_kana": "ﾖｺﾊﾏｼﾆｼｸ",
+        "address2_kana": "ﾐﾅﾄﾐﾗｲﾗﾝﾄﾞﾏｰｸﾀﾜｰ(ﾁｶｲ･ｶｲｿｳﾌﾒｲ)",
+        "pref": "神奈川県",
+        "address1": "横浜市西区",
+        "address2": "みなとみらいランドマークタワー（地階・階層不明）",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

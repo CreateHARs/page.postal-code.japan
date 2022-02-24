@@ -1,0 +1,19 @@
+[
+    {
+        "code": "12329",
+        "postal_old": "27015",
+        "postal_new": "2701506",
+        "pref_kana": "ﾁﾊﾞｹﾝ",
+        "address1_kana": "ｲﾝﾊﾞｸﾞﾝｻｶｴﾏﾁ",
+        "address2_kana": "ﾘｭｳｶｸｼﾞ",
+        "pref": "千葉県",
+        "address1": "印旛郡栄町",
+        "address2": "龍角寺",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

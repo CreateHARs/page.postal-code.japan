@@ -1,0 +1,19 @@
+[
+    {
+        "code": "25201",
+        "postal_old": "52021",
+        "postal_new": "5202116",
+        "pref_kana": "ｼｶﾞｹﾝ",
+        "address1_kana": "ｵｵﾂｼ",
+        "address2_kana": "ﾄﾞｳ",
+        "pref": "滋賀県",
+        "address1": "大津市",
+        "address2": "堂",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "1",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

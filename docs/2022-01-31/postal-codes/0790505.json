@@ -1,0 +1,19 @@
+[
+    {
+        "code": "01433",
+        "postal_old": "07905",
+        "postal_new": "0790505",
+        "pref_kana": "ﾎｯｶｲﾄﾞｳ",
+        "address1_kana": "ｳﾘｭｳｸﾞﾝﾓｾｳｼﾁｮｳ",
+        "address2_kana": "5ｸ",
+        "pref": "北海道",
+        "address1": "雨竜郡妹背牛町",
+        "address2": "５区",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

@@ -1,0 +1,19 @@
+[
+    {
+        "code": "21302",
+        "postal_old": "50161",
+        "postal_new": "5016006",
+        "pref_kana": "ｷﾞﾌｹﾝ",
+        "address1_kana": "ﾊｼﾏｸﾞﾝｷﾞﾅﾝﾁｮｳ",
+        "address2_kana": "ﾌｾﾔ",
+        "pref": "岐阜県",
+        "address1": "羽島郡岐南町",
+        "address2": "伏屋",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "1",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

@@ -1,0 +1,19 @@
+[
+    {
+        "code": "12202",
+        "postal_old": "288  ",
+        "postal_new": "2880825",
+        "pref_kana": "ﾁﾊﾞｹﾝ",
+        "address1_kana": "ﾁｮｳｼｼ",
+        "address2_kana": "ｼﾝﾁｮｳ",
+        "pref": "千葉県",
+        "address1": "銚子市",
+        "address2": "新町",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

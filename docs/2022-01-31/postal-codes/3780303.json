@@ -1,0 +1,19 @@
+[
+    {
+        "code": "10206",
+        "postal_old": "37803",
+        "postal_new": "3780303",
+        "pref_kana": "ｸﾞﾝﾏｹﾝ",
+        "address1_kana": "ﾇﾏﾀｼ",
+        "address2_kana": "ﾄﾈﾏﾁｵｯｶｲ",
+        "pref": "群馬県",
+        "address1": "沼田市",
+        "address2": "利根町追貝",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

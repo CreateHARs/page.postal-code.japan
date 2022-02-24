@@ -1,0 +1,19 @@
+[
+    {
+        "code": "04445",
+        "postal_old": "98143",
+        "postal_new": "9814316",
+        "pref_kana": "ﾐﾔｷﾞｹﾝ",
+        "address1_kana": "ｶﾐｸﾞﾝｶﾐﾏﾁ",
+        "address2_kana": "ﾂｷｻﾞｷ(ｿﾉﾀ)",
+        "pref": "宮城県",
+        "address1": "加美郡加美町",
+        "address2": "月崎（その他）",
+        "is_multi_code": "1",
+        "is_koaza": "1",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

@@ -1,0 +1,19 @@
+[
+    {
+        "code": "29207",
+        "postal_old": "63806",
+        "postal_new": "6380662",
+        "pref_kana": "ﾅﾗｹﾝ",
+        "address1_kana": "ｺﾞｼﾞｮｳｼ",
+        "address2_kana": "ﾆｼﾖｼﾉﾁｮｳﾖﾅｶ",
+        "pref": "奈良県",
+        "address1": "五條市",
+        "address2": "西吉野町夜中",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

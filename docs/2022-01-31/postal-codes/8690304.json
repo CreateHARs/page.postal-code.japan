@@ -1,0 +1,19 @@
+[
+    {
+        "code": "43364",
+        "postal_old": "86903",
+        "postal_new": "8690304",
+        "pref_kana": "ｸﾏﾓﾄｹﾝ",
+        "address1_kana": "ﾀﾏﾅｸﾞﾝｷﾞｮｸﾄｳﾏﾁ",
+        "address2_kana": "ｳﾗﾀ",
+        "pref": "熊本県",
+        "address1": "玉名郡玉東町",
+        "address2": "浦田",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

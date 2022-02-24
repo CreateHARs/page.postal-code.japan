@@ -1,0 +1,19 @@
+[
+    {
+        "code": "11208",
+        "postal_old": "359  ",
+        "postal_new": "3591151",
+        "pref_kana": "ｻｲﾀﾏｹﾝ",
+        "address1_kana": "ﾄｺﾛｻﾞﾜｼ",
+        "address2_kana": "ﾜｶｻ",
+        "pref": "埼玉県",
+        "address1": "所沢市",
+        "address2": "若狭",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "1",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

@@ -1,0 +1,19 @@
+[
+    {
+        "code": "27119",
+        "postal_old": "545  ",
+        "postal_new": "5456048",
+        "pref_kana": "ｵｵｻｶﾌ",
+        "address1_kana": "ｵｵｻｶｼｱﾍﾞﾉｸ",
+        "address2_kana": "ｱﾍﾞﾉｽｼﾞｱﾍﾞﾉﾊﾙｶｽ(48ｶｲ)",
+        "pref": "大阪府",
+        "address1": "大阪市阿倍野区",
+        "address2": "阿倍野筋あべのハルカス（４８階）",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

@@ -1,0 +1,19 @@
+[
+    {
+        "code": "04101",
+        "postal_old": "980  ",
+        "postal_new": "9800845",
+        "pref_kana": "ﾐﾔｷﾞｹﾝ",
+        "address1_kana": "ｾﾝﾀﾞｲｼｱｵﾊﾞｸ",
+        "address2_kana": "ｱﾗﾏｷ(ｿﾉﾀ)",
+        "pref": "宮城県",
+        "address1": "仙台市青葉区",
+        "address2": "荒巻（その他）",
+        "is_multi_code": "1",
+        "is_koaza": "1",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

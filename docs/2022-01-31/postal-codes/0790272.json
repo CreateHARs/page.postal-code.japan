@@ -1,0 +1,19 @@
+[
+    {
+        "code": "01215",
+        "postal_old": "07902",
+        "postal_new": "0790272",
+        "pref_kana": "ﾎｯｶｲﾄﾞｳ",
+        "address1_kana": "ﾋﾞﾊﾞｲｼ",
+        "address2_kana": "ﾅｶﾑﾗﾁｮｳﾁｭｳｵｳ",
+        "pref": "北海道",
+        "address1": "美唄市",
+        "address2": "中村町中央",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

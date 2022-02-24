@@ -1,0 +1,19 @@
+[
+    {
+        "code": "43101",
+        "postal_old": "860  ",
+        "postal_new": "8600803",
+        "pref_kana": "ｸﾏﾓﾄｹﾝ",
+        "address1_kana": "ｸﾏﾓﾄｼﾁｭｳｵｳｸ",
+        "address2_kana": "ｼﾝｼｶﾞｲ",
+        "pref": "熊本県",
+        "address1": "熊本市中央区",
+        "address2": "新市街",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

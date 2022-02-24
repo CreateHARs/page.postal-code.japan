@@ -1,0 +1,19 @@
+[
+    {
+        "code": "15482",
+        "postal_old": "94983",
+        "postal_new": "9498316",
+        "pref_kana": "ﾆｲｶﾞﾀｹﾝ",
+        "address1_kana": "ﾅｶｳｵﾇﾏｸﾞﾝﾂﾅﾝﾏﾁ",
+        "address2_kana": "ｹｯﾄｳ(ｻｶｻﾏｷ･ﾏｴｸﾗ･ｹｯﾄｳ)",
+        "pref": "新潟県",
+        "address1": "中魚沼郡津南町",
+        "address2": "結東（逆巻・前倉・結東）",
+        "is_multi_code": "1",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

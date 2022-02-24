@@ -1,0 +1,19 @@
+[
+    {
+        "code": "20214",
+        "postal_old": "391  ",
+        "postal_new": "3910005",
+        "pref_kana": "ﾅｶﾞﾉｹﾝ",
+        "address1_kana": "ﾁﾉｼ",
+        "address2_kana": "ﾅｶﾏﾁ",
+        "pref": "長野県",
+        "address1": "茅野市",
+        "address2": "仲町",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

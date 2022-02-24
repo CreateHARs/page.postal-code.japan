@@ -1,0 +1,19 @@
+[
+    {
+        "code": "38214",
+        "postal_old": "79717",
+        "postal_new": "7971715",
+        "pref_kana": "ｴﾋﾒｹﾝ",
+        "address1_kana": "ｾｲﾖｼ",
+        "address2_kana": "ｼﾛｶﾜﾁｮｳﾀｵ",
+        "pref": "愛媛県",
+        "address1": "西予市",
+        "address2": "城川町田穂",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

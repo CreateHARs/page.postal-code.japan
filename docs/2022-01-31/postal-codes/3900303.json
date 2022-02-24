@@ -1,0 +1,19 @@
+[
+    {
+        "code": "20202",
+        "postal_old": "39003",
+        "postal_new": "3900303",
+        "pref_kana": "ﾅｶﾞﾉｹﾝ",
+        "address1_kana": "ﾏﾂﾓﾄｼ",
+        "address2_kana": "ｱｻﾏｵﾝｾﾝ",
+        "pref": "長野県",
+        "address1": "松本市",
+        "address2": "浅間温泉",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

@@ -1,0 +1,19 @@
+[
+    {
+        "code": "11246",
+        "postal_old": "34902",
+        "postal_new": "3490223",
+        "pref_kana": "ｻｲﾀﾏｹﾝ",
+        "address1_kana": "ｼﾗｵｶｼ",
+        "address2_kana": "ｼﾓﾉﾀﾞ",
+        "pref": "埼玉県",
+        "address1": "白岡市",
+        "address2": "下野田",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

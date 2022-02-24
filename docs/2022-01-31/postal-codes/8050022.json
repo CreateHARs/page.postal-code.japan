@@ -1,0 +1,19 @@
+[
+    {
+        "code": "40108",
+        "postal_old": "805  ",
+        "postal_new": "8050022",
+        "pref_kana": "ﾌｸｵｶｹﾝ",
+        "address1_kana": "ｷﾀｷｭｳｼｭｳｼﾔﾊﾀﾋｶﾞｼｸ",
+        "address2_kana": "ﾀｹｼﾀﾏﾁ",
+        "pref": "福岡県",
+        "address1": "北九州市八幡東区",
+        "address2": "竹下町",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

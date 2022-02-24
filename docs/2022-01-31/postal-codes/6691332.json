@@ -1,0 +1,19 @@
+[
+    {
+        "code": "28219",
+        "postal_old": "66913",
+        "postal_new": "6691332",
+        "pref_kana": "ﾋｮｳｺﾞｹﾝ",
+        "address1_kana": "ｻﾝﾀﾞｼ",
+        "address2_kana": "ﾋﾛｻﾜ",
+        "pref": "兵庫県",
+        "address1": "三田市",
+        "address2": "広沢",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

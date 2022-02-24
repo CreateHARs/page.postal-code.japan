@@ -1,0 +1,36 @@
+[
+    {
+        "code": "21505",
+        "postal_old": "50505",
+        "postal_new": "5050531",
+        "pref_kana": "ｷﾞﾌｹﾝ",
+        "address1_kana": "ｶﾓｸﾞﾝﾔｵﾂﾁｮｳ",
+        "address2_kana": "ｼｵﾐ",
+        "pref": "岐阜県",
+        "address1": "加茂郡八百津町",
+        "address2": "潮見",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    },
+    {
+        "code": "21505",
+        "postal_old": "50505",
+        "postal_new": "5050532",
+        "pref_kana": "ｷﾞﾌｹﾝ",
+        "address1_kana": "ｶﾓｸﾞﾝﾔｵﾂﾁｮｳ",
+        "address2_kana": "ﾐﾅﾄ",
+        "pref": "岐阜県",
+        "address1": "加茂郡八百津町",
+        "address2": "南戸",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

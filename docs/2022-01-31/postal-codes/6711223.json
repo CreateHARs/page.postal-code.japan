@@ -1,0 +1,19 @@
+[
+    {
+        "code": "28201",
+        "postal_old": "67112",
+        "postal_new": "6711223",
+        "pref_kana": "ﾋｮｳｺﾞｹﾝ",
+        "address1_kana": "ﾋﾒｼﾞｼ",
+        "address2_kana": "ｱﾎﾞｼｸｻｶｳｴ",
+        "pref": "兵庫県",
+        "address1": "姫路市",
+        "address2": "網干区坂上",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

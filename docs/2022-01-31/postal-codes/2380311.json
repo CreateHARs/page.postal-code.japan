@@ -1,0 +1,19 @@
+[
+    {
+        "code": "14201",
+        "postal_old": "23803",
+        "postal_new": "2380311",
+        "pref_kana": "ｶﾅｶﾞﾜｹﾝ",
+        "address1_kana": "ﾖｺｽｶｼ",
+        "address2_kana": "ｵｵﾀﾜ",
+        "pref": "神奈川県",
+        "address1": "横須賀市",
+        "address2": "太田和",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "1",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

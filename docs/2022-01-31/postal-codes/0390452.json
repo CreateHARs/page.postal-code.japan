@@ -1,0 +1,19 @@
+[
+    {
+        "code": "02441",
+        "postal_old": "03904",
+        "postal_new": "0390452",
+        "pref_kana": "ｱｵﾓﾘｹﾝ",
+        "address1_kana": "ｻﾝﾉﾍｸﾞﾝｻﾝﾉﾍﾏﾁ",
+        "address2_kana": "ﾊｶﾏﾀﾞ",
+        "pref": "青森県",
+        "address1": "三戸郡三戸町",
+        "address2": "袴田",
+        "is_multi_code": "0",
+        "is_koaza": "1",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

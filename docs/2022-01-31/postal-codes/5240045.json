@@ -1,0 +1,19 @@
+[
+    {
+        "code": "25207",
+        "postal_old": "524  ",
+        "postal_new": "5240045",
+        "pref_kana": "ｼｶﾞｹﾝ",
+        "address1_kana": "ﾓﾘﾔﾏｼ",
+        "address2_kana": "ｶﾈｶﾞﾓﾘﾁｮｳ",
+        "pref": "滋賀県",
+        "address1": "守山市",
+        "address2": "金森町",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

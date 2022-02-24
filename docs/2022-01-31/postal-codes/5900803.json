@@ -1,0 +1,19 @@
+[
+    {
+        "code": "27141",
+        "postal_old": "590  ",
+        "postal_new": "5900803",
+        "pref_kana": "ｵｵｻｶﾌ",
+        "address1_kana": "ｻｶｲｼｻｶｲｸ",
+        "address2_kana": "ﾋｶﾞｼｳｴﾉｼﾊﾞﾁｮｳ(1ﾁｮｳ)",
+        "pref": "大阪府",
+        "address1": "堺市堺区",
+        "address2": "東上野芝町（１丁）",
+        "is_multi_code": "1",
+        "is_koaza": "0",
+        "is_choume": "1",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

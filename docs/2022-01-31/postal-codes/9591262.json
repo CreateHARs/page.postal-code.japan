@@ -1,0 +1,19 @@
+[
+    {
+        "code": "15213",
+        "postal_old": "95912",
+        "postal_new": "9591262",
+        "pref_kana": "ﾆｲｶﾞﾀｹﾝ",
+        "address1_kana": "ﾂﾊﾞﾒｼ",
+        "address2_kana": "ｽｲﾄﾞｳﾁｮｳ",
+        "pref": "新潟県",
+        "address1": "燕市",
+        "address2": "水道町",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "1",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

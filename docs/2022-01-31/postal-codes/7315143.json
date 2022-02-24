@@ -1,0 +1,36 @@
+[
+    {
+        "code": "34108",
+        "postal_old": "73151",
+        "postal_new": "7315143",
+        "pref_kana": "ﾋﾛｼﾏｹﾝ",
+        "address1_kana": "ﾋﾛｼﾏｼｻｴｷｸ",
+        "address2_kana": "ﾐﾔｹ",
+        "pref": "広島県",
+        "address1": "広島市佐伯区",
+        "address2": "三宅",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "1",
+        "is_multi_place": "1",
+        "is_updated": "0",
+        "update_reason": "0"
+    },
+    {
+        "code": "34108",
+        "postal_old": "73151",
+        "postal_new": "7315143",
+        "pref_kana": "ﾋﾛｼﾏｹﾝ",
+        "address1_kana": "ﾋﾛｼﾏｼｻｴｷｸ",
+        "address2_kana": "ﾐﾔｹﾁｮｳ",
+        "pref": "広島県",
+        "address1": "広島市佐伯区",
+        "address2": "三宅町",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "1",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

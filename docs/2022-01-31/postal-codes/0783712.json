@@ -1,0 +1,19 @@
+[
+    {
+        "code": "01483",
+        "postal_old": "07837",
+        "postal_new": "0783712",
+        "pref_kana": "ﾎｯｶｲﾄﾞｳ",
+        "address1_kana": "ﾄﾏﾏｴｸﾞﾝﾄﾏﾏｴﾁｮｳ",
+        "address2_kana": "ｳｴﾋﾗ",
+        "pref": "北海道",
+        "address1": "苫前郡苫前町",
+        "address2": "上平",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

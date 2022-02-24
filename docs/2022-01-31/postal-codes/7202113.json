@@ -1,0 +1,19 @@
+[
+    {
+        "code": "34207",
+        "postal_old": "72021",
+        "postal_new": "7202113",
+        "pref_kana": "ﾋﾛｼﾏｹﾝ",
+        "address1_kana": "ﾌｸﾔﾏｼ",
+        "address2_kana": "ｶﾝﾅﾍﾞﾁｮｳｱｻﾋｵｶ",
+        "pref": "広島県",
+        "address1": "福山市",
+        "address2": "神辺町旭丘",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

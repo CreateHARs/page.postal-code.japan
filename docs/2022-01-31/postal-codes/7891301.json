@@ -1,0 +1,19 @@
+[
+    {
+        "code": "39401",
+        "postal_old": "78913",
+        "postal_new": "7891301",
+        "pref_kana": "ｺｳﾁｹﾝ",
+        "address1_kana": "ﾀｶｵｶｸﾞﾝﾅｶﾄｻﾁｮｳ",
+        "address2_kana": "ｸﾚ",
+        "pref": "高知県",
+        "address1": "高岡郡中土佐町",
+        "address2": "久礼",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

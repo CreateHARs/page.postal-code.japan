@@ -1,0 +1,19 @@
+[
+    {
+        "code": "11105",
+        "postal_old": "330  ",
+        "postal_new": "3306026",
+        "pref_kana": "ｻｲﾀﾏｹﾝ",
+        "address1_kana": "ｻｲﾀﾏｼﾁｭｳｵｳｸ",
+        "address2_kana": "ｼﾝﾄｼﾝﾒｲｼﾞﾔｽﾀﾞｾｲﾒｲｻｲﾀﾏｼﾝﾄｼﾝﾋﾞﾙ(26ｶｲ)",
+        "pref": "埼玉県",
+        "address1": "さいたま市中央区",
+        "address2": "新都心明治安田生命さいたま新都心ビル（２６階）",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

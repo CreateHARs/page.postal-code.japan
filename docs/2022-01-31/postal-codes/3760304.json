@@ -1,0 +1,19 @@
+[
+    {
+        "code": "10212",
+        "postal_old": "37603",
+        "postal_new": "3760304",
+        "pref_kana": "ｸﾞﾝﾏｹﾝ",
+        "address1_kana": "ﾐﾄﾞﾘｼ",
+        "address2_kana": "ｱｽﾞﾏﾁｮｳｺﾞｳﾄﾞ",
+        "pref": "群馬県",
+        "address1": "みどり市",
+        "address2": "東町神戸",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

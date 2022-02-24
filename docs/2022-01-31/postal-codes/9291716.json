@@ -1,0 +1,19 @@
+[
+    {
+        "code": "17407",
+        "postal_old": "92917",
+        "postal_new": "9291716",
+        "pref_kana": "ｲｼｶﾜｹﾝ",
+        "address1_kana": "ｶｼﾏｸﾞﾝﾅｶﾉﾄﾏﾁ",
+        "address2_kana": "ｸﾛｼﾞ",
+        "pref": "石川県",
+        "address1": "鹿島郡中能登町",
+        "address2": "黒氏",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

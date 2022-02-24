@@ -1,0 +1,19 @@
+[
+    {
+        "code": "06461",
+        "postal_old": "99983",
+        "postal_new": "9998315",
+        "pref_kana": "ﾔﾏｶﾞﾀｹﾝ",
+        "address1_kana": "ｱｸﾐｸﾞﾝﾕｻﾞﾏﾁ",
+        "address2_kana": "ｵｵﾜﾗﾋﾞｵｶ",
+        "pref": "山形県",
+        "address1": "飽海郡遊佐町",
+        "address2": "大蕨岡",
+        "is_multi_code": "0",
+        "is_koaza": "1",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

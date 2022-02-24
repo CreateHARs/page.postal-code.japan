@@ -1,0 +1,19 @@
+[
+    {
+        "code": "44211",
+        "postal_old": "87911",
+        "postal_new": "8791132",
+        "pref_kana": "ｵｵｲﾀｹﾝ",
+        "address1_kana": "ｳｻｼ",
+        "address2_kana": "ｲﾜｻｷ",
+        "pref": "大分県",
+        "address1": "宇佐市",
+        "address2": "岩崎",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

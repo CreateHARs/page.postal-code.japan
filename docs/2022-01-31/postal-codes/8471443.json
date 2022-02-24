@@ -1,0 +1,19 @@
+[
+    {
+        "code": "41387",
+        "postal_old": "84714",
+        "postal_new": "8471443",
+        "pref_kana": "ｻｶﾞｹﾝ",
+        "address1_kana": "ﾋｶﾞｼﾏﾂｳﾗｸﾞﾝｹﾞﾝｶｲﾁｮｳ",
+        "address2_kana": "ｶﾘﾀﾞﾁ",
+        "pref": "佐賀県",
+        "address1": "東松浦郡玄海町",
+        "address2": "仮立",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

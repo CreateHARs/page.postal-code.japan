@@ -1,0 +1,19 @@
+[
+    {
+        "code": "32201",
+        "postal_old": "69012",
+        "postal_new": "6901213",
+        "pref_kana": "ｼﾏﾈｹﾝ",
+        "address1_kana": "ﾏﾂｴｼ",
+        "address2_kana": "ｼﾏﾈﾁｮｳﾀｺ",
+        "pref": "島根県",
+        "address1": "松江市",
+        "address2": "島根町多古",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

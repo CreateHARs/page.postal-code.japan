@@ -1,0 +1,19 @@
+[
+    {
+        "code": "46404",
+        "postal_old": "89913",
+        "postal_new": "8991303",
+        "pref_kana": "ｶｺﾞｼﾏｹﾝ",
+        "address1_kana": "ｲｽﾞﾐｸﾞﾝﾅｶﾞｼﾏﾁｮｳ",
+        "address2_kana": "ｻｽｴ",
+        "pref": "鹿児島県",
+        "address1": "出水郡長島町",
+        "address2": "指江",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

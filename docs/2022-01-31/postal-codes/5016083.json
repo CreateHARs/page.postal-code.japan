@@ -1,0 +1,19 @@
+[
+    {
+        "code": "21303",
+        "postal_old": "50161",
+        "postal_new": "5016083",
+        "pref_kana": "ｷﾞﾌｹﾝ",
+        "address1_kana": "ﾊｼﾏｸﾞﾝｶｻﾏﾂﾁｮｳ",
+        "address2_kana": "ﾄｷﾜﾁｮｳ",
+        "pref": "岐阜県",
+        "address1": "羽島郡笠松町",
+        "address2": "常盤町",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

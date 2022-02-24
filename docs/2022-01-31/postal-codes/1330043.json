@@ -1,0 +1,19 @@
+[
+    {
+        "code": "13123",
+        "postal_old": "133  ",
+        "postal_new": "1330043",
+        "pref_kana": "ﾄｳｷｮｳﾄ",
+        "address1_kana": "ｴﾄﾞｶﾞﾜｸ",
+        "address2_kana": "ﾏﾂﾓﾄ",
+        "pref": "東京都",
+        "address1": "江戸川区",
+        "address2": "松本",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "1",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

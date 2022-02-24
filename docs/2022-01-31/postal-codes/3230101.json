@@ -1,0 +1,19 @@
+[
+    {
+        "code": "09216",
+        "postal_old": "30702",
+        "postal_new": "3230101",
+        "pref_kana": "ﾄﾁｷﾞｹﾝ",
+        "address1_kana": "ｼﾓﾂｹｼ",
+        "address2_kana": "ｻﾝﾉｳﾔﾏ",
+        "pref": "栃木県",
+        "address1": "下野市",
+        "address2": "三王山",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

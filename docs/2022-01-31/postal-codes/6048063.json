@@ -1,0 +1,36 @@
+[
+    {
+        "code": "26104",
+        "postal_old": "604  ",
+        "postal_new": "6048063",
+        "pref_kana": "ｷｮｳﾄﾌ",
+        "address1_kana": "ｷｮｳﾄｼﾅｶｷﾞｮｳｸ",
+        "address2_kana": "ｱﾌﾞﾗﾔﾁｮｳ",
+        "pref": "京都府",
+        "address1": "京都市中京区",
+        "address2": "油屋町（蛸薬師通麸屋町西入、蛸薬師通富小路東入、蛸薬師通富小路西入、",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    },
+    {
+        "code": "26104",
+        "postal_old": "604  ",
+        "postal_new": "6048063",
+        "pref_kana": "ｷｮｳﾄﾌ",
+        "address1_kana": "ｷｮｳﾄｼﾅｶｷﾞｮｳｸ",
+        "address2_kana": "ｱﾌﾞﾗﾔﾁｮｳ",
+        "pref": "京都府",
+        "address1": "京都市中京区",
+        "address2": "蛸薬師通柳馬場東入、富小路通蛸薬師上る、富小路通蛸薬師下る）",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

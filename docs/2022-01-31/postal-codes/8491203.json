@@ -1,0 +1,19 @@
+[
+    {
+        "code": "41425",
+        "postal_old": "84912",
+        "postal_new": "8491203",
+        "pref_kana": "ｻｶﾞｹﾝ",
+        "address1_kana": "ｷｼﾏｸﾞﾝｼﾛｲｼﾁｮｳ",
+        "address2_kana": "ﾄｶﾞﾘ",
+        "pref": "佐賀県",
+        "address1": "杵島郡白石町",
+        "address2": "戸ケ里",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

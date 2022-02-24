@@ -1,0 +1,19 @@
+[
+    {
+        "code": "45430",
+        "postal_old": "88304",
+        "postal_new": "8830402",
+        "pref_kana": "ﾐﾔｻﾞｷｹﾝ",
+        "address1_kana": "ﾋｶﾞｼｳｽｷｸﾞﾝｼｲﾊﾞｿﾝ",
+        "address2_kana": "ｵｵｶﾜｳﾁ(1-1302ﾊﾞﾝﾁ)",
+        "pref": "宮崎県",
+        "address1": "東臼杵郡椎葉村",
+        "address2": "大河内（１〜１３０２番地）",
+        "is_multi_code": "1",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

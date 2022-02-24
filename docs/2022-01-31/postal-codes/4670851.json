@@ -1,0 +1,19 @@
+[
+    {
+        "code": "23108",
+        "postal_old": "467  ",
+        "postal_new": "4670851",
+        "pref_kana": "ｱｲﾁｹﾝ",
+        "address1_kana": "ﾅｺﾞﾔｼﾐｽﾞﾎｸ",
+        "address2_kana": "ｼｵｲﾘﾁｮｳ",
+        "pref": "愛知県",
+        "address1": "名古屋市瑞穂区",
+        "address2": "塩入町",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

@@ -1,0 +1,19 @@
+[
+    {
+        "code": "03207",
+        "postal_old": "02886",
+        "postal_new": "0288602",
+        "pref_kana": "ｲﾜﾃｹﾝ",
+        "address1_kana": "ｸｼﾞｼ",
+        "address2_kana": "ﾔﾏｶﾞﾀﾁｮｳｶﾜｲ",
+        "pref": "岩手県",
+        "address1": "久慈市",
+        "address2": "山形町川井",
+        "is_multi_code": "0",
+        "is_koaza": "1",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

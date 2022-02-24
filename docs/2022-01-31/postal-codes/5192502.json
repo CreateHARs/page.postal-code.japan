@@ -1,0 +1,19 @@
+[
+    {
+        "code": "24443",
+        "postal_old": "51925",
+        "postal_new": "5192502",
+        "pref_kana": "ﾐｴｹﾝ",
+        "address1_kana": "ﾀｷｸﾞﾝｵｵﾀﾞｲﾁｮｳ",
+        "address2_kana": "ｶﾐﾏﾃ",
+        "pref": "三重県",
+        "address1": "多気郡大台町",
+        "address2": "上真手",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

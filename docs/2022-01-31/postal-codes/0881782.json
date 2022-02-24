@@ -1,0 +1,19 @@
+[
+    {
+        "code": "01223",
+        "postal_old": "08817",
+        "postal_new": "0881782",
+        "pref_kana": "ﾎｯｶｲﾄﾞｳ",
+        "address1_kana": "ﾈﾑﾛｼ",
+        "address2_kana": "ｵﾁｲｼﾋｶﾞｼ",
+        "pref": "北海道",
+        "address1": "根室市",
+        "address2": "落石東",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

@@ -1,0 +1,19 @@
+[
+    {
+        "code": "28102",
+        "postal_old": "657  ",
+        "postal_new": "6570802",
+        "pref_kana": "ﾋｮｳｺﾞｹﾝ",
+        "address1_kana": "ｺｳﾍﾞｼﾅﾀﾞｸ",
+        "address2_kana": "ﾊﾗﾀﾞ",
+        "pref": "兵庫県",
+        "address1": "神戸市灘区",
+        "address2": "原田",
+        "is_multi_code": "0",
+        "is_koaza": "1",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

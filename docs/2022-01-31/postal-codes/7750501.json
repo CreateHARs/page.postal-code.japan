@@ -1,0 +1,19 @@
+[
+    {
+        "code": "36388",
+        "postal_old": "77505",
+        "postal_new": "7750501",
+        "pref_kana": "ﾄｸｼﾏｹﾝ",
+        "address1_kana": "ｶｲﾌｸﾞﾝｶｲﾖｳﾁｮｳ",
+        "address2_kana": "ｼｼｸｲｳﾗ(ｿﾉﾀ)",
+        "pref": "徳島県",
+        "address1": "海部郡海陽町",
+        "address2": "宍喰浦（その他）",
+        "is_multi_code": "1",
+        "is_koaza": "1",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

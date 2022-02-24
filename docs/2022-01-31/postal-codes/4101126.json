@@ -1,0 +1,19 @@
+[
+    {
+        "code": "22220",
+        "postal_old": "41011",
+        "postal_new": "4101126",
+        "pref_kana": "ｼｽﾞｵｶｹﾝ",
+        "address1_kana": "ｽｿﾉｼ",
+        "address2_kana": "ﾓﾓｿﾞﾉ",
+        "pref": "静岡県",
+        "address1": "裾野市",
+        "address2": "桃園",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

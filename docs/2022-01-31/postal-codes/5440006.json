@@ -1,0 +1,19 @@
+[
+    {
+        "code": "27116",
+        "postal_old": "544  ",
+        "postal_new": "5440006",
+        "pref_kana": "ｵｵｻｶﾌ",
+        "address1_kana": "ｵｵｻｶｼｲｸﾉｸ",
+        "address2_kana": "ﾅｶｶﾞﾜﾋｶﾞｼ",
+        "pref": "大阪府",
+        "address1": "大阪市生野区",
+        "address2": "中川東",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "1",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

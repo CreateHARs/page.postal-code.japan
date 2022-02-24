@@ -1,0 +1,36 @@
+[
+    {
+        "code": "23235",
+        "postal_old": "49014",
+        "postal_new": "4901422",
+        "pref_kana": "ｱｲﾁｹﾝ",
+        "address1_kana": "ﾔﾄﾐｼ",
+        "address2_kana": "ｼﾓｵｼﾊｷﾞ",
+        "pref": "愛知県",
+        "address1": "弥富市",
+        "address2": "下押萩",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "1",
+        "is_multi_place": "1",
+        "is_updated": "0",
+        "update_reason": "0"
+    },
+    {
+        "code": "23235",
+        "postal_old": "49014",
+        "postal_new": "4901422",
+        "pref_kana": "ｱｲﾁｹﾝ",
+        "address1_kana": "ﾔﾄﾐｼ",
+        "address2_kana": "ｼﾓｵｼﾊｷﾞﾁｮｳ",
+        "pref": "愛知県",
+        "address1": "弥富市",
+        "address2": "下押萩町",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "1",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

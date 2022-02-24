@@ -1,0 +1,19 @@
+[
+    {
+        "code": "12226",
+        "postal_old": "29916",
+        "postal_new": "2991601",
+        "pref_kana": "ﾁﾊﾞｹﾝ",
+        "address1_kana": "ﾌｯﾂｼ",
+        "address2_kana": "ｻｸﾗｲｿｳｼｮｳｷﾅﾀﾞﾔﾏ",
+        "pref": "千葉県",
+        "address1": "富津市",
+        "address2": "桜井総稱鬼泪山",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

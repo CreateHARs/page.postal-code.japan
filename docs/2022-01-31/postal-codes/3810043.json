@@ -1,0 +1,19 @@
+[
+    {
+        "code": "20201",
+        "postal_old": "381  ",
+        "postal_new": "3810043",
+        "pref_kana": "ﾅｶﾞﾉｹﾝ",
+        "address1_kana": "ﾅｶﾞﾉｼ",
+        "address2_kana": "ﾖｼﾀﾞ",
+        "pref": "長野県",
+        "address1": "長野市",
+        "address2": "吉田",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "1",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

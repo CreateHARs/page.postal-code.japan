@@ -1,0 +1,19 @@
+[
+    {
+        "code": "03506",
+        "postal_old": "02865",
+        "postal_new": "0286501",
+        "pref_kana": "ｲﾜﾃｹﾝ",
+        "address1_kana": "ｸﾉﾍｸﾞﾝｸﾉﾍﾑﾗ",
+        "address2_kana": "ｱﾗﾔ",
+        "pref": "岩手県",
+        "address1": "九戸郡九戸村",
+        "address2": "荒谷",
+        "is_multi_code": "0",
+        "is_koaza": "1",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

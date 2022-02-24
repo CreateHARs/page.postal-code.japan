@@ -1,0 +1,19 @@
+[
+    {
+        "code": "43403",
+        "postal_old": "86912",
+        "postal_new": "8691219",
+        "pref_kana": "ｸﾏﾓﾄｹﾝ",
+        "address1_kana": "ｷｸﾁｸﾞﾝｵｵﾂﾞﾏﾁ",
+        "address2_kana": "ｵｵﾊﾞﾔｼ",
+        "pref": "熊本県",
+        "address1": "菊池郡大津町",
+        "address2": "大林",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

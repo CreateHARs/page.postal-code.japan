@@ -1,0 +1,19 @@
+[
+    {
+        "code": "03209",
+        "postal_old": "021  ",
+        "postal_new": "0210891",
+        "pref_kana": "ｲﾜﾃｹﾝ",
+        "address1_kana": "ｲﾁﾉｾｷｼ",
+        "address2_kana": "ｻｸﾗｷﾞﾁｮｳ",
+        "pref": "岩手県",
+        "address1": "一関市",
+        "address2": "桜木町",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

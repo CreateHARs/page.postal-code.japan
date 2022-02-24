@@ -1,0 +1,19 @@
+[
+    {
+        "code": "43214",
+        "postal_old": "86924",
+        "postal_new": "8692413",
+        "pref_kana": "ｸﾏﾓﾄｹﾝ",
+        "address1_kana": "ｱｿｼ",
+        "address2_kana": "ﾔﾏﾀﾞ(ｸﾗﾄｺ､ﾊｼﾀﾞｲ､ﾐｮｳｶﾞﾊﾗ)",
+        "pref": "熊本県",
+        "address1": "阿蘇市",
+        "address2": "山田（蔵床、橋台、茗ケ原）",
+        "is_multi_code": "1",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

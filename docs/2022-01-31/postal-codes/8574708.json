@@ -1,0 +1,19 @@
+[
+    {
+        "code": "42383",
+        "postal_old": "85747",
+        "postal_new": "8574708",
+        "pref_kana": "ﾅｶﾞｻｷｹﾝ",
+        "address1_kana": "ｷﾀﾏﾂｳﾗｸﾞﾝｵﾁﾞｶﾁｮｳ",
+        "address2_kana": "ｵｵｼﾏｺﾞｳ",
+        "pref": "長崎県",
+        "address1": "北松浦郡小値賀町",
+        "address2": "大島郷",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

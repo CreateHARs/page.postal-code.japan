@@ -1,0 +1,19 @@
+[
+    {
+        "code": "07445",
+        "postal_old": "968  ",
+        "postal_new": "9680014",
+        "pref_kana": "ﾌｸｼﾏｹﾝ",
+        "address1_kana": "ｵｵﾇﾏｸﾞﾝｶﾈﾔﾏﾏﾁ",
+        "address2_kana": "ﾀﾏﾅｼ",
+        "pref": "福島県",
+        "address1": "大沼郡金山町",
+        "address2": "玉梨",
+        "is_multi_code": "0",
+        "is_koaza": "1",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

@@ -1,0 +1,19 @@
+[
+    {
+        "code": "29342",
+        "postal_old": "636  ",
+        "postal_new": "6360903",
+        "pref_kana": "ﾅﾗｹﾝ",
+        "address1_kana": "ｲｺﾏｸﾞﾝﾍｸﾞﾘﾁｮｳ",
+        "address2_kana": "ﾋﾞｮｳﾄﾞｳｼﾞ",
+        "pref": "奈良県",
+        "address1": "生駒郡平群町",
+        "address2": "平等寺",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

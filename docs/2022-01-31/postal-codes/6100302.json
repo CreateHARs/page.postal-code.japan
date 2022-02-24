@@ -1,0 +1,19 @@
+[
+    {
+        "code": "26343",
+        "postal_old": "61003",
+        "postal_new": "6100302",
+        "pref_kana": "ｷｮｳﾄﾌ",
+        "address1_kana": "ﾂﾂﾞｷｸﾞﾝｲﾃﾞﾁｮｳ",
+        "address2_kana": "ｲﾃﾞ",
+        "pref": "京都府",
+        "address1": "綴喜郡井手町",
+        "address2": "井手",
+        "is_multi_code": "0",
+        "is_koaza": "1",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

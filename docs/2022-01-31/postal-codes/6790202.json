@@ -1,0 +1,19 @@
+[
+    {
+        "code": "28228",
+        "postal_old": "67902",
+        "postal_new": "6790202",
+        "pref_kana": "ﾋｮｳｺﾞｹﾝ",
+        "address1_kana": "ｶﾄｳｼ",
+        "address2_kana": "ｵｲﾀﾞ",
+        "pref": "兵庫県",
+        "address1": "加東市",
+        "address2": "多井田",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

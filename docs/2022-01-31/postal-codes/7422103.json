@@ -1,0 +1,19 @@
+[
+    {
+        "code": "35305",
+        "postal_old": "74221",
+        "postal_new": "7422103",
+        "pref_kana": "ﾔﾏｸﾞﾁｹﾝ",
+        "address1_kana": "ｵｵｼﾏｸﾞﾝｽｵｳｵｵｼﾏﾁｮｳ",
+        "address2_kana": "ﾆｼﾔｼﾛ",
+        "pref": "山口県",
+        "address1": "大島郡周防大島町",
+        "address2": "西屋代",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

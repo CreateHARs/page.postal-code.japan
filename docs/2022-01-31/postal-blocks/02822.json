@@ -1,0 +1,53 @@
+[
+    {
+        "code": "03483",
+        "postal_old": "02822",
+        "postal_new": "0282231",
+        "pref_kana": "ｲﾜﾃｹﾝ",
+        "address1_kana": "ｼﾓﾍｲｸﾞﾝｲﾜｲｽﾞﾐﾁｮｳ",
+        "address2_kana": "ｱｻﾅｲ",
+        "pref": "岩手県",
+        "address1": "下閉伊郡岩泉町",
+        "address2": "浅内",
+        "is_multi_code": "0",
+        "is_koaza": "1",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    },
+    {
+        "code": "03483",
+        "postal_old": "02822",
+        "postal_new": "0282232",
+        "pref_kana": "ｲﾜﾃｹﾝ",
+        "address1_kana": "ｼﾓﾍｲｸﾞﾝｲﾜｲｽﾞﾐﾁｮｳ",
+        "address2_kana": "ｵｵｶﾜ",
+        "pref": "岩手県",
+        "address1": "下閉伊郡岩泉町",
+        "address2": "大川",
+        "is_multi_code": "0",
+        "is_koaza": "1",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    },
+    {
+        "code": "03483",
+        "postal_old": "02822",
+        "postal_new": "0282233",
+        "pref_kana": "ｲﾜﾃｹﾝ",
+        "address1_kana": "ｼﾓﾍｲｸﾞﾝｲﾜｲｽﾞﾐﾁｮｳ",
+        "address2_kana": "ｶﾏﾂﾀ(ｿﾉﾀ)",
+        "pref": "岩手県",
+        "address1": "下閉伊郡岩泉町",
+        "address2": "釜津田（その他）",
+        "is_multi_code": "1",
+        "is_koaza": "1",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

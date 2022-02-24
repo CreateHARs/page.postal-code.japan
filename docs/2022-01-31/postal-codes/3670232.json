@@ -1,0 +1,19 @@
+[
+    {
+        "code": "11383",
+        "postal_old": "36702",
+        "postal_new": "3670232",
+        "pref_kana": "ｻｲﾀﾏｹﾝ",
+        "address1_kana": "ｺﾀﾞﾏｸﾞﾝｶﾐｶﾜﾏﾁ",
+        "address2_kana": "ﾆｲｻﾄ",
+        "pref": "埼玉県",
+        "address1": "児玉郡神川町",
+        "address2": "新里",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

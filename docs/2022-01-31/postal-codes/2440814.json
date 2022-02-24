@@ -1,0 +1,19 @@
+[
+    {
+        "code": "14110",
+        "postal_old": "244  ",
+        "postal_new": "2440814",
+        "pref_kana": "ｶﾅｶﾞﾜｹﾝ",
+        "address1_kana": "ﾖｺﾊﾏｼﾄﾂｶｸ",
+        "address2_kana": "ﾐﾅﾐﾏｲｵｶ",
+        "pref": "神奈川県",
+        "address1": "横浜市戸塚区",
+        "address2": "南舞岡",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "1",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

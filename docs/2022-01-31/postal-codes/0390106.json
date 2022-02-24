@@ -1,0 +1,19 @@
+[
+    {
+        "code": "02445",
+        "postal_old": "03901",
+        "postal_new": "0390106",
+        "pref_kana": "ｱｵﾓﾘｹﾝ",
+        "address1_kana": "ｻﾝﾉﾍｸﾞﾝﾅﾝﾌﾞﾁｮｳ",
+        "address2_kana": "ｱｲﾅｲ(ｿﾉﾀ)",
+        "pref": "青森県",
+        "address1": "三戸郡南部町",
+        "address2": "相内（その他）",
+        "is_multi_code": "1",
+        "is_koaza": "1",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

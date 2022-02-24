@@ -1,0 +1,19 @@
+[
+    {
+        "code": "24204",
+        "postal_old": "515  ",
+        "postal_new": "5150064",
+        "pref_kana": "ﾐｴｹﾝ",
+        "address1_kana": "ﾏﾂｻｶｼ",
+        "address2_kana": "ｺﾞﾀﾝﾀﾞﾁｮｳ",
+        "pref": "三重県",
+        "address1": "松阪市",
+        "address2": "五反田町",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "1",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

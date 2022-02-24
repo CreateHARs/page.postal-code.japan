@@ -1,0 +1,19 @@
+[
+    {
+        "code": "03366",
+        "postal_old": "02955",
+        "postal_new": "0295507",
+        "pref_kana": "ｲﾜﾃｹﾝ",
+        "address1_kana": "ﾜｶﾞｸﾞﾝﾆｼﾜｶﾞﾏﾁ",
+        "address2_kana": "ｵｵｸﾂ36ﾁﾜﾘ",
+        "pref": "岩手県",
+        "address1": "和賀郡西和賀町",
+        "address2": "大沓３６地割",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

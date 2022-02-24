@@ -1,0 +1,19 @@
+[
+    {
+        "code": "01482",
+        "postal_old": "07833",
+        "postal_new": "0783302",
+        "pref_kana": "ﾎｯｶｲﾄﾞｳ",
+        "address1_kana": "ﾙﾓｲｸﾞﾝｵﾋﾞﾗﾁｮｳ",
+        "address2_kana": "ｳｽﾔ",
+        "pref": "北海道",
+        "address1": "留萌郡小平町",
+        "address2": "臼谷",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

@@ -1,0 +1,53 @@
+[
+    {
+        "code": "32205",
+        "postal_old": "69404",
+        "postal_new": "6940431",
+        "pref_kana": "ｼﾏﾈｹﾝ",
+        "address1_kana": "ｵｵﾀﾞｼ",
+        "address2_kana": "ｿｼﾞｷﾁｮｳ",
+        "pref": "島根県",
+        "address1": "大田市",
+        "address2": "祖式町",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    },
+    {
+        "code": "32205",
+        "postal_old": "69404",
+        "postal_new": "6940432",
+        "pref_kana": "ｼﾏﾈｹﾝ",
+        "address1_kana": "ｵｵﾀﾞｼ",
+        "address2_kana": "ｵｵｼﾛﾁｮｳﾆｲﾔ",
+        "pref": "島根県",
+        "address1": "大田市",
+        "address2": "大代町新屋",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    },
+    {
+        "code": "32205",
+        "postal_old": "69404",
+        "postal_new": "6940433",
+        "pref_kana": "ｼﾏﾈｹﾝ",
+        "address1_kana": "ｵｵﾀﾞｼ",
+        "address2_kana": "ｵｵｼﾛﾁｮｳｵｵｴ",
+        "pref": "島根県",
+        "address1": "大田市",
+        "address2": "大代町大家",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

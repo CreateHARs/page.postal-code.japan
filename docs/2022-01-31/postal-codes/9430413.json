@@ -1,0 +1,19 @@
+[
+    {
+        "code": "15222",
+        "postal_old": "94304",
+        "postal_new": "9430413",
+        "pref_kana": "ﾆｲｶﾞﾀｹﾝ",
+        "address1_kana": "ｼﾞｮｳｴﾂｼ",
+        "address2_kana": "ﾐﾅﾐｶﾞﾀ",
+        "pref": "新潟県",
+        "address1": "上越市",
+        "address2": "南方",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

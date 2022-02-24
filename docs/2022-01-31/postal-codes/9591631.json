@@ -1,0 +1,19 @@
+[
+    {
+        "code": "15218",
+        "postal_old": "95916",
+        "postal_new": "9591631",
+        "pref_kana": "ﾆｲｶﾞﾀｹﾝ",
+        "address1_kana": "ｺﾞｾﾝｼ",
+        "address2_kana": "ｻﾙﾜﾀﾞ",
+        "pref": "新潟県",
+        "address1": "五泉市",
+        "address2": "猿和田",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

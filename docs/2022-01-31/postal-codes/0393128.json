@@ -1,0 +1,36 @@
+[
+    {
+        "code": "02401",
+        "postal_old": "03931",
+        "postal_new": "0393128",
+        "pref_kana": "ｱｵﾓﾘｹﾝ",
+        "address1_kana": "ｶﾐｷﾀｸﾞﾝﾉﾍｼﾞﾏﾁ",
+        "address2_kana": "ｶﾐﾏｴﾀﾞ",
+        "pref": "青森県",
+        "address1": "上北郡野辺地町",
+        "address2": "上前田",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "1",
+        "is_updated": "0",
+        "update_reason": "0"
+    },
+    {
+        "code": "02401",
+        "postal_old": "03931",
+        "postal_new": "0393128",
+        "pref_kana": "ｱｵﾓﾘｹﾝ",
+        "address1_kana": "ｶﾐｷﾀｸﾞﾝﾉﾍｼﾞﾏﾁ",
+        "address2_kana": "ﾋﾙﾊﾞ",
+        "pref": "青森県",
+        "address1": "上北郡野辺地町",
+        "address2": "昼場",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "1",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

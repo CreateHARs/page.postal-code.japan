@@ -1,0 +1,19 @@
+[
+    {
+        "code": "28217",
+        "postal_old": "666  ",
+        "postal_new": "6660006",
+        "pref_kana": "ﾋｮｳｺﾞｹﾝ",
+        "address1_kana": "ｶﾜﾆｼｼ",
+        "address2_kana": "ﾊｷﾞﾊﾗﾀﾞｲﾆｼ(1､2ﾁｮｳﾒ､3ﾁｮｳﾒ1ﾊﾞﾝ-282ﾊﾞﾝ)",
+        "pref": "兵庫県",
+        "address1": "川西市",
+        "address2": "萩原台西（１、２丁目、３丁目１番〜２８２番）",
+        "is_multi_code": "1",
+        "is_koaza": "0",
+        "is_choume": "1",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

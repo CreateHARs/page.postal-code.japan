@@ -1,0 +1,19 @@
+[
+    {
+        "code": "18442",
+        "postal_old": "91911",
+        "postal_new": "9191138",
+        "pref_kana": "ﾌｸｲｹﾝ",
+        "address1_kana": "ﾐｶﾀｸﾞﾝﾐﾊﾏﾁｮｳ",
+        "address2_kana": "ｶﾜﾗｲﾁ",
+        "pref": "福井県",
+        "address1": "三方郡美浜町",
+        "address2": "河原市",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

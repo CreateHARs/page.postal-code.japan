@@ -1,0 +1,19 @@
+[
+    {
+        "code": "32343",
+        "postal_old": "69914",
+        "postal_new": "6991432",
+        "pref_kana": "ｼﾏﾈｹﾝ",
+        "address1_kana": "ﾆﾀｸﾞﾝｵｸｲｽﾞﾓﾁｮｳ",
+        "address2_kana": "ﾏﾊﾞｾ",
+        "pref": "島根県",
+        "address1": "仁多郡奥出雲町",
+        "address2": "馬馳",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

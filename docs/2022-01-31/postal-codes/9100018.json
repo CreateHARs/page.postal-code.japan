@@ -1,0 +1,19 @@
+[
+    {
+        "code": "18201",
+        "postal_old": "910  ",
+        "postal_new": "9100018",
+        "pref_kana": "ﾌｸｲｹﾝ",
+        "address1_kana": "ﾌｸｲｼ",
+        "address2_kana": "ﾀﾜﾗ",
+        "pref": "福井県",
+        "address1": "福井市",
+        "address2": "田原",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "1",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

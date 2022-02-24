@@ -1,0 +1,19 @@
+[
+    {
+        "code": "01428",
+        "postal_old": "06913",
+        "postal_new": "0691345",
+        "pref_kana": "ﾎｯｶｲﾄﾞｳ",
+        "address1_kana": "ﾕｳﾊﾞﾘｸﾞﾝﾅｶﾞﾇﾏﾁｮｳ",
+        "address2_kana": "ｼﾗｶﾊﾞ",
+        "pref": "北海道",
+        "address1": "夕張郡長沼町",
+        "address2": "しらかば",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

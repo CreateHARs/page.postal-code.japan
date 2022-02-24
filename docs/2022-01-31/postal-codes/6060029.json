@@ -1,0 +1,19 @@
+[
+    {
+        "code": "26103",
+        "postal_old": "606  ",
+        "postal_new": "6060029",
+        "pref_kana": "ｷｮｳﾄﾌ",
+        "address1_kana": "ｷｮｳﾄｼｻｷｮｳｸ",
+        "address2_kana": "ｲﾜｸﾗｷﾀﾋﾗｵｶﾁｮｳ",
+        "pref": "京都府",
+        "address1": "京都市左京区",
+        "address2": "岩倉北平岡町",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]
