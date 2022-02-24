@@ -6,11 +6,13 @@ import csv, operator
 from itertools import groupby
 from const import \
     FILE_ENDPOINT_ORIGINAL_CSV, \
-    FILE_ENDPOINT_ORIGINAL_CSV_COLUMNS, \
     FILE_ENDPOINT_ALL_CSV, \
     FILE_ENDPOINT_PER_AREA_CSV, \
     FILE_ENDPOINT_PER_BLOCK_LARGE_CSV,\
-    FILE_ENDPOINT_PER_POSTAL_CODE_CSV
+    FILE_ENDPOINT_PER_POSTAL_CODE_CSV, \
+    CSV_COLUMNS_ORIGINAL, \
+    CSV_COLUMNS_ORDERED
+
 
 def create_fixed_files(latest_update_date_dir):
     original_csv = latest_update_date_dir + FILE_ENDPOINT_ORIGINAL_CSV
@@ -22,7 +24,7 @@ def create_fixed_files(latest_update_date_dir):
         writer = csv.writer(dest, quotechar='"', quoting=csv.QUOTE_ALL)
 
         data = sorted(reader, key=operator.itemgetter(2))
-        writer.writerow(FILE_ENDPOINT_ORIGINAL_CSV_COLUMNS)
+        writer.writerow(CSV_COLUMNS_ORIGINAL)
 
         rows = []
         for line in data:
@@ -37,7 +39,7 @@ def create_fixed_files(latest_update_date_dir):
             fixed_per_area_json = fixed_per_area_csv.replace('.csv', '.json')
             div_file = open(fixed_per_area_csv, 'w')
             div_writer = csv.writer(div_file)
-            div_writer.writerow(FILE_ENDPOINT_ORIGINAL_CSV_COLUMNS)
+            div_writer.writerow(CSV_COLUMNS_ORIGINAL)
             div_writer.writerows(group)
             div_file.close()
             create_json_from_csv(fixed_per_area_csv, fixed_per_area_json)
@@ -48,7 +50,7 @@ def create_fixed_files(latest_update_date_dir):
             fixed_per_block_large_json = fixed_per_block_large_csv.replace('.csv', '.json')
             div_file = open(fixed_per_block_large_csv, 'w')
             div_writer = csv.writer(div_file)
-            div_writer.writerow(FILE_ENDPOINT_ORIGINAL_CSV_COLUMNS)
+            div_writer.writerow(CSV_COLUMNS_ORIGINAL)
             div_writer.writerows(group)
             div_file.close()
             create_json_from_csv(fixed_per_block_large_csv, fixed_per_block_large_json)
@@ -59,7 +61,7 @@ def create_fixed_files(latest_update_date_dir):
             fixed_per_postal_code_json = fixed_per_postal_code_csv.replace('.csv', '.json')
             div_file = open(fixed_per_postal_code_csv, 'w')
             div_writer = csv.writer(div_file)
-            div_writer.writerow(FILE_ENDPOINT_ORIGINAL_CSV_COLUMNS)
+            div_writer.writerow(CSV_COLUMNS_ORIGINAL)
             div_writer.writerows(group)
             div_file.close()
             create_json_from_csv(fixed_per_postal_code_csv, fixed_per_postal_code_json)
@@ -69,7 +71,7 @@ def create_json_from_csv(from_csv, to_json):
     json_list = []
     with open(from_csv, 'r') as src:
         reader = csv.DictReader(src)
-        data = [OrderedDict((field, row[field]) for field in reader.fieldnames) for row in reader]
+        data = [OrderedDict((field, row[field]) for field in CSV_COLUMNS_ORDERED) for row in reader]
         for row in data:
             json_list.append(row)
     with open(to_json, 'w') as dest:
