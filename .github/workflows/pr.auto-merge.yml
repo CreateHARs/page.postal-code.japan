@@ -11,35 +11,32 @@ jobs:
   main:
     name    : run main
     runs-on : ubuntu-latest
-    # if      : startsWith(github.head_ref, 'actions/cron_auto-pr_')
+    if      : startsWith(github.head_ref, 'actions/cron_auto-pr_')
     timeout-minutes : 60
     steps   :
 
-      - name  : Checkout repository
+      - name  : "[STEP] Checkout repository"
         uses  : actions/checkout@v2
 
-      - name  : Setup Config
+      - name  : "[STEP] Setup Config"
         env   :
           TZ    : 'Asia/Tokyo'
         run   : |
           echo "CURRENT_DATETIME=$(date +'%Y-%m-%d_%H-%M-%S')" >> $GITHUB_ENV
+          echo "setup a user for commit/push."
           git config --local user.name  github-actions
           git config --local user.email github-actions@github.com
 
-      - name  : Merge New PR
+      - name  : "[STEP] Merge New PR"
         env   :
-          GITHUB_TOKEN : ${{ secrets.GITHUB_TOKEN }}
-          HEAD         : ${{ github.head_ref }}
-          PULL         : ${{ github.event.pull_request.head.ref }}
+          # GITHUB_TOKEN : ${{ secrets.GITHUB_TOKEN }}
+          GH_TOKEN     : ${{ secrets.ACTIONS_CHAIN_FLOW_PAT }}
           REPO_OWNER   : ${{ github.repository_owner }}
           REPO_NAME    : ${{ github.event.repository.name }}
         run   : |
-          echo ${HEAD}
-          echo ${PULL}
-          echo ${GITHUB_REF}
+          echo "GITHUB_REF: ${GITHUB_REF}"
           PR_NUMBER=$(echo $GITHUB_REF | awk 'BEGIN { FS = "/" } ; { print $3 }')
-          echo ${PR_NUMBER}
+          echo "PR_NUMBER: ${PR_NUMBER}"
           PR_URL="https://github.com/${REPO_OWNER}/${REPO_NAME}/pull/${PR_NUMBER}"
-          echo ${PR_URL}
-
-          # hub merge ${PR_URL}
+          echo "PR_URL: ${PR_URL}"
+          hub merge ${PR_URL} --merge --delete-branch
