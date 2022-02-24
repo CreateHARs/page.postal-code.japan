@@ -12,13 +12,13 @@ jobs:
     timeout-minutes : 120
     steps   :
 
-      - name  : Checkout repository
+      - name  : "[STEP] Checkout repository"
         uses  : actions/checkout@v2
         with  :
           ref   : main
           token : ${{ secrets.ACTIONS_CHAIN_FLOW_PAT }}
 
-      - name  : Setup Config
+      - name  : "[STEP] Setup Config"
         env   :
           TZ    : 'Asia/Tokyo'
         run   : |
@@ -27,13 +27,13 @@ jobs:
           git config --local user.name  github-actions
           git config --local user.email github-actions@github.com
 
-      - name  : Setup Python
+      - name  : "[STEP] Setup Python"
         uses  : actions/setup-python@v2
         with  :
           python-version : '2.7.18'
           architecture   : 'x64'
 
-      - name  : Run Python
+      - name  : "[STEP] Run Python"
         id    : step-python
         run   : |
           cd scripts/python
@@ -41,13 +41,7 @@ jobs:
           pip install -r requirements.txt
           python -B src/main.py
 
-#          # git add -N .
-#          git add .
-#          git_diff_count=`git diff --name-only | wc -l`
-#          echo "git_diff_count: ${git_diff_count}"
-#          echo "::set-output name=git-diff-count::${git_diff_count}"
-
-      - name  : Check Changes
+      - name  : "[STEP] Check Changes"
         id    : step-check-changes
         run   : |
           git add -N .
@@ -55,7 +49,7 @@ jobs:
           echo "git_diff_count: ${git_diff_count}"
           echo "::set-output name=git-diff-count::${git_diff_count}"
 
-      - name  : Create New Branch/PR
+      - name  : "[STEP] Create New Branch/PR"
         if    : steps.step-check-changes.outputs.git-diff-count > 0
         env   :
           # GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
@@ -72,5 +66,5 @@ jobs:
           git push
 
           #  hub pull-request --base main --head ${release_branch} -m "[release] ${{ env.CURRENT_DATETIME }}"
-          gh pr create --base main --head ${release_branch} --title "[release] ${{ env.CURRENT_DATETIME }}" 
+          gh pr create --base main --title "[release] ${{ env.CURRENT_DATETIME }}" 
 
