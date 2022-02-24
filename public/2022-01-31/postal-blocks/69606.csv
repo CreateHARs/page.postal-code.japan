@@ -1,0 +1,4 @@
+code,postal_old,postal_new,pref_kana,address1_kana,address2_kana,pref,address1,address2,is_multi_code,is_koaza,is_choume,is_multi_place,is_updated,update_reason
+32449,69606,6960601,ｼﾏﾈｹﾝ,ｵｵﾁｸﾞﾝｵｵﾅﾝﾁｮｳ,ｳｴﾀﾞ,島根県,邑智郡邑南町,上田,0,0,0,0,0,0
+32449,69606,6960602,ｼﾏﾈｹﾝ,ｵｵﾁｸﾞﾝｵｵﾅﾝﾁｮｳ,ｶﾐｸﾁﾊﾞ,島根県,邑智郡邑南町,上口羽,0,0,0,0,0,0
+32449,69606,6960603,ｼﾏﾈｹﾝ,ｵｵﾁｸﾞﾝｵｵﾅﾝﾁｮｳ,ｼﾓｸﾁﾊﾞ,島根県,邑智郡邑南町,下口羽,0,0,0,0,0,0
