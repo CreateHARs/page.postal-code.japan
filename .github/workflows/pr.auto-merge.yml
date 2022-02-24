@@ -37,4 +37,4 @@ jobs:
           PR_URL="https://github.com/${REPO_OWNER}/${REPO_NAME}/pull/${PR_NUMBER}"
           echo ${PR_URL}
 
-          # hub merge ${PR_URL}
+          hub merge ${PR_URL}
