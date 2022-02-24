@@ -16,6 +16,7 @@ jobs:
         uses  : actions/checkout@v2
         with  :
           ref   : main
+          token : ${{ secrets.ACTIONS_CHAIN_FLOW_PAT }}
 
       - name  : Setup Config
         env   :
@@ -46,11 +47,11 @@ jobs:
 
       - name  : Create New Branch/PR
         if    : steps.step-python.outputs.git-diff-count > 0
-        env   :
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+#        env   :
+#          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run   : |
-          echo ${{ steps.step-python.outputs.git-diff-count }}
           release_branch="actions/cron_auto-pr_${{ env.CURRENT_DATETIME }}"
+          echo `git branch --contains`
           git switch -c      ${release_branch}
           git push -u origin ${release_branch}
           echo `git branch --contains`
