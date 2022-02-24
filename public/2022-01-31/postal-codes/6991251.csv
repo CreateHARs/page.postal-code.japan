@@ -1,0 +1,3 @@
+code,postal_old,postal_new,pref_kana,address1_kana,address2_kana,pref,address1,address2,is_multi_code,is_koaza,is_choume,is_multi_place,is_updated,update_reason
+32209,69912,6991251,ｼﾏﾈｹﾝ,ｳﾝﾅﾝｼ,ﾀﾞｲﾄｳﾁｮｳｼﾝｼﾞｮｳ,島根県,雲南市,大東町新庄,0,0,0,1,0,0
+32209,69912,6991251,ｼﾏﾈｹﾝ,ｳﾝﾅﾝｼ,ﾀﾞｲﾄｳﾁｮｳﾀﾞｲﾄｳ,島根県,雲南市,大東町大東,0,0,0,1,0,0

@@ -1,0 +1,4 @@
+code,postal_old,postal_new,pref_kana,address1_kana,address2_kana,pref,address1,address2,is_multi_code,is_koaza,is_choume,is_multi_place,is_updated,update_reason
+08220,305  ,3050901,ｲﾊﾞﾗｷｹﾝ,ﾂｸﾊﾞｼ,ｲｹﾉﾀﾞｲ(2),茨城県,つくば市,池の台（２）,1,0,0,0,0,0
+08220,305  ,3050902,ｲﾊﾞﾗｷｹﾝ,ﾂｸﾊﾞｼ,ﾆｼﾉｻﾜ(ﾁｸｻﾝｼｹﾝｼﾞｮｳﾎﾞｼﾞｮｳ),茨城県,つくば市,西の沢（畜産試験場圃場）,1,0,0,0,0,0
+08220,305  ,3050903,ｲﾊﾞﾗｷｹﾝ,ﾂｸﾊﾞｼ,ﾏﾂﾉｻﾄ(1),茨城県,つくば市,松の里（１）,1,0,0,0,0,0
