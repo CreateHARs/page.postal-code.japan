@@ -70,5 +70,5 @@ jobs:
             --base main \
             --head ${release_branch} \
             --title "[release] ${{ env.CURRENT_DATETIME }}" \
-            --body "fill to skip prompt for command 'gh pr create'."
+            --body "(fill to skip prompt for command 'gh pr create'.)"
 

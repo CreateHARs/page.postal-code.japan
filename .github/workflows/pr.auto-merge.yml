@@ -1,4 +1,4 @@
-name: "[PR] auto merge"
+name: "[pr] merge auto created PR"
 
 on:
   pull_request:
@@ -27,7 +27,7 @@ jobs:
           git config --local user.name  github-actions
           git config --local user.email github-actions@github.com
 
-      - name  : "[STEP] Merge New PR"
+      - name  : "[STEP] Merge PR"
         env   :
           # GITHUB_TOKEN : ${{ secrets.GITHUB_TOKEN }}
           GH_TOKEN     : ${{ secrets.ACTIONS_CHAIN_FLOW_PAT }}
