@@ -7,11 +7,13 @@ import _02_prepare_
 import _03_download_
 import _04_create_
 import _05_update_
-os.chdir(os.path.dirname(os.path.abspath(__file__)))
 
 
 def main():
     timestamp('[start]')
+    print(os.getcwd())
+    os.chdir(os.path.dirname(os.path.abspath(__file__)))
+    print(os.getcwd())
 
     timestamp('--- [check_latest_update_date_dir] ---')
     latest_update_date_dir, exists = _01_check_.check_latest_update_date_dir()

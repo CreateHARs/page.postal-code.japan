@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 import os
 
-DIR_SRC_ROOT = os.path.abspath(os.curdir)
+DIR_SRC_ROOT = os.path.dirname(os.path.abspath(__file__)) # os.curdir
 DIR_PUBLIC = os.path.join(DIR_SRC_ROOT, '../../../public')
 
 DIR_CURRENT = DIR_PUBLIC + '/current'
@@ -39,3 +39,5 @@ FILE_ENDPOINT_PER_POSTAL_CODE_CSV = FILE_ENDPOINT_POSTAL_CODE + '/%POSTAL_CODE%.
 
 URL_SCRAPING = 'https://www.post.japanpost.jp/zipcode/dl/kogaki-zip.html'
 URL_CSV_ZIP = 'https://www.post.japanpost.jp/zipcode/dl/kogaki/zip/ken_all.zip'
+
+print(__file__)
