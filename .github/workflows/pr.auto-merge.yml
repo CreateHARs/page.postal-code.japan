@@ -17,8 +17,6 @@ jobs:
 
       - name  : "[STEP] Checkout repository"
         uses  : actions/checkout@v2
-        with  :
-          token : ${{ secrets.ACTIONS_CHAIN_FLOW_PAT }}
 
       - name  : "[STEP] Setup Config"
         env   :
@@ -41,4 +39,6 @@ jobs:
           echo "PR_NUMBER: ${PR_NUMBER}"
           PR_URL="https://github.com/${REPO_OWNER}/${REPO_NAME}/pull/${PR_NUMBER}"
           echo "PR_URL: ${PR_URL}"
-          hub merge ${PR_URL} --merge --delete-branch
+          # hub merge ${PR_URL}
+          gh pr merge ${PR_URL} --merge --delete-branch
+          
