@@ -1,0 +1,4 @@
+code,postal_old,postal_new,pref_kana,address1_kana,address2_kana,pref,address1,address2,is_multi_code,is_koaza,is_choume,is_multi_place,is_updated,update_reason
+02210,03601,0360161,ｱｵﾓﾘｹﾝ,ﾋﾗｶﾜｼ,ｽｷﾞﾀﾞﾃﾀｷﾓﾄ,青森県,平川市,杉館滝元,0,1,0,1,0,0
+02210,03601,0360161,ｱｵﾓﾘｹﾝ,ﾋﾗｶﾜｼ,ｽｷﾞﾀﾞﾃﾏﾂﾊｼ,青森県,平川市,杉館松橋,0,1,0,1,0,0
+02210,03601,0360161,ｱｵﾓﾘｹﾝ,ﾋﾗｶﾜｼ,ｽｷﾞﾀﾞﾃﾐﾔﾓﾄ,青森県,平川市,杉館宮元,0,1,0,1,0,0
