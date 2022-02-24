@@ -1,0 +1,19 @@
+[
+    {
+        "code": "13108",
+        "postal_old": "135  ",
+        "postal_new": "1356031",
+        "pref_kana": "ﾄｳｷｮｳﾄ",
+        "address1_kana": "ｺｳﾄｳｸ",
+        "address2_kana": "ﾄﾖｽﾄﾖｽｾﾝﾀｰﾋﾞﾙ(31ｶｲ)",
+        "pref": "東京都",
+        "address1": "江東区",
+        "address2": "豊洲豊洲センタービル（３１階）",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

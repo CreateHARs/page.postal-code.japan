@@ -1,0 +1,19 @@
+[
+    {
+        "code": "03210",
+        "postal_old": "02922",
+        "postal_new": "0292204",
+        "pref_kana": "ｲﾜﾃｹﾝ",
+        "address1_kana": "ﾘｸｾﾞﾝﾀｶﾀｼ",
+        "address2_kana": "ｹｾﾝﾁｮｳ",
+        "pref": "岩手県",
+        "address1": "陸前高田市",
+        "address2": "気仙町",
+        "is_multi_code": "0",
+        "is_koaza": "1",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

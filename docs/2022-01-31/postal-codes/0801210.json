@@ -1,0 +1,19 @@
+[
+    {
+        "code": "01632",
+        "postal_old": "08012",
+        "postal_new": "0801210",
+        "pref_kana": "ﾎｯｶｲﾄﾞｳ",
+        "address1_kana": "ｶﾄｳｸﾞﾝｼﾎﾛﾁｮｳ",
+        "address2_kana": "ｼﾎﾛﾋｶﾞｼ(1ｾﾝ-19ｾﾝ)",
+        "pref": "北海道",
+        "address1": "河東郡士幌町",
+        "address2": "士幌東（１線〜１９線）",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

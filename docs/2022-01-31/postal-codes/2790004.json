@@ -1,0 +1,19 @@
+[
+    {
+        "code": "12227",
+        "postal_old": "279  ",
+        "postal_new": "2790004",
+        "pref_kana": "ﾁﾊﾞｹﾝ",
+        "address1_kana": "ｳﾗﾔｽｼ",
+        "address2_kana": "ﾈｺｻﾞﾈ",
+        "pref": "千葉県",
+        "address1": "浦安市",
+        "address2": "猫実",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "1",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

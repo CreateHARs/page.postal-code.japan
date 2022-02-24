@@ -1,0 +1,19 @@
+[
+    {
+        "code": "12427",
+        "postal_old": "29701",
+        "postal_new": "2970138",
+        "pref_kana": "ﾁﾊﾞｹﾝ",
+        "address1_kana": "ﾁｮｳｾｲｸﾞﾝﾁｮｳﾅﾝﾏﾁ",
+        "address2_kana": "ｼﾓｵﾉﾀﾞ",
+        "pref": "千葉県",
+        "address1": "長生郡長南町",
+        "address2": "下小野田",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

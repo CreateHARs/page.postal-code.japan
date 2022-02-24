@@ -1,0 +1,19 @@
+[
+    {
+        "code": "43444",
+        "postal_old": "86132",
+        "postal_new": "8613241",
+        "pref_kana": "ｸﾏﾓﾄｹﾝ",
+        "address1_kana": "ｶﾐﾏｼｷｸﾞﾝｺｳｻﾏﾁ",
+        "address2_kana": "ｿｳｶﾞﾜ",
+        "pref": "熊本県",
+        "address1": "上益城郡甲佐町",
+        "address2": "早川",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

@@ -1,0 +1,19 @@
+[
+    {
+        "code": "36206",
+        "postal_old": "77116",
+        "postal_new": "7711621",
+        "pref_kana": "ﾄｸｼﾏｹﾝ",
+        "address1_kana": "ｱﾜｼ",
+        "address2_kana": "ｲﾁﾊﾞﾁｮｳｵﾊﾞﾘ",
+        "pref": "徳島県",
+        "address1": "阿波市",
+        "address2": "市場町尾開",
+        "is_multi_code": "0",
+        "is_koaza": "1",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

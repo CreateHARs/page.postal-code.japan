@@ -1,0 +1,19 @@
+[
+    {
+        "code": "36204",
+        "postal_old": "77151",
+        "postal_new": "7715179",
+        "pref_kana": "ﾄｸｼﾏｹﾝ",
+        "address1_kana": "ｱﾅﾝｼ",
+        "address2_kana": "ﾌｶｾﾁｮｳ",
+        "pref": "徳島県",
+        "address1": "阿南市",
+        "address2": "深瀬町",
+        "is_multi_code": "0",
+        "is_koaza": "1",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

@@ -1,0 +1,19 @@
+[
+    {
+        "code": "04212",
+        "postal_old": "98706",
+        "postal_new": "9870903",
+        "pref_kana": "ﾐﾔｷﾞｹﾝ",
+        "address1_kana": "ﾄﾒｼ",
+        "address2_kana": "ﾄｳﾜﾁｮｳﾆｼｷｵﾘ",
+        "pref": "宮城県",
+        "address1": "登米市",
+        "address2": "東和町錦織",
+        "is_multi_code": "0",
+        "is_koaza": "1",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

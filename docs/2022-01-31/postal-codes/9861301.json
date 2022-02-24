@@ -1,0 +1,19 @@
+[
+    {
+        "code": "04202",
+        "postal_old": "98613",
+        "postal_new": "9861301",
+        "pref_kana": "ﾐﾔｷﾞｹﾝ",
+        "address1_kana": "ｲｼﾉﾏｷｼ",
+        "address2_kana": "ｵｶﾞﾂﾁｮｳﾌﾅｺｼ",
+        "pref": "宮城県",
+        "address1": "石巻市",
+        "address2": "雄勝町船越",
+        "is_multi_code": "0",
+        "is_koaza": "1",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

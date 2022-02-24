@@ -1,0 +1,19 @@
+[
+    {
+        "code": "42214",
+        "postal_old": "85925",
+        "postal_new": "8592503",
+        "pref_kana": "ﾅｶﾞｻｷｹﾝ",
+        "address1_kana": "ﾐﾅﾐｼﾏﾊﾞﾗｼ",
+        "address2_kana": "ｸﾁﾉﾂﾁｮｳﾃｲ",
+        "pref": "長崎県",
+        "address1": "南島原市",
+        "address2": "口之津町丁",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

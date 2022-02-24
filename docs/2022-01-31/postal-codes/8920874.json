@@ -1,0 +1,19 @@
+[
+    {
+        "code": "46201",
+        "postal_old": "892  ",
+        "postal_new": "8920874",
+        "pref_kana": "ｶｺﾞｼﾏｹﾝ",
+        "address1_kana": "ｶｺﾞｼﾏｼ",
+        "address2_kana": "ﾐﾄﾞﾘｶﾞｵｶﾁｮｳ(1-34ﾊﾞﾝ)",
+        "pref": "鹿児島県",
+        "address1": "鹿児島市",
+        "address2": "緑ヶ丘町（１〜３４番）",
+        "is_multi_code": "1",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

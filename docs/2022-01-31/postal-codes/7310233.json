@@ -1,0 +1,19 @@
+[
+    {
+        "code": "34106",
+        "postal_old": "73102",
+        "postal_new": "7310233",
+        "pref_kana": "ﾋﾛｼﾏｹﾝ",
+        "address1_kana": "ﾋﾛｼﾏｼｱｻｷﾀｸ",
+        "address2_kana": "ｶﾒﾔﾏﾆｼ",
+        "pref": "広島県",
+        "address1": "広島市安佐北区",
+        "address2": "亀山西",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "1",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

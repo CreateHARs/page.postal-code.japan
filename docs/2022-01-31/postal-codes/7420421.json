@@ -1,0 +1,19 @@
+[
+    {
+        "code": "35208",
+        "postal_old": "74204",
+        "postal_new": "7420421",
+        "pref_kana": "ﾔﾏｸﾞﾁｹﾝ",
+        "address1_kana": "ｲﾜｸﾆｼ",
+        "address2_kana": "ｼｭｳﾄｳﾏﾁｻﾝｾﾞｶﾞﾜ",
+        "pref": "山口県",
+        "address1": "岩国市",
+        "address2": "周東町三瀬川",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

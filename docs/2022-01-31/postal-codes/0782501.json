@@ -1,0 +1,19 @@
+[
+    {
+        "code": "01437",
+        "postal_old": "07825",
+        "postal_new": "0782501",
+        "pref_kana": "ﾎｯｶｲﾄﾞｳ",
+        "address1_kana": "ｳﾘｭｳｸﾞﾝﾎｸﾘｭｳﾁｮｳ",
+        "address2_kana": "ﾋﾞﾊﾞｳｼ",
+        "pref": "北海道",
+        "address1": "雨竜郡北竜町",
+        "address2": "美葉牛",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

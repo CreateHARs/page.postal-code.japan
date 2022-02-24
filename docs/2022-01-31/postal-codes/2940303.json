@@ -1,0 +1,19 @@
+[
+    {
+        "code": "12205",
+        "postal_old": "29403",
+        "postal_new": "2940303",
+        "pref_kana": "ﾁﾊﾞｹﾝ",
+        "address1_kana": "ﾀﾃﾔﾏｼ",
+        "address2_kana": "ﾊﾏﾀﾞ",
+        "pref": "千葉県",
+        "address1": "館山市",
+        "address2": "浜田",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

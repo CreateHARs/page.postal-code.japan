@@ -1,0 +1,19 @@
+[
+    {
+        "code": "05201",
+        "postal_old": "01014",
+        "postal_new": "0101413",
+        "pref_kana": "ｱｷﾀｹﾝ",
+        "address1_kana": "ｱｷﾀｼ",
+        "address2_kana": "ｺﾞｼｮﾉｼﾞｿﾞｳﾃﾞﾝ",
+        "pref": "秋田県",
+        "address1": "秋田市",
+        "address2": "御所野地蔵田",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "1",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

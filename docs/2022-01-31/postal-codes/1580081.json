@@ -1,0 +1,19 @@
+[
+    {
+        "code": "13112",
+        "postal_old": "158  ",
+        "postal_new": "1580081",
+        "pref_kana": "ﾄｳｷｮｳﾄ",
+        "address1_kana": "ｾﾀｶﾞﾔｸ",
+        "address2_kana": "ﾌｶｻﾜ",
+        "pref": "東京都",
+        "address1": "世田谷区",
+        "address2": "深沢",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "1",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

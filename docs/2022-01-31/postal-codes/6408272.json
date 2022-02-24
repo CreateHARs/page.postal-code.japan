@@ -1,0 +1,19 @@
+[
+    {
+        "code": "30201",
+        "postal_old": "640  ",
+        "postal_new": "6408272",
+        "pref_kana": "ﾜｶﾔﾏｹﾝ",
+        "address1_kana": "ﾜｶﾔﾏｼ",
+        "address2_kana": "ｽﾅﾔﾏﾐﾅﾐ",
+        "pref": "和歌山県",
+        "address1": "和歌山市",
+        "address2": "砂山南",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "1",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

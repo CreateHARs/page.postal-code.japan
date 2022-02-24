@@ -1,0 +1,36 @@
+[
+    {
+        "code": "38356",
+        "postal_old": "79425",
+        "postal_new": "7942503",
+        "pref_kana": "ｴﾋﾒｹﾝ",
+        "address1_kana": "ｵﾁｸﾞﾝｶﾐｼﾞﾏﾁｮｳ",
+        "address2_kana": "ﾕｹﾞｶﾐﾕｹﾞ",
+        "pref": "愛媛県",
+        "address1": "越智郡上島町",
+        "address2": "弓削上弓削",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "1",
+        "is_updated": "0",
+        "update_reason": "0"
+    },
+    {
+        "code": "38356",
+        "postal_old": "79425",
+        "postal_new": "7942503",
+        "pref_kana": "ｴﾋﾒｹﾝ",
+        "address1_kana": "ｵﾁｸﾞﾝｶﾐｼﾞﾏﾁｮｳ",
+        "address2_kana": "ﾕｹﾞﾋｬｯｶﾝ",
+        "pref": "愛媛県",
+        "address1": "越智郡上島町",
+        "address2": "弓削百貫",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "1",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

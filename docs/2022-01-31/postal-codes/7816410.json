@@ -1,0 +1,19 @@
+[
+    {
+        "code": "39303",
+        "postal_old": "78164",
+        "postal_new": "7816410",
+        "pref_kana": "ｺｳﾁｹﾝ",
+        "address1_kana": "ｱｷｸﾞﾝﾀﾉﾁｮｳ",
+        "address2_kana": "ﾀﾉﾁｮｳｲﾁｴﾝ",
+        "pref": "高知県",
+        "address1": "安芸郡田野町",
+        "address2": "田野町一円",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

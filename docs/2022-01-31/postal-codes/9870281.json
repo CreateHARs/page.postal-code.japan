@@ -1,0 +1,19 @@
+[
+    {
+        "code": "04501",
+        "postal_old": "98702",
+        "postal_new": "9870281",
+        "pref_kana": "ﾐﾔｷﾞｹﾝ",
+        "address1_kana": "ﾄｵﾀﾞｸﾞﾝﾜｸﾔﾁｮｳ",
+        "address2_kana": "ｵｻﾄ",
+        "pref": "宮城県",
+        "address1": "遠田郡涌谷町",
+        "address2": "小里",
+        "is_multi_code": "0",
+        "is_koaza": "1",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

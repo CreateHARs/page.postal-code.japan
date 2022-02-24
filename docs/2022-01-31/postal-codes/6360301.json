@@ -1,0 +1,19 @@
+[
+    {
+        "code": "29363",
+        "postal_old": "63603",
+        "postal_new": "6360301",
+        "pref_kana": "ﾅﾗｹﾝ",
+        "address1_kana": "ｼｷｸﾞﾝﾀﾜﾗﾓﾄﾁｮｳ",
+        "address2_kana": "ｸﾛﾀﾞ",
+        "pref": "奈良県",
+        "address1": "磯城郡田原本町",
+        "address2": "黒田",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

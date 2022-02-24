@@ -1,0 +1,19 @@
+[
+    {
+        "code": "10205",
+        "postal_old": "37004",
+        "postal_new": "3700406",
+        "pref_kana": "ｸﾞﾝﾏｹﾝ",
+        "address1_kana": "ｵｵﾀｼ",
+        "address2_kana": "ﾏｴｺﾞﾔﾁｮｳ",
+        "pref": "群馬県",
+        "address1": "太田市",
+        "address2": "前小屋町",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

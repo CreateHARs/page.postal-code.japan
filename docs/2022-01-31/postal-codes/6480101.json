@@ -1,0 +1,19 @@
+[
+    {
+        "code": "30343",
+        "postal_old": "64801",
+        "postal_new": "6480101",
+        "pref_kana": "ﾜｶﾔﾏｹﾝ",
+        "address1_kana": "ｲﾄｸﾞﾝｸﾄﾞﾔﾏﾁｮｳ",
+        "address2_kana": "ｸﾄﾞﾔﾏ",
+        "pref": "和歌山県",
+        "address1": "伊都郡九度山町",
+        "address2": "九度山",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

@@ -1,0 +1,19 @@
+[
+    {
+        "code": "01647",
+        "postal_old": "08941",
+        "postal_new": "0894143",
+        "pref_kana": "ﾎｯｶｲﾄﾞｳ",
+        "address1_kana": "ｱｼｮﾛｸﾞﾝｱｼｮﾛﾁｮｳ",
+        "address2_kana": "ｼﾗｲﾄ",
+        "pref": "北海道",
+        "address1": "足寄郡足寄町",
+        "address2": "白糸",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

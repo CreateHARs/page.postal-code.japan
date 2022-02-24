@@ -1,0 +1,19 @@
+[
+    {
+        "code": "17206",
+        "postal_old": "922  ",
+        "postal_new": "9220000",
+        "pref_kana": "ｲｼｶﾜｹﾝ",
+        "address1_kana": "ｶｶﾞｼ",
+        "address2_kana": "ｲｶﾆｹｲｻｲｶﾞﾅｲﾊﾞｱｲ",
+        "pref": "石川県",
+        "address1": "加賀市",
+        "address2": "以下に掲載がない場合",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

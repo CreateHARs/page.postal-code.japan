@@ -1,0 +1,19 @@
+[
+    {
+        "code": "15211",
+        "postal_old": "954  ",
+        "postal_new": "9540051",
+        "pref_kana": "ﾆｲｶﾞﾀｹﾝ",
+        "address1_kana": "ﾐﾂｹｼ",
+        "address2_kana": "ﾎﾝｼﾞｮ",
+        "pref": "新潟県",
+        "address1": "見附市",
+        "address2": "本所",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "1",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

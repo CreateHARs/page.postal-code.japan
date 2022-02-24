@@ -1,0 +1,19 @@
+[
+    {
+        "code": "24216",
+        "postal_old": "51914",
+        "postal_new": "5191415",
+        "pref_kana": "ﾐｴｹﾝ",
+        "address1_kana": "ｲｶﾞｼ",
+        "address2_kana": "ｶｼﾜﾉ",
+        "pref": "三重県",
+        "address1": "伊賀市",
+        "address2": "柏野",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

@@ -1,0 +1,19 @@
+[
+    {
+        "code": "27381",
+        "postal_old": "583  ",
+        "postal_new": "5830994",
+        "pref_kana": "ｵｵｻｶﾌ",
+        "address1_kana": "ﾐﾅﾐｶﾜﾁｸﾞﾝﾀｲｼﾁｮｳ",
+        "address2_kana": "ﾊﾑﾛ",
+        "pref": "大阪府",
+        "address1": "南河内郡太子町",
+        "address2": "葉室",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

@@ -1,0 +1,19 @@
+[
+    {
+        "code": "28107",
+        "postal_old": "654  ",
+        "postal_new": "6540075",
+        "pref_kana": "ﾋｮｳｺﾞｹﾝ",
+        "address1_kana": "ｺｳﾍﾞｼｽﾏｸ",
+        "address2_kana": "ｼｵﾐﾀﾞｲﾁｮｳ",
+        "pref": "兵庫県",
+        "address1": "神戸市須磨区",
+        "address2": "潮見台町",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "1",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

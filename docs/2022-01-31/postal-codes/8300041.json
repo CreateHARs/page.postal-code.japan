@@ -1,0 +1,19 @@
+[
+    {
+        "code": "40203",
+        "postal_old": "830  ",
+        "postal_new": "8300041",
+        "pref_kana": "ﾌｸｵｶｹﾝ",
+        "address1_kana": "ｸﾙﾒｼ",
+        "address2_kana": "ｼﾗﾔﾏﾏﾁ",
+        "pref": "福岡県",
+        "address1": "久留米市",
+        "address2": "白山町",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

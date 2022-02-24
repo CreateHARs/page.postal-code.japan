@@ -1,0 +1,19 @@
+[
+    {
+        "code": "33210",
+        "postal_old": "71935",
+        "postal_new": "7193502",
+        "pref_kana": "ｵｶﾔﾏｹﾝ",
+        "address1_kana": "ﾆｲﾐｼ",
+        "address2_kana": "ｵｵｻｶﾐｵｻｶﾍﾞ",
+        "pref": "岡山県",
+        "address1": "新見市",
+        "address2": "大佐上刑部",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

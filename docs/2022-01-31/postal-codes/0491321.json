@@ -1,0 +1,53 @@
+[
+    {
+        "code": "01332",
+        "postal_old": "04913",
+        "postal_new": "0491321",
+        "pref_kana": "ﾎｯｶｲﾄﾞｳ",
+        "address1_kana": "ﾏﾂﾏｴｸﾞﾝﾌｸｼﾏﾁｮｳ",
+        "address2_kana": "ﾂｷｻｷ",
+        "pref": "北海道",
+        "address1": "松前郡福島町",
+        "address2": "月崎",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "1",
+        "is_updated": "0",
+        "update_reason": "0"
+    },
+    {
+        "code": "01332",
+        "postal_old": "04913",
+        "postal_new": "0491321",
+        "pref_kana": "ﾎｯｶｲﾄﾞｳ",
+        "address1_kana": "ﾏﾂﾏｴｸﾞﾝﾌｸｼﾏﾁｮｳ",
+        "address2_kana": "ﾏﾙﾔﾏﾀﾞﾝﾁ",
+        "pref": "北海道",
+        "address1": "松前郡福島町",
+        "address2": "丸山団地",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "1",
+        "is_updated": "0",
+        "update_reason": "0"
+    },
+    {
+        "code": "01332",
+        "postal_old": "04913",
+        "postal_new": "0491321",
+        "pref_kana": "ﾎｯｶｲﾄﾞｳ",
+        "address1_kana": "ﾏﾂﾏｴｸﾞﾝﾌｸｼﾏﾁｮｳ",
+        "address2_kana": "ﾐﾄﾞﾘﾁｮｳ",
+        "pref": "北海道",
+        "address1": "松前郡福島町",
+        "address2": "緑町",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "1",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

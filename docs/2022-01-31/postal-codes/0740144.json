@@ -1,0 +1,19 @@
+[
+    {
+        "code": "01228",
+        "postal_old": "07401",
+        "postal_new": "0740144",
+        "pref_kana": "ﾎｯｶｲﾄﾞｳ",
+        "address1_kana": "ﾌｶｶﾞﾜｼ",
+        "address2_kana": "ﾀｶﾄﾞﾏﾘ",
+        "pref": "北海道",
+        "address1": "深川市",
+        "address2": "鷹泊",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

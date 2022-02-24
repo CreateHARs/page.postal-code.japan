@@ -1,0 +1,36 @@
+[
+    {
+        "code": "35305",
+        "postal_old": "74229",
+        "postal_new": "7422923",
+        "pref_kana": "ﾔﾏｸﾞﾁｹﾝ",
+        "address1_kana": "ｵｵｼﾏｸﾞﾝｽｵｳｵｵｼﾏﾁｮｳ",
+        "address2_kana": "ｼﾞｶﾑﾛ",
+        "pref": "山口県",
+        "address1": "大島郡周防大島町",
+        "address2": "地家室",
+        "is_multi_code": "1",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "1",
+        "is_updated": "0",
+        "update_reason": "0"
+    },
+    {
+        "code": "35305",
+        "postal_old": "74229",
+        "postal_new": "7422923",
+        "pref_kana": "ﾔﾏｸﾞﾁｹﾝ",
+        "address1_kana": "ｵｵｼﾏｸﾞﾝｽｵｳｵｵｼﾏﾁｮｳ",
+        "address2_kana": "ｼﾞｶﾑﾛ(ｻﾚ)",
+        "pref": "山口県",
+        "address1": "大島郡周防大島町",
+        "address2": "地家室（佐連）",
+        "is_multi_code": "1",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "1",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

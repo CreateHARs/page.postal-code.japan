@@ -1,0 +1,19 @@
+[
+    {
+        "code": "02425",
+        "postal_old": "03945",
+        "postal_new": "0394503",
+        "pref_kana": "ｱｵﾓﾘｹﾝ",
+        "address1_kana": "ｼﾓｷﾀｸﾞﾝｶｻﾞﾏｳﾗﾑﾗ",
+        "address2_kana": "ﾍﾋﾞｳﾗ",
+        "pref": "青森県",
+        "address1": "下北郡風間浦村",
+        "address2": "蛇浦",
+        "is_multi_code": "0",
+        "is_koaza": "1",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

@@ -1,0 +1,19 @@
+[
+    {
+        "code": "39208",
+        "postal_old": "788  ",
+        "postal_new": "7880011",
+        "pref_kana": "ｺｳﾁｹﾝ",
+        "address1_kana": "ｽｸﾓｼ",
+        "address2_kana": "ｼﾝﾃﾞﾝ",
+        "pref": "高知県",
+        "address1": "宿毛市",
+        "address2": "新田",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

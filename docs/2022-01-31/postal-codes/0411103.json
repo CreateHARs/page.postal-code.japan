@@ -1,0 +1,19 @@
+[
+    {
+        "code": "01337",
+        "postal_old": "04111",
+        "postal_new": "0411103",
+        "pref_kana": "ﾎｯｶｲﾄﾞｳ",
+        "address1_kana": "ｶﾒﾀﾞｸﾞﾝﾅﾅｴﾁｮｳ",
+        "address2_kana": "ﾌｼﾞｼﾛ",
+        "pref": "北海道",
+        "address1": "亀田郡七飯町",
+        "address2": "藤城",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

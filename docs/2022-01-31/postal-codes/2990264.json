@@ -1,0 +1,19 @@
+[
+    {
+        "code": "12229",
+        "postal_old": "29902",
+        "postal_new": "2990264",
+        "pref_kana": "ﾁﾊﾞｹﾝ",
+        "address1_kana": "ｿﾃﾞｶﾞｳﾗｼ",
+        "address2_kana": "ｲﾏｲ",
+        "pref": "千葉県",
+        "address1": "袖ケ浦市",
+        "address2": "今井",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "1",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

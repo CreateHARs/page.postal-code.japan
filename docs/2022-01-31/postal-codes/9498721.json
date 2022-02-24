@@ -1,0 +1,19 @@
+[
+    {
+        "code": "15208",
+        "postal_old": "94987",
+        "postal_new": "9498721",
+        "pref_kana": "ﾆｲｶﾞﾀｹﾝ",
+        "address1_kana": "ｵﾁﾞﾔｼ",
+        "address2_kana": "ｼｵﾄﾞﾉ",
+        "pref": "新潟県",
+        "address1": "小千谷市",
+        "address2": "塩殿",
+        "is_multi_code": "0",
+        "is_koaza": "1",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

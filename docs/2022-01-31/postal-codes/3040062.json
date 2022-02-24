@@ -1,0 +1,19 @@
+[
+    {
+        "code": "08210",
+        "postal_old": "304  ",
+        "postal_new": "3040062",
+        "pref_kana": "ｲﾊﾞﾗｷｹﾝ",
+        "address1_kana": "ｼﾓﾂﾏｼ",
+        "address2_kana": "ｼﾓﾂﾏﾎﾞ",
+        "pref": "茨城県",
+        "address1": "下妻市",
+        "address2": "下妻戊",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

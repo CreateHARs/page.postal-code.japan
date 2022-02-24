@@ -1,0 +1,19 @@
+[
+    {
+        "code": "42212",
+        "postal_old": "85723",
+        "postal_new": "8572322",
+        "pref_kana": "ﾅｶﾞｻｷｹﾝ",
+        "address1_kana": "ｻｲｶｲｼ",
+        "address2_kana": "ｵｵｾﾄﾁｮｳﾕｷﾉｳﾗｷｭｳﾗｷﾞｺﾞｳ",
+        "pref": "長崎県",
+        "address1": "西海市",
+        "address2": "大瀬戸町雪浦久良木郷",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

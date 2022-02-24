@@ -1,0 +1,19 @@
+[
+    {
+        "code": "42208",
+        "postal_old": "85947",
+        "postal_new": "8594755",
+        "pref_kana": "ﾅｶﾞｻｷｹﾝ",
+        "address1_kana": "ﾏﾂｳﾗｼ",
+        "address2_kana": "ﾐｸﾘﾔﾁｮｳﾖｺｸﾎﾞﾒﾝ",
+        "pref": "長崎県",
+        "address1": "松浦市",
+        "address2": "御厨町横久保免",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

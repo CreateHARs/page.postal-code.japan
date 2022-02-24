@@ -1,0 +1,19 @@
+[
+    {
+        "code": "01692",
+        "postal_old": "08611",
+        "postal_new": "0861137",
+        "pref_kana": "ﾎｯｶｲﾄﾞｳ",
+        "address1_kana": "ｼﾍﾞﾂｸﾞﾝﾅｶｼﾍﾞﾂﾁｮｳ",
+        "address2_kana": "ﾀﾜﾗﾊﾞｼ",
+        "pref": "北海道",
+        "address1": "標津郡中標津町",
+        "address2": "俵橋",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

@@ -1,0 +1,19 @@
+[
+    {
+        "code": "17206",
+        "postal_old": "92204",
+        "postal_new": "9220437",
+        "pref_kana": "ｲｼｶﾜｹﾝ",
+        "address1_kana": "ｶｶﾞｼ",
+        "address2_kana": "ﾊｸｻﾝﾀﾞｲ",
+        "pref": "石川県",
+        "address1": "加賀市",
+        "address2": "白山台",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

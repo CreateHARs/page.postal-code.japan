@@ -1,0 +1,19 @@
+[
+    {
+        "code": "28442",
+        "postal_old": "67923",
+        "postal_new": "6792334",
+        "pref_kana": "ﾋｮｳｺﾞｹﾝ",
+        "address1_kana": "ｶﾝｻﾞｷｸﾞﾝｲﾁｶﾜﾁｮｳ",
+        "address2_kana": "ﾂﾙｲ",
+        "pref": "兵庫県",
+        "address1": "神崎郡市川町",
+        "address2": "鶴居",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

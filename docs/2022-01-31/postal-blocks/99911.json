@@ -1,0 +1,53 @@
+[
+    {
+        "code": "06403",
+        "postal_old": "99911",
+        "postal_new": "9991111",
+        "pref_kana": "ﾔﾏｶﾞﾀｹﾝ",
+        "address1_kana": "ﾆｼｵｷﾀﾏｸﾞﾝｲｲﾃﾞﾏﾁ",
+        "address2_kana": "ﾃﾉｺ",
+        "pref": "山形県",
+        "address1": "西置賜郡飯豊町",
+        "address2": "手ノ子",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    },
+    {
+        "code": "06403",
+        "postal_old": "99911",
+        "postal_new": "9991112",
+        "pref_kana": "ﾔﾏｶﾞﾀｹﾝ",
+        "address1_kana": "ﾆｼｵｷﾀﾏｸﾞﾝｲｲﾃﾞﾏﾁ",
+        "address2_kana": "ﾀｶﾐﾈ",
+        "pref": "山形県",
+        "address1": "西置賜郡飯豊町",
+        "address2": "高峰",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    },
+    {
+        "code": "06403",
+        "postal_old": "99911",
+        "postal_new": "9991113",
+        "pref_kana": "ﾔﾏｶﾞﾀｹﾝ",
+        "address1_kana": "ﾆｼｵｷﾀﾏｸﾞﾝｲｲﾃﾞﾏﾁ",
+        "address2_kana": "ｺｼﾞﾗｶﾜ",
+        "pref": "山形県",
+        "address1": "西置賜郡飯豊町",
+        "address2": "小白川",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

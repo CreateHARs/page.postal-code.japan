@@ -1,0 +1,19 @@
+[
+    {
+        "code": "15223",
+        "postal_old": "95921",
+        "postal_new": "9591955",
+        "pref_kana": "ﾆｲｶﾞﾀｹﾝ",
+        "address1_kana": "ｱｶﾞﾉｼ",
+        "address2_kana": "ｱｶﾐｽﾞ",
+        "pref": "新潟県",
+        "address1": "阿賀野市",
+        "address2": "赤水",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

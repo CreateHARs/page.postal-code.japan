@@ -1,0 +1,19 @@
+[
+    {
+        "code": "11218",
+        "postal_old": "366  ",
+        "postal_new": "3660831",
+        "pref_kana": "ｻｲﾀﾏｹﾝ",
+        "address1_kana": "ﾌｶﾔｼ",
+        "address2_kana": "ｳﾁｶﾞｼﾏ",
+        "pref": "埼玉県",
+        "address1": "深谷市",
+        "address2": "内ケ島",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

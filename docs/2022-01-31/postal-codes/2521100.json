@@ -1,0 +1,19 @@
+[
+    {
+        "code": "14218",
+        "postal_old": "252  ",
+        "postal_new": "2521100",
+        "pref_kana": "ｶﾅｶﾞﾜｹﾝ",
+        "address1_kana": "ｱﾔｾｼ",
+        "address2_kana": "ｲｶﾆｹｲｻｲｶﾞﾅｲﾊﾞｱｲ",
+        "pref": "神奈川県",
+        "address1": "綾瀬市",
+        "address2": "以下に掲載がない場合",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

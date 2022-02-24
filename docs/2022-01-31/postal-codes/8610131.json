@@ -1,0 +1,19 @@
+[
+    {
+        "code": "43105",
+        "postal_old": "86101",
+        "postal_new": "8610131",
+        "pref_kana": "ｸﾏﾓﾄｹﾝ",
+        "address1_kana": "ｸﾏﾓﾄｼｷﾀｸ",
+        "address2_kana": "ｳｴｷﾏﾁﾋﾛｽﾞﾐ",
+        "pref": "熊本県",
+        "address1": "熊本市北区",
+        "address2": "植木町広住",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

@@ -1,0 +1,19 @@
+[
+    {
+        "code": "04101",
+        "postal_old": "980  ",
+        "postal_new": "9800873",
+        "pref_kana": "ﾐﾔｷﾞｹﾝ",
+        "address1_kana": "ｾﾝﾀﾞｲｼｱｵﾊﾞｸ",
+        "address2_kana": "ﾋﾛｾﾏﾁ",
+        "pref": "宮城県",
+        "address1": "仙台市青葉区",
+        "address2": "広瀬町",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

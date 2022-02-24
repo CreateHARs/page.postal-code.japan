@@ -1,0 +1,19 @@
+[
+    {
+        "code": "40401",
+        "postal_old": "82011",
+        "postal_new": "8201100",
+        "pref_kana": "ﾌｸｵｶｹﾝ",
+        "address1_kana": "ｸﾗﾃｸﾞﾝｺﾀｹﾏﾁ",
+        "address2_kana": "ｲｶﾆｹｲｻｲｶﾞﾅｲﾊﾞｱｲ",
+        "pref": "福岡県",
+        "address1": "鞍手郡小竹町",
+        "address2": "以下に掲載がない場合",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

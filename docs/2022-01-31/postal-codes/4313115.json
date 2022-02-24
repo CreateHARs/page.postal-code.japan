@@ -1,0 +1,19 @@
+[
+    {
+        "code": "22132",
+        "postal_old": "43131",
+        "postal_new": "4313115",
+        "pref_kana": "ｼｽﾞｵｶｹﾝ",
+        "address1_kana": "ﾊﾏﾏﾂｼﾋｶﾞｼｸ",
+        "address2_kana": "ﾆｼｶﾞｻｷﾁｮｳ",
+        "pref": "静岡県",
+        "address1": "浜松市東区",
+        "address2": "西ケ崎町",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

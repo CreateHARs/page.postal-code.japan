@@ -1,0 +1,19 @@
+[
+    {
+        "code": "40137",
+        "postal_old": "81111",
+        "postal_new": "8111122",
+        "pref_kana": "ﾌｸｵｶｹﾝ",
+        "address1_kana": "ﾌｸｵｶｼｻﾜﾗｸ",
+        "address2_kana": "ｻﾜﾗ",
+        "pref": "福岡県",
+        "address1": "福岡市早良区",
+        "address2": "早良",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "1",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

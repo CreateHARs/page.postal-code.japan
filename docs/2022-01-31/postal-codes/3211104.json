@@ -1,0 +1,19 @@
+[
+    {
+        "code": "09206",
+        "postal_old": "32111",
+        "postal_new": "3211104",
+        "pref_kana": "ﾄﾁｷﾞｹﾝ",
+        "address1_kana": "ﾆｯｺｳｼ",
+        "address2_kana": "ｲﾜｻﾞｷ",
+        "pref": "栃木県",
+        "address1": "日光市",
+        "address2": "岩崎",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

@@ -1,0 +1,19 @@
+[
+    {
+        "code": "29449",
+        "postal_old": "63716",
+        "postal_new": "6371666",
+        "pref_kana": "ﾅﾗｹﾝ",
+        "address1_kana": "ﾖｼﾉｸﾞﾝﾄﾂｶﾜﾑﾗ",
+        "address2_kana": "ｺﾔﾏﾃ",
+        "pref": "奈良県",
+        "address1": "吉野郡十津川村",
+        "address2": "小山手",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

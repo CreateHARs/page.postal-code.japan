@@ -1,0 +1,19 @@
+[
+    {
+        "code": "24211",
+        "postal_old": "517  ",
+        "postal_new": "5170011",
+        "pref_kana": "ﾐｴｹﾝ",
+        "address1_kana": "ﾄﾊﾞｼ",
+        "address2_kana": "ﾄﾊﾞ",
+        "pref": "三重県",
+        "address1": "鳥羽市",
+        "address2": "鳥羽",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "1",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

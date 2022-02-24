@@ -1,0 +1,36 @@
+[
+    {
+        "code": "46222",
+        "postal_old": "89413",
+        "postal_new": "8941304",
+        "pref_kana": "ｶｺﾞｼﾏｹﾝ",
+        "address1_kana": "ｱﾏﾐｼ",
+        "address2_kana": "ｽﾐﾖｳﾁｮｳﾔﾝﾏ(493-592ﾊﾞﾝﾁ､ﾄﾀﾞﾏ)",
+        "pref": "鹿児島県",
+        "address1": "奄美市",
+        "address2": "住用町山間（４９３〜５９２番地、戸玉）",
+        "is_multi_code": "1",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    },
+    {
+        "code": "46222",
+        "postal_old": "89413",
+        "postal_new": "8941321",
+        "pref_kana": "ｶｺﾞｼﾏｹﾝ",
+        "address1_kana": "ｱﾏﾐｼ",
+        "address2_kana": "ｽﾐﾖｳﾁｮｳｲﾁ",
+        "pref": "鹿児島県",
+        "address1": "奄美市",
+        "address2": "住用町市",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

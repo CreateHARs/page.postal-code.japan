@@ -1,0 +1,19 @@
+[
+    {
+        "code": "44201",
+        "postal_old": "87011",
+        "postal_new": "8701115",
+        "pref_kana": "ｵｵｲﾀｹﾝ",
+        "address1_kana": "ｵｵｲﾀｼ",
+        "address2_kana": "ﾋﾊﾞﾘｶﾞｵｶ",
+        "pref": "大分県",
+        "address1": "大分市",
+        "address2": "ひばりケ丘",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "1",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

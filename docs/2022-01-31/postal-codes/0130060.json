@@ -1,0 +1,19 @@
+[
+    {
+        "code": "05203",
+        "postal_old": "013  ",
+        "postal_new": "0130060",
+        "pref_kana": "ｱｷﾀｹﾝ",
+        "address1_kana": "ﾖｺﾃｼ",
+        "address2_kana": "ｼﾞｮｳﾘ",
+        "pref": "秋田県",
+        "address1": "横手市",
+        "address2": "条里",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "1",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

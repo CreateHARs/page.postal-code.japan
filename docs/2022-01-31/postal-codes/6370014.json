@@ -1,0 +1,19 @@
+[
+    {
+        "code": "29207",
+        "postal_old": "637  ",
+        "postal_new": "6370014",
+        "pref_kana": "ﾅﾗｹﾝ",
+        "address1_kana": "ｺﾞｼﾞｮｳｼ",
+        "address2_kana": "ｽｶﾞﾜﾁｮｳ",
+        "pref": "奈良県",
+        "address1": "五條市",
+        "address2": "住川町",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

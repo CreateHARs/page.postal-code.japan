@@ -1,0 +1,19 @@
+[
+    {
+        "code": "02361",
+        "postal_old": "03838",
+        "postal_new": "0383803",
+        "pref_kana": "ｱｵﾓﾘｹﾝ",
+        "address1_kana": "ﾐﾅﾐﾂｶﾞﾙｸﾞﾝﾌｼﾞｻｷﾏﾁ",
+        "address2_kana": "ﾆｼﾄﾖﾀﾞ",
+        "pref": "青森県",
+        "address1": "南津軽郡藤崎町",
+        "address2": "西豊田",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "1",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

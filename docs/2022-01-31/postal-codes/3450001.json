@@ -1,0 +1,19 @@
+[
+    {
+        "code": "11464",
+        "postal_old": "345  ",
+        "postal_new": "3450001",
+        "pref_kana": "ｻｲﾀﾏｹﾝ",
+        "address1_kana": "ｷﾀｶﾂｼｶｸﾞﾝｽｷﾞﾄﾏﾁ",
+        "address2_kana": "ｷﾂﾞｳﾁ",
+        "pref": "埼玉県",
+        "address1": "北葛飾郡杉戸町",
+        "address2": "木津内",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

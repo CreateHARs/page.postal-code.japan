@@ -1,0 +1,19 @@
+[
+    {
+        "code": "14104",
+        "postal_old": "231  ",
+        "postal_new": "2310866",
+        "pref_kana": "ｶﾅｶﾞﾜｹﾝ",
+        "address1_kana": "ﾖｺﾊﾏｼﾅｶｸ",
+        "address2_kana": "ｶｼﾜﾊﾞ",
+        "pref": "神奈川県",
+        "address1": "横浜市中区",
+        "address2": "柏葉",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

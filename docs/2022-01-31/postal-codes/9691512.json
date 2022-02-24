@@ -1,0 +1,19 @@
+[
+    {
+        "code": "07210",
+        "postal_old": "96915",
+        "postal_new": "9691512",
+        "pref_kana": "ﾌｸｼﾏｹﾝ",
+        "address1_kana": "ﾆﾎﾝﾏﾂｼ",
+        "address2_kana": "ｶﾐｶﾜｻｷ",
+        "pref": "福島県",
+        "address1": "二本松市",
+        "address2": "上川崎",
+        "is_multi_code": "0",
+        "is_koaza": "1",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

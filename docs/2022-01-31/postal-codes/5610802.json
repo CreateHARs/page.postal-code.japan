@@ -1,0 +1,19 @@
+[
+    {
+        "code": "27203",
+        "postal_old": "561  ",
+        "postal_new": "5610802",
+        "pref_kana": "ｵｵｻｶﾌ",
+        "address1_kana": "ﾄﾖﾅｶｼ",
+        "address2_kana": "ｿﾈﾋｶﾞｼﾉﾁｮｳ",
+        "pref": "大阪府",
+        "address1": "豊中市",
+        "address2": "曽根東町",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "1",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

@@ -1,0 +1,36 @@
+[
+    {
+        "code": "07421",
+        "postal_old": "96965",
+        "postal_new": "9696535",
+        "pref_kana": "ﾌｸｼﾏｹﾝ",
+        "address1_kana": "ｶﾜﾇﾏｸﾞﾝｱｲﾂﾞﾊﾞﾝｹﾞﾏﾁ",
+        "address2_kana": "ｲｴﾉﾏｴｵﾂ",
+        "pref": "福島県",
+        "address1": "河沼郡会津坂下町",
+        "address2": "家ノ前乙",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "1",
+        "is_updated": "0",
+        "update_reason": "0"
+    },
+    {
+        "code": "07421",
+        "postal_old": "96965",
+        "postal_new": "9696535",
+        "pref_kana": "ﾌｸｼﾏｹﾝ",
+        "address1_kana": "ｶﾜﾇﾏｸﾞﾝｱｲﾂﾞﾊﾞﾝｹﾞﾏﾁ",
+        "address2_kana": "ﾋｶﾞｼﾔｼｷｿﾞｴｵﾂ",
+        "pref": "福島県",
+        "address1": "河沼郡会津坂下町",
+        "address2": "東屋敷添乙",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "1",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

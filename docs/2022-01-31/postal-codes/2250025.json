@@ -1,0 +1,19 @@
+[
+    {
+        "code": "14117",
+        "postal_old": "225  ",
+        "postal_new": "2250025",
+        "pref_kana": "ｶﾅｶﾞﾜｹﾝ",
+        "address1_kana": "ﾖｺﾊﾏｼｱｵﾊﾞｸ",
+        "address2_kana": "ｸﾛｶﾞﾈﾁｮｳ",
+        "pref": "神奈川県",
+        "address1": "横浜市青葉区",
+        "address2": "鉄町",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

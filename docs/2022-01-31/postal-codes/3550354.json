@@ -1,0 +1,19 @@
+[
+    {
+        "code": "11349",
+        "postal_old": "35503",
+        "postal_new": "3550354",
+        "pref_kana": "ｻｲﾀﾏｹﾝ",
+        "address1_kana": "ﾋｷｸﾞﾝﾄｷｶﾞﾜﾏﾁ",
+        "address2_kana": "ﾊﾞﾝｼﾞｮｳ",
+        "pref": "埼玉県",
+        "address1": "比企郡ときがわ町",
+        "address2": "番匠",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

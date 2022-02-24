@@ -1,0 +1,19 @@
+[
+    {
+        "code": "17201",
+        "postal_old": "920  ",
+        "postal_new": "9200018",
+        "pref_kana": "ｲｼｶﾜｹﾝ",
+        "address1_kana": "ｶﾅｻﾞﾜｼ",
+        "address2_kana": "ﾐﾂｸﾁﾏﾁ",
+        "pref": "石川県",
+        "address1": "金沢市",
+        "address2": "三口町",
+        "is_multi_code": "0",
+        "is_koaza": "1",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

@@ -1,0 +1,19 @@
+[
+    {
+        "code": "22211",
+        "postal_old": "438  ",
+        "postal_new": "4380043",
+        "pref_kana": "ｼｽﾞｵｶｹﾝ",
+        "address1_kana": "ｲﾜﾀｼ",
+        "address2_kana": "ｵｵﾜﾗ(1ﾊﾞﾝﾁ-2061ﾊﾞﾝﾁ､2757ﾊﾞﾝﾁ-2768ﾊﾞﾝﾁ)",
+        "pref": "静岡県",
+        "address1": "磐田市",
+        "address2": "大原（１番地〜２０６１番地、２７５７番地〜２７６８番地）",
+        "is_multi_code": "1",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

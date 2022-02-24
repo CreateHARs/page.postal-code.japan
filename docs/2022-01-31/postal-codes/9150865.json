@@ -1,0 +1,36 @@
+[
+    {
+        "code": "18209",
+        "postal_old": "915  ",
+        "postal_new": "9150865",
+        "pref_kana": "ﾌｸｲｹﾝ",
+        "address1_kana": "ｴﾁｾﾞﾝｼ",
+        "address2_kana": "ｳﾘｭｳﾉﾁｮｳ",
+        "pref": "福井県",
+        "address1": "越前市",
+        "address2": "瓜生野町",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "1",
+        "is_updated": "0",
+        "update_reason": "0"
+    },
+    {
+        "code": "18209",
+        "postal_old": "915  ",
+        "postal_new": "9150865",
+        "pref_kana": "ﾌｸｲｹﾝ",
+        "address1_kana": "ｴﾁｾﾞﾝｼ",
+        "address2_kana": "ﾓﾘﾋｻﾁｮｳ",
+        "pref": "福井県",
+        "address1": "越前市",
+        "address2": "森久町",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "1",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

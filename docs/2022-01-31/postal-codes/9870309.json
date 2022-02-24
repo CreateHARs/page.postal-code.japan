@@ -1,0 +1,36 @@
+[
+    {
+        "code": "04212",
+        "postal_old": "98703",
+        "postal_new": "9870309",
+        "pref_kana": "ﾐﾔｷﾞｹﾝ",
+        "address1_kana": "ﾄﾒｼ",
+        "address2_kana": "ﾖﾈﾔﾏﾁｮｳﾀﾞﾃｼﾀ",
+        "pref": "宮城県",
+        "address1": "登米市",
+        "address2": "米山町舘下",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "1",
+        "is_updated": "0",
+        "update_reason": "0"
+    },
+    {
+        "code": "04212",
+        "postal_old": "98703",
+        "postal_new": "9870309",
+        "pref_kana": "ﾐﾔｷﾞｹﾝ",
+        "address1_kana": "ﾄﾒｼ",
+        "address2_kana": "ﾖﾈﾔﾏﾁｮｳﾀﾞﾃﾏｴ",
+        "pref": "宮城県",
+        "address1": "登米市",
+        "address2": "米山町舘前",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "1",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

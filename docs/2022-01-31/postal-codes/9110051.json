@@ -1,0 +1,53 @@
+[
+    {
+        "code": "18206",
+        "postal_old": "911  ",
+        "postal_new": "9110051",
+        "pref_kana": "ﾌｸｲｹﾝ",
+        "address1_kana": "ｶﾂﾔﾏｼ",
+        "address2_kana": "ｷﾀｺﾞｳﾁｮｳｱﾗﾏﾁ",
+        "pref": "福井県",
+        "address1": "勝山市",
+        "address2": "北郷町新町",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "1",
+        "is_updated": "0",
+        "update_reason": "0"
+    },
+    {
+        "code": "18206",
+        "postal_old": "911  ",
+        "postal_new": "9110051",
+        "pref_kana": "ﾌｸｲｹﾝ",
+        "address1_kana": "ｶﾂﾔﾏｼ",
+        "address2_kana": "ｷﾀｺﾞｳﾁｮｳｼｲﾜﾗ",
+        "pref": "福井県",
+        "address1": "勝山市",
+        "address2": "北郷町志比原",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "1",
+        "is_updated": "0",
+        "update_reason": "0"
+    },
+    {
+        "code": "18206",
+        "postal_old": "911  ",
+        "postal_new": "9110051",
+        "pref_kana": "ﾌｸｲｹﾝ",
+        "address1_kana": "ｶﾂﾔﾏｼ",
+        "address2_kana": "ｷﾀｺﾞｳﾁｮｳﾋｿﾀﾞﾆ",
+        "pref": "福井県",
+        "address1": "勝山市",
+        "address2": "北郷町檜曽谷",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "1",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

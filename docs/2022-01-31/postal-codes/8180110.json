@@ -1,0 +1,19 @@
+[
+    {
+        "code": "40221",
+        "postal_old": "81801",
+        "postal_new": "8180110",
+        "pref_kana": "ﾌｸｵｶｹﾝ",
+        "address1_kana": "ﾀﾞｻﾞｲﾌｼ",
+        "address2_kana": "ﾐｶｻ",
+        "pref": "福岡県",
+        "address1": "太宰府市",
+        "address2": "御笠",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "1",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

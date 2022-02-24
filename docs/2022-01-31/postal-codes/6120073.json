@@ -1,0 +1,19 @@
+[
+    {
+        "code": "26109",
+        "postal_old": "612  ",
+        "postal_new": "6120073",
+        "pref_kana": "ｷｮｳﾄﾌ",
+        "address1_kana": "ｷｮｳﾄｼﾌｼﾐｸ",
+        "address2_kana": "ﾓﾓﾔﾏﾂﾂｲｲｶﾞﾆｼﾏﾁ",
+        "pref": "京都府",
+        "address1": "京都市伏見区",
+        "address2": "桃山筒井伊賀西町",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

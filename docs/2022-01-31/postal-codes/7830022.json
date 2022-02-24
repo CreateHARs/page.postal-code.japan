@@ -1,0 +1,19 @@
+[
+    {
+        "code": "39204",
+        "postal_old": "783  ",
+        "postal_new": "7830022",
+        "pref_kana": "ｺｳﾁｹﾝ",
+        "address1_kana": "ﾅﾝｺｸｼ",
+        "address2_kana": "ｺｺﾞﾒ",
+        "pref": "高知県",
+        "address1": "南国市",
+        "address2": "小籠",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

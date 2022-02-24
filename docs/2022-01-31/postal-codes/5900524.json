@@ -1,0 +1,19 @@
+[
+    {
+        "code": "27228",
+        "postal_old": "59005",
+        "postal_new": "5900524",
+        "pref_kana": "ｵｵｻｶﾌ",
+        "address1_kana": "ｾﾝﾅﾝｼ",
+        "address2_kana": "ﾊﾀｼﾛ",
+        "pref": "大阪府",
+        "address1": "泉南市",
+        "address2": "幡代",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

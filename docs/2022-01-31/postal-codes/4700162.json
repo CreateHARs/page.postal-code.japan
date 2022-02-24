@@ -1,0 +1,19 @@
+[
+    {
+        "code": "23302",
+        "postal_old": "47001",
+        "postal_new": "4700162",
+        "pref_kana": "ｱｲﾁｹﾝ",
+        "address1_kana": "ｱｲﾁｸﾞﾝﾄｳｺﾞｳﾁｮｳ",
+        "address2_kana": "ﾊﾙｷ",
+        "pref": "愛知県",
+        "address1": "愛知郡東郷町",
+        "address2": "春木",
+        "is_multi_code": "0",
+        "is_koaza": "1",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

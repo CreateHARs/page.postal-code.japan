@@ -1,0 +1,19 @@
+[
+    {
+        "code": "22225",
+        "postal_old": "41021",
+        "postal_new": "4102141",
+        "pref_kana": "ｼｽﾞｵｶｹﾝ",
+        "address1_kana": "ｲｽﾞﾉｸﾆｼ",
+        "address2_kana": "ﾆﾗﾔﾏﾔﾏｷ",
+        "pref": "静岡県",
+        "address1": "伊豆の国市",
+        "address2": "韮山山木",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

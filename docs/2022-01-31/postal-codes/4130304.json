@@ -1,0 +1,19 @@
+[
+    {
+        "code": "22301",
+        "postal_old": "41303",
+        "postal_new": "4130304",
+        "pref_kana": "ｼｽﾞｵｶｹﾝ",
+        "address1_kana": "ｶﾓｸﾞﾝﾋｶﾞｼｲｽﾞﾁｮｳ",
+        "address2_kana": "ｼﾗﾀ",
+        "pref": "静岡県",
+        "address1": "賀茂郡東伊豆町",
+        "address2": "白田",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

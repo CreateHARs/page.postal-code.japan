@@ -1,0 +1,53 @@
+[
+    {
+        "code": "26102",
+        "postal_old": "602  ",
+        "postal_new": "6020842",
+        "pref_kana": "ｷｮｳﾄﾌ",
+        "address1_kana": "ｷｮｳﾄｼｶﾐｷﾞｮｳｸ",
+        "address2_kana": "ｻｶｴﾁｮｳ",
+        "pref": "京都府",
+        "address1": "京都市上京区",
+        "address2": "栄町（石薬師通河原西入、河原町通石薬師上る、河原町通石薬",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    },
+    {
+        "code": "26102",
+        "postal_old": "602  ",
+        "postal_new": "6020842",
+        "pref_kana": "ｷｮｳﾄﾌ",
+        "address1_kana": "ｷｮｳﾄｼｶﾐｷﾞｮｳｸ",
+        "address2_kana": "ｻｶｴﾁｮｳ",
+        "pref": "京都府",
+        "address1": "京都市上京区",
+        "address2": "師下る、河原町通今出川下る、河原町通今出川２筋目下る西、河原町通今出川",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    },
+    {
+        "code": "26102",
+        "postal_old": "602  ",
+        "postal_new": "6020842",
+        "pref_kana": "ｷｮｳﾄﾌ",
+        "address1_kana": "ｷｮｳﾄｼｶﾐｷﾞｮｳｸ",
+        "address2_kana": "ｻｶｴﾁｮｳ",
+        "pref": "京都府",
+        "address1": "京都市上京区",
+        "address2": "下る２丁目、河原町通今出川下る２筋目西、河原町通今出川下る３丁目）",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

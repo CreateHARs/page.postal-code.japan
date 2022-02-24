@@ -1,0 +1,19 @@
+[
+    {
+        "code": "40106",
+        "postal_old": "802  ",
+        "postal_new": "8020081",
+        "pref_kana": "ﾌｸｵｶｹﾝ",
+        "address1_kana": "ｷﾀｷｭｳｼｭｳｼｺｸﾗｷﾀｸ",
+        "address2_kana": "ｺﾝﾔﾏﾁ",
+        "pref": "福岡県",
+        "address1": "北九州市小倉北区",
+        "address2": "紺屋町",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

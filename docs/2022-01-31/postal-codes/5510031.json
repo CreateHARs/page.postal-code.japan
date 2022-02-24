@@ -1,0 +1,19 @@
+[
+    {
+        "code": "27108",
+        "postal_old": "551  ",
+        "postal_new": "5510031",
+        "pref_kana": "ｵｵｻｶﾌ",
+        "address1_kana": "ｵｵｻｶｼﾀｲｼｮｳｸ",
+        "address2_kana": "ｲｽﾞｵ",
+        "pref": "大阪府",
+        "address1": "大阪市大正区",
+        "address2": "泉尾",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "1",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

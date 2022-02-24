@@ -1,0 +1,36 @@
+[
+    {
+        "code": "40206",
+        "postal_old": "826  ",
+        "postal_new": "8260043",
+        "pref_kana": "ﾌｸｵｶｹﾝ",
+        "address1_kana": "ﾀｶﾞﾜｼ",
+        "address2_kana": "ﾅﾗ(ｱｵﾊﾞﾁｮｳ､ｵｵｳﾗ､ｶｲｼｬﾏﾁ､ｶｽﾐｶﾞｵｶ､ｺﾞﾄｳｼﾞﾆｼﾀﾞﾝﾁ､ｺﾞﾄｳｼﾞﾋｶﾞｼﾀﾞﾝﾁ､ﾉｿﾞﾐｶﾞｵｶ､",
+        "pref": "福岡県",
+        "address1": "田川市",
+        "address2": "奈良（青葉町、大浦、会社町、霞ケ丘、後藤寺西団地、後藤寺東団地、希望ケ丘、",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    },
+    {
+        "code": "40206",
+        "postal_old": "826  ",
+        "postal_new": "8260043",
+        "pref_kana": "ﾌｸｵｶｹﾝ",
+        "address1_kana": "ﾀｶﾞﾜｼ",
+        "address2_kana": "ﾏﾂﾉｷ､ﾐﾂｲｺﾞﾄｳｼﾞ､ﾐﾄﾞﾘﾏﾁ､ﾂｷﾐｶﾞｵｶ)",
+        "pref": "福岡県",
+        "address1": "田川市",
+        "address2": "松の木、三井後藤寺、緑町、月見ケ丘）",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

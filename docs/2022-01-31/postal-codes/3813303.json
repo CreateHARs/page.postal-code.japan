@@ -1,0 +1,19 @@
+[
+    {
+        "code": "20588",
+        "postal_old": "38133",
+        "postal_new": "3813303",
+        "pref_kana": "ﾅｶﾞﾉｹﾝ",
+        "address1_kana": "ｶﾐﾐﾉﾁｸﾞﾝｵｶﾞﾜﾑﾗ",
+        "address2_kana": "ｵﾈﾔﾏ",
+        "pref": "長野県",
+        "address1": "上水内郡小川村",
+        "address2": "小根山",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

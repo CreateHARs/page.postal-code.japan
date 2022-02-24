@@ -1,0 +1,19 @@
+[
+    {
+        "code": "28446",
+        "postal_old": "67924",
+        "postal_new": "6792411",
+        "pref_kana": "ﾋｮｳｺﾞｹﾝ",
+        "address1_kana": "ｶﾝｻﾞｷｸﾞﾝｶﾐｶﾜﾁｮｳ",
+        "address2_kana": "ﾐﾖﾉ",
+        "pref": "兵庫県",
+        "address1": "神崎郡神河町",
+        "address2": "根宇野",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

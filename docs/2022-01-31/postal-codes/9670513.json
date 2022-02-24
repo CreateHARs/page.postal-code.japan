@@ -1,0 +1,19 @@
+[
+    {
+        "code": "07368",
+        "postal_old": "96705",
+        "postal_new": "9670513",
+        "pref_kana": "ﾌｸｼﾏｹﾝ",
+        "address1_kana": "ﾐﾅﾐｱｲﾂﾞｸﾞﾝﾐﾅﾐｱｲﾂﾞﾏﾁ",
+        "address2_kana": "ｵｵﾊﾗ",
+        "pref": "福島県",
+        "address1": "南会津郡南会津町",
+        "address2": "大原",
+        "is_multi_code": "0",
+        "is_koaza": "1",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

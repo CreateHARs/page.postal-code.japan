@@ -1,0 +1,19 @@
+[
+    {
+        "code": "01663",
+        "postal_old": "08813",
+        "postal_new": "0881306",
+        "pref_kana": "ﾎｯｶｲﾄﾞｳ",
+        "address1_kana": "ｱｯｹｼｸﾞﾝﾊﾏﾅｶﾁｮｳ",
+        "address2_kana": "ﾛｸﾊﾞﾝｻﾜ",
+        "pref": "北海道",
+        "address1": "厚岸郡浜中町",
+        "address2": "六番沢",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

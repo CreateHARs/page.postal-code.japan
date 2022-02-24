@@ -1,0 +1,19 @@
+[
+    {
+        "code": "12103",
+        "postal_old": "263  ",
+        "postal_new": "2630042",
+        "pref_kana": "ﾁﾊﾞｹﾝ",
+        "address1_kana": "ﾁﾊﾞｼｲﾅｹﾞｸ",
+        "address2_kana": "ｸﾛｽﾅ",
+        "pref": "千葉県",
+        "address1": "千葉市稲毛区",
+        "address2": "黒砂",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "1",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

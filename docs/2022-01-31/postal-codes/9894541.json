@@ -1,0 +1,19 @@
+[
+    {
+        "code": "04213",
+        "postal_old": "98945",
+        "postal_new": "9894541",
+        "pref_kana": "ﾐﾔｷﾞｹﾝ",
+        "address1_kana": "ｸﾘﾊﾗｼ",
+        "address2_kana": "ｾﾐﾈｳｼﾌﾞﾁ",
+        "pref": "宮城県",
+        "address1": "栗原市",
+        "address2": "瀬峰牛渕",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

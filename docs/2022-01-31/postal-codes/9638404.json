@@ -1,0 +1,19 @@
+[
+    {
+        "code": "07484",
+        "postal_old": "96384",
+        "postal_new": "9638404",
+        "pref_kana": "ﾌｸｼﾏｹﾝ",
+        "address1_kana": "ﾋｶﾞｼｼﾗｶﾜｸﾞﾝｻﾒｶﾞﾜﾑﾗ",
+        "address2_kana": "ｱｵﾉ",
+        "pref": "福島県",
+        "address1": "東白川郡鮫川村",
+        "address2": "青生野",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

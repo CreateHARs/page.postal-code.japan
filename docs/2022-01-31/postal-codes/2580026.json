@@ -1,0 +1,19 @@
+[
+    {
+        "code": "14366",
+        "postal_old": "258  ",
+        "postal_new": "2580026",
+        "pref_kana": "ｶﾅｶﾞﾜｹﾝ",
+        "address1_kana": "ｱｼｶﾞﾗｶﾐｸﾞﾝｶｲｾｲﾏﾁ",
+        "address2_kana": "ﾉﾌﾞｻﾜ",
+        "pref": "神奈川県",
+        "address1": "足柄上郡開成町",
+        "address2": "延沢",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

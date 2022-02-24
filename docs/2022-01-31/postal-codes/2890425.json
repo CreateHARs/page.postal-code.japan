@@ -1,0 +1,19 @@
+[
+    {
+        "code": "12236",
+        "postal_old": "28904",
+        "postal_new": "2890425",
+        "pref_kana": "ﾁﾊﾞｹﾝ",
+        "address1_kana": "ｶﾄﾘｼ",
+        "address2_kana": "ｵｵﾄｶﾞﾘ",
+        "pref": "千葉県",
+        "address1": "香取市",
+        "address2": "大角",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

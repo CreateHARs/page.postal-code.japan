@@ -1,0 +1,36 @@
+[
+    {
+        "code": "17204",
+        "postal_old": "92723",
+        "postal_new": "9272333",
+        "pref_kana": "ｲｼｶﾜｹﾝ",
+        "address1_kana": "ﾜｼﾞﾏｼ",
+        "address2_kana": "ﾓﾝｾﾞﾝﾏﾁﾀﾁﾌﾞﾝ",
+        "pref": "石川県",
+        "address1": "輪島市",
+        "address2": "門前町館分",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "1",
+        "is_updated": "0",
+        "update_reason": "0"
+    },
+    {
+        "code": "17204",
+        "postal_old": "92723",
+        "postal_new": "9272333",
+        "pref_kana": "ｲｼｶﾜｹﾝ",
+        "address1_kana": "ﾜｼﾞﾏｼ",
+        "address2_kana": "ﾓﾝｾﾞﾝﾏﾁﾊﾞﾝﾊﾞ",
+        "pref": "石川県",
+        "address1": "輪島市",
+        "address2": "門前町馬場",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "1",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

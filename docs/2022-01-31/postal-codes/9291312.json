@@ -1,0 +1,19 @@
+[
+    {
+        "code": "17386",
+        "postal_old": "92913",
+        "postal_new": "9291312",
+        "pref_kana": "ｲｼｶﾜｹﾝ",
+        "address1_kana": "ﾊｸｲｸﾞﾝﾎｳﾀﾞﾂｼﾐｽﾞﾁｮｳ",
+        "address2_kana": "ｳﾜﾀﾞ",
+        "pref": "石川県",
+        "address1": "羽咋郡宝達志水町",
+        "address2": "上田",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

@@ -1,0 +1,19 @@
+[
+    {
+        "code": "26206",
+        "postal_old": "62102",
+        "postal_new": "6210242",
+        "pref_kana": "ｷｮｳﾄﾌ",
+        "address1_kana": "ｶﾒｵｶｼ",
+        "address2_kana": "ﾐﾔｻﾞｷﾁｮｳｺｳｻﾞｷ",
+        "pref": "京都府",
+        "address1": "亀岡市",
+        "address2": "宮前町神前",
+        "is_multi_code": "0",
+        "is_koaza": "1",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

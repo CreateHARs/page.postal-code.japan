@@ -1,0 +1,19 @@
+[
+    {
+        "code": "10383",
+        "postal_old": "37028",
+        "postal_new": "3702811",
+        "pref_kana": "ｸﾞﾝﾏｹﾝ",
+        "address1_kana": "ｶﾝﾗｸﾞﾝﾅﾝﾓｸﾑﾗ",
+        "address2_kana": "ﾑｸﾙﾏ",
+        "pref": "群馬県",
+        "address1": "甘楽郡南牧村",
+        "address2": "六車",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

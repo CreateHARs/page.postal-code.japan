@@ -1,0 +1,19 @@
+[
+    {
+        "code": "01229",
+        "postal_old": "076  ",
+        "postal_new": "0760057",
+        "pref_kana": "ﾎｯｶｲﾄﾞｳ",
+        "address1_kana": "ﾌﾗﾉｼ",
+        "address2_kana": "ｽﾐﾖｼﾁｮｳ",
+        "pref": "北海道",
+        "address1": "富良野市",
+        "address2": "住吉町",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

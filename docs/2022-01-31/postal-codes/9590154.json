@@ -1,0 +1,19 @@
+[
+    {
+        "code": "15202",
+        "postal_old": "95901",
+        "postal_new": "9590154",
+        "pref_kana": "ﾆｲｶﾞﾀｹﾝ",
+        "address1_kana": "ﾅｶﾞｵｶｼ",
+        "address2_kana": "ﾃﾗﾄﾞﾏﾘｺﾞﾌﾞｲﾁ",
+        "pref": "新潟県",
+        "address1": "長岡市",
+        "address2": "寺泊五分一",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

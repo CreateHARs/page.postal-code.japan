@@ -1,0 +1,19 @@
+[
+    {
+        "code": "06205",
+        "postal_old": "996  ",
+        "postal_new": "9960079",
+        "pref_kana": "ﾔﾏｶﾞﾀｹﾝ",
+        "address1_kana": "ｼﾝｼﾞｮｳｼ",
+        "address2_kana": "ｾﾝﾓﾝﾁｮｳ",
+        "pref": "山形県",
+        "address1": "新庄市",
+        "address2": "千門町",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

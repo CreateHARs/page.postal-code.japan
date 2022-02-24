@@ -1,0 +1,19 @@
+[
+    {
+        "code": "30390",
+        "postal_old": "64402",
+        "postal_new": "6440202",
+        "pref_kana": "ﾜｶﾔﾏｹﾝ",
+        "address1_kana": "ﾋﾀﾞｶｸﾞﾝｲﾅﾐﾁｮｳ",
+        "address2_kana": "ｶﾎﾞﾗ",
+        "pref": "和歌山県",
+        "address1": "日高郡印南町",
+        "address2": "上洞",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

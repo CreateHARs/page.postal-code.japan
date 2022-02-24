@@ -1,0 +1,19 @@
+[
+    {
+        "code": "19366",
+        "postal_old": "40921",
+        "postal_new": "4092103",
+        "pref_kana": "ﾔﾏﾅｼｹﾝ",
+        "address1_kana": "ﾐﾅﾐｺﾏｸﾞﾝﾅﾝﾌﾞﾁｮｳ",
+        "address2_kana": "ﾏﾝｻﾞﾜ",
+        "pref": "山梨県",
+        "address1": "南巨摩郡南部町",
+        "address2": "万沢",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

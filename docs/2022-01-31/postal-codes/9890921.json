@@ -1,0 +1,19 @@
+[
+    {
+        "code": "04301",
+        "postal_old": "98909",
+        "postal_new": "9890921",
+        "pref_kana": "ﾐﾔｷﾞｹﾝ",
+        "address1_kana": "ｶｯﾀｸﾞﾝｻﾞｵｳﾏﾁ",
+        "address2_kana": "ｴﾝﾀﾞ(ｶﾏｻﾞﾜ､ｾﾞﾝﾌﾞﾓﾘ､ﾄﾞﾌﾞﾔﾁ､ﾄﾞﾌﾞﾔﾏ2-5ﾊﾞﾝﾁ)",
+        "pref": "宮城県",
+        "address1": "刈田郡蔵王町",
+        "address2": "円田（釜沢、善舞森、土浮谷地、土浮山２〜５番地）",
+        "is_multi_code": "1",
+        "is_koaza": "1",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

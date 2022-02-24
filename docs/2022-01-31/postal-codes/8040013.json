@@ -1,0 +1,19 @@
+[
+    {
+        "code": "40105",
+        "postal_old": "804  ",
+        "postal_new": "8040013",
+        "pref_kana": "ﾌｸｵｶｹﾝ",
+        "address1_kana": "ｷﾀｷｭｳｼｭｳｼﾄﾊﾞﾀｸ",
+        "address2_kana": "ｻｶｲｶﾞﾜ",
+        "pref": "福岡県",
+        "address1": "北九州市戸畑区",
+        "address2": "境川",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "1",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

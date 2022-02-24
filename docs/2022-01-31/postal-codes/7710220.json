@@ -1,0 +1,19 @@
+[
+    {
+        "code": "36401",
+        "postal_old": "77102",
+        "postal_new": "7710220",
+        "pref_kana": "ﾄｸｼﾏｹﾝ",
+        "address1_kana": "ｲﾀﾉｸﾞﾝﾏﾂｼｹﾞﾁｮｳ",
+        "address2_kana": "ﾋﾛｼﾏ",
+        "pref": "徳島県",
+        "address1": "板野郡松茂町",
+        "address2": "広島",
+        "is_multi_code": "0",
+        "is_koaza": "1",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

@@ -1,0 +1,19 @@
+[
+    {
+        "code": "40218",
+        "postal_old": "816  ",
+        "postal_new": "8160843",
+        "pref_kana": "ﾌｸｵｶｹﾝ",
+        "address1_kana": "ｶｽｶﾞｼ",
+        "address2_kana": "ﾏﾂｶﾞｵｶ",
+        "pref": "福岡県",
+        "address1": "春日市",
+        "address2": "松ケ丘",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "1",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

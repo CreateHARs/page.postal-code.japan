@@ -1,0 +1,53 @@
+[
+    {
+        "code": "28208",
+        "postal_old": "678  ",
+        "postal_new": "6780092",
+        "pref_kana": "ﾋｮｳｺﾞｹﾝ",
+        "address1_kana": "ｱｲｵｲｼ",
+        "address2_kana": "ﾔﾉﾁｮｳｵｳｺﾞ",
+        "pref": "兵庫県",
+        "address1": "相生市",
+        "address2": "矢野町小河",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "1",
+        "is_updated": "0",
+        "update_reason": "0"
+    },
+    {
+        "code": "28208",
+        "postal_old": "678  ",
+        "postal_new": "6780092",
+        "pref_kana": "ﾋｮｳｺﾞｹﾝ",
+        "address1_kana": "ｱｲｵｲｼ",
+        "address2_kana": "ﾔﾉﾁｮｳｶﾐﾄﾞｲ",
+        "pref": "兵庫県",
+        "address1": "相生市",
+        "address2": "矢野町上土井",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "1",
+        "is_updated": "0",
+        "update_reason": "0"
+    },
+    {
+        "code": "28208",
+        "postal_old": "678  ",
+        "postal_new": "6780092",
+        "pref_kana": "ﾋｮｳｺﾞｹﾝ",
+        "address1_kana": "ｱｲｵｲｼ",
+        "address2_kana": "ﾔﾉﾁｮｳｼﾓﾀﾞ",
+        "pref": "兵庫県",
+        "address1": "相生市",
+        "address2": "矢野町下田",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "1",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

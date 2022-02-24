@@ -1,0 +1,19 @@
+[
+    {
+        "code": "23223",
+        "postal_old": "474  ",
+        "postal_new": "4740061",
+        "pref_kana": "ｱｲﾁｹﾝ",
+        "address1_kana": "ｵｵﾌﾞｼ",
+        "address2_kana": "ｷｮｳﾜﾁｮｳ(ﾁｮｳﾒ)",
+        "pref": "愛知県",
+        "address1": "大府市",
+        "address2": "共和町（丁目）",
+        "is_multi_code": "1",
+        "is_koaza": "1",
+        "is_choume": "1",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

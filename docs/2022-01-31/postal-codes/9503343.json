@@ -1,0 +1,19 @@
+[
+    {
+        "code": "15101",
+        "postal_old": "95033",
+        "postal_new": "9503343",
+        "pref_kana": "ﾆｲｶﾞﾀｹﾝ",
+        "address1_kana": "ﾆｲｶﾞﾀｼｷﾀｸ",
+        "address2_kana": "ｶﾐﾄﾞﾁｶﾞﾒ",
+        "pref": "新潟県",
+        "address1": "新潟市北区",
+        "address2": "上土地亀",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

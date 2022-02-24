@@ -1,0 +1,19 @@
+[
+    {
+        "code": "08212",
+        "postal_old": "31301",
+        "postal_new": "3130114",
+        "pref_kana": "ｲﾊﾞﾗｷｹﾝ",
+        "address1_kana": "ﾋﾀﾁｵｵﾀｼ",
+        "address2_kana": "ﾐﾁｮｳ",
+        "pref": "茨城県",
+        "address1": "常陸太田市",
+        "address2": "箕町",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

@@ -1,0 +1,53 @@
+[
+    {
+        "code": "02443",
+        "postal_old": "03902",
+        "postal_new": "0390200",
+        "pref_kana": "ｱｵﾓﾘｹﾝ",
+        "address1_kana": "ｻﾝﾉﾍｸﾞﾝﾀｯｺﾏﾁ",
+        "address2_kana": "ｲｶﾆｹｲｻｲｶﾞﾅｲﾊﾞｱｲ",
+        "pref": "青森県",
+        "address1": "三戸郡田子町",
+        "address2": "以下に掲載がない場合",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    },
+    {
+        "code": "02443",
+        "postal_old": "03902",
+        "postal_new": "0390201",
+        "pref_kana": "ｱｵﾓﾘｹﾝ",
+        "address1_kana": "ｻﾝﾉﾍｸﾞﾝﾀｯｺﾏﾁ",
+        "address2_kana": "ﾀｯｺ",
+        "pref": "青森県",
+        "address1": "三戸郡田子町",
+        "address2": "田子",
+        "is_multi_code": "0",
+        "is_koaza": "1",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    },
+    {
+        "code": "02443",
+        "postal_old": "03902",
+        "postal_new": "0390202",
+        "pref_kana": "ｱｵﾓﾘｹﾝ",
+        "address1_kana": "ｻﾝﾉﾍｸﾞﾝﾀｯｺﾏﾁ",
+        "address2_kana": "ｿｳﾏｲ",
+        "pref": "青森県",
+        "address1": "三戸郡田子町",
+        "address2": "相米",
+        "is_multi_code": "0",
+        "is_koaza": "1",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

@@ -1,0 +1,19 @@
+[
+    {
+        "code": "01462",
+        "postal_old": "07925",
+        "postal_new": "0792552",
+        "pref_kana": "ﾎｯｶｲﾄﾞｳ",
+        "address1_kana": "ｿﾗﾁｸﾞﾝﾐﾅﾐﾌﾗﾉﾁｮｳ",
+        "address2_kana": "ｷﾀｵﾁｱｲ",
+        "pref": "北海道",
+        "address1": "空知郡南富良野町",
+        "address2": "北落合",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

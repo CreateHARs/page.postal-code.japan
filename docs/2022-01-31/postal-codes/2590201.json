@@ -1,0 +1,19 @@
+[
+    {
+        "code": "14383",
+        "postal_old": "25902",
+        "postal_new": "2590201",
+        "pref_kana": "ｶﾅｶﾞﾜｹﾝ",
+        "address1_kana": "ｱｼｶﾞﾗｼﾓｸﾞﾝﾏﾅﾂﾞﾙﾏﾁ",
+        "address2_kana": "ﾏﾅﾂﾙ",
+        "pref": "神奈川県",
+        "address1": "足柄下郡真鶴町",
+        "address2": "真鶴",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

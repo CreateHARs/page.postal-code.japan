@@ -1,0 +1,19 @@
+[
+    {
+        "code": "30204",
+        "postal_old": "64904",
+        "postal_new": "6490421",
+        "pref_kana": "ﾜｶﾔﾏｹﾝ",
+        "address1_kana": "ｱﾘﾀﾞｼ",
+        "address2_kana": "ｲﾄｶﾞﾁｮｳﾅｶﾊﾞﾝ",
+        "pref": "和歌山県",
+        "address1": "有田市",
+        "address2": "糸我町中番",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

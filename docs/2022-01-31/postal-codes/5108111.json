@@ -1,0 +1,19 @@
+[
+    {
+        "code": "24344",
+        "postal_old": "512  ",
+        "postal_new": "5108111",
+        "pref_kana": "ﾐｴｹﾝ",
+        "address1_kana": "ﾐｴｸﾞﾝｶﾜｺﾞｴﾁｮｳ",
+        "address2_kana": "ﾄｳｼﾝﾃﾞﾝ",
+        "pref": "三重県",
+        "address1": "三重郡川越町",
+        "address2": "当新田",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

@@ -1,0 +1,19 @@
+[
+    {
+        "code": "44204",
+        "postal_old": "877  ",
+        "postal_new": "8770065",
+        "pref_kana": "ｵｵｲﾀｹﾝ",
+        "address1_kana": "ﾋﾀｼ",
+        "address2_kana": "ﾐﾄﾞﾘﾏﾁ",
+        "pref": "大分県",
+        "address1": "日田市",
+        "address2": "緑町",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "1",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

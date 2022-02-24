@@ -1,0 +1,19 @@
+[
+    {
+        "code": "01431",
+        "postal_old": "06106",
+        "postal_new": "0610621",
+        "pref_kana": "ﾎｯｶｲﾄﾞｳ",
+        "address1_kana": "ｶﾊﾞﾄｸﾞﾝｳﾗｳｽﾁｮｳ",
+        "address2_kana": "ｵｿｷﾅｲﾀﾞｲ1",
+        "pref": "北海道",
+        "address1": "樺戸郡浦臼町",
+        "address2": "晩生内第１",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

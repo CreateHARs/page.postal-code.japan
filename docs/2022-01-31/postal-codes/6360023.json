@@ -1,0 +1,19 @@
+[
+    {
+        "code": "29425",
+        "postal_old": "636  ",
+        "postal_new": "6360023",
+        "pref_kana": "ﾅﾗｹﾝ",
+        "address1_kana": "ｷﾀｶﾂﾗｷﾞｸﾞﾝｵｳｼﾞﾁｮｳ",
+        "address2_kana": "ﾀｲｼ",
+        "pref": "奈良県",
+        "address1": "北葛城郡王寺町",
+        "address2": "太子",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "1",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

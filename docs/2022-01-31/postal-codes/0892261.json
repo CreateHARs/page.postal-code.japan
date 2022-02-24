@@ -1,0 +1,53 @@
+[
+    {
+        "code": "01641",
+        "postal_old": "08922",
+        "postal_new": "0892261",
+        "pref_kana": "ﾎｯｶｲﾄﾞｳ",
+        "address1_kana": "ﾋﾛｵｸﾞﾝﾀｲｷﾁｮｳ",
+        "address2_kana": "ｵﾀﾞ",
+        "pref": "北海道",
+        "address1": "広尾郡大樹町",
+        "address2": "尾田",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "1",
+        "is_updated": "0",
+        "update_reason": "0"
+    },
+    {
+        "code": "01641",
+        "postal_old": "08922",
+        "postal_new": "0892261",
+        "pref_kana": "ﾎｯｶｲﾄﾞｳ",
+        "address1_kana": "ﾋﾛｵｸﾞﾝﾀｲｷﾁｮｳ",
+        "address2_kana": "ﾀｸﾎｸ",
+        "pref": "北海道",
+        "address1": "広尾郡大樹町",
+        "address2": "拓北",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "1",
+        "is_updated": "0",
+        "update_reason": "0"
+    },
+    {
+        "code": "01641",
+        "postal_old": "08922",
+        "postal_new": "0892261",
+        "pref_kana": "ﾎｯｶｲﾄﾞｳ",
+        "address1_kana": "ﾋﾛｵｸﾞﾝﾀｲｷﾁｮｳ",
+        "address2_kana": "ﾄﾖｻﾄ",
+        "pref": "北海道",
+        "address1": "広尾郡大樹町",
+        "address2": "豊里",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "1",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

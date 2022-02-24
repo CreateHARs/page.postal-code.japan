@@ -1,0 +1,19 @@
+[
+    {
+        "code": "35212",
+        "postal_old": "742  ",
+        "postal_new": "7420036",
+        "pref_kana": "ﾔﾏｸﾞﾁｹﾝ",
+        "address1_kana": "ﾔﾅｲｼ",
+        "address2_kana": "ｴｷﾅﾝ",
+        "pref": "山口県",
+        "address1": "柳井市",
+        "address2": "駅南",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

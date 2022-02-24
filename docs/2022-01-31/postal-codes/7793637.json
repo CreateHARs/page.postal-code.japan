@@ -1,0 +1,19 @@
+[
+    {
+        "code": "36207",
+        "postal_old": "77936",
+        "postal_new": "7793637",
+        "pref_kana": "ﾄｸｼﾏｹﾝ",
+        "address1_kana": "ﾐﾏｼ",
+        "address2_kana": "ﾜｷﾏﾁ(ｶﾐﾅｶﾉ､ｼﾓﾅｶﾉ､ﾋﾗﾎﾞｳｼ､ﾌﾅｷ)",
+        "pref": "徳島県",
+        "address1": "美馬市",
+        "address2": "脇町（上中野、下中野、平帽子、舟木）",
+        "is_multi_code": "1",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

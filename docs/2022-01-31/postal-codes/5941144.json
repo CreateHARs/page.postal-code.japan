@@ -1,0 +1,19 @@
+[
+    {
+        "code": "27219",
+        "postal_old": "59002",
+        "postal_new": "5941144",
+        "pref_kana": "ｵｵｻｶﾌ",
+        "address1_kana": "ｲｽﾞﾐｼ",
+        "address2_kana": "ﾃｸﾉｽﾃｰｼﾞ",
+        "pref": "大阪府",
+        "address1": "和泉市",
+        "address2": "テクノステージ",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "1",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

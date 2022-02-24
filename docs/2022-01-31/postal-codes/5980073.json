@@ -1,0 +1,19 @@
+[
+    {
+        "code": "27213",
+        "postal_old": "598  ",
+        "postal_new": "5980073",
+        "pref_kana": "ｵｵｻｶﾌ",
+        "address1_kana": "ｲｽﾞﾐｻﾉｼ",
+        "address2_kana": "ﾐﾅﾐｲｽﾞﾐｶﾞｵｶ",
+        "pref": "大阪府",
+        "address1": "泉佐野市",
+        "address2": "南泉ケ丘",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "1",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

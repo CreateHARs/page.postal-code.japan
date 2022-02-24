@@ -1,0 +1,19 @@
+[
+    {
+        "code": "18382",
+        "postal_old": "91024",
+        "postal_new": "9102553",
+        "pref_kana": "ﾌｸｲｹﾝ",
+        "address1_kana": "ｲﾏﾀﾞﾃｸﾞﾝｲｹﾀﾞﾁｮｳ",
+        "address2_kana": "ｶｺﾞｶｹ",
+        "pref": "福井県",
+        "address1": "今立郡池田町",
+        "address2": "籠掛",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

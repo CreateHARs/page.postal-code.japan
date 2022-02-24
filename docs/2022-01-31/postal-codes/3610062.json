@@ -1,0 +1,19 @@
+[
+    {
+        "code": "11206",
+        "postal_old": "361  ",
+        "postal_new": "3610062",
+        "pref_kana": "ｻｲﾀﾏｹﾝ",
+        "address1_kana": "ｷﾞｮｳﾀﾞｼ",
+        "address2_kana": "ﾔｺﾞｳ",
+        "pref": "埼玉県",
+        "address1": "行田市",
+        "address2": "谷郷",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

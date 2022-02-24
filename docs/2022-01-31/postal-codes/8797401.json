@@ -1,0 +1,19 @@
+[
+    {
+        "code": "44212",
+        "postal_old": "87974",
+        "postal_new": "8797401",
+        "pref_kana": "ｵｵｲﾀｹﾝ",
+        "address1_kana": "ﾌﾞﾝｺﾞｵｵﾉｼ",
+        "address2_kana": "ﾁﾄｾﾏﾁﾆｲﾄﾞﾉ",
+        "pref": "大分県",
+        "address1": "豊後大野市",
+        "address2": "千歳町新殿",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

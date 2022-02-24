@@ -1,0 +1,19 @@
+[
+    {
+        "code": "29344",
+        "postal_old": "63601",
+        "postal_new": "6360103",
+        "pref_kana": "ﾅﾗｹﾝ",
+        "address1_kana": "ｲｺﾏｸﾞﾝｲｶﾙｶﾞﾁｮｳ",
+        "address2_kana": "ｺｳｾﾞﾝ",
+        "pref": "奈良県",
+        "address1": "生駒郡斑鳩町",
+        "address2": "幸前",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

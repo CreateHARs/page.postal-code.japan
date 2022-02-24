@@ -1,0 +1,36 @@
+[
+    {
+        "code": "23214",
+        "postal_old": "443  ",
+        "postal_new": "4430056",
+        "pref_kana": "ｱｲﾁｹﾝ",
+        "address1_kana": "ｶﾞﾏｺﾞｵﾘｼ",
+        "address2_kana": "ｼﾝﾒｲﾁｮｳ",
+        "pref": "愛知県",
+        "address1": "蒲郡市",
+        "address2": "神明町",
+        "is_multi_code": "0",
+        "is_koaza": "1",
+        "is_choume": "0",
+        "is_multi_place": "1",
+        "is_updated": "0",
+        "update_reason": "0"
+    },
+    {
+        "code": "23214",
+        "postal_old": "443  ",
+        "postal_new": "4430056",
+        "pref_kana": "ｱｲﾁｹﾝ",
+        "address1_kana": "ｶﾞﾏｺﾞｵﾘｼ",
+        "address2_kana": "ｼﾝﾒｲﾁｮｳﾋｶﾞｼ",
+        "pref": "愛知県",
+        "address1": "蒲郡市",
+        "address2": "神明町東",
+        "is_multi_code": "0",
+        "is_koaza": "1",
+        "is_choume": "0",
+        "is_multi_place": "1",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

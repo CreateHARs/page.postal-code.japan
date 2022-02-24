@@ -1,0 +1,19 @@
+[
+    {
+        "code": "01104",
+        "postal_old": "003  ",
+        "postal_new": "0030863",
+        "pref_kana": "ﾎｯｶｲﾄﾞｳ",
+        "address1_kana": "ｻｯﾎﾟﾛｼｼﾛｲｼｸ",
+        "address2_kana": "ｶﾜｼﾓ3ｼﾞｮｳ",
+        "pref": "北海道",
+        "address1": "札幌市白石区",
+        "address2": "川下三条",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "1",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

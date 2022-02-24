@@ -1,0 +1,19 @@
+[
+    {
+        "code": "29443",
+        "postal_old": "638  ",
+        "postal_new": "6380012",
+        "pref_kana": "ﾅﾗｹﾝ",
+        "address1_kana": "ﾖｼﾉｸﾞﾝｼﾓｲﾁﾁｮｳ",
+        "address2_kana": "ｲﾜﾓﾘ",
+        "pref": "奈良県",
+        "address1": "吉野郡下市町",
+        "address2": "岩森",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

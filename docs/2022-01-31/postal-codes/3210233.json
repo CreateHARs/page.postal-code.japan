@@ -1,0 +1,19 @@
+[
+    {
+        "code": "09361",
+        "postal_old": "32102",
+        "postal_new": "3210233",
+        "pref_kana": "ﾄﾁｷﾞｹﾝ",
+        "address1_kana": "ｼﾓﾂｶﾞｸﾞﾝﾐﾌﾞﾏﾁ",
+        "address2_kana": "ｽｹｶﾞｲ",
+        "pref": "栃木県",
+        "address1": "下都賀郡壬生町",
+        "address2": "助谷",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

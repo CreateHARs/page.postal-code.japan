@@ -1,0 +1,19 @@
+[
+    {
+        "code": "12210",
+        "postal_old": "29941",
+        "postal_new": "2994104",
+        "pref_kana": "ﾁﾊﾞｹﾝ",
+        "address1_kana": "ﾓﾊﾞﾗｼ",
+        "address2_kana": "ﾐﾅﾐﾖｼﾀﾞ",
+        "pref": "千葉県",
+        "address1": "茂原市",
+        "address2": "南吉田",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

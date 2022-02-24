@@ -1,0 +1,36 @@
+[
+    {
+        "code": "38201",
+        "postal_old": "790  ",
+        "postal_new": "7900922",
+        "pref_kana": "ｴﾋﾒｹﾝ",
+        "address1_kana": "ﾏﾂﾔﾏｼ",
+        "address2_kana": "ﾎｼｵｶ",
+        "pref": "愛媛県",
+        "address1": "松山市",
+        "address2": "星岡",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "1",
+        "is_multi_place": "1",
+        "is_updated": "0",
+        "update_reason": "0"
+    },
+    {
+        "code": "38201",
+        "postal_old": "790  ",
+        "postal_new": "7900922",
+        "pref_kana": "ｴﾋﾒｹﾝ",
+        "address1_kana": "ﾏﾂﾔﾏｼ",
+        "address2_kana": "ﾎｼｵｶﾏﾁ",
+        "pref": "愛媛県",
+        "address1": "松山市",
+        "address2": "星岡町",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "1",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

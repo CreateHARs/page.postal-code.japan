@@ -1,0 +1,19 @@
+[
+    {
+        "code": "18404",
+        "postal_old": "91901",
+        "postal_new": "9190103",
+        "pref_kana": "ﾌｸｲｹﾝ",
+        "address1_kana": "ﾅﾝｼﾞｮｳｸﾞﾝﾐﾅﾐｴﾁｾﾞﾝﾁｮｳ",
+        "address2_kana": "ﾔｼﾛﾀﾞﾆ",
+        "pref": "福井県",
+        "address1": "南条郡南越前町",
+        "address2": "社谷",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

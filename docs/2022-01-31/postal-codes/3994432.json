@@ -1,0 +1,19 @@
+[
+    {
+        "code": "20209",
+        "postal_old": "39944",
+        "postal_new": "3994432",
+        "pref_kana": "ﾅｶﾞﾉｹﾝ",
+        "address1_kana": "ｲﾅｼ",
+        "address2_kana": "ﾋｶﾞｼﾊﾙﾁｶ",
+        "pref": "長野県",
+        "address1": "伊那市",
+        "address2": "東春近",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

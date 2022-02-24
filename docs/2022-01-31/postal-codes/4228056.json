@@ -1,0 +1,19 @@
+[
+    {
+        "code": "22102",
+        "postal_old": "422  ",
+        "postal_new": "4228056",
+        "pref_kana": "ｼｽﾞｵｶｹﾝ",
+        "address1_kana": "ｼｽﾞｵｶｼｽﾙｶﾞｸ",
+        "address2_kana": "ﾂｼﾏﾁｮｳ",
+        "pref": "静岡県",
+        "address1": "静岡市駿河区",
+        "address2": "津島町",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

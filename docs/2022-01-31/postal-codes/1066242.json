@@ -1,0 +1,19 @@
+[
+    {
+        "code": "13103",
+        "postal_old": "106  ",
+        "postal_new": "1066242",
+        "pref_kana": "ﾄｳｷｮｳﾄ",
+        "address1_kana": "ﾐﾅﾄｸ",
+        "address2_kana": "ﾛｯﾎﾟﾝｷﾞｽﾐﾄﾓﾌﾄﾞｳｻﾝﾛｯﾎﾟﾝｷﾞｸﾞﾗﾝﾄﾞﾀﾜｰ(42ｶｲ)",
+        "pref": "東京都",
+        "address1": "港区",
+        "address2": "六本木住友不動産六本木グランドタワー（４２階）",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

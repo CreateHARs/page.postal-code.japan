@@ -1,0 +1,36 @@
+[
+    {
+        "code": "26106",
+        "postal_old": "600  ",
+        "postal_new": "6008301",
+        "pref_kana": "ｷｮｳﾄﾌ",
+        "address1_kana": "ｷｮｳﾄｼｼﾓｷﾞｮｳｸ",
+        "address2_kana": "ｶﾐﾔﾅｷﾞﾁｮｳ",
+        "pref": "京都府",
+        "address1": "京都市下京区",
+        "address2": "上柳町（楊梅通新町東入、室町新町之間五条下る、楊梅通新町東入",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    },
+    {
+        "code": "26106",
+        "postal_old": "600  ",
+        "postal_new": "6008301",
+        "pref_kana": "ｷｮｳﾄﾌ",
+        "address1_kana": "ｷｮｳﾄｼｼﾓｷﾞｮｳｸ",
+        "address2_kana": "ｶﾐﾔﾅｷﾞﾁｮｳ",
+        "pref": "京都府",
+        "address1": "京都市下京区",
+        "address2": "上る、楊梅通室町西入）",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

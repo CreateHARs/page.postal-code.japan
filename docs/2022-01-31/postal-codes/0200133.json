@@ -1,0 +1,19 @@
+[
+    {
+        "code": "03201",
+        "postal_old": "02001",
+        "postal_new": "0200133",
+        "pref_kana": "ｲﾜﾃｹﾝ",
+        "address1_kana": "ﾓﾘｵｶｼ",
+        "address2_kana": "ｱｵﾔﾏ",
+        "pref": "岩手県",
+        "address1": "盛岡市",
+        "address2": "青山",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "1",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

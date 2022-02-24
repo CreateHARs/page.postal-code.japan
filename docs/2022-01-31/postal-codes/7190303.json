@@ -1,0 +1,19 @@
+[
+    {
+        "code": "33445",
+        "postal_old": "71903",
+        "postal_new": "7190303",
+        "pref_kana": "ｵｶﾔﾏｹﾝ",
+        "address1_kana": "ｱｻｸﾁｸﾞﾝｻﾄｼｮｳﾁｮｳ",
+        "address2_kana": "ﾊﾏﾅｶ",
+        "pref": "岡山県",
+        "address1": "浅口郡里庄町",
+        "address2": "浜中",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

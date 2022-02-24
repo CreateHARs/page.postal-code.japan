@@ -1,0 +1,53 @@
+[
+    {
+        "code": "38386",
+        "postal_old": "79118",
+        "postal_new": "7911801",
+        "pref_kana": "ｴﾋﾒｹﾝ",
+        "address1_kana": "ｶﾐｳｹﾅｸﾞﾝｸﾏｺｳｹﾞﾝﾁｮｳ",
+        "address2_kana": "ﾔﾅｲｶﾞﾜ",
+        "pref": "愛媛県",
+        "address1": "上浮穴郡久万高原町",
+        "address2": "柳井川",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    },
+    {
+        "code": "38386",
+        "postal_old": "79118",
+        "postal_new": "7911802",
+        "pref_kana": "ｴﾋﾒｹﾝ",
+        "address1_kana": "ｶﾐｳｹﾅｸﾞﾝｸﾏｺｳｹﾞﾝﾁｮｳ",
+        "address2_kana": "ﾆｼﾀﾞﾆ",
+        "pref": "愛媛県",
+        "address1": "上浮穴郡久万高原町",
+        "address2": "西谷",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    },
+    {
+        "code": "38386",
+        "postal_old": "79118",
+        "postal_new": "7911803",
+        "pref_kana": "ｴﾋﾒｹﾝ",
+        "address1_kana": "ｶﾐｳｹﾅｸﾞﾝｸﾏｺｳｹﾞﾝﾁｮｳ",
+        "address2_kana": "ﾅｶﾂ",
+        "pref": "愛媛県",
+        "address1": "上浮穴郡久万高原町",
+        "address2": "中津",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

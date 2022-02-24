@@ -1,0 +1,36 @@
+[
+    {
+        "code": "34207",
+        "postal_old": "72902",
+        "postal_new": "7290251",
+        "pref_kana": "ﾋﾛｼﾏｹﾝ",
+        "address1_kana": "ﾌｸﾔﾏｼ",
+        "address2_kana": "ﾋｶﾞｼﾑﾗﾁｮｳ",
+        "pref": "広島県",
+        "address1": "福山市",
+        "address2": "東村町",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    },
+    {
+        "code": "34207",
+        "postal_old": "72902",
+        "postal_new": "7290252",
+        "pref_kana": "ﾋﾛｼﾏｹﾝ",
+        "address1_kana": "ﾌｸﾔﾏｼ",
+        "address2_kana": "ﾎﾝｺﾞｳﾁｮｳ",
+        "pref": "広島県",
+        "address1": "福山市",
+        "address2": "本郷町",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

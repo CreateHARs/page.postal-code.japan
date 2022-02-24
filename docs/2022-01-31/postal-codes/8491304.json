@@ -1,0 +1,19 @@
+[
+    {
+        "code": "41207",
+        "postal_old": "84913",
+        "postal_new": "8491304",
+        "pref_kana": "ｻｶﾞｹﾝ",
+        "address1_kana": "ｶｼﾏｼ",
+        "address2_kana": "ﾅｶﾑﾗ",
+        "pref": "佐賀県",
+        "address1": "鹿島市",
+        "address2": "中村",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

@@ -1,0 +1,19 @@
+[
+    {
+        "code": "07208",
+        "postal_old": "96943",
+        "postal_new": "9694303",
+        "pref_kana": "ﾌｸｼﾏｹﾝ",
+        "address1_kana": "ｷﾀｶﾀｼ",
+        "address2_kana": "ﾀｶｻﾄﾏﾁｱｶﾞﾂ",
+        "pref": "福島県",
+        "address1": "喜多方市",
+        "address2": "高郷町揚津",
+        "is_multi_code": "0",
+        "is_koaza": "1",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

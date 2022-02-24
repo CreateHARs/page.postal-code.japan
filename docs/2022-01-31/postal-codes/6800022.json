@@ -1,0 +1,19 @@
+[
+    {
+        "code": "31201",
+        "postal_old": "680  ",
+        "postal_new": "6800022",
+        "pref_kana": "ﾄｯﾄﾘｹﾝ",
+        "address1_kana": "ﾄｯﾄﾘｼ",
+        "address2_kana": "ﾆｼﾏﾁ",
+        "pref": "鳥取県",
+        "address1": "鳥取市",
+        "address2": "西町",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "1",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

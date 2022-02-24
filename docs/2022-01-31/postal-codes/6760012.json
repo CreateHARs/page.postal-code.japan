@@ -1,0 +1,19 @@
+[
+    {
+        "code": "28216",
+        "postal_old": "676  ",
+        "postal_new": "6760012",
+        "pref_kana": "ﾋｮｳｺﾞｹﾝ",
+        "address1_kana": "ﾀｶｻｺﾞｼ",
+        "address2_kana": "ｱﾗｲﾁｮｳﾅｶｼﾝﾏﾁ",
+        "pref": "兵庫県",
+        "address1": "高砂市",
+        "address2": "荒井町中新町",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

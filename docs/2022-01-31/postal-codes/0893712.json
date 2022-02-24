@@ -1,0 +1,19 @@
+[
+    {
+        "code": "01647",
+        "postal_old": "08937",
+        "postal_new": "0893712",
+        "pref_kana": "ﾎｯｶｲﾄﾞｳ",
+        "address1_kana": "ｱｼｮﾛｸﾞﾝｱｼｮﾛﾁｮｳ",
+        "address2_kana": "ﾐﾅﾐ2ｼﾞｮｳ",
+        "pref": "北海道",
+        "address1": "足寄郡足寄町",
+        "address2": "南二条",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "1",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

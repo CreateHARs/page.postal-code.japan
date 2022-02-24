@@ -1,0 +1,19 @@
+[
+    {
+        "code": "22213",
+        "postal_old": "43714",
+        "postal_new": "4371432",
+        "pref_kana": "ｼｽﾞｵｶｹﾝ",
+        "address1_kana": "ｶｹｶﾞﾜｼ",
+        "address2_kana": "ｶﾐﾋｼﾞｶﾀｺｳｷﾞｮｳﾀﾞﾝﾁ",
+        "pref": "静岡県",
+        "address1": "掛川市",
+        "address2": "上土方工業団地",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

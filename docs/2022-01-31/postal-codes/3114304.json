@@ -1,0 +1,19 @@
+[
+    {
+        "code": "08310",
+        "postal_old": "31143",
+        "postal_new": "3114304",
+        "pref_kana": "ｲﾊﾞﾗｷｹﾝ",
+        "address1_kana": "ﾋｶﾞｼｲﾊﾞﾗｷｸﾞﾝｼﾛｻﾄﾏﾁ",
+        "address2_kana": "ｼﾓｱｵﾔﾏ",
+        "pref": "茨城県",
+        "address1": "東茨城郡城里町",
+        "address2": "下青山",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

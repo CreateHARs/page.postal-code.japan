@@ -1,0 +1,19 @@
+[
+    {
+        "code": "26322",
+        "postal_old": "613  ",
+        "postal_new": "6130000",
+        "pref_kana": "ｷｮｳﾄﾌ",
+        "address1_kana": "ｸｾｸﾞﾝｸﾐﾔﾏﾁｮｳ",
+        "address2_kana": "ｲｶﾆｹｲｻｲｶﾞﾅｲﾊﾞｱｲ",
+        "pref": "京都府",
+        "address1": "久世郡久御山町",
+        "address2": "以下に掲載がない場合",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

@@ -1,0 +1,36 @@
+[
+    {
+        "code": "03366",
+        "postal_old": "02955",
+        "postal_new": "0295501",
+        "pref_kana": "ｲﾜﾃｹﾝ",
+        "address1_kana": "ﾜｶﾞｸﾞﾝﾆｼﾜｶﾞﾏﾁ",
+        "address2_kana": "ｻｿｳ1ﾁﾜﾘ-ｻｿｳ6ﾁﾜﾘ",
+        "pref": "岩手県",
+        "address1": "和賀郡西和賀町",
+        "address2": "左草１地割〜左草６地割",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "1",
+        "is_updated": "0",
+        "update_reason": "0"
+    },
+    {
+        "code": "03366",
+        "postal_old": "02955",
+        "postal_new": "0295501",
+        "pref_kana": "ｲﾜﾃｹﾝ",
+        "address1_kana": "ﾜｶﾞｸﾞﾝﾆｼﾜｶﾞﾏﾁ",
+        "address2_kana": "ｼﾓｻｿｳ77ﾁﾜﾘ-ｼﾓｻｿｳ80ﾁﾜﾘ",
+        "pref": "岩手県",
+        "address1": "和賀郡西和賀町",
+        "address2": "下左草７７地割〜下左草８０地割",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "1",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

@@ -1,0 +1,19 @@
+[
+    {
+        "code": "19443",
+        "postal_old": "40903",
+        "postal_new": "4090301",
+        "pref_kana": "ﾔﾏﾅｼｹﾝ",
+        "address1_kana": "ｷﾀﾂﾙｸﾞﾝﾀﾊﾞﾔﾏﾑﾗ",
+        "address2_kana": "ｵｸｱｷ",
+        "pref": "山梨県",
+        "address1": "北都留郡丹波山村",
+        "address2": "奥秋",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

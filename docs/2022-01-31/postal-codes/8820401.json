@@ -1,0 +1,19 @@
+[
+    {
+        "code": "45442",
+        "postal_old": "88204",
+        "postal_new": "8820401",
+        "pref_kana": "ﾐﾔｻﾞｷｹﾝ",
+        "address1_kana": "ﾆｼｳｽｷｸﾞﾝﾋﾉｶｹﾞﾁｮｳ",
+        "address2_kana": "ﾅﾅｵﾘ(ｿﾉﾀ)",
+        "pref": "宮崎県",
+        "address1": "西臼杵郡日之影町",
+        "address2": "七折（その他）",
+        "is_multi_code": "1",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

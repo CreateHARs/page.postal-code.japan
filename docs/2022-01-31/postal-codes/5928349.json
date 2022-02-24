@@ -1,0 +1,19 @@
+[
+    {
+        "code": "27144",
+        "postal_old": "592  ",
+        "postal_new": "5928349",
+        "pref_kana": "ｵｵｻｶﾌ",
+        "address1_kana": "ｻｶｲｼﾆｼｸ",
+        "address2_kana": "ﾊﾏﾃﾞﾗｽﾜﾉﾓﾘﾁｮｳﾋｶﾞｼ",
+        "pref": "大阪府",
+        "address1": "堺市西区",
+        "address2": "浜寺諏訪森町東",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "1",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

@@ -1,0 +1,19 @@
+[
+    {
+        "code": "40227",
+        "postal_old": "82003",
+        "postal_new": "8200322",
+        "pref_kana": "ﾌｸｵｶｹﾝ",
+        "address1_kana": "ｶﾏｼ",
+        "address2_kana": "ﾍｲ",
+        "pref": "福岡県",
+        "address1": "嘉麻市",
+        "address2": "屏",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

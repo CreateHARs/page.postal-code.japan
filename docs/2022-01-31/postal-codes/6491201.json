@@ -1,0 +1,19 @@
+[
+    {
+        "code": "30382",
+        "postal_old": "64912",
+        "postal_new": "6491201",
+        "pref_kana": "ﾜｶﾔﾏｹﾝ",
+        "address1_kana": "ﾋﾀﾞｶｸﾞﾝﾋﾀﾞｶﾁｮｳ",
+        "address2_kana": "ﾊﾗﾀﾞﾆ",
+        "pref": "和歌山県",
+        "address1": "日高郡日高町",
+        "address2": "原谷",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

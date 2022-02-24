@@ -1,0 +1,19 @@
+[
+    {
+        "code": "02402",
+        "postal_old": "03927",
+        "postal_new": "0392761",
+        "pref_kana": "ｱｵﾓﾘｹﾝ",
+        "address1_kana": "ｶﾐｷﾀｸﾞﾝｼﾁﾉﾍﾏﾁ",
+        "address2_kana": "ﾌﾀﾂﾓﾘｲｴﾉｳｼﾛ",
+        "pref": "青森県",
+        "address1": "上北郡七戸町",
+        "address2": "二ツ森家ノ後",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

@@ -1,0 +1,19 @@
+[
+    {
+        "code": "17210",
+        "postal_old": "924  ",
+        "postal_new": "9240052",
+        "pref_kana": "ｲｼｶﾜｹﾝ",
+        "address1_kana": "ﾊｸｻﾝｼ",
+        "address2_kana": "ｹﾞﾝﾍﾟｲｼﾞﾏﾏﾁ",
+        "pref": "石川県",
+        "address1": "白山市",
+        "address2": "源兵島町",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

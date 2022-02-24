@@ -1,0 +1,19 @@
+[
+    {
+        "code": "24341",
+        "postal_old": "51012",
+        "postal_new": "5101224",
+        "pref_kana": "ﾐｴｹﾝ",
+        "address1_kana": "ﾐｴｸﾞﾝｺﾓﾉﾁｮｳ",
+        "address2_kana": "ｶﾜｷﾀ",
+        "pref": "三重県",
+        "address1": "三重郡菰野町",
+        "address2": "川北",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

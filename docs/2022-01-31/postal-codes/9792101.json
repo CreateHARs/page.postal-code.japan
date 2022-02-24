@@ -1,0 +1,19 @@
+[
+    {
+        "code": "07212",
+        "postal_old": "97921",
+        "postal_new": "9792101",
+        "pref_kana": "ﾌｸｼﾏｹﾝ",
+        "address1_kana": "ﾐﾅﾐｿｳﾏｼ",
+        "address2_kana": "ｵﾀﾞｶｸｶﾀｸｻ",
+        "pref": "福島県",
+        "address1": "南相馬市",
+        "address2": "小高区片草",
+        "is_multi_code": "0",
+        "is_koaza": "1",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

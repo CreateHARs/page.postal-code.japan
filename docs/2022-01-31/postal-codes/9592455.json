@@ -1,0 +1,19 @@
+[
+    {
+        "code": "15206",
+        "postal_old": "95924",
+        "postal_new": "9592455",
+        "pref_kana": "ﾆｲｶﾞﾀｹﾝ",
+        "address1_kana": "ｼﾊﾞﾀｼ",
+        "address2_kana": "ｶﾐｺﾏﾂ",
+        "pref": "新潟県",
+        "address1": "新発田市",
+        "address2": "上小松",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

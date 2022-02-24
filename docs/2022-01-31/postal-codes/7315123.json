@@ -1,0 +1,19 @@
+[
+    {
+        "code": "34108",
+        "postal_old": "73151",
+        "postal_new": "7315123",
+        "pref_kana": "ﾋﾛｼﾏｹﾝ",
+        "address1_kana": "ﾋﾛｼﾏｼｻｴｷｸ",
+        "address2_kana": "ｲﾂｶｲﾁﾁｮｳｼｮｳﾜﾀﾞｲ",
+        "pref": "広島県",
+        "address1": "広島市佐伯区",
+        "address2": "五日市町昭和台",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

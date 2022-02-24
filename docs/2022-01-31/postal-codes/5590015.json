@@ -1,0 +1,19 @@
+[
+    {
+        "code": "27125",
+        "postal_old": "559  ",
+        "postal_new": "5590015",
+        "pref_kana": "ｵｵｻｶﾌ",
+        "address1_kana": "ｵｵｻｶｼｽﾐﾉｴｸ",
+        "address2_kana": "ﾐﾅﾐｶｶﾞﾔ",
+        "pref": "大阪府",
+        "address1": "大阪市住之江区",
+        "address2": "南加賀屋",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "1",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

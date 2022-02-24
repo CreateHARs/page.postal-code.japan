@@ -1,0 +1,19 @@
+[
+    {
+        "code": "07209",
+        "postal_old": "976  ",
+        "postal_new": "9760053",
+        "pref_kana": "ﾌｸｼﾏｹﾝ",
+        "address1_kana": "ｿｳﾏｼ",
+        "address2_kana": "ｵﾉ",
+        "pref": "福島県",
+        "address1": "相馬市",
+        "address2": "小野",
+        "is_multi_code": "0",
+        "is_koaza": "1",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

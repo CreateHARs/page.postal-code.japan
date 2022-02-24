@@ -1,0 +1,19 @@
+[
+    {
+        "code": "35204",
+        "postal_old": "75933",
+        "postal_new": "7593303",
+        "pref_kana": "ﾔﾏｸﾞﾁｹﾝ",
+        "address1_kana": "ﾊｷﾞｼ",
+        "address2_kana": "ｽｽﾞﾉｶﾞﾜ",
+        "pref": "山口県",
+        "address1": "萩市",
+        "address2": "鈴野川",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

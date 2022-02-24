@@ -1,0 +1,19 @@
+[
+    {
+        "code": "06401",
+        "postal_old": "99912",
+        "postal_new": "9991202",
+        "pref_kana": "ﾔﾏｶﾞﾀｹﾝ",
+        "address1_kana": "ﾆｼｵｷﾀﾏｸﾞﾝｵｸﾞﾆﾏﾁ",
+        "address2_kana": "ｼﾗｺｻﾞﾜ",
+        "pref": "山形県",
+        "address1": "西置賜郡小国町",
+        "address2": "白子沢",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

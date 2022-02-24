@@ -1,0 +1,19 @@
+[
+    {
+        "code": "23202",
+        "postal_old": "444  ",
+        "postal_new": "4440870",
+        "pref_kana": "ｱｲﾁｹﾝ",
+        "address1_kana": "ｵｶｻﾞｷｼ",
+        "address2_kana": "ﾀﾂﾐｵｵｲﾘﾁｮｳ",
+        "pref": "愛知県",
+        "address1": "岡崎市",
+        "address2": "竜美大入町",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "1",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

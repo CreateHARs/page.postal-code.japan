@@ -1,0 +1,19 @@
+[
+    {
+        "code": "04362",
+        "postal_old": "98921",
+        "postal_new": "9892112",
+        "pref_kana": "ﾐﾔｷﾞｹﾝ",
+        "address1_kana": "ﾜﾀﾘｸﾞﾝﾔﾏﾓﾄﾁｮｳ",
+        "address2_kana": "ﾏﾆﾜ",
+        "pref": "宮城県",
+        "address1": "亘理郡山元町",
+        "address2": "真庭",
+        "is_multi_code": "0",
+        "is_koaza": "1",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

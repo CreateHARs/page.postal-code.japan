@@ -1,0 +1,19 @@
+[
+    {
+        "code": "01106",
+        "postal_old": "005  ",
+        "postal_new": "0050032",
+        "pref_kana": "ﾎｯｶｲﾄﾞｳ",
+        "address1_kana": "ｻｯﾎﾟﾛｼﾐﾅﾐｸ",
+        "address2_kana": "ﾐﾅﾐ32ｼﾞｮｳﾆｼ",
+        "pref": "北海道",
+        "address1": "札幌市南区",
+        "address2": "南三十二条西",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "1",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

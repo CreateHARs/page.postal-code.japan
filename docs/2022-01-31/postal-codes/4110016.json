@@ -1,0 +1,19 @@
+[
+    {
+        "code": "22206",
+        "postal_old": "411  ",
+        "postal_new": "4110016",
+        "pref_kana": "ｼｽﾞｵｶｹﾝ",
+        "address1_kana": "ﾐｼﾏｼ",
+        "address2_kana": "ﾂｶﾊﾗｼﾝﾃﾞﾝ",
+        "pref": "静岡県",
+        "address1": "三島市",
+        "address2": "塚原新田",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

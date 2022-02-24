@@ -1,0 +1,19 @@
+[
+    {
+        "code": "11348",
+        "postal_old": "35003",
+        "postal_new": "3500306",
+        "pref_kana": "ｻｲﾀﾏｹﾝ",
+        "address1_kana": "ﾋｷｸﾞﾝﾊﾄﾔﾏﾏﾁ",
+        "address2_kana": "ﾀｹﾓﾄ",
+        "pref": "埼玉県",
+        "address1": "比企郡鳩山町",
+        "address2": "竹本",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

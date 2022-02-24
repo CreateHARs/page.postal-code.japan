@@ -1,0 +1,19 @@
+[
+    {
+        "code": "26214",
+        "postal_old": "61911",
+        "postal_new": "6191152",
+        "pref_kana": "ｷｮｳﾄﾌ",
+        "address1_kana": "ｷﾂﾞｶﾞﾜｼ",
+        "address2_kana": "ｶﾓﾁｮｳｻﾄ",
+        "pref": "京都府",
+        "address1": "木津川市",
+        "address2": "加茂町里",
+        "is_multi_code": "0",
+        "is_koaza": "1",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

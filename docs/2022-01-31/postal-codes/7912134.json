@@ -1,0 +1,19 @@
+[
+    {
+        "code": "38402",
+        "postal_old": "79121",
+        "postal_new": "7912134",
+        "pref_kana": "ｴﾋﾒｹﾝ",
+        "address1_kana": "ｲﾖｸﾞﾝﾄﾍﾞﾁｮｳ",
+        "address2_kana": "ﾄﾔﾏ",
+        "pref": "愛媛県",
+        "address1": "伊予郡砥部町",
+        "address2": "外山",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

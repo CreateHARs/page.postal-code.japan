@@ -1,0 +1,53 @@
+[
+    {
+        "code": "07208",
+        "postal_old": "96935",
+        "postal_new": "9693524",
+        "pref_kana": "ﾌｸｼﾏｹﾝ",
+        "address1_kana": "ｷﾀｶﾀｼ",
+        "address2_kana": "ｼｵｶﾜﾏﾁｼﾐｽﾞｷﾞｼ",
+        "pref": "福島県",
+        "address1": "喜多方市",
+        "address2": "塩川町清水岸",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "1",
+        "is_updated": "0",
+        "update_reason": "0"
+    },
+    {
+        "code": "07208",
+        "postal_old": "96935",
+        "postal_new": "9693524",
+        "pref_kana": "ﾌｸｼﾏｹﾝ",
+        "address1_kana": "ｷﾀｶﾀｼ",
+        "address2_kana": "ｼｵｶﾜﾏﾁﾀｹﾉﾊﾅ",
+        "pref": "福島県",
+        "address1": "喜多方市",
+        "address2": "塩川町竹ノ花",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "1",
+        "is_updated": "0",
+        "update_reason": "0"
+    },
+    {
+        "code": "07208",
+        "postal_old": "96935",
+        "postal_new": "9693524",
+        "pref_kana": "ﾌｸｼﾏｹﾝ",
+        "address1_kana": "ｷﾀｶﾀｼ",
+        "address2_kana": "ｼｵｶﾜﾏﾁﾀﾃﾉｳﾁ",
+        "pref": "福島県",
+        "address1": "喜多方市",
+        "address2": "塩川町舘ノ内",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "1",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

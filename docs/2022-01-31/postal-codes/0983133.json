@@ -1,0 +1,36 @@
+[
+    {
+        "code": "01487",
+        "postal_old": "09831",
+        "postal_new": "0983133",
+        "pref_kana": "ﾎｯｶｲﾄﾞｳ",
+        "address1_kana": "ﾃｼｵｸﾞﾝﾃｼｵﾁｮｳ",
+        "address2_kana": "ｵﾇﾌﾟﾅｲ",
+        "pref": "北海道",
+        "address1": "天塩郡天塩町",
+        "address2": "オヌプナイ",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "1",
+        "is_updated": "0",
+        "update_reason": "0"
+    },
+    {
+        "code": "01487",
+        "postal_old": "09831",
+        "postal_new": "0983133",
+        "pref_kana": "ﾎｯｶｲﾄﾞｳ",
+        "address1_kana": "ﾃｼｵｸﾞﾝﾃｼｵﾁｮｳ",
+        "address2_kana": "ｵﾉﾌﾞﾅｲ",
+        "pref": "北海道",
+        "address1": "天塩郡天塩町",
+        "address2": "雄信内",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "1",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

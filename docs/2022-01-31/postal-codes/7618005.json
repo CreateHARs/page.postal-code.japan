@@ -1,0 +1,19 @@
+[
+    {
+        "code": "37201",
+        "postal_old": "761  ",
+        "postal_new": "7618005",
+        "pref_kana": "ｶｶﾞﾜｹﾝ",
+        "address1_kana": "ﾀｶﾏﾂｼ",
+        "address2_kana": "ｳｴﾏﾂﾁｮｳ",
+        "pref": "香川県",
+        "address1": "高松市",
+        "address2": "植松町",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

@@ -1,0 +1,19 @@
+[
+    {
+        "code": "01661",
+        "postal_old": "08806",
+        "postal_new": "0880614",
+        "pref_kana": "ﾎｯｶｲﾄﾞｳ",
+        "address1_kana": "ｸｼﾛｸﾞﾝｸｼﾛﾁｮｳ",
+        "address2_kana": "ｺｸﾖ",
+        "pref": "北海道",
+        "address1": "釧路郡釧路町",
+        "address2": "国誉",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "1",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

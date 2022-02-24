@@ -1,0 +1,19 @@
+[
+    {
+        "code": "04581",
+        "postal_old": "98622",
+        "postal_new": "9862283",
+        "pref_kana": "ﾐﾔｷﾞｹﾝ",
+        "address1_kana": "ｵｼｶｸﾞﾝｵﾅｶﾞﾜﾁｮｳ",
+        "address2_kana": "ｲﾁﾊﾞﾄﾞｵﾘ",
+        "pref": "宮城県",
+        "address1": "牡鹿郡女川町",
+        "address2": "市場通り",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

@@ -1,0 +1,19 @@
+[
+    {
+        "code": "19365",
+        "postal_old": "40931",
+        "postal_new": "4093122",
+        "pref_kana": "ﾔﾏﾅｼｹﾝ",
+        "address1_kana": "ﾐﾅﾐｺﾏｸﾞﾝﾐﾉﾌﾞﾁｮｳ",
+        "address2_kana": "ｸﾎﾞ",
+        "pref": "山梨県",
+        "address1": "南巨摩郡身延町",
+        "address2": "久保",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

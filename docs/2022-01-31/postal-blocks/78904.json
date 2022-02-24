@@ -1,0 +1,53 @@
+[
+    {
+        "code": "39344",
+        "postal_old": "78904",
+        "postal_new": "7890426",
+        "pref_kana": "ｺｳﾁｹﾝ",
+        "address1_kana": "ﾅｶﾞｵｶｸﾞﾝｵｵﾄﾖﾁｮｳ",
+        "address2_kana": "ﾀｼﾞｶﾜｶﾐﾐｮｳ",
+        "pref": "高知県",
+        "address1": "長岡郡大豊町",
+        "address2": "立川上名",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    },
+    {
+        "code": "39344",
+        "postal_old": "78904",
+        "postal_new": "7890427",
+        "pref_kana": "ｺｳﾁｹﾝ",
+        "address1_kana": "ﾅｶﾞｵｶｸﾞﾝｵｵﾄﾖﾁｮｳ",
+        "address2_kana": "ﾀｼﾞｶﾜｼﾓﾐｮｳ",
+        "pref": "高知県",
+        "address1": "長岡郡大豊町",
+        "address2": "立川下名",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    },
+    {
+        "code": "39344",
+        "postal_old": "78904",
+        "postal_new": "7890428",
+        "pref_kana": "ｺｳﾁｹﾝ",
+        "address1_kana": "ﾅｶﾞｵｶｸﾞﾝｵｵﾄﾖﾁｮｳ",
+        "address2_kana": "ｶｽﾞﾗﾜﾗ(ﾁﾉﾉ)",
+        "pref": "高知県",
+        "address1": "長岡郡大豊町",
+        "address2": "葛原（千野々）",
+        "is_multi_code": "1",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

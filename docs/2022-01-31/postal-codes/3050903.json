@@ -1,0 +1,19 @@
+[
+    {
+        "code": "08220",
+        "postal_old": "305  ",
+        "postal_new": "3050903",
+        "pref_kana": "ｲﾊﾞﾗｷｹﾝ",
+        "address1_kana": "ﾂｸﾊﾞｼ",
+        "address2_kana": "ﾏﾂﾉｻﾄ(1)",
+        "pref": "茨城県",
+        "address1": "つくば市",
+        "address2": "松の里（１）",
+        "is_multi_code": "1",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

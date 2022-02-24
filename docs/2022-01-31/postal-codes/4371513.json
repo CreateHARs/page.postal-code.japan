@@ -1,0 +1,19 @@
+[
+    {
+        "code": "22224",
+        "postal_old": "43715",
+        "postal_new": "4371513",
+        "pref_kana": "ｼｽﾞｵｶｹﾝ",
+        "address1_kana": "ｷｸｶﾞﾜｼ",
+        "address2_kana": "ﾀﾅｸｻ",
+        "pref": "静岡県",
+        "address1": "菊川市",
+        "address2": "棚草",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

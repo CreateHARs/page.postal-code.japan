@@ -1,0 +1,19 @@
+[
+    {
+        "code": "38488",
+        "postal_old": "79813",
+        "postal_new": "7981333",
+        "pref_kana": "ｴﾋﾒｹﾝ",
+        "address1_kana": "ｷﾀｳﾜｸﾞﾝｷﾎｸﾁｮｳ",
+        "address2_kana": "ﾅｶﾞﾉｲﾁ",
+        "pref": "愛媛県",
+        "address1": "北宇和郡鬼北町",
+        "address2": "永野市",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

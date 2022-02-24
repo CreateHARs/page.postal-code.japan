@@ -1,0 +1,19 @@
+[
+    {
+        "code": "17204",
+        "postal_old": "92802",
+        "postal_new": "9280244",
+        "pref_kana": "ｲｼｶﾜｹﾝ",
+        "address1_kana": "ﾜｼﾞﾏｼ",
+        "address2_kana": "ﾆｼｲﾝﾅｲﾏﾁ",
+        "pref": "石川県",
+        "address1": "輪島市",
+        "address2": "西院内町",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

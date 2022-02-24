@@ -1,0 +1,19 @@
+[
+    {
+        "code": "44205",
+        "postal_old": "87932",
+        "postal_new": "8793201",
+        "pref_kana": "ｵｵｲﾀｹﾝ",
+        "address1_kana": "ｻｲｷｼ",
+        "address2_kana": "ｳﾒｵｵﾋﾗ",
+        "pref": "大分県",
+        "address1": "佐伯市",
+        "address2": "宇目大平",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

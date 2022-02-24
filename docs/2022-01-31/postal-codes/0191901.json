@@ -1,0 +1,19 @@
+[
+    {
+        "code": "05212",
+        "postal_old": "01919",
+        "postal_new": "0191901",
+        "pref_kana": "ｱｷﾀｹﾝ",
+        "address1_kana": "ﾀﾞｲｾﾝｼ",
+        "address2_kana": "ﾅﾝｶﾞｲｱｸﾄﾉ",
+        "pref": "秋田県",
+        "address1": "大仙市",
+        "address2": "南外悪戸野",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

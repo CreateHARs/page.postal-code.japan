@@ -1,0 +1,19 @@
+[
+    {
+        "code": "12409",
+        "postal_old": "28916",
+        "postal_new": "2891624",
+        "pref_kana": "ﾁﾊﾞｹﾝ",
+        "address1_kana": "ｻﾝﾌﾞｸﾞﾝｼﾊﾞﾔﾏﾏﾁ",
+        "address2_kana": "ｺｲｹ",
+        "pref": "千葉県",
+        "address1": "山武郡芝山町",
+        "address2": "小池",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

@@ -1,0 +1,19 @@
+[
+    {
+        "code": "41327",
+        "postal_old": "842  ",
+        "postal_new": "8420031",
+        "pref_kana": "ｻｶﾞｹﾝ",
+        "address1_kana": "ｶﾝｻﾞｷｸﾞﾝﾖｼﾉｶﾞﾘﾁｮｳ",
+        "address2_kana": "ﾖｼﾀﾞ",
+        "pref": "佐賀県",
+        "address1": "神埼郡吉野ヶ里町",
+        "address2": "吉田",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

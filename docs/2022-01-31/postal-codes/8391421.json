@@ -1,0 +1,19 @@
+[
+    {
+        "code": "44204",
+        "postal_old": "83914",
+        "postal_new": "8391421",
+        "pref_kana": "ｵｵｲﾀｹﾝ",
+        "address1_kana": "ﾋﾀｼ",
+        "address2_kana": "ﾏｴﾂｴﾏﾁﾕｳｷﾞ(1-800ﾊﾞﾝﾁ､ｾﾝｿﾞｳｷﾞ､ﾄｳﾉﾓﾄ､ﾆﾀﾊﾞﾙ､ﾎﾝﾑﾗ)",
+        "pref": "大分県",
+        "address1": "日田市",
+        "address2": "前津江町柚木（１〜８００番地、千蔵木、塔ノ本、仁田原、本村）",
+        "is_multi_code": "1",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

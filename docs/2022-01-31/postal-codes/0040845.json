@@ -1,0 +1,19 @@
+[
+    {
+        "code": "01110",
+        "postal_old": "004  ",
+        "postal_new": "0040845",
+        "pref_kana": "ﾎｯｶｲﾄﾞｳ",
+        "address1_kana": "ｻｯﾎﾟﾛｼｷﾖﾀｸ",
+        "address2_kana": "ｷﾖﾀ5ｼﾞｮｳ",
+        "pref": "北海道",
+        "address1": "札幌市清田区",
+        "address2": "清田五条",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

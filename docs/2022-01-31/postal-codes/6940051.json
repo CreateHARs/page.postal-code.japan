@@ -1,0 +1,19 @@
+[
+    {
+        "code": "32205",
+        "postal_old": "694  ",
+        "postal_new": "6940051",
+        "pref_kana": "ｼﾏﾈｹﾝ",
+        "address1_kana": "ｵｵﾀﾞｼ",
+        "address2_kana": "ｸﾃﾁｮｳﾊﾈﾆｼ",
+        "pref": "島根県",
+        "address1": "大田市",
+        "address2": "久手町波根西",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

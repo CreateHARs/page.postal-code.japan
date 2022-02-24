@@ -1,0 +1,19 @@
+[
+    {
+        "code": "07504",
+        "postal_old": "96362",
+        "postal_new": "9636206",
+        "pref_kana": "ﾌｸｼﾏｹﾝ",
+        "address1_kana": "ｲｼｶﾜｸﾞﾝｱｻｶﾜﾏﾁ",
+        "address2_kana": "ｵｵﾀﾜ",
+        "pref": "福島県",
+        "address1": "石川郡浅川町",
+        "address2": "太田輪",
+        "is_multi_code": "0",
+        "is_koaza": "1",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

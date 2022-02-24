@@ -1,0 +1,19 @@
+[
+    {
+        "code": "37203",
+        "postal_old": "762  ",
+        "postal_new": "7620027",
+        "pref_kana": "ｶｶﾞﾜｹﾝ",
+        "address1_kana": "ｻｶｲﾃﾞｼ",
+        "address2_kana": "ｵｵｲｹﾁｮｳ",
+        "pref": "香川県",
+        "address1": "坂出市",
+        "address2": "大池町",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

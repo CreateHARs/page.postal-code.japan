@@ -1,0 +1,19 @@
+[
+    {
+        "code": "44211",
+        "postal_old": "87204",
+        "postal_new": "8720461",
+        "pref_kana": "ｵｵｲﾀｹﾝ",
+        "address1_kana": "ｳｻｼ",
+        "address2_kana": "ｲﾝﾅｲﾏﾁﾀﾞｲ",
+        "pref": "大分県",
+        "address1": "宇佐市",
+        "address2": "院内町台",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

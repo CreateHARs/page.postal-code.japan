@@ -1,0 +1,19 @@
+[
+    {
+        "code": "08231",
+        "postal_old": "30044",
+        "postal_new": "3004423",
+        "pref_kana": "ｲﾊﾞﾗｷｹﾝ",
+        "address1_kana": "ｻｸﾗｶﾞﾜｼ",
+        "address2_kana": "ﾏｶﾍﾞﾁｮｳﾊﾅﾜｾﾞ",
+        "pref": "茨城県",
+        "address1": "桜川市",
+        "address2": "真壁町塙世",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

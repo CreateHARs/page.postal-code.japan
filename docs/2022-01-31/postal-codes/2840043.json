@@ -1,0 +1,19 @@
+[
+    {
+        "code": "12228",
+        "postal_old": "284  ",
+        "postal_new": "2840043",
+        "pref_kana": "ﾁﾊﾞｹﾝ",
+        "address1_kana": "ﾖﾂｶｲﾄﾞｳｼ",
+        "address2_kana": "ﾒｲﾜ",
+        "pref": "千葉県",
+        "address1": "四街道市",
+        "address2": "めいわ",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "1",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

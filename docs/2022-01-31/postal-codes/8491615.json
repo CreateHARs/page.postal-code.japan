@@ -1,0 +1,19 @@
+[
+    {
+        "code": "41441",
+        "postal_old": "84916",
+        "postal_new": "8491615",
+        "pref_kana": "ｻｶﾞｹﾝ",
+        "address1_kana": "ﾌｼﾞﾂｸﾞﾝﾀﾗﾁｮｳ",
+        "address2_kana": "ｵｵｳﾗｵﾂ",
+        "pref": "佐賀県",
+        "address1": "藤津郡太良町",
+        "address2": "大浦乙",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

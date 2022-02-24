@@ -1,0 +1,19 @@
+[
+    {
+        "code": "28105",
+        "postal_old": "652  ",
+        "postal_new": "6520015",
+        "pref_kana": "ﾋｮｳｺﾞｹﾝ",
+        "address1_kana": "ｺｳﾍﾞｼﾋｮｳｺﾞｸ",
+        "address2_kana": "ｼﾓｷﾞｵﾝﾁｮｳ",
+        "pref": "兵庫県",
+        "address1": "神戸市兵庫区",
+        "address2": "下祇園町",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

@@ -1,0 +1,36 @@
+[
+    {
+        "code": "04501",
+        "postal_old": "98701",
+        "postal_new": "9870132",
+        "pref_kana": "ﾐﾔｷﾞｹﾝ",
+        "address1_kana": "ﾄｵﾀﾞｸﾞﾝﾜｸﾔﾁｮｳ",
+        "address2_kana": "ｸﾗﾝﾄﾞｵｷﾅ",
+        "pref": "宮城県",
+        "address1": "遠田郡涌谷町",
+        "address2": "蔵人沖名",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "1",
+        "is_updated": "0",
+        "update_reason": "0"
+    },
+    {
+        "code": "04501",
+        "postal_old": "98701",
+        "postal_new": "9870132",
+        "pref_kana": "ﾐﾔｷﾞｹﾝ",
+        "address1_kana": "ﾄｵﾀﾞｸﾞﾝﾜｸﾔﾁｮｳ",
+        "address2_kana": "ｺﾔﾁ",
+        "pref": "宮城県",
+        "address1": "遠田郡涌谷町",
+        "address2": "小谷地",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "1",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

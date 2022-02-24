@@ -1,0 +1,19 @@
+[
+    {
+        "code": "03524",
+        "postal_old": "02853",
+        "postal_new": "0285303",
+        "pref_kana": "ｲﾜﾃｹﾝ",
+        "address1_kana": "ﾆﾉﾍｸﾞﾝｲﾁﾉﾍﾏﾁ",
+        "address2_kana": "ｵﾄﾓ",
+        "pref": "岩手県",
+        "address1": "二戸郡一戸町",
+        "address2": "小友",
+        "is_multi_code": "0",
+        "is_koaza": "1",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

@@ -1,0 +1,36 @@
+[
+    {
+        "code": "26106",
+        "postal_old": "600  ",
+        "postal_new": "6008185",
+        "pref_kana": "ｷｮｳﾄﾌ",
+        "address1_kana": "ｷｮｳﾄｼｼﾓｷﾞｮｳｸ",
+        "address2_kana": "ﾊﾅﾔﾁｮｳ",
+        "pref": "京都府",
+        "address1": "京都市下京区",
+        "address2": "花屋町（上枳殻馬場通間之町西入、上珠数屋町通間之町西入、",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    },
+    {
+        "code": "26106",
+        "postal_old": "600  ",
+        "postal_new": "6008185",
+        "pref_kana": "ｷｮｳﾄﾌ",
+        "address1_kana": "ｷｮｳﾄｼｼﾓｷﾞｮｳｸ",
+        "address2_kana": "ﾊﾅﾔﾁｮｳ",
+        "pref": "京都府",
+        "address1": "京都市下京区",
+        "address2": "上珠数屋町通東洞院東入、東洞院通上枳殻馬場下る、間之町通上珠数屋町下る）",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

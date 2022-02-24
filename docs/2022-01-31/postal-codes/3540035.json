@@ -1,0 +1,19 @@
+[
+    {
+        "code": "11235",
+        "postal_old": "354  ",
+        "postal_new": "3540035",
+        "pref_kana": "ｻｲﾀﾏｹﾝ",
+        "address1_kana": "ﾌｼﾞﾐｼ",
+        "address2_kana": "ﾌｼﾞﾐﾉﾆｼ",
+        "pref": "埼玉県",
+        "address1": "富士見市",
+        "address2": "ふじみ野西",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "1",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

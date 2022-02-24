@@ -1,0 +1,19 @@
+[
+    {
+        "code": "46534",
+        "postal_old": "89192",
+        "postal_new": "8919205",
+        "pref_kana": "ｶｺﾞｼﾏｹﾝ",
+        "address1_kana": "ｵｵｼﾏｸﾞﾝﾁﾅﾁｮｳ",
+        "address2_kana": "ｸﾞｼｹﾝ",
+        "pref": "鹿児島県",
+        "address1": "大島郡知名町",
+        "address2": "久志検",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

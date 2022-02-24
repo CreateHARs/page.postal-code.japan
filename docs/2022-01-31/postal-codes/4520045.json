@@ -1,0 +1,19 @@
+[
+    {
+        "code": "23233",
+        "postal_old": "452  ",
+        "postal_new": "4520045",
+        "pref_kana": "ｱｲﾁｹﾝ",
+        "address1_kana": "ｷﾖｽｼ",
+        "address2_kana": "ﾆｼﾋﾞﾜｼﾞﾏﾁｮｳﾆｼﾛｯｹﾝ",
+        "pref": "愛知県",
+        "address1": "清須市",
+        "address2": "西枇杷島町西六軒",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

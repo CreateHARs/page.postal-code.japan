@@ -1,0 +1,19 @@
+[
+    {
+        "code": "12206",
+        "postal_old": "292  ",
+        "postal_new": "2920013",
+        "pref_kana": "ﾁﾊﾞｹﾝ",
+        "address1_kana": "ｷｻﾗﾂﾞｼ",
+        "address2_kana": "ﾜｶﾊﾞﾁｮｳ",
+        "pref": "千葉県",
+        "address1": "木更津市",
+        "address2": "若葉町",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

@@ -1,0 +1,19 @@
+[
+    {
+        "code": "03205",
+        "postal_old": "02503",
+        "postal_new": "0250314",
+        "pref_kana": "ｲﾜﾃｹﾝ",
+        "address1_kana": "ﾊﾅﾏｷｼ",
+        "address2_kana": "ﾆﾏｲﾊﾞｼﾏﾁｵｵﾄﾞｵﾘ",
+        "pref": "岩手県",
+        "address1": "花巻市",
+        "address2": "二枚橋町大通り",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "1",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

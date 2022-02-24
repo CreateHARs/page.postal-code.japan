@@ -1,0 +1,36 @@
+[
+    {
+        "code": "18382",
+        "postal_old": "91024",
+        "postal_new": "9102556",
+        "pref_kana": "ﾌｸｲｹﾝ",
+        "address1_kana": "ｲﾏﾀﾞﾃｸﾞﾝｲｹﾀﾞﾁｮｳ",
+        "address2_kana": "ｼﾗﾜ",
+        "pref": "福井県",
+        "address1": "今立郡池田町",
+        "address2": "白粟",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "1",
+        "is_updated": "0",
+        "update_reason": "0"
+    },
+    {
+        "code": "18382",
+        "postal_old": "91024",
+        "postal_new": "9102556",
+        "pref_kana": "ﾌｸｲｹﾝ",
+        "address1_kana": "ｲﾏﾀﾞﾃｸﾞﾝｲｹﾀﾞﾁｮｳ",
+        "address2_kana": "ﾏﾂｶﾞﾀﾆ",
+        "pref": "福井県",
+        "address1": "今立郡池田町",
+        "address2": "松ケ谷",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "1",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

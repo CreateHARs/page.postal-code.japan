@@ -1,0 +1,19 @@
+[
+    {
+        "code": "32209",
+        "postal_old": "69914",
+        "postal_new": "6991401",
+        "pref_kana": "ｼﾏﾈｹﾝ",
+        "address1_kana": "ｳﾝﾅﾝｼ",
+        "address2_kana": "ｷｽｷﾁｮｳｷﾀﾊﾗ(ｵｼﾞﾛ)",
+        "pref": "島根県",
+        "address1": "雲南市",
+        "address2": "木次町北原（尾白）",
+        "is_multi_code": "1",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

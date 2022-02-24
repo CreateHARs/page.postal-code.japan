@@ -1,0 +1,19 @@
+[
+    {
+        "code": "09213",
+        "postal_old": "32931",
+        "postal_new": "3293131",
+        "pref_kana": "ﾄﾁｷﾞｹﾝ",
+        "address1_kana": "ﾅｽｼｵﾊﾞﾗｼ",
+        "address2_kana": "ｶﾗｽｷﾞ",
+        "pref": "栃木県",
+        "address1": "那須塩原市",
+        "address2": "唐杉",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

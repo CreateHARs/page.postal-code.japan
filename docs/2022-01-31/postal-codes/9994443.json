@@ -1,0 +1,19 @@
+[
+    {
+        "code": "06212",
+        "postal_old": "99944",
+        "postal_new": "9994443",
+        "pref_kana": "ﾔﾏｶﾞﾀｹﾝ",
+        "address1_kana": "ｵﾊﾞﾅｻﾞﾜｼ",
+        "address2_kana": "ﾂﾙｺ",
+        "pref": "山形県",
+        "address1": "尾花沢市",
+        "address2": "鶴子",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

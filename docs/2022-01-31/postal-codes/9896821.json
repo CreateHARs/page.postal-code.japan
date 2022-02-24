@@ -1,0 +1,19 @@
+[
+    {
+        "code": "04215",
+        "postal_old": "98968",
+        "postal_new": "9896821",
+        "pref_kana": "ﾐﾔｷﾞｹﾝ",
+        "address1_kana": "ｵｵｻｷｼ",
+        "address2_kana": "ﾅﾙｺｵﾝｾﾝｸﾙﾏﾕ",
+        "pref": "宮城県",
+        "address1": "大崎市",
+        "address2": "鳴子温泉車湯",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

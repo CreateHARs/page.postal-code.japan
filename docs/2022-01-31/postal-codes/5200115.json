@@ -1,0 +1,19 @@
+[
+    {
+        "code": "25201",
+        "postal_old": "52001",
+        "postal_new": "5200115",
+        "pref_kana": "ｼｶﾞｹﾝ",
+        "address1_kana": "ｵｵﾂｼ",
+        "address2_kana": "ﾔﾖｲﾁｮｳ",
+        "pref": "滋賀県",
+        "address1": "大津市",
+        "address2": "弥生町",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

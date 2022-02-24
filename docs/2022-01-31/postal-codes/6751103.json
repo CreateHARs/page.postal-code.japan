@@ -1,0 +1,19 @@
+[
+    {
+        "code": "28381",
+        "postal_old": "67511",
+        "postal_new": "6751103",
+        "pref_kana": "ﾋｮｳｺﾞｹﾝ",
+        "address1_kana": "ｶｺｸﾞﾝｲﾅﾐﾁｮｳ",
+        "address2_kana": "ﾉﾀﾞﾆ",
+        "pref": "兵庫県",
+        "address1": "加古郡稲美町",
+        "address2": "野谷",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

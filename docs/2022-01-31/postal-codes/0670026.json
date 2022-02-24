@@ -1,0 +1,19 @@
+[
+    {
+        "code": "01217",
+        "postal_old": "067  ",
+        "postal_new": "0670026",
+        "pref_kana": "ﾎｯｶｲﾄﾞｳ",
+        "address1_kana": "ｴﾍﾞﾂｼ",
+        "address2_kana": "ﾄﾖﾎﾛﾊﾅｿﾞﾉﾁｮｳ",
+        "pref": "北海道",
+        "address1": "江別市",
+        "address2": "豊幌花園町",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

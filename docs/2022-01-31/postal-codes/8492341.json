@@ -1,0 +1,19 @@
+[
+    {
+        "code": "41206",
+        "postal_old": "84923",
+        "postal_new": "8492341",
+        "pref_kana": "ｻｶﾞｹﾝ",
+        "address1_kana": "ﾀｹｵｼ",
+        "address2_kana": "ﾀｹｳﾁﾁｮｳｳﾒﾉ",
+        "pref": "佐賀県",
+        "address1": "武雄市",
+        "address2": "武内町梅野",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

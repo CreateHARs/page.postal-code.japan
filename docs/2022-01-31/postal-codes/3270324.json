@@ -1,0 +1,19 @@
+[
+    {
+        "code": "09204",
+        "postal_old": "32703",
+        "postal_new": "3270324",
+        "pref_kana": "ﾄﾁｷﾞｹﾝ",
+        "address1_kana": "ｻﾉｼ",
+        "address2_kana": "ﾔﾏｶﾞﾀﾁｮｳ",
+        "pref": "栃木県",
+        "address1": "佐野市",
+        "address2": "山形町",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

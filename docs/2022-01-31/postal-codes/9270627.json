@@ -1,0 +1,36 @@
+[
+    {
+        "code": "17463",
+        "postal_old": "92706",
+        "postal_new": "9270627",
+        "pref_kana": "ｲｼｶﾜｹﾝ",
+        "address1_kana": "ﾎｳｽｸﾞﾝﾉﾄﾁｮｳ",
+        "address2_kana": "ﾀｷﾉﾎﾞ",
+        "pref": "石川県",
+        "address1": "鳳珠郡能登町",
+        "address2": "滝之坊",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "1",
+        "is_updated": "0",
+        "update_reason": "0"
+    },
+    {
+        "code": "17463",
+        "postal_old": "92706",
+        "postal_new": "9270627",
+        "pref_kana": "ｲｼｶﾜｹﾝ",
+        "address1_kana": "ﾎｳｽｸﾞﾝﾉﾄﾁｮｳ",
+        "address2_kana": "ﾌｸﾐﾂ",
+        "pref": "石川県",
+        "address1": "鳳珠郡能登町",
+        "address2": "福光",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "1",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

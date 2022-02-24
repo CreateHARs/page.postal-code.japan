@@ -1,0 +1,19 @@
+[
+    {
+        "code": "11228",
+        "postal_old": "353  ",
+        "postal_new": "3530008",
+        "pref_kana": "ｻｲﾀﾏｹﾝ",
+        "address1_kana": "ｼｷｼ",
+        "address2_kana": "ﾑﾈｵｶ",
+        "pref": "埼玉県",
+        "address1": "志木市",
+        "address2": "宗岡",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

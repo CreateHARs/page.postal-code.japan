@@ -1,0 +1,19 @@
+[
+    {
+        "code": "34212",
+        "postal_old": "72406",
+        "postal_new": "7392618",
+        "pref_kana": "ﾋﾛｼﾏｹﾝ",
+        "address1_kana": "ﾋｶﾞｼﾋﾛｼﾏｼ",
+        "address2_kana": "ｸﾛｾｻｸﾗｶﾞｵｶ",
+        "pref": "広島県",
+        "address1": "東広島市",
+        "address2": "黒瀬桜が丘",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "1",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

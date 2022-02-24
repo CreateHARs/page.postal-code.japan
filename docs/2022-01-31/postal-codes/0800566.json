@@ -1,0 +1,36 @@
+[
+    {
+        "code": "01631",
+        "postal_old": "08005",
+        "postal_new": "0800566",
+        "pref_kana": "ﾎｯｶｲﾄﾞｳ",
+        "address1_kana": "ｶﾄｳｸﾞﾝｵﾄﾌｹﾁｮｳ",
+        "address2_kana": "ｺﾏﾊﾞﾐﾅﾐ1ｼﾞｮｳﾄﾞｵﾘ",
+        "pref": "北海道",
+        "address1": "河東郡音更町",
+        "address2": "駒場南１条通",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "1",
+        "is_multi_place": "1",
+        "is_updated": "0",
+        "update_reason": "0"
+    },
+    {
+        "code": "01631",
+        "postal_old": "08005",
+        "postal_new": "0800566",
+        "pref_kana": "ﾎｯｶｲﾄﾞｳ",
+        "address1_kana": "ｶﾄｳｸﾞﾝｵﾄﾌｹﾁｮｳ",
+        "address2_kana": "ｺﾏﾊﾞﾐﾅﾐ2ｼﾞｮｳﾄﾞｵﾘ",
+        "pref": "北海道",
+        "address1": "河東郡音更町",
+        "address2": "駒場南２条通",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "1",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

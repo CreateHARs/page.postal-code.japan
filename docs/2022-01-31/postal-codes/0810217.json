@@ -1,0 +1,19 @@
+[
+    {
+        "code": "01634",
+        "postal_old": "08102",
+        "postal_new": "0810217",
+        "pref_kana": "ﾎｯｶｲﾄﾞｳ",
+        "address1_kana": "ｶﾄｳｸﾞﾝｼｶｵｲﾁｮｳ",
+        "address2_kana": "ｼｶｵｲｷｾﾝ",
+        "pref": "北海道",
+        "address1": "河東郡鹿追町",
+        "address2": "鹿追基線",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

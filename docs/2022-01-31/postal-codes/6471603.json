@@ -1,0 +1,19 @@
+[
+    {
+        "code": "30427",
+        "postal_old": "51956",
+        "postal_new": "6471603",
+        "pref_kana": "ﾜｶﾔﾏｹﾝ",
+        "address1_kana": "ﾋｶﾞｼﾑﾛｸﾞﾝｷﾀﾔﾏﾑﾗ",
+        "address2_kana": "ｵｵﾇﾏ",
+        "pref": "和歌山県",
+        "address1": "東牟婁郡北山村",
+        "address2": "大沼",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

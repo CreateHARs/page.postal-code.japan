@@ -1,0 +1,4 @@
+code,postal_old,postal_new,pref_kana,address1_kana,address2_kana,pref,address1,address2,is_multi_code,is_koaza,is_choume,is_multi_place,is_updated,update_reason
+03215,02942,0294203,ｲﾜﾃｹﾝ,ｵｳｼｭｳｼ,ﾏｴｻﾜｷﾀｸﾎﾞ,岩手県,奥州市,前沢北久保,0,0,0,1,0,0
+03215,02942,0294203,ｲﾜﾃｹﾝ,ｵｳｼｭｳｼ,ﾏｴｻﾜｷﾂﾈﾄﾞｳ,岩手県,奥州市,前沢狐堂,0,0,0,1,0,0
+03215,02942,0294203,ｲﾜﾃｹﾝ,ｵｳｼｭｳｼ,ﾏｴｻﾜｾｲﾎﾞ,岩手県,奥州市,前沢生母,0,1,0,1,0,0

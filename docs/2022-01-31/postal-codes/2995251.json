@@ -1,0 +1,19 @@
+[
+    {
+        "code": "12218",
+        "postal_old": "29952",
+        "postal_new": "2995251",
+        "pref_kana": "ﾁﾊﾞｹﾝ",
+        "address1_kana": "ｶﾂｳﾗｼ",
+        "address2_kana": "ｵｵﾓﾘｶﾐｳｴﾉｲﾘｱｲﾁ",
+        "pref": "千葉県",
+        "address1": "勝浦市",
+        "address2": "大森上植野入会地",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

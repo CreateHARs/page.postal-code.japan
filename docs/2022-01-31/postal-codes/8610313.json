@@ -1,0 +1,19 @@
+[
+    {
+        "code": "43208",
+        "postal_old": "86103",
+        "postal_new": "8610313",
+        "pref_kana": "ｸﾏﾓﾄｹﾝ",
+        "address1_kana": "ﾔﾏｶﾞｼ",
+        "address2_kana": "ｶﾓﾄﾏﾁﾅｶﾄﾞﾐ",
+        "pref": "熊本県",
+        "address1": "山鹿市",
+        "address2": "鹿本町中富",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

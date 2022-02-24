@@ -1,0 +1,19 @@
+[
+    {
+        "code": "25425",
+        "postal_old": "52913",
+        "postal_new": "5291314",
+        "pref_kana": "ｼｶﾞｹﾝ",
+        "address1_kana": "ｴﾁｸﾞﾝｱｲｼｮｳﾁｮｳ",
+        "address2_kana": "ﾅｶｼﾞｭｸ",
+        "pref": "滋賀県",
+        "address1": "愛知郡愛荘町",
+        "address2": "中宿",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

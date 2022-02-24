@@ -1,0 +1,19 @@
+[
+    {
+        "code": "09201",
+        "postal_old": "32104",
+        "postal_new": "3210407",
+        "pref_kana": "ﾄﾁｷﾞｹﾝ",
+        "address1_kana": "ｳﾂﾉﾐﾔｼ",
+        "address2_kana": "ﾏﾂﾀﾞｼﾝﾃﾞﾝﾁｮｳ",
+        "pref": "栃木県",
+        "address1": "宇都宮市",
+        "address2": "松田新田町",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

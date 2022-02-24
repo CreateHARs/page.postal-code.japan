@@ -1,0 +1,19 @@
+[
+    {
+        "code": "39411",
+        "postal_old": "78502",
+        "postal_new": "7850210",
+        "pref_kana": "ｺｳﾁｹﾝ",
+        "address1_kana": "ﾀｶｵｶｸﾞﾝﾂﾉﾁｮｳ",
+        "address2_kana": "ｶｲﾉｶﾜﾄｺﾅﾍﾞ",
+        "pref": "高知県",
+        "address1": "高岡郡津野町",
+        "address2": "貝ノ川床鍋",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

@@ -1,0 +1,19 @@
+[
+    {
+        "code": "20304",
+        "postal_old": "38414",
+        "postal_new": "3841406",
+        "pref_kana": "ﾅｶﾞﾉｹﾝ",
+        "address1_kana": "ﾐﾅﾐｻｸｸﾞﾝｶﾜｶﾐﾑﾗ",
+        "address2_kana": "ﾊﾗ",
+        "pref": "長野県",
+        "address1": "南佐久郡川上村",
+        "address2": "原",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

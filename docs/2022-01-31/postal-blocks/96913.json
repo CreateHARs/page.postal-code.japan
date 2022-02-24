@@ -1,0 +1,53 @@
+[
+    {
+        "code": "07322",
+        "postal_old": "96913",
+        "postal_new": "9691300",
+        "pref_kana": "ﾌｸｼﾏｹﾝ",
+        "address1_kana": "ｱﾀﾞﾁｸﾞﾝｵｵﾀﾏﾑﾗ",
+        "address2_kana": "ｲｶﾆｹｲｻｲｶﾞﾅｲﾊﾞｱｲ",
+        "pref": "福島県",
+        "address1": "安達郡大玉村",
+        "address2": "以下に掲載がない場合",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    },
+    {
+        "code": "07322",
+        "postal_old": "96913",
+        "postal_new": "9691301",
+        "pref_kana": "ﾌｸｼﾏｹﾝ",
+        "address1_kana": "ｱﾀﾞﾁｸﾞﾝｵｵﾀﾏﾑﾗ",
+        "address2_kana": "ｵｵﾔﾏ",
+        "pref": "福島県",
+        "address1": "安達郡大玉村",
+        "address2": "大山",
+        "is_multi_code": "0",
+        "is_koaza": "1",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    },
+    {
+        "code": "07322",
+        "postal_old": "96913",
+        "postal_new": "9691302",
+        "pref_kana": "ﾌｸｼﾏｹﾝ",
+        "address1_kana": "ｱﾀﾞﾁｸﾞﾝｵｵﾀﾏﾑﾗ",
+        "address2_kana": "ﾀﾏﾉｲ(ｿﾉﾀ)",
+        "pref": "福島県",
+        "address1": "安達郡大玉村",
+        "address2": "玉井（その他）",
+        "is_multi_code": "1",
+        "is_koaza": "1",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

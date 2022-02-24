@@ -1,0 +1,19 @@
+[
+    {
+        "code": "18322",
+        "postal_old": "91011",
+        "postal_new": "9101132",
+        "pref_kana": "ﾌｸｲｹﾝ",
+        "address1_kana": "ﾖｼﾀﾞｸﾞﾝｴｲﾍｲｼﾞﾁｮｳ",
+        "address2_kana": "ﾏﾂｵｶｱｵｲ",
+        "pref": "福井県",
+        "address1": "吉田郡永平寺町",
+        "address2": "松岡葵",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "1",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

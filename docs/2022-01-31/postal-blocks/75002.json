@@ -1,0 +1,53 @@
+[
+    {
+        "code": "35201",
+        "postal_old": "75002",
+        "postal_new": "7500251",
+        "pref_kana": "ﾔﾏｸﾞﾁｹﾝ",
+        "address1_kana": "ｼﾓﾉｾｷｼ",
+        "address2_kana": "ｳｴﾀﾞ",
+        "pref": "山口県",
+        "address1": "下関市",
+        "address2": "植田",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    },
+    {
+        "code": "35201",
+        "postal_old": "75002",
+        "postal_new": "7500252",
+        "pref_kana": "ﾔﾏｸﾞﾁｹﾝ",
+        "address1_kana": "ｼﾓﾉｾｷｼ",
+        "address2_kana": "ｳﾂｲｶﾐ",
+        "pref": "山口県",
+        "address1": "下関市",
+        "address2": "内日上",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    },
+    {
+        "code": "35201",
+        "postal_old": "75002",
+        "postal_new": "7500253",
+        "pref_kana": "ﾔﾏｸﾞﾁｹﾝ",
+        "address1_kana": "ｼﾓﾉｾｷｼ",
+        "address2_kana": "ｳﾂｲｼﾓ",
+        "pref": "山口県",
+        "address1": "下関市",
+        "address2": "内日下",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

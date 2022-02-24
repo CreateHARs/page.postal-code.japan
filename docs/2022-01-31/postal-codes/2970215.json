@@ -1,0 +1,19 @@
+[
+    {
+        "code": "12426",
+        "postal_old": "29702",
+        "postal_new": "2970215",
+        "pref_kana": "ﾁﾊﾞｹﾝ",
+        "address1_kana": "ﾁｮｳｾｲｸﾞﾝﾅｶﾞﾗﾏﾁ",
+        "address2_kana": "ﾄｳﾔ",
+        "pref": "千葉県",
+        "address1": "長生郡長柄町",
+        "address2": "鴇谷",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

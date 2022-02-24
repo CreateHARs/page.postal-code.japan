@@ -1,0 +1,19 @@
+[
+    {
+        "code": "45203",
+        "postal_old": "88201",
+        "postal_new": "8820127",
+        "pref_kana": "ﾐﾔｻﾞｷｹﾝ",
+        "address1_kana": "ﾉﾍﾞｵｶｼ",
+        "address2_kana": "ｷﾀｶﾀﾏﾁｸﾗﾀ",
+        "pref": "宮崎県",
+        "address1": "延岡市",
+        "address2": "北方町蔵田",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

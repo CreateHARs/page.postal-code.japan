@@ -1,0 +1,19 @@
+[
+    {
+        "code": "46201",
+        "postal_old": "890  ",
+        "postal_new": "8900011",
+        "pref_kana": "ｶｺﾞｼﾏｹﾝ",
+        "address1_kana": "ｶｺﾞｼﾏｼ",
+        "address2_kana": "ﾀﾏｻﾞﾄﾀﾞﾝﾁ(1ﾁｮｳﾒ)",
+        "pref": "鹿児島県",
+        "address1": "鹿児島市",
+        "address2": "玉里団地（１丁目）",
+        "is_multi_code": "1",
+        "is_koaza": "0",
+        "is_choume": "1",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

@@ -1,0 +1,19 @@
+[
+    {
+        "code": "28210",
+        "postal_old": "675  ",
+        "postal_new": "6750035",
+        "pref_kana": "ﾋｮｳｺﾞｹﾝ",
+        "address1_kana": "ｶｺｶﾞﾜｼ",
+        "address2_kana": "ｶｺｶﾞﾜﾁｮｳﾄﾓｻﾜ",
+        "pref": "兵庫県",
+        "address1": "加古川市",
+        "address2": "加古川町友沢",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

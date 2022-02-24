@@ -1,0 +1,19 @@
+[
+    {
+        "code": "33212",
+        "postal_old": "70143",
+        "postal_new": "7014301",
+        "pref_kana": "ｵｶﾔﾏｹﾝ",
+        "address1_kana": "ｾﾄｳﾁｼ",
+        "address2_kana": "ｳｼﾏﾄﾞﾁｮｳﾅｶﾞﾊﾏ",
+        "pref": "岡山県",
+        "address1": "瀬戸内市",
+        "address2": "牛窓町長浜",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

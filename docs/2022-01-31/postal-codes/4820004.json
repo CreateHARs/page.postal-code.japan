@@ -1,0 +1,19 @@
+[
+    {
+        "code": "23228",
+        "postal_old": "482  ",
+        "postal_new": "4820004",
+        "pref_kana": "ｱｲﾁｹﾝ",
+        "address1_kana": "ｲﾜｸﾗｼ",
+        "address2_kana": "ｺﾞｼﾞｮｳﾁｮｳ",
+        "pref": "愛知県",
+        "address1": "岩倉市",
+        "address2": "五条町",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

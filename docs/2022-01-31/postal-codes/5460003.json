@@ -1,0 +1,19 @@
+[
+    {
+        "code": "27121",
+        "postal_old": "546  ",
+        "postal_new": "5460003",
+        "pref_kana": "ｵｵｻｶﾌ",
+        "address1_kana": "ｵｵｻｶｼﾋｶﾞｼｽﾐﾖｼｸ",
+        "address2_kana": "ｲﾏｶﾞﾜ",
+        "pref": "大阪府",
+        "address1": "大阪市東住吉区",
+        "address2": "今川",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "1",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

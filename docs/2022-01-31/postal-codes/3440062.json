@@ -1,0 +1,19 @@
+[
+    {
+        "code": "11214",
+        "postal_old": "344  ",
+        "postal_new": "3440062",
+        "pref_kana": "ｻｲﾀﾏｹﾝ",
+        "address1_kana": "ｶｽｶﾍﾞｼ",
+        "address2_kana": "ｶｽｶﾍﾞﾋｶﾞｼ",
+        "pref": "埼玉県",
+        "address1": "春日部市",
+        "address2": "粕壁東",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "1",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

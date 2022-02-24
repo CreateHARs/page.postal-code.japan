@@ -1,0 +1,19 @@
+[
+    {
+        "code": "11232",
+        "postal_old": "34911",
+        "postal_new": "3491122",
+        "pref_kana": "ｻｲﾀﾏｹﾝ",
+        "address1_kana": "ｸｷｼ",
+        "address2_kana": "ﾏﾂﾅｶﾞ",
+        "pref": "埼玉県",
+        "address1": "久喜市",
+        "address2": "松永",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "1",
+        "is_multi_place": "0",
+        "is_updated": "1",
+        "update_reason": "3"
+    }
+]

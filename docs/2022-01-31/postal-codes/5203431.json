@@ -1,0 +1,19 @@
+[
+    {
+        "code": "25209",
+        "postal_old": "52034",
+        "postal_new": "5203431",
+        "pref_kana": "ｼｶﾞｹﾝ",
+        "address1_kana": "ｺｳｶｼ",
+        "address2_kana": "ｺｳｶﾁｮｳｵｵﾊﾗﾅｶ",
+        "pref": "滋賀県",
+        "address1": "甲賀市",
+        "address2": "甲賀町大原中",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

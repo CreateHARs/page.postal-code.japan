@@ -1,0 +1,19 @@
+[
+    {
+        "code": "13119",
+        "postal_old": "174  ",
+        "postal_new": "1740076",
+        "pref_kana": "ﾄｳｷｮｳﾄ",
+        "address1_kana": "ｲﾀﾊﾞｼｸ",
+        "address2_kana": "ｶﾐｲﾀﾊﾞｼ",
+        "pref": "東京都",
+        "address1": "板橋区",
+        "address2": "上板橋",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "1",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

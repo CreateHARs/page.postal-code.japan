@@ -1,0 +1,19 @@
+[
+    {
+        "code": "38215",
+        "postal_old": "79102",
+        "postal_new": "7910201",
+        "pref_kana": "ｴﾋﾒｹﾝ",
+        "address1_kana": "ﾄｳｵﾝｼ",
+        "address2_kana": "ﾔﾏﾉｳﾁ",
+        "pref": "愛媛県",
+        "address1": "東温市",
+        "address2": "山之内",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

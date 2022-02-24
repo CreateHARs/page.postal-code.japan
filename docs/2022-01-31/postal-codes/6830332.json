@@ -1,0 +1,19 @@
+[
+    {
+        "code": "31389",
+        "postal_old": "68303",
+        "postal_new": "6830332",
+        "pref_kana": "ﾄｯﾄﾘｹﾝ",
+        "address1_kana": "ｻｲﾊｸｸﾞﾝﾅﾝﾌﾞﾁｮｳ",
+        "address2_kana": "ﾊﾞｻﾗ",
+        "pref": "鳥取県",
+        "address1": "西伯郡南部町",
+        "address2": "馬佐良",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

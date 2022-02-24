@@ -1,0 +1,19 @@
+[
+    {
+        "code": "30366",
+        "postal_old": "64301",
+        "postal_new": "6430126",
+        "pref_kana": "ﾜｶﾔﾏｹﾝ",
+        "address1_kana": "ｱﾘﾀﾞｸﾞﾝｱﾘﾀﾞｶﾞﾜﾁｮｳ",
+        "address2_kana": "ﾎﾝﾄﾞｳ",
+        "pref": "和歌山県",
+        "address1": "有田郡有田川町",
+        "address2": "本堂",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

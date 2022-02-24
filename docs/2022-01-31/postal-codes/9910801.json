@@ -1,0 +1,36 @@
+[
+    {
+        "code": "06324",
+        "postal_old": "991  ",
+        "postal_new": "9910801",
+        "pref_kana": "ﾔﾏｶﾞﾀｹﾝ",
+        "address1_kana": "ﾆｼﾑﾗﾔﾏｸﾞﾝｵｵｴﾏﾁ",
+        "address2_kana": "ｱﾃﾗｻﾞﾜ(1518-3､1750-1-2228-18､2255-1-",
+        "pref": "山形県",
+        "address1": "西村山郡大江町",
+        "address2": "左沢（１５１８−３、１７５０−１〜２２２８−１８、２２５５−１〜",
+        "is_multi_code": "1",
+        "is_koaza": "1",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    },
+    {
+        "code": "06324",
+        "postal_old": "991  ",
+        "postal_new": "9910801",
+        "pref_kana": "ﾔﾏｶﾞﾀｹﾝ",
+        "address1_kana": "ﾆｼﾑﾗﾔﾏｸﾞﾝｵｵｴﾏﾁ",
+        "address2_kana": "2257-28､2316-2318､2430-1-2431-75)",
+        "pref": "山形県",
+        "address1": "西村山郡大江町",
+        "address2": "２２５７−２８、２３１６〜２３１８、２４３０−１〜２４３１−７５）",
+        "is_multi_code": "1",
+        "is_koaza": "1",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

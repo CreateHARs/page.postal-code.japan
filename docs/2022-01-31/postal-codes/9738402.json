@@ -1,0 +1,19 @@
+[
+    {
+        "code": "07204",
+        "postal_old": "973  ",
+        "postal_new": "9738402",
+        "pref_kana": "ﾌｸｼﾏｹﾝ",
+        "address1_kana": "ｲﾜｷｼ",
+        "address2_kana": "ｳﾁｺﾞｳﾐﾏﾔﾏﾁ",
+        "pref": "福島県",
+        "address1": "いわき市",
+        "address2": "内郷御厩町",
+        "is_multi_code": "0",
+        "is_koaza": "1",
+        "is_choume": "1",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

@@ -1,0 +1,19 @@
+[
+    {
+        "code": "06203",
+        "postal_old": "99712",
+        "postal_new": "9971203",
+        "pref_kana": "ﾔﾏｶﾞﾀｹﾝ",
+        "address1_kana": "ﾂﾙｵｶｼ",
+        "address2_kana": "ｶﾈｻﾞﾜ",
+        "pref": "山形県",
+        "address1": "鶴岡市",
+        "address2": "金沢",
+        "is_multi_code": "0",
+        "is_koaza": "1",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

@@ -1,0 +1,19 @@
+[
+    {
+        "code": "23203",
+        "postal_old": "494  ",
+        "postal_new": "4940015",
+        "pref_kana": "ｱｲﾁｹﾝ",
+        "address1_kana": "ｲﾁﾉﾐﾔｼ",
+        "address2_kana": "ﾆｼﾅｶﾉ",
+        "pref": "愛知県",
+        "address1": "一宮市",
+        "address2": "西中野",
+        "is_multi_code": "0",
+        "is_koaza": "1",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

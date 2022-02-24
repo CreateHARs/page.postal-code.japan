@@ -1,0 +1,19 @@
+[
+    {
+        "code": "25206",
+        "postal_old": "525  ",
+        "postal_new": "5250029",
+        "pref_kana": "ｼｶﾞｹﾝ",
+        "address1_kana": "ｸｻﾂｼ",
+        "address2_kana": "ｼﾓｶﾞｻﾁｮｳ",
+        "pref": "滋賀県",
+        "address1": "草津市",
+        "address2": "下笠町",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

@@ -1,0 +1,19 @@
+[
+    {
+        "code": "20521",
+        "postal_old": "38906",
+        "postal_new": "3890605",
+        "pref_kana": "ﾅｶﾞﾉｹﾝ",
+        "address1_kana": "ﾊﾆｼﾅｸﾞﾝｻｶｷﾏﾁ",
+        "address2_kana": "ｳﾜﾀﾞｲﾗ",
+        "pref": "長野県",
+        "address1": "埴科郡坂城町",
+        "address2": "上平",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

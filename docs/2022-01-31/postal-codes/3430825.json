@@ -1,0 +1,19 @@
+[
+    {
+        "code": "11222",
+        "postal_old": "343  ",
+        "postal_new": "3430825",
+        "pref_kana": "ｻｲﾀﾏｹﾝ",
+        "address1_kana": "ｺｼｶﾞﾔｼ",
+        "address2_kana": "ﾀｲｾｲﾁｮｳ",
+        "pref": "埼玉県",
+        "address1": "越谷市",
+        "address2": "大成町",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "1",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

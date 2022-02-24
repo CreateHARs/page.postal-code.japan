@@ -1,0 +1,19 @@
+[
+    {
+        "code": "27123",
+        "postal_old": "532  ",
+        "postal_new": "5320012",
+        "pref_kana": "ｵｵｻｶﾌ",
+        "address1_kana": "ｵｵｻｶｼﾖﾄﾞｶﾞﾜｸ",
+        "address2_kana": "ｷｶﾜﾋｶﾞｼ",
+        "pref": "大阪府",
+        "address1": "大阪市淀川区",
+        "address2": "木川東",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "1",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

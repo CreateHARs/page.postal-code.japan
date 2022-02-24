@@ -1,0 +1,19 @@
+[
+    {
+        "code": "42307",
+        "postal_old": "85121",
+        "postal_new": "8512130",
+        "pref_kana": "ﾅｶﾞｻｷｹﾝ",
+        "address1_kana": "ﾆｼｿﾉｷﾞｸﾞﾝﾅｶﾞﾖﾁｮｳ",
+        "address2_kana": "ﾏﾅﾋﾞﾉ",
+        "pref": "長崎県",
+        "address1": "西彼杵郡長与町",
+        "address2": "まなび野",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "1",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

@@ -1,0 +1,19 @@
+[
+    {
+        "code": "24205",
+        "postal_old": "511  ",
+        "postal_new": "5110833",
+        "pref_kana": "ﾐｴｹﾝ",
+        "address1_kana": "ｸﾜﾅｼ",
+        "address2_kana": "ﾌｸｴﾏﾁ",
+        "pref": "三重県",
+        "address1": "桑名市",
+        "address2": "福江町",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

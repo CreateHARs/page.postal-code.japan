@@ -1,0 +1,19 @@
+[
+    {
+        "code": "07544",
+        "postal_old": "97912",
+        "postal_new": "9791201",
+        "pref_kana": "ﾌｸｼﾏｹﾝ",
+        "address1_kana": "ﾌﾀﾊﾞｸﾞﾝｶﾜｳﾁﾑﾗ",
+        "address2_kana": "ｶﾐｶﾜｳﾁ",
+        "pref": "福島県",
+        "address1": "双葉郡川内村",
+        "address2": "上川内",
+        "is_multi_code": "0",
+        "is_koaza": "1",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

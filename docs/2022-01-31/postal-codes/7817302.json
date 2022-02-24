@@ -1,0 +1,19 @@
+[
+    {
+        "code": "39301",
+        "postal_old": "78173",
+        "postal_new": "7817302",
+        "pref_kana": "ｺｳﾁｹﾝ",
+        "address1_kana": "ｱｷｸﾞﾝﾄｳﾖｳﾁｮｳ",
+        "address2_kana": "ﾉﾈｺｳ",
+        "pref": "高知県",
+        "address1": "安芸郡東洋町",
+        "address2": "野根甲",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

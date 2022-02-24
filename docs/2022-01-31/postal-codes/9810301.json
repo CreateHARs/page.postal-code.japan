@@ -1,0 +1,19 @@
+[
+    {
+        "code": "04214",
+        "postal_old": "98103",
+        "postal_new": "9810301",
+        "pref_kana": "ﾐﾔｷﾞｹﾝ",
+        "address1_kana": "ﾋｶﾞｼﾏﾂｼﾏｼ",
+        "address2_kana": "ｳｼｱﾐ",
+        "pref": "宮城県",
+        "address1": "東松島市",
+        "address2": "牛網",
+        "is_multi_code": "0",
+        "is_koaza": "1",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

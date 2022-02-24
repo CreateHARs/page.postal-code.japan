@@ -1,0 +1,19 @@
+[
+    {
+        "code": "14108",
+        "postal_old": "236  ",
+        "postal_new": "2360058",
+        "pref_kana": "ｶﾅｶﾞﾜｹﾝ",
+        "address1_kana": "ﾖｺﾊﾏｼｶﾅｻﾞﾜｸ",
+        "address2_kana": "ﾉｳｹﾝﾀﾞｲﾋｶﾞｼ",
+        "pref": "神奈川県",
+        "address1": "横浜市金沢区",
+        "address2": "能見台東",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

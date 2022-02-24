@@ -1,0 +1,19 @@
+[
+    {
+        "code": "33207",
+        "postal_old": "715  ",
+        "postal_new": "7150022",
+        "pref_kana": "ｵｶﾔﾏｹﾝ",
+        "address1_kana": "ｲﾊﾞﾗｼ",
+        "address2_kana": "ｼﾓｲｽﾞｴﾁｮｳ",
+        "pref": "岡山県",
+        "address1": "井原市",
+        "address2": "下出部町",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

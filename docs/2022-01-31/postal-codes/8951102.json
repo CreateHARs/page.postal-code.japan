@@ -1,0 +1,19 @@
+[
+    {
+        "code": "46215",
+        "postal_old": "89511",
+        "postal_new": "8951102",
+        "pref_kana": "ｶｺﾞｼﾏｹﾝ",
+        "address1_kana": "ｻﾂﾏｾﾝﾀﾞｲｼ",
+        "address2_kana": "ﾄｳｺﾞｳﾁｮｳﾌｼﾞｶﾜ",
+        "pref": "鹿児島県",
+        "address1": "薩摩川内市",
+        "address2": "東郷町藤川",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

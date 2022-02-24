@@ -1,0 +1,19 @@
+[
+    {
+        "code": "39401",
+        "postal_old": "78914",
+        "postal_new": "7891412",
+        "pref_kana": "ｺｳﾁｹﾝ",
+        "address1_kana": "ﾀｶｵｶｸﾞﾝﾅｶﾄｻﾁｮｳ",
+        "address2_kana": "ｵｵﾉﾐｶﾜｵｸ",
+        "pref": "高知県",
+        "address1": "高岡郡中土佐町",
+        "address2": "大野見川奥",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

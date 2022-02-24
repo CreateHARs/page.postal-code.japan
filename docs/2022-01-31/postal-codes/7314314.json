@@ -1,0 +1,19 @@
+[
+    {
+        "code": "34309",
+        "postal_old": "73143",
+        "postal_new": "7314314",
+        "pref_kana": "ﾋﾛｼﾏｹﾝ",
+        "address1_kana": "ｱｷｸﾞﾝｻｶﾁｮｳ",
+        "address2_kana": "ｻｶﾆｼ",
+        "pref": "広島県",
+        "address1": "安芸郡坂町",
+        "address2": "坂西",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "1",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

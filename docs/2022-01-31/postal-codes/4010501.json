@@ -1,0 +1,19 @@
+[
+    {
+        "code": "19425",
+        "postal_old": "40105",
+        "postal_new": "4010501",
+        "pref_kana": "ﾔﾏﾅｼｹﾝ",
+        "address1_kana": "ﾐﾅﾐﾂﾙｸﾞﾝﾔﾏﾅｶｺﾑﾗ",
+        "address2_kana": "ﾔﾏﾅｶ",
+        "pref": "山梨県",
+        "address1": "南都留郡山中湖村",
+        "address2": "山中",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

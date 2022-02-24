@@ -1,0 +1,19 @@
+[
+    {
+        "code": "28221",
+        "postal_old": "66924",
+        "postal_new": "6692461",
+        "pref_kana": "ﾋｮｳｺﾞｹﾝ",
+        "address1_kana": "ﾀﾝﾊﾞｻｻﾔﾏｼ",
+        "address2_kana": "ｺﾏｸﾗ",
+        "pref": "兵庫県",
+        "address1": "丹波篠山市",
+        "address2": "小枕",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

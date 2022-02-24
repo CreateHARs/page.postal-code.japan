@@ -1,0 +1,19 @@
+[
+    {
+        "code": "11362",
+        "postal_old": "36916",
+        "postal_new": "3691625",
+        "pref_kana": "ｻｲﾀﾏｹﾝ",
+        "address1_kana": "ﾁﾁﾌﾞｸﾞﾝﾐﾅﾉﾏﾁ",
+        "address2_kana": "ｼﾓﾋﾉｻﾞﾜ",
+        "pref": "埼玉県",
+        "address1": "秩父郡皆野町",
+        "address2": "下日野沢",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

@@ -1,0 +1,19 @@
+[
+    {
+        "code": "10210",
+        "postal_old": "37023",
+        "postal_new": "3702332",
+        "pref_kana": "ｸﾞﾝﾏｹﾝ",
+        "address1_kana": "ﾄﾐｵｶｼ",
+        "address2_kana": "ｼﾓﾀﾞｶｾ",
+        "pref": "群馬県",
+        "address1": "富岡市",
+        "address2": "下高瀬",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

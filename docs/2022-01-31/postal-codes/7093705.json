@@ -1,0 +1,19 @@
+[
+    {
+        "code": "33666",
+        "postal_old": "70937",
+        "postal_new": "7093705",
+        "pref_kana": "ｵｶﾔﾏｹﾝ",
+        "address1_kana": "ｸﾒｸﾞﾝﾐｻｷﾁｮｳ",
+        "address2_kana": "ｳﾀﾉｶﾐ",
+        "pref": "岡山県",
+        "address1": "久米郡美咲町",
+        "address2": "打穴上",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

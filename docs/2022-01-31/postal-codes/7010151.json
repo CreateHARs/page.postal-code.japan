@@ -1,0 +1,19 @@
+[
+    {
+        "code": "33101",
+        "postal_old": "70101",
+        "postal_new": "7010151",
+        "pref_kana": "ｵｶﾔﾏｹﾝ",
+        "address1_kana": "ｵｶﾔﾏｼｷﾀｸ",
+        "address2_kana": "ﾋﾗﾉ",
+        "pref": "岡山県",
+        "address1": "岡山市北区",
+        "address2": "平野",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

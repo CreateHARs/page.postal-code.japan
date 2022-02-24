@@ -1,0 +1,19 @@
+[
+    {
+        "code": "08564",
+        "postal_old": "30016",
+        "postal_new": "3001631",
+        "pref_kana": "ｲﾊﾞﾗｷｹﾝ",
+        "address1_kana": "ｷﾀｿｳﾏｸﾞﾝﾄﾈﾏﾁ",
+        "address2_kana": "ﾊﾔｵ",
+        "pref": "茨城県",
+        "address1": "北相馬郡利根町",
+        "address2": "早尾",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

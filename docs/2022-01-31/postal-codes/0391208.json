@@ -1,0 +1,19 @@
+[
+    {
+        "code": "02446",
+        "postal_old": "03912",
+        "postal_new": "0391208",
+        "pref_kana": "ｱｵﾓﾘｹﾝ",
+        "address1_kana": "ｻﾝﾉﾍｸﾞﾝﾊｼｶﾐﾁｮｳ",
+        "address2_kana": "ﾂﾉｶﾞﾗｵﾘ",
+        "pref": "青森県",
+        "address1": "三戸郡階上町",
+        "address2": "角柄折",
+        "is_multi_code": "0",
+        "is_koaza": "1",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

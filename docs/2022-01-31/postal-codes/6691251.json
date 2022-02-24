@@ -1,0 +1,36 @@
+[
+    {
+        "code": "28204",
+        "postal_old": "66912",
+        "postal_new": "6691251",
+        "pref_kana": "ﾋｮｳｺﾞｹﾝ",
+        "address1_kana": "ﾆｼﾉﾐﾔｼ",
+        "address2_kana": "ｼｵｾﾁｮｳﾅｼﾞｵ(4205-1､5205､5313-20､5313-33､",
+        "pref": "兵庫県",
+        "address1": "西宮市",
+        "address2": "塩瀬町名塩（４２０５−１、５２０５、５３１３−２０、５３１３−３３、",
+        "is_multi_code": "1",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    },
+    {
+        "code": "28204",
+        "postal_old": "66912",
+        "postal_new": "6691251",
+        "pref_kana": "ﾋｮｳｺﾞｹﾝ",
+        "address1_kana": "ﾆｼﾉﾐﾔｼ",
+        "address2_kana": "5313-35ﾊﾞﾝﾁ)",
+        "pref": "兵庫県",
+        "address1": "西宮市",
+        "address2": "５３１３−３５番地）",
+        "is_multi_code": "1",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

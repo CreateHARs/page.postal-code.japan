@@ -1,0 +1,19 @@
+[
+    {
+        "code": "28111",
+        "postal_old": "65122",
+        "postal_new": "6512264",
+        "pref_kana": "ﾋｮｳｺﾞｹﾝ",
+        "address1_kana": "ｺｳﾍﾞｼﾆｼｸ",
+        "address2_kana": "ﾋﾗﾉﾁｮｳｵｵﾊﾀ",
+        "pref": "兵庫県",
+        "address1": "神戸市西区",
+        "address2": "平野町大畑",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

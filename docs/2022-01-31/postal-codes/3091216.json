@@ -1,0 +1,19 @@
+[
+    {
+        "code": "08231",
+        "postal_old": "30912",
+        "postal_new": "3091216",
+        "pref_kana": "ｲﾊﾞﾗｷｹﾝ",
+        "address1_kana": "ｻｸﾗｶﾞﾜｼ",
+        "address2_kana": "ｱｽｶ",
+        "pref": "茨城県",
+        "address1": "桜川市",
+        "address2": "明日香",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "1",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

@@ -1,0 +1,19 @@
+[
+    {
+        "code": "01429",
+        "postal_old": "06803",
+        "postal_new": "0680361",
+        "pref_kana": "ﾎｯｶｲﾄﾞｳ",
+        "address1_kana": "ﾕｳﾊﾞﾘｸﾞﾝｸﾘﾔﾏﾁｮｳ",
+        "address2_kana": "ﾀｷｼﾀ",
+        "pref": "北海道",
+        "address1": "夕張郡栗山町",
+        "address2": "滝下",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

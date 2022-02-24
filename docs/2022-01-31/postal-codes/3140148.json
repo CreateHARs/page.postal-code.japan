@@ -1,0 +1,19 @@
+[
+    {
+        "code": "08232",
+        "postal_old": "31401",
+        "postal_new": "3140148",
+        "pref_kana": "ｲﾊﾞﾗｷｹﾝ",
+        "address1_kana": "ｶﾐｽｼ",
+        "address2_kana": "ﾌｶｼﾊﾞ",
+        "pref": "茨城県",
+        "address1": "神栖市",
+        "address2": "深芝",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

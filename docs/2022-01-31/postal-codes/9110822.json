@@ -1,0 +1,36 @@
+[
+    {
+        "code": "18206",
+        "postal_old": "911  ",
+        "postal_new": "9110822",
+        "pref_kana": "ﾌｸｲｹﾝ",
+        "address1_kana": "ｶﾂﾔﾏｼ",
+        "address2_kana": "ﾍｲｾﾝｼﾞﾁｮｳｼﾝﾉ",
+        "pref": "福井県",
+        "address1": "勝山市",
+        "address2": "平泉寺町神野",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "1",
+        "is_updated": "0",
+        "update_reason": "0"
+    },
+    {
+        "code": "18206",
+        "postal_old": "911  ",
+        "postal_new": "9110822",
+        "pref_kana": "ﾌｸｲｹﾝ",
+        "address1_kana": "ｶﾂﾔﾏｼ",
+        "address2_kana": "ﾍｲｾﾝｼﾞﾁｮｳﾍｲｾﾝｼﾞ",
+        "pref": "福井県",
+        "address1": "勝山市",
+        "address2": "平泉寺町平泉寺",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "1",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

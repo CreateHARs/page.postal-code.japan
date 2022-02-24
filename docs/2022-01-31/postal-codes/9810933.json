@@ -1,0 +1,19 @@
+[
+    {
+        "code": "04101",
+        "postal_old": "981  ",
+        "postal_new": "9810933",
+        "pref_kana": "ﾐﾔｷﾞｹﾝ",
+        "address1_kana": "ｾﾝﾀﾞｲｼｱｵﾊﾞｸ",
+        "address2_kana": "ｶｼﾜｷﾞ",
+        "pref": "宮城県",
+        "address1": "仙台市青葉区",
+        "address2": "柏木",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "1",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

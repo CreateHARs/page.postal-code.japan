@@ -1,0 +1,19 @@
+[
+    {
+        "code": "42411",
+        "postal_old": "85744",
+        "postal_new": "8574400",
+        "pref_kana": "ﾅｶﾞｻｷｹﾝ",
+        "address1_kana": "ﾐﾅﾐﾏﾂｳﾗｸﾞﾝｼﾝｶﾐｺﾞﾄｳﾁｮｳ",
+        "address2_kana": "ｲｶﾆｹｲｻｲｶﾞﾅｲﾊﾞｱｲ",
+        "pref": "長崎県",
+        "address1": "南松浦郡新上五島町",
+        "address2": "以下に掲載がない場合",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

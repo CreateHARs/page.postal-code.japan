@@ -1,0 +1,19 @@
+[
+    {
+        "code": "31201",
+        "postal_old": "68903",
+        "postal_new": "6890423",
+        "pref_kana": "ﾄｯﾄﾘｹﾝ",
+        "address1_kana": "ﾄｯﾄﾘｼ",
+        "address2_kana": "ｼｶﾉﾁｮｳﾅｶｿﾞﾉ",
+        "pref": "鳥取県",
+        "address1": "鳥取市",
+        "address2": "鹿野町中園",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

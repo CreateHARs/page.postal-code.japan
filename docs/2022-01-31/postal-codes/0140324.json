@@ -1,0 +1,19 @@
+[
+    {
+        "code": "05215",
+        "postal_old": "01403",
+        "postal_new": "0140324",
+        "pref_kana": "ｱｷﾀｹﾝ",
+        "address1_kana": "ｾﾝﾎﾞｸｼ",
+        "address2_kana": "ｶｸﾉﾀﾞﾃﾏﾁｺﾋﾞﾄﾏﾁ",
+        "pref": "秋田県",
+        "address1": "仙北市",
+        "address2": "角館町小人町",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

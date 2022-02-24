@@ -1,0 +1,19 @@
+[
+    {
+        "code": "24215",
+        "postal_old": "51707",
+        "postal_new": "5170703",
+        "pref_kana": "ﾐｴｹﾝ",
+        "address1_kana": "ｼﾏｼ",
+        "address2_kana": "ｼﾏﾁｮｳﾜｸﾞ",
+        "pref": "三重県",
+        "address1": "志摩市",
+        "address2": "志摩町和具",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

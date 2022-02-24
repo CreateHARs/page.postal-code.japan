@@ -1,0 +1,36 @@
+[
+    {
+        "code": "18204",
+        "postal_old": "91702",
+        "postal_new": "9170223",
+        "pref_kana": "ﾌｸｲｹﾝ",
+        "address1_kana": "ｵﾊﾞﾏｼ",
+        "address2_kana": "ｵｵﾄﾞ",
+        "pref": "福井県",
+        "address1": "小浜市",
+        "address2": "大戸",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "1",
+        "is_updated": "0",
+        "update_reason": "0"
+    },
+    {
+        "code": "18204",
+        "postal_old": "91702",
+        "postal_new": "9170223",
+        "pref_kana": "ﾌｸｲｹﾝ",
+        "address1_kana": "ｵﾊﾞﾏｼ",
+        "address2_kana": "ｶﾓ",
+        "pref": "福井県",
+        "address1": "小浜市",
+        "address2": "加茂",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "1",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

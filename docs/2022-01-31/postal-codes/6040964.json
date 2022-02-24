@@ -1,0 +1,36 @@
+[
+    {
+        "code": "26104",
+        "postal_old": "604  ",
+        "postal_new": "6040964",
+        "pref_kana": "ｷｮｳﾄﾌ",
+        "address1_kana": "ｷｮｳﾄｼﾅｶｷﾞｮｳｸ",
+        "address2_kana": "ｶｼﾞﾔﾁｮｳ",
+        "pref": "京都府",
+        "address1": "京都市中京区",
+        "address2": "鍛冶屋町（富小路通夷川下る、富小路通二条上る、夷川通富小路西入、夷川通",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    },
+    {
+        "code": "26104",
+        "postal_old": "604  ",
+        "postal_new": "6040964",
+        "pref_kana": "ｷｮｳﾄﾌ",
+        "address1_kana": "ｷｮｳﾄｼﾅｶｷﾞｮｳｸ",
+        "address2_kana": "ｶｼﾞﾔﾁｮｳ",
+        "pref": "京都府",
+        "address1": "京都市中京区",
+        "address2": "富小路東入）",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

@@ -1,0 +1,19 @@
+[
+    {
+        "code": "11217",
+        "postal_old": "36901",
+        "postal_new": "3690115",
+        "pref_kana": "ｻｲﾀﾏｹﾝ",
+        "address1_kana": "ｺｳﾉｽｼ",
+        "address2_kana": "ﾌｷｱｹﾞﾎﾝﾁｮｳ",
+        "pref": "埼玉県",
+        "address1": "鴻巣市",
+        "address2": "吹上本町",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "1",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

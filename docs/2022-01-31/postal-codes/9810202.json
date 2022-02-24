@@ -1,0 +1,19 @@
+[
+    {
+        "code": "04401",
+        "postal_old": "98102",
+        "postal_new": "9810202",
+        "pref_kana": "ﾐﾔｷﾞｹﾝ",
+        "address1_kana": "ﾐﾔｷﾞｸﾞﾝﾏﾂｼﾏﾏﾁ",
+        "address2_kana": "ｷﾀｺｲｽﾞﾐ",
+        "pref": "宮城県",
+        "address1": "宮城郡松島町",
+        "address2": "北小泉",
+        "is_multi_code": "0",
+        "is_koaza": "1",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

@@ -1,0 +1,36 @@
+[
+    {
+        "code": "01332",
+        "postal_old": "04914",
+        "postal_new": "0491453",
+        "pref_kana": "ﾎｯｶｲﾄﾞｳ",
+        "address1_kana": "ﾏﾂﾏｴｸﾞﾝﾌｸｼﾏﾁｮｳ",
+        "address2_kana": "ﾐﾔﾏ",
+        "pref": "北海道",
+        "address1": "松前郡福島町",
+        "address2": "美山",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "1",
+        "is_updated": "0",
+        "update_reason": "0"
+    },
+    {
+        "code": "01332",
+        "postal_old": "04914",
+        "postal_new": "0491453",
+        "pref_kana": "ﾎｯｶｲﾄﾞｳ",
+        "address1_kana": "ﾏﾂﾏｴｸﾞﾝﾌｸｼﾏﾁｮｳ",
+        "address2_kana": "ﾖｼｵｶ",
+        "pref": "北海道",
+        "address1": "松前郡福島町",
+        "address2": "吉岡",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "1",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

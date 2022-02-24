@@ -1,0 +1,19 @@
+[
+    {
+        "code": "14131",
+        "postal_old": "210  ",
+        "postal_new": "2100807",
+        "pref_kana": "ｶﾅｶﾞﾜｹﾝ",
+        "address1_kana": "ｶﾜｻｷｼｶﾜｻｷｸ",
+        "address2_kana": "ﾐﾅﾄﾁｮｳ",
+        "pref": "神奈川県",
+        "address1": "川崎市川崎区",
+        "address2": "港町",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

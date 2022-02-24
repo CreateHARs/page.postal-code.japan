@@ -1,0 +1,19 @@
+[
+    {
+        "code": "42308",
+        "postal_old": "85121",
+        "postal_new": "8512104",
+        "pref_kana": "ﾅｶﾞｻｷｹﾝ",
+        "address1_kana": "ﾆｼｿﾉｷﾞｸﾞﾝﾄｷﾞﾂﾁｮｳ",
+        "address2_kana": "ﾉﾀﾞｺﾞｳ",
+        "pref": "長崎県",
+        "address1": "西彼杵郡時津町",
+        "address2": "野田郷",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

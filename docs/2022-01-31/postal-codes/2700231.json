@@ -1,0 +1,19 @@
+[
+    {
+        "code": "12208",
+        "postal_old": "27002",
+        "postal_new": "2700231",
+        "pref_kana": "ﾁﾊﾞｹﾝ",
+        "address1_kana": "ﾉﾀﾞｼ",
+        "address2_kana": "ｵﾔﾏ",
+        "pref": "千葉県",
+        "address1": "野田市",
+        "address2": "小山",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

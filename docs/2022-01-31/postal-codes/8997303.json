@@ -1,0 +1,19 @@
+[
+    {
+        "code": "46468",
+        "postal_old": "89973",
+        "postal_new": "8997303",
+        "pref_kana": "ｶｺﾞｼﾏｹﾝ",
+        "address1_kana": "ｿｵｸﾞﾝｵｵｻｷﾁｮｳ",
+        "address2_kana": "ﾏｽﾏﾙ",
+        "pref": "鹿児島県",
+        "address1": "曽於郡大崎町",
+        "address2": "益丸",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

@@ -1,0 +1,19 @@
+[
+    {
+        "code": "18481",
+        "postal_old": "91923",
+        "postal_new": "9192376",
+        "pref_kana": "ﾌｸｲｹﾝ",
+        "address1_kana": "ｵｵｲｸﾞﾝﾀｶﾊﾏﾁｮｳ",
+        "address2_kana": "ｲﾏﾃﾞﾗ",
+        "pref": "福井県",
+        "address1": "大飯郡高浜町",
+        "address2": "今寺",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

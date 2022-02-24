@@ -1,0 +1,19 @@
+[
+    {
+        "code": "32527",
+        "postal_old": "68401",
+        "postal_new": "6840107",
+        "pref_kana": "ｼﾏﾈｹﾝ",
+        "address1_kana": "ｵｷｸﾞﾝﾁﾌﾞﾑﾗ",
+        "address2_kana": "ｳﾙﾐ",
+        "pref": "島根県",
+        "address1": "隠岐郡知夫村",
+        "address2": "古海",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

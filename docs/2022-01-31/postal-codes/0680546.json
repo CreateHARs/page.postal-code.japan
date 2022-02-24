@@ -1,0 +1,36 @@
+[
+    {
+        "code": "01209",
+        "postal_old": "06805",
+        "postal_new": "0680546",
+        "pref_kana": "ﾎｯｶｲﾄﾞｳ",
+        "address1_kana": "ﾕｳﾊﾞﾘｼ",
+        "address2_kana": "ﾅﾝﾌﾞｱｵﾊﾞﾁｮｳ",
+        "pref": "北海道",
+        "address1": "夕張市",
+        "address2": "南部青葉町",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "1",
+        "is_updated": "0",
+        "update_reason": "0"
+    },
+    {
+        "code": "01209",
+        "postal_old": "06805",
+        "postal_new": "0680546",
+        "pref_kana": "ﾎｯｶｲﾄﾞｳ",
+        "address1_kana": "ﾕｳﾊﾞﾘｼ",
+        "address2_kana": "ﾅﾝﾌﾞｷｸｽｲﾁｮｳ",
+        "pref": "北海道",
+        "address1": "夕張市",
+        "address2": "南部菊水町",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "1",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

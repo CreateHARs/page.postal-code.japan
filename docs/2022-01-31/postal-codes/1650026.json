@@ -1,0 +1,19 @@
+[
+    {
+        "code": "13114",
+        "postal_old": "165  ",
+        "postal_new": "1650026",
+        "pref_kana": "ﾄｳｷｮｳﾄ",
+        "address1_kana": "ﾅｶﾉｸ",
+        "address2_kana": "ｱﾗｲ",
+        "pref": "東京都",
+        "address1": "中野区",
+        "address2": "新井",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "1",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

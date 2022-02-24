@@ -1,0 +1,19 @@
+[
+    {
+        "code": "43215",
+        "postal_old": "86164",
+        "postal_new": "8616403",
+        "pref_kana": "ｸﾏﾓﾄｹﾝ",
+        "address1_kana": "ｱﾏｸｻｼ",
+        "address2_kana": "ｸﾗﾀｹﾏﾁﾐﾔﾀﾞ",
+        "pref": "熊本県",
+        "address1": "天草市",
+        "address2": "倉岳町宮田",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

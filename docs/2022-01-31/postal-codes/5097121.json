@@ -1,0 +1,19 @@
+[
+    {
+        "code": "21210",
+        "postal_old": "50971",
+        "postal_new": "5097121",
+        "pref_kana": "ｷﾞﾌｹﾝ",
+        "address1_kana": "ｴﾅｼ",
+        "address2_kana": "ﾀｹﾅﾐﾁｮｳﾌｼﾞ",
+        "pref": "岐阜県",
+        "address1": "恵那市",
+        "address2": "武並町藤",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

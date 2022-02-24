@@ -1,0 +1,19 @@
+[
+    {
+        "code": "29201",
+        "postal_old": "630  ",
+        "postal_new": "6308267",
+        "pref_kana": "ﾅﾗｹﾝ",
+        "address1_kana": "ﾅﾗｼ",
+        "address2_kana": "ﾏﾒﾔﾏﾂｷﾇｹﾁｮｳ",
+        "pref": "奈良県",
+        "address1": "奈良市",
+        "address2": "大豆山突抜町",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

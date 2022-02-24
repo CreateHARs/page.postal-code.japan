@@ -1,0 +1,36 @@
+[
+    {
+        "code": "22304",
+        "postal_old": "41503",
+        "postal_new": "4150325",
+        "pref_kana": "ｼｽﾞｵｶｹﾝ",
+        "address1_kana": "ｶﾓｸﾞﾝﾐﾅﾐｲｽﾞﾁｮｳ",
+        "address2_kana": "ｲﾁﾉｾ",
+        "pref": "静岡県",
+        "address1": "賀茂郡南伊豆町",
+        "address2": "市之瀬",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "1",
+        "is_updated": "0",
+        "update_reason": "0"
+    },
+    {
+        "code": "22304",
+        "postal_old": "41503",
+        "postal_new": "4150325",
+        "pref_kana": "ｼｽﾞｵｶｹﾝ",
+        "address1_kana": "ｶﾓｸﾞﾝﾐﾅﾐｲｽﾞﾁｮｳ",
+        "address2_kana": "ﾋﾗﾄﾞ",
+        "pref": "静岡県",
+        "address1": "賀茂郡南伊豆町",
+        "address2": "平戸",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "1",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

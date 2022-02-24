@@ -1,0 +1,19 @@
+[
+    {
+        "code": "46224",
+        "postal_old": "89526",
+        "postal_new": "8952635",
+        "pref_kana": "ｶｺﾞｼﾏｹﾝ",
+        "address1_kana": "ｲｻｼ",
+        "address2_kana": "ｵｵｸﾁﾔﾏﾉ",
+        "pref": "鹿児島県",
+        "address1": "伊佐市",
+        "address2": "大口山野",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

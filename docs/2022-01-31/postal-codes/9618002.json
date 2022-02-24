@@ -1,0 +1,19 @@
+[
+    {
+        "code": "07205",
+        "postal_old": "96903",
+        "postal_new": "9618002",
+        "pref_kana": "ﾌｸｼﾏｹﾝ",
+        "address1_kana": "ｼﾗｶﾜｼ",
+        "address2_kana": "ﾀｲｼﾝｸﾏﾄﾞ(ｷﾀｺｶﾞﾔ)",
+        "pref": "福島県",
+        "address1": "白河市",
+        "address2": "大信隈戸（北小萱）",
+        "is_multi_code": "1",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

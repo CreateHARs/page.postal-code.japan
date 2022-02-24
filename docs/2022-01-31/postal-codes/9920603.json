@@ -1,0 +1,19 @@
+[
+    {
+        "code": "06382",
+        "postal_old": "99206",
+        "postal_new": "9920603",
+        "pref_kana": "ﾔﾏｶﾞﾀｹﾝ",
+        "address1_kana": "ﾋｶﾞｼｵｷﾀﾏｸﾞﾝｶﾜﾆｼﾏﾁ",
+        "address2_kana": "ﾋｶﾞｼｵｵﾂｶ",
+        "pref": "山形県",
+        "address1": "東置賜郡川西町",
+        "address2": "東大塚",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

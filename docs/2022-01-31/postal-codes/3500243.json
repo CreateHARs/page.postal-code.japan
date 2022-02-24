@@ -1,0 +1,19 @@
+[
+    {
+        "code": "11239",
+        "postal_old": "35002",
+        "postal_new": "3500243",
+        "pref_kana": "ｻｲﾀﾏｹﾝ",
+        "address1_kana": "ｻｶﾄﾞｼ",
+        "address2_kana": "ｶﾔｶﾞﾀ",
+        "pref": "埼玉県",
+        "address1": "坂戸市",
+        "address2": "萱方",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

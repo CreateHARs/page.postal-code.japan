@@ -1,0 +1,19 @@
+[
+    {
+        "code": "44205",
+        "postal_old": "87614",
+        "postal_new": "8761402",
+        "pref_kana": "ｵｵｲﾀｹﾝ",
+        "address1_kana": "ｻｲｷｼ",
+        "address2_kana": "ﾖﾉｳﾂﾞｲﾛﾘｳﾗ",
+        "pref": "大分県",
+        "address1": "佐伯市",
+        "address2": "米水津色利浦",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

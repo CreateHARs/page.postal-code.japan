@@ -1,0 +1,19 @@
+[
+    {
+        "code": "22211",
+        "postal_old": "438  ",
+        "postal_new": "4380813",
+        "pref_kana": "ｼｽﾞｵｶｹﾝ",
+        "address1_kana": "ｲﾜﾀｼ",
+        "address2_kana": "ｻｻﾊﾗｼﾞﾏ",
+        "pref": "静岡県",
+        "address1": "磐田市",
+        "address2": "笹原島",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

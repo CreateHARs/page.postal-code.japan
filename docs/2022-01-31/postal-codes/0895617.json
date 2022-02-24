@@ -1,0 +1,36 @@
+[
+    {
+        "code": "01649",
+        "postal_old": "08956",
+        "postal_new": "0895617",
+        "pref_kana": "ﾎｯｶｲﾄﾞｳ",
+        "address1_kana": "ﾄｶﾁｸﾞﾝｳﾗﾎﾛﾁｮｳ",
+        "address2_kana": "ｺｳﾅﾝ",
+        "pref": "北海道",
+        "address1": "十勝郡浦幌町",
+        "address2": "光南",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "1",
+        "is_updated": "0",
+        "update_reason": "0"
+    },
+    {
+        "code": "01649",
+        "postal_old": "08956",
+        "postal_new": "0895617",
+        "pref_kana": "ﾎｯｶｲﾄﾞｳ",
+        "address1_kana": "ﾄｶﾁｸﾞﾝｳﾗﾎﾛﾁｮｳ",
+        "address2_kana": "ﾐﾅﾐﾏﾁ",
+        "pref": "北海道",
+        "address1": "十勝郡浦幌町",
+        "address2": "南町",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "1",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

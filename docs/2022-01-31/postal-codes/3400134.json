@@ -1,0 +1,19 @@
+[
+    {
+        "code": "11240",
+        "postal_old": "34001",
+        "postal_new": "3400134",
+        "pref_kana": "ｻｲﾀﾏｹﾝ",
+        "address1_kana": "ｻｯﾃｼ",
+        "address2_kana": "ﾊﾅｼﾞﾏ",
+        "pref": "埼玉県",
+        "address1": "幸手市",
+        "address2": "花島",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

@@ -1,0 +1,19 @@
+[
+    {
+        "code": "24303",
+        "postal_old": "498  ",
+        "postal_new": "4980804",
+        "pref_kana": "ﾐｴｹﾝ",
+        "address1_kana": "ｸﾜﾅｸﾞﾝｷｿｻｷﾁｮｳ",
+        "address2_kana": "ｺｲｽﾞﾐ",
+        "pref": "三重県",
+        "address1": "桑名郡木曽岬町",
+        "address2": "小和泉",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

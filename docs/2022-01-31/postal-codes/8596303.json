@@ -1,0 +1,19 @@
+[
+    {
+        "code": "42202",
+        "postal_old": "85963",
+        "postal_new": "8596303",
+        "pref_kana": "ﾅｶﾞｻｷｹﾝ",
+        "address1_kana": "ｻｾﾎﾞｼ",
+        "address2_kana": "ﾖｼｲﾁｮｳｲﾀﾋﾞ",
+        "pref": "長崎県",
+        "address1": "佐世保市",
+        "address2": "吉井町板樋",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

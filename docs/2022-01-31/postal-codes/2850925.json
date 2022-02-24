@@ -1,0 +1,19 @@
+[
+    {
+        "code": "12322",
+        "postal_old": "285  ",
+        "postal_new": "2850925",
+        "pref_kana": "ﾁﾊﾞｹﾝ",
+        "address1_kana": "ｲﾝﾊﾞｸﾞﾝｼｽｲﾏﾁ",
+        "address2_kana": "ｶﾐﾓﾄｻｸﾗ",
+        "pref": "千葉県",
+        "address1": "印旛郡酒々井町",
+        "address2": "上本佐倉",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "1",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

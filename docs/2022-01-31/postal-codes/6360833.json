@@ -1,0 +1,19 @@
+[
+    {
+        "code": "29343",
+        "postal_old": "636  ",
+        "postal_new": "6360833",
+        "pref_kana": "ﾅﾗｹﾝ",
+        "address1_kana": "ｲｺﾏｸﾞﾝｻﾝｺﾞｳﾁｮｳ",
+        "address2_kana": "ｼｷﾞﾐﾅﾐﾊﾀ",
+        "pref": "奈良県",
+        "address1": "生駒郡三郷町",
+        "address2": "信貴南畑",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "1",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

@@ -1,0 +1,19 @@
+[
+    {
+        "code": "14212",
+        "postal_old": "243  ",
+        "postal_new": "2430023",
+        "pref_kana": "ｶﾅｶﾞﾜｹﾝ",
+        "address1_kana": "ｱﾂｷﾞｼ",
+        "address2_kana": "ﾄﾀﾞ",
+        "pref": "神奈川県",
+        "address1": "厚木市",
+        "address2": "戸田",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

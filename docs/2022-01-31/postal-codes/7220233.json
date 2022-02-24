@@ -1,0 +1,19 @@
+[
+    {
+        "code": "34205",
+        "postal_old": "72202",
+        "postal_new": "7220233",
+        "pref_kana": "ﾋﾛｼﾏｹﾝ",
+        "address1_kana": "ｵﾉﾐﾁｼ",
+        "address2_kana": "ｷﾉｼｮｳﾁｮｳｲﾁﾊﾞﾗ",
+        "pref": "広島県",
+        "address1": "尾道市",
+        "address2": "木ノ庄町市原",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

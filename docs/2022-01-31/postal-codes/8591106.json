@@ -1,0 +1,19 @@
+[
+    {
+        "code": "42213",
+        "postal_old": "85911",
+        "postal_new": "8591106",
+        "pref_kana": "ﾅｶﾞｻｷｹﾝ",
+        "address1_kana": "ｳﾝｾﾞﾝｼ",
+        "address2_kana": "ｱﾂﾞﾏﾁｮｳｵｵｺﾊﾞﾐｮｳ",
+        "pref": "長崎県",
+        "address1": "雲仙市",
+        "address2": "吾妻町大木場名",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

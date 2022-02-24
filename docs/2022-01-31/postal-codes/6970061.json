@@ -1,0 +1,19 @@
+[
+    {
+        "code": "32202",
+        "postal_old": "697  ",
+        "postal_new": "6970061",
+        "pref_kana": "ｼﾏﾈｹﾝ",
+        "address1_kana": "ﾊﾏﾀﾞｼ",
+        "address2_kana": "ｶｻｶﾞﾗﾁｮｳ",
+        "pref": "島根県",
+        "address1": "浜田市",
+        "address2": "笠柄町",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

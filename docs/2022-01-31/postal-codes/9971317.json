@@ -1,0 +1,19 @@
+[
+    {
+        "code": "06426",
+        "postal_old": "99713",
+        "postal_new": "9971317",
+        "pref_kana": "ﾔﾏｶﾞﾀｹﾝ",
+        "address1_kana": "ﾋｶﾞｼﾀｶﾞﾜｸﾞﾝﾐｶﾜﾏﾁ",
+        "address2_kana": "ﾅﾘﾀｼﾝﾃﾞﾝ",
+        "pref": "山形県",
+        "address1": "東田川郡三川町",
+        "address2": "成田新田",
+        "is_multi_code": "0",
+        "is_koaza": "1",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

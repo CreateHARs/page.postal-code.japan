@@ -1,0 +1,19 @@
+[
+    {
+        "code": "19206",
+        "postal_old": "40905",
+        "postal_new": "4090504",
+        "pref_kana": "ﾔﾏﾅｼｹﾝ",
+        "address1_kana": "ｵｵﾂｷｼ",
+        "address2_kana": "ﾔﾅｶﾞﾜﾏﾁｱﾗｸﾗ",
+        "pref": "山梨県",
+        "address1": "大月市",
+        "address2": "梁川町新倉",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

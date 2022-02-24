@@ -1,0 +1,19 @@
+[
+    {
+        "code": "12104",
+        "postal_old": "264  ",
+        "postal_new": "2640027",
+        "pref_kana": "ﾁﾊﾞｹﾝ",
+        "address1_kana": "ﾁﾊﾞｼﾜｶﾊﾞｸ",
+        "address2_kana": "ﾜｶﾏﾂﾀﾞｲ",
+        "pref": "千葉県",
+        "address1": "千葉市若葉区",
+        "address2": "若松台",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

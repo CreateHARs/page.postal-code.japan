@@ -1,0 +1,53 @@
+[
+    {
+        "code": "26106",
+        "postal_old": "600  ",
+        "postal_new": "6008487",
+        "pref_kana": "ｷｮｳﾄﾌ",
+        "address1_kana": "ｷｮｳﾄｼｼﾓｷﾞｮｳｸ",
+        "address2_kana": "ﾀﾁﾊﾞﾅﾁｮｳ",
+        "pref": "京都府",
+        "address1": "京都市下京区",
+        "address2": "橘町（醒ケ井通松原上る、醒ケ井通松原下る、松原通油小路西",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    },
+    {
+        "code": "26106",
+        "postal_old": "600  ",
+        "postal_new": "6008487",
+        "pref_kana": "ｷｮｳﾄﾌ",
+        "address1_kana": "ｷｮｳﾄｼｼﾓｷﾞｮｳｸ",
+        "address2_kana": "ﾀﾁﾊﾞﾅﾁｮｳ",
+        "pref": "京都府",
+        "address1": "京都市下京区",
+        "address2": "入、松原通醒ケ井西入、松原通醒ケ井東入、松原通東堀川東入、松原通堀",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    },
+    {
+        "code": "26106",
+        "postal_old": "600  ",
+        "postal_new": "6008487",
+        "pref_kana": "ｷｮｳﾄﾌ",
+        "address1_kana": "ｷｮｳﾄｼｼﾓｷﾞｮｳｸ",
+        "address2_kana": "ﾀﾁﾊﾞﾅﾁｮｳ",
+        "pref": "京都府",
+        "address1": "京都市下京区",
+        "address2": "川東入）",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

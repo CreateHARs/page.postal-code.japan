@@ -1,0 +1,19 @@
+[
+    {
+        "code": "26207",
+        "postal_old": "61001",
+        "postal_new": "6100116",
+        "pref_kana": "ｷｮｳﾄﾌ",
+        "address1_kana": "ｼﾞｮｳﾖｳｼ",
+        "address2_kana": "ﾅｼﾏ",
+        "pref": "京都府",
+        "address1": "城陽市",
+        "address2": "奈島",
+        "is_multi_code": "0",
+        "is_koaza": "1",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

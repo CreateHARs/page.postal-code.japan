@@ -1,0 +1,19 @@
+[
+    {
+        "code": "21209",
+        "postal_old": "50162",
+        "postal_new": "5016301",
+        "pref_kana": "ｷﾞﾌｹﾝ",
+        "address1_kana": "ﾊｼﾏｼ",
+        "address2_kana": "ﾌﾅﾊﾞｼﾁｮｳﾐﾔｷﾀ",
+        "pref": "岐阜県",
+        "address1": "羽島市",
+        "address2": "舟橋町宮北",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "1",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

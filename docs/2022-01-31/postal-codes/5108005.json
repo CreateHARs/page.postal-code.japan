@@ -1,0 +1,19 @@
+[
+    {
+        "code": "24202",
+        "postal_old": "512  ",
+        "postal_new": "5108005",
+        "pref_kana": "ﾐｴｹﾝ",
+        "address1_kana": "ﾖｯｶｲﾁｼ",
+        "address2_kana": "ﾌｿｳ",
+        "pref": "三重県",
+        "address1": "四日市市",
+        "address2": "富双",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "1",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

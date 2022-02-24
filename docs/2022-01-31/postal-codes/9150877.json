@@ -1,0 +1,19 @@
+[
+    {
+        "code": "18209",
+        "postal_old": "915  ",
+        "postal_new": "9150877",
+        "pref_kana": "ﾌｸｲｹﾝ",
+        "address1_kana": "ｴﾁｾﾞﾝｼ",
+        "address2_kana": "ｶｽｶﾞﾉﾁｮｳ",
+        "pref": "福井県",
+        "address1": "越前市",
+        "address2": "春日野町",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

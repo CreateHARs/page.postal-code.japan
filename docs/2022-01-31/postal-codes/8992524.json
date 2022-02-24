@@ -1,0 +1,19 @@
+[
+    {
+        "code": "46216",
+        "postal_old": "89925",
+        "postal_new": "8992524",
+        "pref_kana": "ｶｺﾞｼﾏｹﾝ",
+        "address1_kana": "ﾋｵｷｼ",
+        "address2_kana": "ｲｼﾞｭｳｲﾝﾁｮｳｺｲﾉﾊﾗ",
+        "pref": "鹿児島県",
+        "address1": "日置市",
+        "address2": "伊集院町恋之原",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

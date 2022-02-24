@@ -1,0 +1,36 @@
+[
+    {
+        "code": "33210",
+        "postal_old": "71925",
+        "postal_new": "7192551",
+        "pref_kana": "ｵｶﾔﾏｹﾝ",
+        "address1_kana": "ﾆｲﾐｼ",
+        "address2_kana": "ｲｸﾗ",
+        "pref": "岡山県",
+        "address1": "新見市",
+        "address2": "井倉",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    },
+    {
+        "code": "33210",
+        "postal_old": "71925",
+        "postal_new": "7192552",
+        "pref_kana": "ｵｶﾔﾏｹﾝ",
+        "address1_kana": "ﾆｲﾐｼ",
+        "address2_kana": "ﾎｳｿ",
+        "pref": "岡山県",
+        "address1": "新見市",
+        "address2": "法曽",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

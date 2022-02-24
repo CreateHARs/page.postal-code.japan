@@ -1,0 +1,19 @@
+[
+    {
+        "code": "01346",
+        "postal_old": "04304",
+        "postal_new": "0430405",
+        "pref_kana": "ﾎｯｶｲﾄﾞｳ",
+        "address1_kana": "ﾌﾀﾐｸﾞﾝﾔｸﾓﾁｮｳ",
+        "address2_kana": "ｸﾏｲｼｵｵﾀﾆﾁｮｳ",
+        "pref": "北海道",
+        "address1": "二海郡八雲町",
+        "address2": "熊石大谷町",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

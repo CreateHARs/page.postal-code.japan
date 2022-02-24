@@ -1,0 +1,36 @@
+[
+    {
+        "code": "15217",
+        "postal_old": "944  ",
+        "postal_new": "9440006",
+        "pref_kana": "ﾆｲｶﾞﾀｹﾝ",
+        "address1_kana": "ﾐｮｳｺｳｼ",
+        "address2_kana": "ｲﾅﾂﾞｶ",
+        "pref": "新潟県",
+        "address1": "妙高市",
+        "address2": "稲塚",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "1",
+        "is_updated": "0",
+        "update_reason": "0"
+    },
+    {
+        "code": "15217",
+        "postal_old": "944  ",
+        "postal_new": "9440006",
+        "pref_kana": "ﾆｲｶﾞﾀｹﾝ",
+        "address1_kana": "ﾐｮｳｺｳｼ",
+        "address2_kana": "ｵｵｻｷﾁｮｳ",
+        "pref": "新潟県",
+        "address1": "妙高市",
+        "address2": "大崎町",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "1",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

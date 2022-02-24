@@ -1,0 +1,19 @@
+[
+    {
+        "code": "39364",
+        "postal_old": "78137",
+        "postal_new": "7813723",
+        "pref_kana": "ｺｳﾁｹﾝ",
+        "address1_kana": "ﾄｻｸﾞﾝｵｵｶﾜﾑﾗ",
+        "address2_kana": "ｶﾐｵﾐﾅｶﾞﾜ",
+        "pref": "高知県",
+        "address1": "土佐郡大川村",
+        "address2": "上小南川",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

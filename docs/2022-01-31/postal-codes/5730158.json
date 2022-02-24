@@ -1,0 +1,19 @@
+[
+    {
+        "code": "27210",
+        "postal_old": "57301",
+        "postal_new": "5730158",
+        "pref_kana": "ｵｵｻｶﾌ",
+        "address1_kana": "ﾋﾗｶﾀｼ",
+        "address2_kana": "ﾌｼﾞｻｶﾆｼﾏﾁ",
+        "pref": "大阪府",
+        "address1": "枚方市",
+        "address2": "藤阪西町",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

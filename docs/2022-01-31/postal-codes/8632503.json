@@ -1,0 +1,19 @@
+[
+    {
+        "code": "43531",
+        "postal_old": "86325",
+        "postal_new": "8632503",
+        "pref_kana": "ｸﾏﾓﾄｹﾝ",
+        "address1_kana": "ｱﾏｸｻｸﾞﾝﾚｲﾎｸﾏﾁ",
+        "address2_kana": "ｼｷ",
+        "pref": "熊本県",
+        "address1": "天草郡苓北町",
+        "address2": "志岐",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

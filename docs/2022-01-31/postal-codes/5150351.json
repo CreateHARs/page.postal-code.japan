@@ -1,0 +1,19 @@
+[
+    {
+        "code": "24442",
+        "postal_old": "51503",
+        "postal_new": "5150351",
+        "pref_kana": "ﾐｴｹﾝ",
+        "address1_kana": "ﾀｷｸﾞﾝﾒｲﾜﾁｮｳ",
+        "address2_kana": "ﾊﾏﾀﾞ",
+        "pref": "三重県",
+        "address1": "多気郡明和町",
+        "address2": "浜田",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

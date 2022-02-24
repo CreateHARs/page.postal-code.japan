@@ -1,0 +1,19 @@
+[
+    {
+        "code": "01202",
+        "postal_old": "042  ",
+        "postal_new": "0420915",
+        "pref_kana": "ﾎｯｶｲﾄﾞｳ",
+        "address1_kana": "ﾊｺﾀﾞﾃｼ",
+        "address2_kana": "ﾆｼｱｻﾋｵｶﾁｮｳ",
+        "pref": "北海道",
+        "address1": "函館市",
+        "address2": "西旭岡町",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "1",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

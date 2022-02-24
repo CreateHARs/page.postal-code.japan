@@ -1,0 +1,36 @@
+[
+    {
+        "code": "26102",
+        "postal_old": "602  ",
+        "postal_new": "6028056",
+        "pref_kana": "ｷｮｳﾄﾌ",
+        "address1_kana": "ｷｮｳﾄｼｶﾐｷﾞｮｳｸ",
+        "address2_kana": "ｻﾝﾁｮｳﾒ",
+        "pref": "京都府",
+        "address1": "京都市上京区",
+        "address2": "三町目（出水通東堀川東入、出水通堀川東入、東堀川通下長者",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    },
+    {
+        "code": "26102",
+        "postal_old": "602  ",
+        "postal_new": "6028056",
+        "pref_kana": "ｷｮｳﾄﾌ",
+        "address1_kana": "ｷｮｳﾄｼｶﾐｷﾞｮｳｸ",
+        "address2_kana": "ｻﾝﾁｮｳﾒ",
+        "pref": "京都府",
+        "address1": "京都市上京区",
+        "address2": "町下る、東堀川通出水上る）",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

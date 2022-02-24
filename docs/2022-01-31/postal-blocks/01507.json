@@ -1,0 +1,36 @@
+[
+    {
+        "code": "05210",
+        "postal_old": "01507",
+        "postal_new": "0150721",
+        "pref_kana": "ｱｷﾀｹﾝ",
+        "address1_kana": "ﾕﾘﾎﾝｼﾞｮｳｼ",
+        "address2_kana": "ﾁｮｳｶｲﾏﾁｶﾐｼﾞﾈｺﾞ",
+        "pref": "秋田県",
+        "address1": "由利本荘市",
+        "address2": "鳥海町上笹子",
+        "is_multi_code": "0",
+        "is_koaza": "1",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    },
+    {
+        "code": "05210",
+        "postal_old": "01507",
+        "postal_new": "0150722",
+        "pref_kana": "ｱｷﾀｹﾝ",
+        "address1_kana": "ﾕﾘﾎﾝｼﾞｮｳｼ",
+        "address2_kana": "ﾁｮｳｶｲﾏﾁｼﾓｼﾞﾈｺﾞ",
+        "pref": "秋田県",
+        "address1": "由利本荘市",
+        "address2": "鳥海町下笹子",
+        "is_multi_code": "0",
+        "is_koaza": "1",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

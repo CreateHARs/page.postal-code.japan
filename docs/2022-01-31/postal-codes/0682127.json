@@ -1,0 +1,19 @@
+[
+    {
+        "code": "01222",
+        "postal_old": "06821",
+        "postal_new": "0682127",
+        "pref_kana": "ﾎｯｶｲﾄﾞｳ",
+        "address1_kana": "ﾐｶｻｼ",
+        "address2_kana": "ﾔﾖｲﾔﾅｷﾞﾁｮｳ",
+        "pref": "北海道",
+        "address1": "三笠市",
+        "address2": "弥生柳町",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

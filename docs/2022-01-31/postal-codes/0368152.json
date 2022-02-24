@@ -1,0 +1,19 @@
+[
+    {
+        "code": "02202",
+        "postal_old": "036  ",
+        "postal_new": "0368152",
+        "pref_kana": "ｱｵﾓﾘｹﾝ",
+        "address1_kana": "ﾋﾛｻｷｼ",
+        "address2_kana": "ｶﾞｸｴﾝﾁｮｳ",
+        "pref": "青森県",
+        "address1": "弘前市",
+        "address2": "学園町",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

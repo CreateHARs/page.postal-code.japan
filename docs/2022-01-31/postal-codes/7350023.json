@@ -1,0 +1,19 @@
+[
+    {
+        "code": "34302",
+        "postal_old": "735  ",
+        "postal_new": "7350023",
+        "pref_kana": "ﾋﾛｼﾏｹﾝ",
+        "address1_kana": "ｱｷｸﾞﾝﾌﾁｭｳﾁｮｳ",
+        "address2_kana": "ﾊﾏﾀﾞﾎﾝﾏﾁ",
+        "pref": "広島県",
+        "address1": "安芸郡府中町",
+        "address2": "浜田本町",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

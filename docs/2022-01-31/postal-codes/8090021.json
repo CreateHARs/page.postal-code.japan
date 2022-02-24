@@ -1,0 +1,19 @@
+[
+    {
+        "code": "40215",
+        "postal_old": "809  ",
+        "postal_new": "8090021",
+        "pref_kana": "ﾌｸｵｶｹﾝ",
+        "address1_kana": "ﾅｶﾏｼ",
+        "address2_kana": "ｱｻｷﾞﾘ",
+        "pref": "福岡県",
+        "address1": "中間市",
+        "address2": "朝霧",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "1",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

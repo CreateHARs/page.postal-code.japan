@@ -1,0 +1,19 @@
+[
+    {
+        "code": "13229",
+        "postal_old": "202  ",
+        "postal_new": "2020015",
+        "pref_kana": "ﾄｳｷｮｳﾄ",
+        "address1_kana": "ﾆｼﾄｳｷｮｳｼ",
+        "address2_kana": "ﾎｳﾔﾁｮｳ",
+        "pref": "東京都",
+        "address1": "西東京市",
+        "address2": "保谷町",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "1",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

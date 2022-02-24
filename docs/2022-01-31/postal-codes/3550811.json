@@ -1,0 +1,19 @@
+[
+    {
+        "code": "11341",
+        "postal_old": "355  ",
+        "postal_new": "3550811",
+        "pref_kana": "ｻｲﾀﾏｹﾝ",
+        "address1_kana": "ﾋｷｸﾞﾝﾅﾒｶﾞﾜﾏﾁ",
+        "address2_kana": "ﾊﾈｵ",
+        "pref": "埼玉県",
+        "address1": "比企郡滑川町",
+        "address2": "羽尾",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

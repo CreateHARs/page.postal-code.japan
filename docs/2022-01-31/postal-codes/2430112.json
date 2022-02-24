@@ -1,0 +1,19 @@
+[
+    {
+        "code": "14402",
+        "postal_old": "24301",
+        "postal_new": "2430112",
+        "pref_kana": "ｶﾅｶﾞﾜｹﾝ",
+        "address1_kana": "ｱｲｺｳｸﾞﾝｷﾖｶﾜﾑﾗ",
+        "address2_kana": "ｽｽｶﾞﾔ(ｿﾉﾀ)",
+        "pref": "神奈川県",
+        "address1": "愛甲郡清川村",
+        "address2": "煤ケ谷（その他）",
+        "is_multi_code": "1",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

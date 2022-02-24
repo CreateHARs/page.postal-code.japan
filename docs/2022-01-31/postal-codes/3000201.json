@@ -1,0 +1,19 @@
+[
+    {
+        "code": "08230",
+        "postal_old": "30002",
+        "postal_new": "3000201",
+        "pref_kana": "ｲﾊﾞﾗｷｹﾝ",
+        "address1_kana": "ｶｽﾐｶﾞｳﾗｼ",
+        "address2_kana": "ｶｼﾜｻﾞｷ",
+        "pref": "茨城県",
+        "address1": "かすみがうら市",
+        "address2": "柏崎",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

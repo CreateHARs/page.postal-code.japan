@@ -1,0 +1,19 @@
+[
+    {
+        "code": "08231",
+        "postal_old": "30914",
+        "postal_new": "3091466",
+        "pref_kana": "ｲﾊﾞﾗｷｹﾝ",
+        "address1_kana": "ｻｸﾗｶﾞﾜｼ",
+        "address2_kana": "ｻﾙﾀﾞ",
+        "pref": "茨城県",
+        "address1": "桜川市",
+        "address2": "猿田",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

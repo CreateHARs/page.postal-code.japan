@@ -1,0 +1,19 @@
+[
+    {
+        "code": "23219",
+        "postal_old": "485  ",
+        "postal_new": "4850026",
+        "pref_kana": "ｱｲﾁｹﾝ",
+        "address1_kana": "ｺﾏｷｼ",
+        "address2_kana": "ｵｵﾔﾏ(ｺﾏｷｵｵﾔﾏ)",
+        "pref": "愛知県",
+        "address1": "小牧市",
+        "address2": "大山（小牧大山）",
+        "is_multi_code": "1",
+        "is_koaza": "1",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

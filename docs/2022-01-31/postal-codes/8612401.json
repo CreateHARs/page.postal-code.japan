@@ -1,0 +1,19 @@
+[
+    {
+        "code": "43432",
+        "postal_old": "86124",
+        "postal_new": "8612401",
+        "pref_kana": "ｸﾏﾓﾄｹﾝ",
+        "address1_kana": "ｱｿｸﾞﾝﾆｼﾊﾗﾑﾗ",
+        "address2_kana": "ﾄﾘｺ",
+        "pref": "熊本県",
+        "address1": "阿蘇郡西原村",
+        "address2": "鳥子",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

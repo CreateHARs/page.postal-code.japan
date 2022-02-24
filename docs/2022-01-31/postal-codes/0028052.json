@@ -1,0 +1,19 @@
+[
+    {
+        "code": "01102",
+        "postal_old": "002  ",
+        "postal_new": "0028052",
+        "pref_kana": "ﾎｯｶｲﾄﾞｳ",
+        "address1_kana": "ｻｯﾎﾟﾛｼｷﾀｸ",
+        "address2_kana": "ｼﾉﾛﾁｮｳｶﾐｼﾉﾛ",
+        "pref": "北海道",
+        "address1": "札幌市北区",
+        "address2": "篠路町上篠路",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

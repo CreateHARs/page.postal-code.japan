@@ -1,0 +1,19 @@
+[
+    {
+        "code": "23215",
+        "postal_old": "484  ",
+        "postal_new": "4840073",
+        "pref_kana": "ｱｲﾁｹﾝ",
+        "address1_kana": "ｲﾇﾔﾏｼ",
+        "address2_kana": "ﾃﾝｼﾞﾝﾁｮｳ",
+        "pref": "愛知県",
+        "address1": "犬山市",
+        "address2": "天神町",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "1",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

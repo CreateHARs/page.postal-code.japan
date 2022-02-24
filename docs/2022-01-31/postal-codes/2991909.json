@@ -1,0 +1,19 @@
+[
+    {
+        "code": "12463",
+        "postal_old": "29919",
+        "postal_new": "2991909",
+        "pref_kana": "ﾁﾊﾞｹﾝ",
+        "address1_kana": "ｱﾜｸﾞﾝｷｮﾅﾝﾏﾁ",
+        "address2_kana": "ﾀﾞｲﾛｸ",
+        "pref": "千葉県",
+        "address1": "安房郡鋸南町",
+        "address2": "大六",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

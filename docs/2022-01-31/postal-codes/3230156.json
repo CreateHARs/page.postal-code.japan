@@ -1,0 +1,19 @@
+[
+    {
+        "code": "09208",
+        "postal_old": "30702",
+        "postal_new": "3230156",
+        "pref_kana": "ﾄﾁｷﾞｹﾝ",
+        "address1_kana": "ｵﾔﾏｼ",
+        "address2_kana": "ﾅｶｼﾞﾏ",
+        "pref": "栃木県",
+        "address1": "小山市",
+        "address2": "中島",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

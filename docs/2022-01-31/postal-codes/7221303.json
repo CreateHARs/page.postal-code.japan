@@ -1,0 +1,19 @@
+[
+    {
+        "code": "34204",
+        "postal_old": "72213",
+        "postal_new": "7221303",
+        "pref_kana": "ﾋﾛｼﾏｹﾝ",
+        "address1_kana": "ﾐﾊﾗｼ",
+        "address2_kana": "ｸｲﾁｮｳｼﾓﾂ",
+        "pref": "広島県",
+        "address1": "三原市",
+        "address2": "久井町下津",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

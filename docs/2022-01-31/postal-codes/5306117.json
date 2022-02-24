@@ -1,0 +1,19 @@
+[
+    {
+        "code": "27127",
+        "postal_old": "530  ",
+        "postal_new": "5306117",
+        "pref_kana": "ｵｵｻｶﾌ",
+        "address1_kana": "ｵｵｻｶｼｷﾀｸ",
+        "address2_kana": "ﾅｶﾉｼﾏﾅｶﾉｼﾏﾀﾞｲﾋﾞﾙ(17ｶｲ)",
+        "pref": "大阪府",
+        "address1": "大阪市北区",
+        "address2": "中之島中之島ダイビル（１７階）",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

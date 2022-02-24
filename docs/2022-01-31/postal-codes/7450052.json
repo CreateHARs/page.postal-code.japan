@@ -1,0 +1,19 @@
+[
+    {
+        "code": "35215",
+        "postal_old": "745  ",
+        "postal_new": "7450052",
+        "pref_kana": "ﾔﾏｸﾞﾁｹﾝ",
+        "address1_kana": "ｼｭｳﾅﾝｼ",
+        "address2_kana": "ﾊﾂﾈﾁｮｳ",
+        "pref": "山口県",
+        "address1": "周南市",
+        "address2": "初音町",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "1",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

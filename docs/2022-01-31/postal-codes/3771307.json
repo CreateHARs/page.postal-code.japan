@@ -1,0 +1,19 @@
+[
+    {
+        "code": "10424",
+        "postal_old": "37713",
+        "postal_new": "3771307",
+        "pref_kana": "ｸﾞﾝﾏｹﾝ",
+        "address1_kana": "ｱｶﾞﾂﾏｸﾞﾝﾅｶﾞﾉﾊﾗﾏﾁ",
+        "address2_kana": "ﾊﾈｵ",
+        "pref": "群馬県",
+        "address1": "吾妻郡長野原町",
+        "address2": "羽根尾",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

@@ -1,0 +1,19 @@
+[
+    {
+        "code": "33101",
+        "postal_old": "700  ",
+        "postal_new": "7000061",
+        "pref_kana": "ｵｶﾔﾏｹﾝ",
+        "address1_kana": "ｵｶﾔﾏｼｷﾀｸ",
+        "address2_kana": "ﾀﾞｲｱﾝｼﾞﾆｼﾏﾁ",
+        "pref": "岡山県",
+        "address1": "岡山市北区",
+        "address2": "大安寺西町",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

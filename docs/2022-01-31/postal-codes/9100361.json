@@ -1,0 +1,19 @@
+[
+    {
+        "code": "18210",
+        "postal_old": "91002",
+        "postal_new": "9100361",
+        "pref_kana": "ﾌｸｲｹﾝ",
+        "address1_kana": "ｻｶｲｼ",
+        "address2_kana": "ﾏﾙｵｶﾁｮｳﾔｽﾀｼﾝ",
+        "pref": "福井県",
+        "address1": "坂井市",
+        "address2": "丸岡町安田新",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

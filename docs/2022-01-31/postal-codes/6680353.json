@@ -1,0 +1,19 @@
+[
+    {
+        "code": "28209",
+        "postal_old": "66803",
+        "postal_new": "6680353",
+        "pref_kana": "ﾋｮｳｺﾞｹﾝ",
+        "address1_kana": "ﾄﾖｵｶｼ",
+        "address2_kana": "ﾀﾝﾄｳﾁｮｳｵｸｱｶ",
+        "pref": "兵庫県",
+        "address1": "豊岡市",
+        "address2": "但東町奥赤",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

@@ -1,0 +1,19 @@
+[
+    {
+        "code": "12322",
+        "postal_old": "285  ",
+        "postal_new": "2850904",
+        "pref_kana": "ﾁﾊﾞｹﾝ",
+        "address1_kana": "ｲﾝﾊﾞｸﾞﾝｼｽｲﾏﾁ",
+        "address2_kana": "ｲｼﾞﾉｼﾝﾃﾞﾝ",
+        "pref": "千葉県",
+        "address1": "印旛郡酒々井町",
+        "address2": "伊篠新田",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

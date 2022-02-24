@@ -1,0 +1,19 @@
+[
+    {
+        "code": "39410",
+        "postal_old": "78121",
+        "postal_new": "7812161",
+        "pref_kana": "ｺｳﾁｹﾝ",
+        "address1_kana": "ﾀｶｵｶｸﾞﾝﾋﾀﾞｶﾑﾗ",
+        "address2_kana": "ﾊｼﾗﾀﾆ",
+        "pref": "高知県",
+        "address1": "高岡郡日高村",
+        "address2": "柱谷",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

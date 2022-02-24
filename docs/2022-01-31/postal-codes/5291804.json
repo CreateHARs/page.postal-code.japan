@@ -1,0 +1,19 @@
+[
+    {
+        "code": "25209",
+        "postal_old": "52918",
+        "postal_new": "5291804",
+        "pref_kana": "ｼｶﾞｹﾝ",
+        "address1_kana": "ｺｳｶｼ",
+        "address2_kana": "ｼｶﾞﾗｷﾁｮｳﾁｮｸｼ",
+        "pref": "滋賀県",
+        "address1": "甲賀市",
+        "address2": "信楽町勅旨",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

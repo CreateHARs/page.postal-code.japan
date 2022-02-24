@@ -1,0 +1,19 @@
+[
+    {
+        "code": "21207",
+        "postal_old": "50137",
+        "postal_new": "5013763",
+        "pref_kana": "ｷﾞﾌｹﾝ",
+        "address1_kana": "ﾐﾉｼ",
+        "address2_kana": "ｺﾞｸﾗｸｼﾞ",
+        "pref": "岐阜県",
+        "address1": "美濃市",
+        "address2": "極楽寺",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

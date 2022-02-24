@@ -1,0 +1,19 @@
+[
+    {
+        "code": "18206",
+        "postal_old": "911  ",
+        "postal_new": "9110846",
+        "pref_kana": "ﾌｸｲｹﾝ",
+        "address1_kana": "ｶﾂﾔﾏｼ",
+        "address2_kana": "ｼｶﾀﾞﾆﾁｮｳｷﾀﾆｼﾏﾀ",
+        "pref": "福井県",
+        "address1": "勝山市",
+        "address2": "鹿谷町北西俣",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

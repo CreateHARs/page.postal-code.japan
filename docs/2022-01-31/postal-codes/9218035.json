@@ -1,0 +1,19 @@
+[
+    {
+        "code": "17201",
+        "postal_old": "92181",
+        "postal_new": "9218035",
+        "pref_kana": "ｲｼｶﾜｹﾝ",
+        "address1_kana": "ｶﾅｻﾞﾜｼ",
+        "address2_kana": "ｲｽﾞﾐｶﾞｵｶ",
+        "pref": "石川県",
+        "address1": "金沢市",
+        "address2": "泉が丘",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "1",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

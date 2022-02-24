@@ -1,0 +1,19 @@
+[
+    {
+        "code": "26201",
+        "postal_old": "620  ",
+        "postal_new": "6200061",
+        "pref_kana": "ｷｮｳﾄﾌ",
+        "address1_kana": "ﾌｸﾁﾔﾏｼ",
+        "address2_kana": "ｱﾗｶﾞﾋｶﾞｼﾏﾁ",
+        "pref": "京都府",
+        "address1": "福知山市",
+        "address2": "荒河東町",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

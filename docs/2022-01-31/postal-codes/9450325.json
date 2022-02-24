@@ -1,0 +1,19 @@
+[
+    {
+        "code": "15504",
+        "postal_old": "94502",
+        "postal_new": "9450325",
+        "pref_kana": "ﾆｲｶﾞﾀｹﾝ",
+        "address1_kana": "ｶﾘﾜｸﾞﾝｶﾘﾜﾑﾗ",
+        "address2_kana": "ｱｶﾀﾞｷﾀｶﾞﾀ",
+        "pref": "新潟県",
+        "address1": "刈羽郡刈羽村",
+        "address2": "赤田北方",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

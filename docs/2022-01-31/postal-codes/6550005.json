@@ -1,0 +1,19 @@
+[
+    {
+        "code": "28108",
+        "postal_old": "655  ",
+        "postal_new": "6550005",
+        "pref_kana": "ﾋｮｳｺﾞｹﾝ",
+        "address1_kana": "ｺｳﾍﾞｼﾀﾙﾐｸ",
+        "address2_kana": "ｼｵﾐｶﾞｵｶ",
+        "pref": "兵庫県",
+        "address1": "神戸市垂水区",
+        "address2": "潮見が丘",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "1",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

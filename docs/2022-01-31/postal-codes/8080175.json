@@ -1,0 +1,19 @@
+[
+    {
+        "code": "40103",
+        "postal_old": "80801",
+        "postal_new": "8080175",
+        "pref_kana": "ﾌｸｵｶｹﾝ",
+        "address1_kana": "ｷﾀｷｭｳｼｭｳｼﾜｶﾏﾂｸ",
+        "address2_kana": "ｱｶｲﾜﾏﾁ(10-12ﾊﾞﾝﾁ)",
+        "pref": "福岡県",
+        "address1": "北九州市若松区",
+        "address2": "赤岩町（１０〜１２番地）",
+        "is_multi_code": "1",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

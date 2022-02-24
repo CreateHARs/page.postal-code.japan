@@ -1,0 +1,19 @@
+[
+    {
+        "code": "14210",
+        "postal_old": "23802",
+        "postal_new": "2380236",
+        "pref_kana": "ｶﾅｶﾞﾜｹﾝ",
+        "address1_kana": "ﾐｳﾗｼ",
+        "address2_kana": "ｻｶｴﾁｮｳ",
+        "pref": "神奈川県",
+        "address1": "三浦市",
+        "address2": "栄町",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

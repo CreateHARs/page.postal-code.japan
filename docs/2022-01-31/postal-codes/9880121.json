@@ -1,0 +1,19 @@
+[
+    {
+        "code": "04205",
+        "postal_old": "98801",
+        "postal_new": "9880121",
+        "pref_kana": "ﾐﾔｷﾞｹﾝ",
+        "address1_kana": "ｹｾﾝﾇﾏｼ",
+        "address2_kana": "ﾏﾂｻﾞｷｶﾔ",
+        "pref": "宮城県",
+        "address1": "気仙沼市",
+        "address2": "松崎萱",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

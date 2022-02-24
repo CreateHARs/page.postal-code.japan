@@ -1,0 +1,19 @@
+[
+    {
+        "code": "01691",
+        "postal_old": "08603",
+        "postal_new": "0860346",
+        "pref_kana": "ﾎｯｶｲﾄﾞｳ",
+        "address1_kana": "ﾉﾂｹｸﾞﾝﾍﾞﾂｶｲﾁｮｳ",
+        "address2_kana": "ﾔｳｽﾍﾞﾂ(ｿﾉﾀ)",
+        "pref": "北海道",
+        "address1": "野付郡別海町",
+        "address2": "矢臼別（その他）",
+        "is_multi_code": "1",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

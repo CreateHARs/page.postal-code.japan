@@ -1,0 +1,19 @@
+[
+    {
+        "code": "40605",
+        "postal_old": "826  ",
+        "postal_new": "8260002",
+        "pref_kana": "ﾌｸｵｶｹﾝ",
+        "address1_kana": "ﾀｶﾞﾜｸﾞﾝｶﾜｻｷﾏﾁ",
+        "address2_kana": "ｲｹｼﾞﾘ(ｶﾝﾊﾞﾙ､ｺｸﾗﾉﾃ)",
+        "pref": "福岡県",
+        "address1": "田川郡川崎町",
+        "address2": "池尻（上原、小倉畔）",
+        "is_multi_code": "1",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

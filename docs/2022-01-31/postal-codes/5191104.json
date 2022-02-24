@@ -1,0 +1,19 @@
+[
+    {
+        "code": "24210",
+        "postal_old": "51911",
+        "postal_new": "5191104",
+        "pref_kana": "ﾐｴｹﾝ",
+        "address1_kana": "ｶﾒﾔﾏｼ",
+        "address2_kana": "ｾｷﾁｮｳｼﾗｷｲｯｼｷ",
+        "pref": "三重県",
+        "address1": "亀山市",
+        "address2": "関町白木一色",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

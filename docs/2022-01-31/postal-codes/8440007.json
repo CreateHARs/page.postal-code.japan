@@ -1,0 +1,19 @@
+[
+    {
+        "code": "41401",
+        "postal_old": "844  ",
+        "postal_new": "8440007",
+        "pref_kana": "ｻｶﾞｹﾝ",
+        "address1_kana": "ﾆｼﾏﾂｳﾗｸﾞﾝｱﾘﾀﾁｮｳ",
+        "address2_kana": "ｼﾗｶﾜ",
+        "pref": "佐賀県",
+        "address1": "西松浦郡有田町",
+        "address2": "白川",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "1",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

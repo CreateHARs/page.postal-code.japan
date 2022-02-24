@@ -1,0 +1,19 @@
+[
+    {
+        "code": "09210",
+        "postal_old": "32404",
+        "postal_new": "3240401",
+        "pref_kana": "ﾄﾁｷﾞｹﾝ",
+        "address1_kana": "ｵｵﾀﾜﾗｼ",
+        "address2_kana": "ｾﾊﾞﾊﾗ",
+        "pref": "栃木県",
+        "address1": "大田原市",
+        "address2": "狭原",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

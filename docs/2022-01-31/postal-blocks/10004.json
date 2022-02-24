@@ -1,0 +1,53 @@
+[
+    {
+        "code": "13363",
+        "postal_old": "10004",
+        "postal_new": "1000400",
+        "pref_kana": "ﾄｳｷｮｳﾄ",
+        "address1_kana": "ﾆｲｼﾞﾏﾑﾗ",
+        "address2_kana": "ｲｶﾆｹｲｻｲｶﾞﾅｲﾊﾞｱｲ",
+        "pref": "東京都",
+        "address1": "新島村",
+        "address2": "以下に掲載がない場合",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    },
+    {
+        "code": "13363",
+        "postal_old": "10004",
+        "postal_new": "1000401",
+        "pref_kana": "ﾄｳｷｮｳﾄ",
+        "address1_kana": "ﾆｲｼﾞﾏﾑﾗ",
+        "address2_kana": "ﾜｶｺﾞｳ",
+        "pref": "東京都",
+        "address1": "新島村",
+        "address2": "若郷",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    },
+    {
+        "code": "13363",
+        "postal_old": "10004",
+        "postal_new": "1000402",
+        "pref_kana": "ﾄｳｷｮｳﾄ",
+        "address1_kana": "ﾆｲｼﾞﾏﾑﾗ",
+        "address2_kana": "ﾎﾝｿﾝ",
+        "pref": "東京都",
+        "address1": "新島村",
+        "address2": "本村",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "1",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

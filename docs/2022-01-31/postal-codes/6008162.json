@@ -1,0 +1,53 @@
+[
+    {
+        "code": "26106",
+        "postal_old": "600  ",
+        "postal_new": "6008162",
+        "pref_kana": "ｷｮｳﾄﾌ",
+        "address1_kana": "ｷｮｳﾄｼｼﾓｷﾞｮｳｸ",
+        "address2_kana": "ｻｶｲﾁｮｳ",
+        "pref": "京都府",
+        "address1": "京都市下京区",
+        "address2": "堺町（鍵屋町通室町西入、鍵屋町通室町東入、室町通鍵屋町下",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    },
+    {
+        "code": "26106",
+        "postal_old": "600  ",
+        "postal_new": "6008162",
+        "pref_kana": "ｷｮｳﾄﾌ",
+        "address1_kana": "ｷｮｳﾄｼｼﾓｷﾞｮｳｸ",
+        "address2_kana": "ｻｶｲﾁｮｳ",
+        "pref": "京都府",
+        "address1": "京都市下京区",
+        "address2": "る、的場通室町西入、的場通室町東入、室町通五条下る２丁目、室町通六条",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    },
+    {
+        "code": "26106",
+        "postal_old": "600  ",
+        "postal_new": "6008162",
+        "pref_kana": "ｷｮｳﾄﾌ",
+        "address1_kana": "ｷｮｳﾄｼｼﾓｷﾞｮｳｸ",
+        "address2_kana": "ｻｶｲﾁｮｳ",
+        "pref": "京都府",
+        "address1": "京都市下京区",
+        "address2": "上る、室町通的場上る）",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

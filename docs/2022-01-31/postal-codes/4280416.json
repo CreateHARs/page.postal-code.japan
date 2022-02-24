@@ -1,0 +1,19 @@
+[
+    {
+        "code": "22429",
+        "postal_old": "42804",
+        "postal_new": "4280416",
+        "pref_kana": "ｼｽﾞｵｶｹﾝ",
+        "address1_kana": "ﾊｲﾊﾞﾗｸﾞﾝｶﾜﾈﾎﾝﾁｮｳ",
+        "address2_kana": "ﾀｼﾛ",
+        "pref": "静岡県",
+        "address1": "榛原郡川根本町",
+        "address2": "田代",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

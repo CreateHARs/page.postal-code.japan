@@ -1,0 +1,19 @@
+[
+    {
+        "code": "33643",
+        "postal_old": "70705",
+        "postal_new": "7070504",
+        "pref_kana": "ｵｶﾔﾏｹﾝ",
+        "address1_kana": "ｱｲﾀﾞｸﾞﾝﾆｼｱﾜｸﾗｿﾝ",
+        "address2_kana": "ﾅｶﾞｵ",
+        "pref": "岡山県",
+        "address1": "英田郡西粟倉村",
+        "address2": "長尾",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

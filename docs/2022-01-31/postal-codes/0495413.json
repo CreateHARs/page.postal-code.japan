@@ -1,0 +1,19 @@
+[
+    {
+        "code": "01571",
+        "postal_old": "04954",
+        "postal_new": "0495413",
+        "pref_kana": "ﾎｯｶｲﾄﾞｳ",
+        "address1_kana": "ｱﾌﾞﾀｸﾞﾝﾄﾖｳﾗﾁｮｳ",
+        "address2_kana": "ｶｲｶﾞﾝﾁｮｳ",
+        "pref": "北海道",
+        "address1": "虻田郡豊浦町",
+        "address2": "海岸町",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

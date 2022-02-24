@@ -1,0 +1,19 @@
+[
+    {
+        "code": "22206",
+        "postal_old": "411  ",
+        "postal_new": "4110032",
+        "pref_kana": "ｼｽﾞｵｶｹﾝ",
+        "address1_kana": "ﾐｼﾏｼ",
+        "address2_kana": "ｽｴﾋﾛﾁｮｳ",
+        "pref": "静岡県",
+        "address1": "三島市",
+        "address2": "末広町",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

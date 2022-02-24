@@ -1,0 +1,19 @@
+[
+    {
+        "code": "07367",
+        "postal_old": "96804",
+        "postal_new": "9680422",
+        "pref_kana": "ﾌｸｼﾏｹﾝ",
+        "address1_kana": "ﾐﾅﾐｱｲﾂﾞｸﾞﾝﾀﾀﾞﾐﾏﾁ",
+        "address2_kana": "ｲｼﾌﾞｼ",
+        "pref": "福島県",
+        "address1": "南会津郡只見町",
+        "address2": "石伏",
+        "is_multi_code": "0",
+        "is_koaza": "1",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

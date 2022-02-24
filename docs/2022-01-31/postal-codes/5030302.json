@@ -1,0 +1,19 @@
+[
+    {
+        "code": "21221",
+        "postal_old": "50303",
+        "postal_new": "5030302",
+        "pref_kana": "ｷﾞﾌｹﾝ",
+        "address1_kana": "ｶｲﾂﾞｼ",
+        "address2_kana": "ﾋﾗﾀﾁｮｳｶﾂｶﾞ",
+        "pref": "岐阜県",
+        "address1": "海津市",
+        "address2": "平田町勝賀",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

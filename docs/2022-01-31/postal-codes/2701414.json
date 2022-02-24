@@ -1,0 +1,19 @@
+[
+    {
+        "code": "12232",
+        "postal_old": "27014",
+        "postal_new": "2701414",
+        "pref_kana": "ﾁﾊﾞｹﾝ",
+        "address1_kana": "ｼﾛｲｼ",
+        "address2_kana": "ﾔﾀ",
+        "pref": "千葉県",
+        "address1": "白井市",
+        "address2": "谷田",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

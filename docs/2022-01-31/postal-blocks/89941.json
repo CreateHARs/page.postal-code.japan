@@ -1,0 +1,53 @@
+[
+    {
+        "code": "46217",
+        "postal_old": "89941",
+        "postal_new": "8994101",
+        "pref_kana": "ｶｺﾞｼﾏｹﾝ",
+        "address1_kana": "ｿｵｼ",
+        "address2_kana": "ﾀｶﾗﾍﾞﾁｮｳﾐﾅﾐﾏﾀ",
+        "pref": "鹿児島県",
+        "address1": "曽於市",
+        "address2": "財部町南俣",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    },
+    {
+        "code": "46217",
+        "postal_old": "89941",
+        "postal_new": "8994102",
+        "pref_kana": "ｶｺﾞｼﾏｹﾝ",
+        "address1_kana": "ｿｵｼ",
+        "address2_kana": "ﾀｶﾗﾍﾞﾁｮｳｷﾀﾏﾀ",
+        "pref": "鹿児島県",
+        "address1": "曽於市",
+        "address2": "財部町北俣",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    },
+    {
+        "code": "46217",
+        "postal_old": "89941",
+        "postal_new": "8994103",
+        "pref_kana": "ｶｺﾞｼﾏｹﾝ",
+        "address1_kana": "ｿｵｼ",
+        "address2_kana": "ﾀｶﾗﾍﾞﾁｮｳｼﾓﾀｶﾗﾍﾞ",
+        "pref": "鹿児島県",
+        "address1": "曽於市",
+        "address2": "財部町下財部",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

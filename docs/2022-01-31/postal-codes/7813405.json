@@ -1,0 +1,19 @@
+[
+    {
+        "code": "39363",
+        "postal_old": "78134",
+        "postal_new": "7813405",
+        "pref_kana": "ｺｳﾁｹﾝ",
+        "address1_kana": "ﾄｻｸﾞﾝﾄｻﾁｮｳ",
+        "address2_kana": "ﾐﾅｲｽﾞﾐ",
+        "pref": "高知県",
+        "address1": "土佐郡土佐町",
+        "address2": "南泉",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

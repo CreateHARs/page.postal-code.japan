@@ -1,0 +1,19 @@
+[
+    {
+        "code": "01218",
+        "postal_old": "07912",
+        "postal_new": "0791271",
+        "pref_kana": "ﾎｯｶｲﾄﾞｳ",
+        "address1_kana": "ｱｶﾋﾞﾗｼ",
+        "address2_kana": "ﾋｬｯｺﾁｮｳｷﾀ",
+        "pref": "北海道",
+        "address1": "赤平市",
+        "address2": "百戸町北",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

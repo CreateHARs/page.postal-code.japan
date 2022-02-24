@@ -1,0 +1,19 @@
+[
+    {
+        "code": "13303",
+        "postal_old": "19012",
+        "postal_new": "1901213",
+        "pref_kana": "ﾄｳｷｮｳﾄ",
+        "address1_kana": "ﾆｼﾀﾏｸﾞﾝﾐｽﾞﾎﾏﾁ",
+        "address2_kana": "ﾑｻｼ",
+        "pref": "東京都",
+        "address1": "西多摩郡瑞穂町",
+        "address2": "武蔵",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

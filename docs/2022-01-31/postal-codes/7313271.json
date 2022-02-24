@@ -1,0 +1,19 @@
+[
+    {
+        "code": "34105",
+        "postal_old": "73132",
+        "postal_new": "7313271",
+        "pref_kana": "ﾋﾛｼﾏｹﾝ",
+        "address1_kana": "ﾋﾛｼﾏｼｱｻﾐﾅﾐｸ",
+        "address2_kana": "ﾇﾏﾀﾁｮｳｱﾄ",
+        "pref": "広島県",
+        "address1": "広島市安佐南区",
+        "address2": "沼田町阿戸",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

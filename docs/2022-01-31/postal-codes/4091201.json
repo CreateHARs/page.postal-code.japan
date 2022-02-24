@@ -1,0 +1,19 @@
+[
+    {
+        "code": "19213",
+        "postal_old": "40912",
+        "postal_new": "4091201",
+        "pref_kana": "ﾔﾏﾅｼｹﾝ",
+        "address1_kana": "ｺｳｼｭｳｼ",
+        "address2_kana": "ﾔﾏﾄﾁｮｳﾄｸｻ",
+        "pref": "山梨県",
+        "address1": "甲州市",
+        "address2": "大和町木賊",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

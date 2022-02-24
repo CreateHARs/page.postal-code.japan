@@ -1,0 +1,36 @@
+[
+    {
+        "code": "26104",
+        "postal_old": "604  ",
+        "postal_new": "6040043",
+        "pref_kana": "ｷｮｳﾄﾌ",
+        "address1_kana": "ｷｮｳﾄｼﾅｶｷﾞｮｳｸ",
+        "address2_kana": "ｲｼﾊﾞｼﾁｮｳ",
+        "pref": "京都府",
+        "address1": "京都市中京区",
+        "address2": "石橋町（御池通小川西入、御池通小川東入、御池通西洞院西入、御池通油小路",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    },
+    {
+        "code": "26104",
+        "postal_old": "604  ",
+        "postal_new": "6040043",
+        "pref_kana": "ｷｮｳﾄﾌ",
+        "address1_kana": "ｷｮｳﾄｼﾅｶｷﾞｮｳｸ",
+        "address2_kana": "ｲｼﾊﾞｼﾁｮｳ",
+        "pref": "京都府",
+        "address1": "京都市中京区",
+        "address2": "東入、小川通御池下る）",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

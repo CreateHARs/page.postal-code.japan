@@ -1,0 +1,19 @@
+[
+    {
+        "code": "14152",
+        "postal_old": "229  ",
+        "postal_new": "2520227",
+        "pref_kana": "ｶﾅｶﾞﾜｹﾝ",
+        "address1_kana": "ｻｶﾞﾐﾊﾗｼﾁｭｳｵｳｸ",
+        "address2_kana": "ﾋｶﾘｶﾞｵｶ",
+        "pref": "神奈川県",
+        "address1": "相模原市中央区",
+        "address2": "光が丘",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "1",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

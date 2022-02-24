@@ -1,0 +1,19 @@
+[
+    {
+        "code": "04323",
+        "postal_old": "98916",
+        "postal_new": "9891608",
+        "pref_kana": "ﾐﾔｷﾞｹﾝ",
+        "address1_kana": "ｼﾊﾞﾀｸﾞﾝｼﾊﾞﾀﾏﾁ",
+        "address2_kana": "ｹﾝｻﾞｷ",
+        "pref": "宮城県",
+        "address1": "柴田郡柴田町",
+        "address2": "剣崎",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "1",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

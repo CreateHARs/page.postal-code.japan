@@ -1,0 +1,19 @@
+[
+    {
+        "code": "11224",
+        "postal_old": "335  ",
+        "postal_new": "3350027",
+        "pref_kana": "ｻｲﾀﾏｹﾝ",
+        "address1_kana": "ﾄﾀﾞｼ",
+        "address2_kana": "ﾋｶﾜﾁｮｳ",
+        "pref": "埼玉県",
+        "address1": "戸田市",
+        "address2": "氷川町",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "1",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

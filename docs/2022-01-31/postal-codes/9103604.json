@@ -1,0 +1,19 @@
+[
+    {
+        "code": "18201",
+        "postal_old": "91036",
+        "postal_new": "9103604",
+        "pref_kana": "ﾌｸｲｹﾝ",
+        "address1_kana": "ﾌｸｲｼ",
+        "address2_kana": "ｸﾞﾘｰﾝﾊｲﾂ",
+        "pref": "福井県",
+        "address1": "福井市",
+        "address2": "グリーンハイツ",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "1",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

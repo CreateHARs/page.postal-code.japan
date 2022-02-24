@@ -1,0 +1,36 @@
+[
+    {
+        "code": "35201",
+        "postal_old": "75961",
+        "postal_new": "7596121",
+        "pref_kana": "ﾔﾏｸﾞﾁｹﾝ",
+        "address1_kana": "ｼﾓﾉｾｷｼ",
+        "address2_kana": "ﾎｳﾎｸﾁｮｳｶﾝﾀﾞｶﾐ(ｿﾉﾀ)",
+        "pref": "山口県",
+        "address1": "下関市",
+        "address2": "豊北町神田上（その他）",
+        "is_multi_code": "1",
+        "is_koaza": "1",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    },
+    {
+        "code": "35201",
+        "postal_old": "75961",
+        "postal_new": "7596122",
+        "pref_kana": "ﾔﾏｸﾞﾁｹﾝ",
+        "address1_kana": "ｼﾓﾉｾｷｼ",
+        "address2_kana": "ﾎｳﾎｸﾁｮｳﾔﾀﾏ",
+        "pref": "山口県",
+        "address1": "下関市",
+        "address2": "豊北町矢玉",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

@@ -1,0 +1,19 @@
+[
+    {
+        "code": "45431",
+        "postal_old": "88909",
+        "postal_new": "8890901",
+        "pref_kana": "ﾐﾔｻﾞｷｹﾝ",
+        "address1_kana": "ﾋｶﾞｼｳｽｷｸﾞﾝﾐｻﾄﾁｮｳ",
+        "address2_kana": "ｷﾀｺﾞｳｳﾅﾏ",
+        "pref": "宮崎県",
+        "address1": "東臼杵郡美郷町",
+        "address2": "北郷宇納間",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

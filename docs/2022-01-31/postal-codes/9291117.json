@@ -1,0 +1,19 @@
+[
+    {
+        "code": "17209",
+        "postal_old": "92911",
+        "postal_new": "9291117",
+        "pref_kana": "ｲｼｶﾜｹﾝ",
+        "address1_kana": "ｶﾎｸｼ",
+        "address2_kana": "ﾊﾁﾌﾞｾ",
+        "pref": "石川県",
+        "address1": "かほく市",
+        "address2": "鉢伏",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

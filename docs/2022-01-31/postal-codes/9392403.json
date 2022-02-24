@@ -1,0 +1,36 @@
+[
+    {
+        "code": "16201",
+        "postal_old": "93923",
+        "postal_new": "9392403",
+        "pref_kana": "ﾄﾔﾏｹﾝ",
+        "address1_kana": "ﾄﾔﾏｼ",
+        "address2_kana": "ﾔﾂｵﾏﾁﾄﾞﾊﾞﾀｹｼﾓﾅｶﾔﾏ",
+        "pref": "富山県",
+        "address1": "富山市",
+        "address2": "八尾町道畑下中山",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "1",
+        "is_updated": "0",
+        "update_reason": "0"
+    },
+    {
+        "code": "16201",
+        "postal_old": "93923",
+        "postal_new": "9392403",
+        "pref_kana": "ﾄﾔﾏｹﾝ",
+        "address1_kana": "ﾄﾔﾏｼ",
+        "address2_kana": "ﾔﾂｵﾏﾁﾐﾔﾉｼﾀ",
+        "pref": "富山県",
+        "address1": "富山市",
+        "address2": "八尾町宮ノ下",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "1",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

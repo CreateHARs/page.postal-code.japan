@@ -1,0 +1,19 @@
+[
+    {
+        "code": "15226",
+        "postal_old": "94964",
+        "postal_new": "9496403",
+        "pref_kana": "ﾆｲｶﾞﾀｹﾝ",
+        "address1_kana": "ﾐﾅﾐｳｵﾇﾏｼ",
+        "address2_kana": "ｵﾓｲｶﾞﾜ",
+        "pref": "新潟県",
+        "address1": "南魚沼市",
+        "address2": "思川",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

@@ -1,0 +1,53 @@
+[
+    {
+        "code": "26210",
+        "postal_old": "613  ",
+        "postal_new": "6130851",
+        "pref_kana": "ｷｮｳﾄﾌ",
+        "address1_kana": "ﾔﾜﾀｼ",
+        "address2_kana": "ｶﾜｸﾞﾁﾀｶﾊﾗ",
+        "pref": "京都府",
+        "address1": "八幡市",
+        "address2": "川口高原",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    },
+    {
+        "code": "26210",
+        "postal_old": "613  ",
+        "postal_new": "6130852",
+        "pref_kana": "ｷｮｳﾄﾌ",
+        "address1_kana": "ﾔﾜﾀｼ",
+        "address2_kana": "ﾔﾜﾀﾋﾉｸﾁ",
+        "pref": "京都府",
+        "address1": "八幡市",
+        "address2": "八幡樋ノ口",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    },
+    {
+        "code": "26210",
+        "postal_old": "613  ",
+        "postal_new": "6130853",
+        "pref_kana": "ｷｮｳﾄﾌ",
+        "address1_kana": "ﾔﾜﾀｼ",
+        "address2_kana": "ﾔﾜﾀﾅｶﾞﾏﾁ",
+        "pref": "京都府",
+        "address1": "八幡市",
+        "address2": "八幡長町",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

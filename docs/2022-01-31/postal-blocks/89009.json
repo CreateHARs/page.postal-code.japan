@@ -1,0 +1,53 @@
+[
+    {
+        "code": "46303",
+        "postal_old": "890  ",
+        "postal_new": "8900901",
+        "pref_kana": "ｶｺﾞｼﾏｹﾝ",
+        "address1_kana": "ｶｺﾞｼﾏｸﾞﾝﾐｼﾏﾑﾗ",
+        "address2_kana": "ｲｵｳｼﾞﾏ",
+        "pref": "鹿児島県",
+        "address1": "鹿児島郡三島村",
+        "address2": "硫黄島",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    },
+    {
+        "code": "46303",
+        "postal_old": "890  ",
+        "postal_new": "8900902",
+        "pref_kana": "ｶｺﾞｼﾏｹﾝ",
+        "address1_kana": "ｶｺﾞｼﾏｸﾞﾝﾐｼﾏﾑﾗ",
+        "address2_kana": "ｸﾛｼﾏ",
+        "pref": "鹿児島県",
+        "address1": "鹿児島郡三島村",
+        "address2": "黒島",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    },
+    {
+        "code": "46303",
+        "postal_old": "890  ",
+        "postal_new": "8900903",
+        "pref_kana": "ｶｺﾞｼﾏｹﾝ",
+        "address1_kana": "ｶｺﾞｼﾏｸﾞﾝﾐｼﾏﾑﾗ",
+        "address2_kana": "ﾀｹｼﾏ",
+        "pref": "鹿児島県",
+        "address1": "鹿児島郡三島村",
+        "address2": "竹島",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

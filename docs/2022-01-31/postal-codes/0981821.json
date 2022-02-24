@@ -1,0 +1,53 @@
+[
+    {
+        "code": "01563",
+        "postal_old": "09818",
+        "postal_new": "0981821",
+        "pref_kana": "ﾎｯｶｲﾄﾞｳ",
+        "address1_kana": "ﾓﾝﾍﾞﾂｸﾞﾝｵｳﾑﾁｮｳ",
+        "address2_kana": "ｷﾀﾎﾛﾅｲ",
+        "pref": "北海道",
+        "address1": "紋別郡雄武町",
+        "address2": "北幌内",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "1",
+        "is_updated": "0",
+        "update_reason": "0"
+    },
+    {
+        "code": "01563",
+        "postal_old": "09818",
+        "postal_new": "0981821",
+        "pref_kana": "ﾎｯｶｲﾄﾞｳ",
+        "address1_kana": "ﾓﾝﾍﾞﾂｸﾞﾝｵｳﾑﾁｮｳ",
+        "address2_kana": "ﾅｶﾎﾛﾅｲ",
+        "pref": "北海道",
+        "address1": "紋別郡雄武町",
+        "address2": "中幌内",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "1",
+        "is_updated": "0",
+        "update_reason": "0"
+    },
+    {
+        "code": "01563",
+        "postal_old": "09818",
+        "postal_new": "0981821",
+        "pref_kana": "ﾎｯｶｲﾄﾞｳ",
+        "address1_kana": "ﾓﾝﾍﾞﾂｸﾞﾝｵｳﾑﾁｮｳ",
+        "address2_kana": "ﾎﾛﾅｲ",
+        "pref": "北海道",
+        "address1": "紋別郡雄武町",
+        "address2": "幌内",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "1",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

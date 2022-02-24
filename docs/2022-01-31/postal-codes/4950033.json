@@ -1,0 +1,19 @@
+[
+    {
+        "code": "23220",
+        "postal_old": "495  ",
+        "postal_new": "4950033",
+        "pref_kana": "ｱｲﾁｹﾝ",
+        "address1_kana": "ｲﾅｻﾞﾜｼ",
+        "address2_kana": "ｿﾌﾞｴﾁｮｳﾖﾂﾉｷ",
+        "pref": "愛知県",
+        "address1": "稲沢市",
+        "address2": "祖父江町四貫",
+        "is_multi_code": "0",
+        "is_koaza": "1",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

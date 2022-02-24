@@ -1,0 +1,19 @@
+[
+    {
+        "code": "23217",
+        "postal_old": "483  ",
+        "postal_new": "4838077",
+        "pref_kana": "ｱｲﾁｹﾝ",
+        "address1_kana": "ｺｳﾅﾝｼ",
+        "address2_kana": "ｸｻｲﾁｮｳ(ﾐﾅﾐ､ｻｶｷﾄﾞ､ﾁﾖﾐ)",
+        "pref": "愛知県",
+        "address1": "江南市",
+        "address2": "草井町（南、榊戸、千代見）",
+        "is_multi_code": "0",
+        "is_koaza": "1",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

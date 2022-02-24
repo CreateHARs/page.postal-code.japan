@@ -1,0 +1,19 @@
+[
+    {
+        "code": "06402",
+        "postal_old": "99207",
+        "postal_new": "9920775",
+        "pref_kana": "ﾔﾏｶﾞﾀｹﾝ",
+        "address1_kana": "ﾆｼｵｷﾀﾏｸﾞﾝｼﾗﾀｶﾏﾁ",
+        "address2_kana": "ｸﾛｶﾞﾓ",
+        "pref": "山形県",
+        "address1": "西置賜郡白鷹町",
+        "address2": "黒鴨",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

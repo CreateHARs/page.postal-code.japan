@@ -1,0 +1,19 @@
+[
+    {
+        "code": "26211",
+        "postal_old": "61003",
+        "postal_new": "6100356",
+        "pref_kana": "ｷｮｳﾄﾌ",
+        "address1_kana": "ｷｮｳﾀﾅﾍﾞｼ",
+        "address2_kana": "ﾔﾏﾃﾁｭｳｵｳ",
+        "pref": "京都府",
+        "address1": "京田辺市",
+        "address2": "山手中央",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

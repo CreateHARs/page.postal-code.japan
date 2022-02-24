@@ -1,0 +1,19 @@
+[
+    {
+        "code": "25203",
+        "postal_old": "526  ",
+        "postal_new": "5260002",
+        "pref_kana": "ｼｶﾞｹﾝ",
+        "address1_kana": "ﾅｶﾞﾊﾏｼ",
+        "address2_kana": "ﾎｳﾃﾞﾁｮｳ",
+        "pref": "滋賀県",
+        "address1": "長浜市",
+        "address2": "保田町",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

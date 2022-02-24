@@ -1,0 +1,19 @@
+[
+    {
+        "code": "10521",
+        "postal_old": "37401",
+        "postal_new": "3740121",
+        "pref_kana": "ｸﾞﾝﾏｹﾝ",
+        "address1_kana": "ｵｳﾗｸﾞﾝｲﾀｸﾗﾏﾁ",
+        "address2_kana": "ｼﾓｺﾞｶ",
+        "pref": "群馬県",
+        "address1": "邑楽郡板倉町",
+        "address2": "下五箇",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

@@ -1,0 +1,19 @@
+[
+    {
+        "code": "20383",
+        "postal_old": "39946",
+        "postal_new": "3994605",
+        "pref_kana": "ﾅｶﾞﾉｹﾝ",
+        "address1_kana": "ｶﾐｲﾅｸﾞﾝﾐﾉﾜﾏﾁ",
+        "address2_kana": "ﾅｶｿﾞﾈ",
+        "pref": "長野県",
+        "address1": "上伊那郡箕輪町",
+        "address2": "中曽根",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

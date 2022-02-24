@@ -1,0 +1,19 @@
+[
+    {
+        "code": "37341",
+        "postal_old": "76923",
+        "postal_new": "7610823",
+        "pref_kana": "ｶｶﾞﾜｹﾝ",
+        "address1_kana": "ｷﾀｸﾞﾝﾐｷﾁｮｳ",
+        "address2_kana": "ｲﾄﾞ",
+        "pref": "香川県",
+        "address1": "木田郡三木町",
+        "address2": "井戸",
+        "is_multi_code": "1",
+        "is_koaza": "1",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

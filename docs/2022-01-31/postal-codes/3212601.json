@@ -1,0 +1,19 @@
+[
+    {
+        "code": "09206",
+        "postal_old": "32126",
+        "postal_new": "3212601",
+        "pref_kana": "ﾄﾁｷﾞｹﾝ",
+        "address1_kana": "ﾆｯｺｳｼ",
+        "address2_kana": "ﾕﾆｼｶﾜ",
+        "pref": "栃木県",
+        "address1": "日光市",
+        "address2": "湯西川",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

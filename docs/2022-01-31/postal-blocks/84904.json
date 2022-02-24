@@ -1,0 +1,53 @@
+[
+    {
+        "code": "41425",
+        "postal_old": "84904",
+        "postal_new": "8490401",
+        "pref_kana": "ｻｶﾞｹﾝ",
+        "address1_kana": "ｷｼﾏｸﾞﾝｼﾛｲｼﾁｮｳ",
+        "address2_kana": "ﾌｸﾄﾞﾐ",
+        "pref": "佐賀県",
+        "address1": "杵島郡白石町",
+        "address2": "福富",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    },
+    {
+        "code": "41425",
+        "postal_old": "84904",
+        "postal_new": "8490402",
+        "pref_kana": "ｻｶﾞｹﾝ",
+        "address1_kana": "ｷｼﾏｸﾞﾝｼﾛｲｼﾁｮｳ",
+        "address2_kana": "ﾌｸﾄﾞﾐｼﾓﾌﾞﾝ",
+        "pref": "佐賀県",
+        "address1": "杵島郡白石町",
+        "address2": "福富下分",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    },
+    {
+        "code": "41425",
+        "postal_old": "84904",
+        "postal_new": "8490403",
+        "pref_kana": "ｻｶﾞｹﾝ",
+        "address1_kana": "ｷｼﾏｸﾞﾝｼﾛｲｼﾁｮｳ",
+        "address2_kana": "ﾊﾁﾍｲ",
+        "pref": "佐賀県",
+        "address1": "杵島郡白石町",
+        "address2": "八平",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

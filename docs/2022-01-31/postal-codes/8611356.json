@@ -1,0 +1,19 @@
+[
+    {
+        "code": "43210",
+        "postal_old": "86113",
+        "postal_new": "8611356",
+        "pref_kana": "ｸﾏﾓﾄｹﾝ",
+        "address1_kana": "ｷｸﾁｼ",
+        "address2_kana": "ｼﾁｼﾞｮｳﾏﾁｶｴ",
+        "pref": "熊本県",
+        "address1": "菊池市",
+        "address2": "七城町加恵",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

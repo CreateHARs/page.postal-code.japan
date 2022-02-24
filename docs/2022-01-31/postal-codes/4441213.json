@@ -1,0 +1,19 @@
+[
+    {
+        "code": "23212",
+        "postal_old": "44412",
+        "postal_new": "4441213",
+        "pref_kana": "ｱｲﾁｹﾝ",
+        "address1_kana": "ｱﾝｼﾞｮｳｼ",
+        "address2_kana": "ﾋｶﾞｼﾊﾞﾀﾁｮｳ",
+        "pref": "愛知県",
+        "address1": "安城市",
+        "address2": "東端町",
+        "is_multi_code": "0",
+        "is_koaza": "1",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

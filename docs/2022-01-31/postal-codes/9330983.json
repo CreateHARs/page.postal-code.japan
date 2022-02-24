@@ -1,0 +1,36 @@
+[
+    {
+        "code": "16202",
+        "postal_old": "933  ",
+        "postal_new": "9330983",
+        "pref_kana": "ﾄﾔﾏｹﾝ",
+        "address1_kana": "ﾀｶｵｶｼ",
+        "address2_kana": "ｼｭｺﾞﾏﾁ",
+        "pref": "富山県",
+        "address1": "高岡市",
+        "address2": "守護町",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "1",
+        "is_multi_place": "1",
+        "is_updated": "0",
+        "update_reason": "0"
+    },
+    {
+        "code": "16202",
+        "postal_old": "933  ",
+        "postal_new": "9330983",
+        "pref_kana": "ﾄﾔﾏｹﾝ",
+        "address1_kana": "ﾀｶｵｶｼ",
+        "address2_kana": "ｼｭｺﾞﾏﾁｼﾝ",
+        "pref": "富山県",
+        "address1": "高岡市",
+        "address2": "守護町新",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "1",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

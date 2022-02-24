@@ -1,0 +1,19 @@
+[
+    {
+        "code": "06366",
+        "postal_old": "99952",
+        "postal_new": "9995202",
+        "pref_kana": "ﾔﾏｶﾞﾀｹﾝ",
+        "address1_kana": "ﾓｶﾞﾐｸﾞﾝｻｹｶﾞﾜﾑﾗ",
+        "address2_kana": "ｻﾄﾞ",
+        "pref": "山形県",
+        "address1": "最上郡鮭川村",
+        "address2": "佐渡",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

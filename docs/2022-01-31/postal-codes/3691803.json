@@ -1,0 +1,19 @@
+[
+    {
+        "code": "11207",
+        "postal_old": "36918",
+        "postal_new": "3691803",
+        "pref_kana": "ｻｲﾀﾏｹﾝ",
+        "address1_kana": "ﾁﾁﾌﾞｼ",
+        "address2_kana": "ｱﾗｶﾜﾋﾉ",
+        "pref": "埼玉県",
+        "address1": "秩父市",
+        "address2": "荒川日野",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

@@ -1,0 +1,19 @@
+[
+    {
+        "code": "01214",
+        "postal_old": "09867",
+        "postal_new": "0986758",
+        "pref_kana": "ﾎｯｶｲﾄﾞｳ",
+        "address1_kana": "ﾜｯｶﾅｲｼ",
+        "address2_kana": "ｿｳﾔﾐｻｷ",
+        "pref": "北海道",
+        "address1": "稚内市",
+        "address2": "宗谷岬",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

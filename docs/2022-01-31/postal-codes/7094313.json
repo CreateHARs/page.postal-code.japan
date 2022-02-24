@@ -1,0 +1,19 @@
+[
+    {
+        "code": "33622",
+        "postal_old": "70943",
+        "postal_new": "7094313",
+        "pref_kana": "ｵｶﾔﾏｹﾝ",
+        "address1_kana": "ｶﾂﾀｸﾞﾝｼｮｳｵｳﾁｮｳ",
+        "address2_kana": "ｵﾔﾀ",
+        "pref": "岡山県",
+        "address1": "勝田郡勝央町",
+        "address2": "小矢田",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

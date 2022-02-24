@@ -1,0 +1,19 @@
+[
+    {
+        "code": "19364",
+        "postal_old": "40927",
+        "postal_new": "4092734",
+        "pref_kana": "ﾔﾏﾅｼｹﾝ",
+        "address1_kana": "ﾐﾅﾐｺﾏｸﾞﾝﾊﾔｶﾜﾁｮｳ",
+        "address2_kana": "ｱﾒﾊﾀ",
+        "pref": "山梨県",
+        "address1": "南巨摩郡早川町",
+        "address2": "雨畑",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

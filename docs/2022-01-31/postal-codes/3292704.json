@@ -1,0 +1,19 @@
+[
+    {
+        "code": "09213",
+        "postal_old": "32927",
+        "postal_new": "3292704",
+        "pref_kana": "ﾄﾁｷﾞｹﾝ",
+        "address1_kana": "ﾅｽｼｵﾊﾞﾗｼ",
+        "address2_kana": "ｼﾝﾅﾝ",
+        "pref": "栃木県",
+        "address1": "那須塩原市",
+        "address2": "新南",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

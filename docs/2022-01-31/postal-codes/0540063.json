@@ -1,0 +1,19 @@
+[
+    {
+        "code": "01586",
+        "postal_old": "054  ",
+        "postal_new": "0540063",
+        "pref_kana": "ﾎｯｶｲﾄﾞｳ",
+        "address1_kana": "ﾕｳﾌﾂｸﾞﾝﾑｶﾜﾁｮｳ",
+        "address2_kana": "ｺﾏﾊﾞ",
+        "pref": "北海道",
+        "address1": "勇払郡むかわ町",
+        "address2": "駒場",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

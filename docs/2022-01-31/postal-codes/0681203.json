@@ -1,0 +1,19 @@
+[
+    {
+        "code": "01210",
+        "postal_old": "06812",
+        "postal_new": "0681203",
+        "pref_kana": "ﾎｯｶｲﾄﾞｳ",
+        "address1_kana": "ｲﾜﾐｻﾞﾜｼ",
+        "address2_kana": "ｷﾀﾑﾗｵｵﾈｶﾞｲ",
+        "pref": "北海道",
+        "address1": "岩見沢市",
+        "address2": "北村大願",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

@@ -1,0 +1,19 @@
+[
+    {
+        "code": "03211",
+        "postal_old": "026  ",
+        "postal_new": "0260044",
+        "pref_kana": "ｲﾜﾃｹﾝ",
+        "address1_kana": "ｶﾏｲｼｼ",
+        "address2_kana": "ｽﾐﾖｼﾁｮｳ",
+        "pref": "岩手県",
+        "address1": "釜石市",
+        "address2": "住吉町",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

@@ -1,0 +1,19 @@
+[
+    {
+        "code": "13102",
+        "postal_old": "103  ",
+        "postal_new": "1036018",
+        "pref_kana": "ﾄｳｷｮｳﾄ",
+        "address1_kana": "ﾁｭｳｵｳｸ",
+        "address2_kana": "ﾆﾎﾝﾊﾞｼﾄｳｷｮｳﾆﾎﾝﾊﾞｼﾀﾜｰ(18ｶｲ)",
+        "pref": "東京都",
+        "address1": "中央区",
+        "address2": "日本橋東京日本橋タワー（１８階）",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]

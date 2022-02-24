@@ -1,0 +1,19 @@
+[
+    {
+        "code": "16205",
+        "postal_old": "93502",
+        "postal_new": "9350277",
+        "pref_kana": "ﾄﾔﾏｹﾝ",
+        "address1_kana": "ﾋﾐｼ",
+        "address2_kana": "ﾀﾅｶﾞｹ",
+        "pref": "富山県",
+        "address1": "氷見市",
+        "address2": "棚懸",
+        "is_multi_code": "0",
+        "is_koaza": "0",
+        "is_choume": "0",
+        "is_multi_place": "0",
+        "is_updated": "0",
+        "update_reason": "0"
+    }
+]
