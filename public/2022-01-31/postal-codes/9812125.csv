@@ -1,0 +1,3 @@
+code,postal_old,postal_new,pref_kana,address1_kana,address2_kana,pref,address1,address2,is_multi_code,is_koaza,is_choume,is_multi_place,is_updated,update_reason
+04341,98121,9812125,ﾐﾔｷﾞｹﾝ,ｲｸﾞｸﾞﾝﾏﾙﾓﾘﾏﾁ,ﾌｶﾀﾞｶﾐ,宮城県,伊具郡丸森町,深田上,0,0,0,1,0,0
+04341,98121,9812125,ﾐﾔｷﾞｹﾝ,ｲｸﾞｸﾞﾝﾏﾙﾓﾘﾏﾁ,ﾌｶﾀﾞｼﾓ,宮城県,伊具郡丸森町,深田下,0,0,0,1,0,0

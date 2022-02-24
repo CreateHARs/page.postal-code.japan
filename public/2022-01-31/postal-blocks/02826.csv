@@ -1,0 +1,4 @@
+code,postal_old,postal_new,pref_kana,address1_kana,address2_kana,pref,address1,address2,is_multi_code,is_koaza,is_choume,is_multi_place,is_updated,update_reason
+03202,02826,0282631,ｲﾜﾃｹﾝ,ﾐﾔｺｼ,ｸｻﾞｶｲ,岩手県,宮古市,区界,0,1,0,0,0,0
+03202,02826,0282632,ｲﾜﾃｹﾝ,ﾐﾔｺｼ,ｶﾄﾞﾏ,岩手県,宮古市,門馬,0,1,0,0,0,0
+03202,02826,0282633,ｲﾜﾃｹﾝ,ﾐﾔｺｼ,ﾋﾗﾂﾄ,岩手県,宮古市,平津戸,0,1,0,0,0,0
