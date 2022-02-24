@@ -1,0 +1,6 @@
+local_government_code,postal_code_5digit,postal_code_7digit,prefecture_kana,address1_kana,address2_kana,prefecture_kanji,address1_kanji,address2_kanji,is_address2_has_multiple_postal_code,is_address2_has_multiple_sublocality,is_address2_includes_chome,is_postal_code_has_multiple_address2,updated_type,updated_reason_type
+02210,03601,0360153,ｱｵﾓﾘｹﾝ,ﾋﾗｶﾜｼ,ｺｽｷﾞｲﾅﾑﾗ,青森県,平川市,小杉稲村,0,1,0,1,0,0
+02210,03601,0360153,ｱｵﾓﾘｹﾝ,ﾋﾗｶﾜｼ,ｺｽｷﾞｵｳｷﾞﾀﾞ,青森県,平川市,小杉扇田,0,1,0,1,0,0
+02210,03601,0360153,ｱｵﾓﾘｹﾝ,ﾋﾗｶﾜｼ,ｺｽｷﾞｶﾜｻｷ,青森県,平川市,小杉川崎,0,1,0,1,0,0
+02210,03601,0360153,ｱｵﾓﾘｹﾝ,ﾋﾗｶﾜｼ,ｺｽｷﾞﾀｹｳﾁ,青森県,平川市,小杉竹内,0,1,0,1,0,0
+02210,03601,0360153,ｱｵﾓﾘｹﾝ,ﾋﾗｶﾜｼ,ｺｽｷﾞﾆｼﾀ,青森県,平川市,小杉西田,0,1,0,1,0,0

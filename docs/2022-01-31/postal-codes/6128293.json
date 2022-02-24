@@ -1,0 +1,19 @@
+[
+    {
+        "local_government_code": "26109",
+        "postal_code_5digit": "612  ",
+        "postal_code_7digit": "6128293",
+        "prefecture_kana": "ｷｮｳﾄﾌ",
+        "address1_kana": "ｷｮｳﾄｼﾌｼﾐｸ",
+        "address2_kana": "ﾖｺｵｵｼﾞﾊｼﾓﾄ",
+        "prefecture_kanji": "京都府",
+        "address1_kanji": "京都市伏見区",
+        "address2_kanji": "横大路橋本",
+        "is_address2_has_multiple_postal_code": "0",
+        "is_address2_has_multiple_sublocality": "0",
+        "is_address2_includes_chome": "0",
+        "is_postal_code_has_multiple_address2": "0",
+        "updated_type": "0",
+        "updated_reason_type": "0"
+    }
+]

@@ -1,0 +1,19 @@
+[
+    {
+        "local_government_code": "40225",
+        "postal_code_5digit": "83913",
+        "postal_code_7digit": "8391305",
+        "prefecture_kana": "ﾌｸｵｶｹﾝ",
+        "address1_kana": "ｳｷﾊｼ",
+        "address2_kana": "ﾖｼｲﾏﾁﾌｸﾅｶﾞ",
+        "prefecture_kanji": "福岡県",
+        "address1_kanji": "うきは市",
+        "address2_kanji": "吉井町福永",
+        "is_address2_has_multiple_postal_code": "0",
+        "is_address2_has_multiple_sublocality": "0",
+        "is_address2_includes_chome": "0",
+        "is_postal_code_has_multiple_address2": "0",
+        "updated_type": "0",
+        "updated_reason_type": "0"
+    }
+]

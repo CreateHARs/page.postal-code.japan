@@ -1,0 +1,4 @@
+local_government_code,postal_code_5digit,postal_code_7digit,prefecture_kana,address1_kana,address2_kana,prefecture_kanji,address1_kanji,address2_kanji,is_address2_has_multiple_postal_code,is_address2_has_multiple_sublocality,is_address2_includes_chome,is_postal_code_has_multiple_address2,updated_type,updated_reason_type
+13401,10016,1001621,ﾄｳｷｮｳﾄ,ﾊﾁｼﾞｮｳｼﾞﾏﾊﾁｼﾞｮｳﾏﾁ,ｶｼﾀﾃ,東京都,八丈島八丈町,樫立,0,0,0,0,0,0
+13401,10016,1001622,ﾄｳｷｮｳﾄ,ﾊﾁｼﾞｮｳｼﾞﾏﾊﾁｼﾞｮｳﾏﾁ,ｽｴﾖｼ,東京都,八丈島八丈町,末吉,0,0,0,0,0,0
+13401,10016,1001623,ﾄｳｷｮｳﾄ,ﾊﾁｼﾞｮｳｼﾞﾏﾊﾁｼﾞｮｳﾏﾁ,ﾅｶﾉｺﾞｳ,東京都,八丈島八丈町,中之郷,0,0,0,0,0,0

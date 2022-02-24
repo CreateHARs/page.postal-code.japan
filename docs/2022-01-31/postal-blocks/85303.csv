@@ -1,0 +1,4 @@
+local_government_code,postal_code_5digit,postal_code_7digit,prefecture_kana,address1_kana,address2_kana,prefecture_kanji,address1_kanji,address2_kanji,is_address2_has_multiple_postal_code,is_address2_has_multiple_sublocality,is_address2_includes_chome,is_postal_code_has_multiple_address2,updated_type,updated_reason_type
+42211,85303,8530311,ﾅｶﾞｻｷｹﾝ,ｺﾞﾄｳｼ,ｷｼｸﾏﾁﾆﾎﾝｸﾞｽ,長崎県,五島市,岐宿町二本楠,0,0,0,0,0,0
+42211,85303,8530312,ﾅｶﾞｻｷｹﾝ,ｺﾞﾄｳｼ,ｷｼｸﾏﾁﾅｶﾀﾞｹ,長崎県,五島市,岐宿町中嶽,0,0,0,0,0,0
+42211,85303,8530313,ﾅｶﾞｻｷｹﾝ,ｺﾞﾄｳｼ,ｷｼｸﾏﾁﾏﾂﾔﾏ,長崎県,五島市,岐宿町松山,0,0,0,0,0,0
