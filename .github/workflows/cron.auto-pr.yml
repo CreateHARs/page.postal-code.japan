@@ -1,0 +1,61 @@
+name: "[cron] auto create PR"
+
+on:
+  schedule:
+    - cron: '0 * * * *'
+  workflow_dispatch:
+
+jobs:
+  main:
+    name    : run main
+    runs-on : ubuntu-latest
+    timeout-minutes : 60
+    steps   :
+
+      - name  : Checkout repository
+        uses  : actions/checkout@v2
+
+      - name  : Setup Config
+        env   :
+          TZ    : 'Asia/Tokyo'
+        run   : |
+          echo "CURRENT_DATETIME=$(date +'%Y-%m-%d_%H-%M-%S')" >> $GITHUB_ENV
+          git config --local user.name  github-actions
+          git config --local user.email github-actions@github.com
+
+      - name  : Setup Python
+        uses  : actions/setup-python@v2
+        with  :
+          python-version : '2.7.18'
+          architecture   : 'x64'
+
+      - name  : Run Python
+        id    : step-python
+        run   : |
+          cd scripts/python
+          python -V
+          pip install -r requirements.txt
+          python src/main.py
+
+          git add -N .
+          git_diff_count=`git diff --name-only | wc -l`
+          echo "git_diff_count: ${git_diff_count}"
+          echo "::set-output name=git-diff-count::${git_diff_count}"
+
+      - name  : Create New Branch/PR
+        if    : steps.step-python.outputs.git-diff-count > 0
+        env   :
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run   : |
+          echo ${{ steps.step-python.outputs.git-diff-count }}
+          release_branch="actions/cron_auto-pr_${{ env.CURRENT_DATETIME }}"
+          git switch -c      ${release_branch}
+          git push -u origin ${release_branch}
+          echo `git branch --contains`
+
+          git add .
+          git commit -m "auto updated."
+          git push
+
+          hub pull-request --base main --head ${release_branch} -m "[release] ${{ env.CURRENT_DATETIME }}"
+
