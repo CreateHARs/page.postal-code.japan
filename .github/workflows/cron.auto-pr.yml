@@ -66,5 +66,9 @@ jobs:
           git push
 
           #  hub pull-request --base main --head ${release_branch} -m "[release] ${{ env.CURRENT_DATETIME }}"
-          gh pr create --base main --title "[release] ${{ env.CURRENT_DATETIME }}" 
+          gh pr create \
+            --base main \
+            --head ${release_branch} \
+            --title "[release] ${{ env.CURRENT_DATETIME }}" \
+            --body "fill to skip prompt for command 'gh pr create'."
 
