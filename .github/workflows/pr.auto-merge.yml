@@ -17,6 +17,8 @@ jobs:
 
       - name  : "[STEP] Checkout repository"
         uses  : actions/checkout@v2
+        with  :
+          token : ${{ secrets.ACTIONS_CHAIN_FLOW_PAT }}
 
       - name  : "[STEP] Setup Config"
         env   :
