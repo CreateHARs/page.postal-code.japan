@@ -1,0 +1,4 @@
+code,postal_old,postal_new,pref_kana,address1_kana,address2_kana,pref,address1,address2,is_multi_code,is_koaza,is_choume,is_multi_place,is_updated,update_reason
+26210,613  ,6130851,ｷｮｳﾄﾌ,ﾔﾜﾀｼ,ｶﾜｸﾞﾁﾀｶﾊﾗ,京都府,八幡市,川口高原,0,0,0,0,0,0
+26210,613  ,6130852,ｷｮｳﾄﾌ,ﾔﾜﾀｼ,ﾔﾜﾀﾋﾉｸﾁ,京都府,八幡市,八幡樋ノ口,0,0,0,0,0,0
+26210,613  ,6130853,ｷｮｳﾄﾌ,ﾔﾜﾀｼ,ﾔﾜﾀﾅｶﾞﾏﾁ,京都府,八幡市,八幡長町,0,0,0,0,0,0

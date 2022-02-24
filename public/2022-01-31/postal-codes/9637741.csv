@@ -1,0 +1,4 @@
+code,postal_old,postal_new,pref_kana,address1_kana,address2_kana,pref,address1,address2,is_multi_code,is_koaza,is_choume,is_multi_place,is_updated,update_reason
+07521,96377,9637741,ﾌｸｼﾏｹﾝ,ﾀﾑﾗｸﾞﾝﾐﾊﾙﾏﾁ,ｶﾏﾀﾏｴ,福島県,田村郡三春町,鎌田前,0,0,0,1,0,0
+07521,96377,9637741,ﾌｸｼﾏｹﾝ,ﾀﾑﾗｸﾞﾝﾐﾊﾙﾏﾁ,ﾃﾝﾉｳﾏｴ,福島県,田村郡三春町,天王前,0,0,0,1,0,0
+07521,96377,9637741,ﾌｸｼﾏｹﾝ,ﾀﾑﾗｸﾞﾝﾐﾊﾙﾏﾁ,ﾔｼﾏﾀﾞｲ,福島県,田村郡三春町,八島台,0,0,1,1,0,0

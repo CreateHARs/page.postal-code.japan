@@ -1,0 +1,4 @@
+code,postal_old,postal_new,pref_kana,address1_kana,address2_kana,pref,address1,address2,is_multi_code,is_koaza,is_choume,is_multi_place,is_updated,update_reason
+16210,93918,9391835,ﾄﾔﾏｹﾝ,ﾅﾝﾄｼ,ｷｮｳﾂﾞｶ,富山県,南砺市,京塚,0,0,0,1,0,0
+16210,93918,9391835,ﾄﾔﾏｹﾝ,ﾅﾝﾄｼ,ﾀﾃﾉﾊﾗﾋｶﾞｼ,富山県,南砺市,立野原東,0,0,0,1,0,0
+16210,93918,9391835,ﾄﾔﾏｹﾝ,ﾅﾝﾄｼ,ﾐﾅﾐﾊﾗ,富山県,南砺市,南原,0,0,0,1,0,0

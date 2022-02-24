@@ -1,0 +1,4 @@
+code,postal_old,postal_new,pref_kana,address1_kana,address2_kana,pref,address1,address2,is_multi_code,is_koaza,is_choume,is_multi_place,is_updated,update_reason
+35203,753  ,7530084,ﾔﾏｸﾞﾁｹﾝ,ﾔﾏｸﾞﾁｼ,ｸﾎﾞｼｮｳｼﾞ,山口県,山口市,久保小路,0,0,0,1,0,0
+35203,753  ,7530084,ﾔﾏｸﾞﾁｹﾝ,ﾔﾏｸﾞﾁｼ,ｼｮｶﾞﾝｼｮｳｼﾞ,山口県,山口市,諸願小路,0,0,0,1,0,0
+35203,753  ,7530084,ﾔﾏｸﾞﾁｹﾝ,ﾔﾏｸﾞﾁｼ,ｾﾝﾄｳｼｮｳｼﾞ,山口県,山口市,銭湯小路,0,0,0,1,0,0

@@ -1,0 +1,4 @@
+code,postal_old,postal_new,pref_kana,address1_kana,address2_kana,pref,address1,address2,is_multi_code,is_koaza,is_choume,is_multi_place,is_updated,update_reason
+18481,91922,9192216,ﾌｸｲｹﾝ,ｵｵｲｸﾞﾝﾀｶﾊﾏﾁｮｳ,ｶｻﾊﾗ,福井県,大飯郡高浜町,笠原,0,0,0,1,0,0
+18481,91922,9192216,ﾌｸｲｹﾝ,ｵｵｲｸﾞﾝﾀｶﾊﾏﾁｮｳ,ｺﾋﾞ,福井県,大飯郡高浜町,子生,0,0,0,1,0,0
+18481,91922,9192216,ﾌｸｲｹﾝ,ｵｵｲｸﾞﾝﾀｶﾊﾏﾁｮｳ,ｻｶﾀ,福井県,大飯郡高浜町,坂田,0,0,0,1,0,0
