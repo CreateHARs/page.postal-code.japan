@@ -41,7 +41,8 @@ jobs:
           pip install -r requirements.txt
           python -B src/main.py
 
-          git add -N .
+          # git add -N .
+          git add .
           git_diff_count=`git diff --name-only | wc -l`
           echo "git_diff_count: ${git_diff_count}"
           echo "::set-output name=git-diff-count::${git_diff_count}"
