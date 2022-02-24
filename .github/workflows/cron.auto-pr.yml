@@ -23,8 +23,9 @@ jobs:
           TZ    : 'Asia/Tokyo'
         run   : |
           echo "CURRENT_DATETIME=$(date +'%Y-%m-%d_%H-%M-%S')" >> $GITHUB_ENV
-          # git config --local user.name  github-actions
-          # git config --local user.email github-actions@github.com
+          echo "setup a user for commit/push."
+          git config --local user.name  github-actions
+          git config --local user.email github-actions@github.com
 
       - name  : Setup Python
         uses  : actions/setup-python@v2
