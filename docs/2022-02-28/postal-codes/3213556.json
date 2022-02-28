@@ -1,0 +1,19 @@
+[
+    {
+        "local_government_code": "09343",
+        "postal_code_5digit": "32135",
+        "postal_code_7digit": "3213556",
+        "prefecture_kana": "ﾄﾁｷﾞｹﾝ",
+        "address1_kana": "ﾊｶﾞｸﾞﾝﾓﾃｷﾞﾏﾁ",
+        "address2_kana": "ﾏﾁﾀﾞ",
+        "prefecture_kanji": "栃木県",
+        "address1_kanji": "芳賀郡茂木町",
+        "address2_kanji": "町田",
+        "is_address2_has_multiple_postal_code": "0",
+        "is_address2_has_multiple_sublocality": "0",
+        "is_address2_includes_chome": "0",
+        "is_postal_code_has_multiple_address2": "0",
+        "updated_type": "0",
+        "updated_reason_type": "0"
+    }
+]

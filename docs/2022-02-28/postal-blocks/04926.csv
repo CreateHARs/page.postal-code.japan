@@ -1,0 +1,6 @@
+local_government_code,postal_code_5digit,postal_code_7digit,prefecture_kana,address1_kana,address2_kana,prefecture_kanji,address1_kanji,address2_kanji,is_address2_has_multiple_postal_code,is_address2_has_multiple_sublocality,is_address2_includes_chome,is_postal_code_has_multiple_address2,updated_type,updated_reason_type
+01346,04926,0492671,ﾎｯｶｲﾄﾞｳ,ﾌﾀﾐｸﾞﾝﾔｸﾓﾁｮｳ,ﾔﾏｺｼ,北海道,二海郡八雲町,山越,0,0,0,0,0,0
+01346,04926,0492672,ﾎｯｶｲﾄﾞｳ,ﾌﾀﾐｸﾞﾝﾔｸﾓﾁｮｳ,ﾉﾀﾞｵｲ,北海道,二海郡八雲町,野田生,0,0,0,0,0,0
+01346,04926,0492673,ﾎｯｶｲﾄﾞｳ,ﾌﾀﾐｸﾞﾝﾔｸﾓﾁｮｳ,ﾋｶﾞｼﾉ,北海道,二海郡八雲町,東野,0,0,0,0,0,0
+01346,04926,0492674,ﾎｯｶｲﾄﾞｳ,ﾌﾀﾐｸﾞﾝﾔｸﾓﾁｮｳ,ﾜﾗﾋﾞﾉ,北海道,二海郡八雲町,わらび野,0,0,0,0,0,0
+01346,04926,0492675,ﾎｯｶｲﾄﾞｳ,ﾌﾀﾐｸﾞﾝﾔｸﾓﾁｮｳ,ｻｸﾗﾉ,北海道,二海郡八雲町,桜野,0,0,0,0,0,0

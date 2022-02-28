@@ -1,0 +1,19 @@
+[
+    {
+        "local_government_code": "39386",
+        "postal_code_5digit": "78125",
+        "postal_code_7digit": "7812512",
+        "prefecture_kana": "ｺｳﾁｹﾝ",
+        "address1_kana": "ｱｶﾞﾜｸﾞﾝｲﾉﾁｮｳ",
+        "address2_kana": "ｷﾖﾐｽﾞｼﾓﾌﾞﾝ(ﾊﾞﾛｳ､ｵｵﾉ､ｶﾜｸﾞﾁ､ﾋﾋﾞﾊﾗ､ﾏｷｶﾞﾜ､ﾏﾂﾉｷ)",
+        "prefecture_kanji": "高知県",
+        "address1_kanji": "吾川郡いの町",
+        "address2_kanji": "清水下分（馬路、大野、川口、日比原、槇川、松ノ木）",
+        "is_address2_has_multiple_postal_code": "0",
+        "is_address2_has_multiple_sublocality": "0",
+        "is_address2_includes_chome": "0",
+        "is_postal_code_has_multiple_address2": "0",
+        "updated_type": "0",
+        "updated_reason_type": "0"
+    }
+]

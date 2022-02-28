@@ -1,0 +1,2 @@
+local_government_code,postal_code_5digit,postal_code_7digit,prefecture_kana,address1_kana,address2_kana,prefecture_kanji,address1_kanji,address2_kanji,is_address2_has_multiple_postal_code,is_address2_has_multiple_sublocality,is_address2_includes_chome,is_postal_code_has_multiple_address2,updated_type,updated_reason_type
+19209,40803,4080302,ﾔﾏﾅｼｹﾝ,ﾎｸﾄｼ,ﾑｶﾜﾁｮｳﾏｷﾞﾉﾊﾗ,山梨県,北杜市,武川町牧原,0,0,0,0,0,0

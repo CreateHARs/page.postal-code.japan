@@ -1,0 +1,8 @@
+local_government_code,postal_code_5digit,postal_code_7digit,prefecture_kana,address1_kana,address2_kana,prefecture_kanji,address1_kanji,address2_kanji,is_address2_has_multiple_postal_code,is_address2_has_multiple_sublocality,is_address2_includes_chome,is_postal_code_has_multiple_address2,updated_type,updated_reason_type
+34462,72933,7293301,ﾋﾛｼﾏｹﾝ,ｾﾗｸﾞﾝｾﾗﾁｮｳ,ｵﾀﾆ,広島県,世羅郡世羅町,小谷,0,0,0,0,0,0
+34462,72933,7293302,ﾋﾛｼﾏｹﾝ,ｾﾗｸﾞﾝｾﾗﾁｮｳ,ｶﾜｼﾘ,広島県,世羅郡世羅町,川尻,0,0,0,0,0,0
+34462,72933,7293303,ﾋﾛｼﾏｹﾝ,ｾﾗｸﾞﾝｾﾗﾁｮｳ,ﾋｶﾞｼｳｴﾊﾗ,広島県,世羅郡世羅町,東上原,0,0,0,0,0,0
+34462,72933,7293304,ﾋﾛｼﾏｹﾝ,ｾﾗｸﾞﾝｾﾗﾁｮｳ,ｱｶﾔ,広島県,世羅郡世羅町,赤屋,0,0,0,0,0,0
+34462,72933,7293305,ﾋﾛｼﾏｹﾝ,ｾﾗｸﾞﾝｾﾗﾁｮｳ,ﾍﾞｯｻｺ,広島県,世羅郡世羅町,別迫,0,0,0,0,0,0
+34462,72933,7293306,ﾋﾛｼﾏｹﾝ,ｾﾗｸﾞﾝｾﾗﾁｮｳ,ｱｵﾁｶ,広島県,世羅郡世羅町,青近,0,0,0,0,0,0
+34462,72933,7293307,ﾋﾛｼﾏｹﾝ,ｾﾗｸﾞﾝｾﾗﾁｮｳ,ｲｵ,広島県,世羅郡世羅町,伊尾,0,0,0,0,0,0

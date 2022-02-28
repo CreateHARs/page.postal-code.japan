@@ -1,0 +1,7 @@
+local_government_code,postal_code_5digit,postal_code_7digit,prefecture_kana,address1_kana,address2_kana,prefecture_kanji,address1_kanji,address2_kanji,is_address2_has_multiple_postal_code,is_address2_has_multiple_sublocality,is_address2_includes_chome,is_postal_code_has_multiple_address2,updated_type,updated_reason_type
+15210,94803,9480301,ﾆｲｶﾞﾀｹﾝ,ﾄｵｶﾏﾁｼ,ﾉｸﾞﾁ,新潟県,十日町市,野口,0,0,0,0,0,0
+15210,94803,9480302,ﾆｲｶﾞﾀｹﾝ,ﾄｵｶﾏﾁｼ,ﾆﾀ,新潟県,十日町市,仁田,0,0,0,0,0,0
+15210,94803,9480303,ﾆｲｶﾞﾀｹﾝ,ﾄｵｶﾏﾁｼ,ﾃﾗｶﾞｻｷ,新潟県,十日町市,寺ケ崎,0,0,0,0,0,0
+15210,94803,9480304,ﾆｲｶﾞﾀｹﾝ,ﾄｵｶﾏﾁｼ,ｷｵﾄｼ,新潟県,十日町市,木落,0,0,0,0,0,0
+15210,94803,9480305,ﾆｲｶﾞﾀｹﾝ,ﾄｵｶﾏﾁｼ,ｵｵｼﾞﾗｸﾗ,新潟県,十日町市,大白倉,0,0,0,0,0,0
+15210,94803,9480306,ﾆｲｶﾞﾀｹﾝ,ﾄｵｶﾏﾁｼ,ｺｼﾞﾗｸﾗ,新潟県,十日町市,小白倉,0,0,0,0,0,0

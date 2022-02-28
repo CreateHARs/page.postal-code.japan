@@ -1,0 +1,7 @@
+local_government_code,postal_code_5digit,postal_code_7digit,prefecture_kana,address1_kana,address2_kana,prefecture_kanji,address1_kanji,address2_kanji,is_address2_has_multiple_postal_code,is_address2_has_multiple_sublocality,is_address2_includes_chome,is_postal_code_has_multiple_address2,updated_type,updated_reason_type
+01208,09303,0930331,ﾎｯｶｲﾄﾞｳ,ｷﾀﾐｼ,ﾄｺﾛﾁｮｳﾄﾖｶﾜ,北海道,北見市,常呂町豊川,0,0,0,0,0,0
+01208,09303,0930332,ﾎｯｶｲﾄﾞｳ,ｷﾀﾐｼ,ﾄｺﾛﾁｮｳﾄﾐｵｶ,北海道,北見市,常呂町富丘,0,0,0,0,0,0
+01208,09303,0930333,ﾎｯｶｲﾄﾞｳ,ｷﾀﾐｼ,ﾄｺﾛﾁｮｳﾌｸﾔﾏ,北海道,北見市,常呂町福山,0,0,0,0,0,0
+01208,09303,0930334,ﾎｯｶｲﾄﾞｳ,ｷﾀﾐｼ,ﾄｺﾛﾁｮｳﾋﾖｼ,北海道,北見市,常呂町日吉,0,0,0,0,0,0
+01208,09303,0930335,ﾎｯｶｲﾄﾞｳ,ｷﾀﾐｼ,ﾄｺﾛﾁｮｳﾖｼﾉ,北海道,北見市,常呂町吉野,0,0,0,0,0,0
+01208,09303,0930336,ﾎｯｶｲﾄﾞｳ,ｷﾀﾐｼ,ﾄｺﾛﾁｮｳﾉﾎﾞﾘ,北海道,北見市,常呂町登,0,0,0,0,0,0

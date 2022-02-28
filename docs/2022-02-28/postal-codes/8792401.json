@@ -1,0 +1,19 @@
+[
+    {
+        "local_government_code": "44207",
+        "postal_code_5digit": "87924",
+        "postal_code_7digit": "8792401",
+        "prefecture_kana": "ｵｵｲﾀｹﾝ",
+        "address1_kana": "ﾂｸﾐｼ",
+        "address2_kana": "ﾁﾇ",
+        "prefecture_kanji": "大分県",
+        "address1_kanji": "津久見市",
+        "address2_kanji": "千怒",
+        "is_address2_has_multiple_postal_code": "0",
+        "is_address2_has_multiple_sublocality": "0",
+        "is_address2_includes_chome": "0",
+        "is_postal_code_has_multiple_address2": "0",
+        "updated_type": "0",
+        "updated_reason_type": "0"
+    }
+]

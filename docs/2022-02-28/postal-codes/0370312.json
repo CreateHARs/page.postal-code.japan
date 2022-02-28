@@ -1,0 +1,19 @@
+[
+    {
+        "local_government_code": "02387",
+        "postal_code_5digit": "03703",
+        "postal_code_7digit": "0370312",
+        "prefecture_kana": "ｱｵﾓﾘｹﾝ",
+        "address1_kana": "ｷﾀﾂｶﾞﾙｸﾞﾝﾅｶﾄﾞﾏﾘﾏﾁ",
+        "address2_kana": "ﾄﾖｼﾏ",
+        "prefecture_kanji": "青森県",
+        "address1_kanji": "北津軽郡中泊町",
+        "address2_kanji": "豊島",
+        "is_address2_has_multiple_postal_code": "0",
+        "is_address2_has_multiple_sublocality": "1",
+        "is_address2_includes_chome": "0",
+        "is_postal_code_has_multiple_address2": "0",
+        "updated_type": "0",
+        "updated_reason_type": "0"
+    }
+]

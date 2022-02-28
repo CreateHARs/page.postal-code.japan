@@ -1,0 +1,53 @@
+[
+    {
+        "local_government_code": "04341",
+        "postal_code_5digit": "98121",
+        "postal_code_7digit": "9812155",
+        "prefecture_kana": "ﾐﾔｷﾞｹﾝ",
+        "address1_kana": "ｲｸﾞｸﾞﾝﾏﾙﾓﾘﾏﾁ",
+        "address2_kana": "ｶﾀｷﾞｼ",
+        "prefecture_kanji": "宮城県",
+        "address1_kanji": "伊具郡丸森町",
+        "address2_kanji": "片岸",
+        "is_address2_has_multiple_postal_code": "0",
+        "is_address2_has_multiple_sublocality": "0",
+        "is_address2_includes_chome": "0",
+        "is_postal_code_has_multiple_address2": "1",
+        "updated_type": "0",
+        "updated_reason_type": "0"
+    },
+    {
+        "local_government_code": "04341",
+        "postal_code_5digit": "98121",
+        "postal_code_7digit": "9812155",
+        "prefecture_kana": "ﾐﾔｷﾞｹﾝ",
+        "address1_kana": "ｲｸﾞｸﾞﾝﾏﾙﾓﾘﾏﾁ",
+        "address2_kana": "ﾔﾏｻﾞｷ",
+        "prefecture_kanji": "宮城県",
+        "address1_kanji": "伊具郡丸森町",
+        "address2_kanji": "山崎",
+        "is_address2_has_multiple_postal_code": "0",
+        "is_address2_has_multiple_sublocality": "0",
+        "is_address2_includes_chome": "0",
+        "is_postal_code_has_multiple_address2": "1",
+        "updated_type": "0",
+        "updated_reason_type": "0"
+    },
+    {
+        "local_government_code": "04341",
+        "postal_code_5digit": "98121",
+        "postal_code_7digit": "9812155",
+        "prefecture_kana": "ﾐﾔｷﾞｹﾝ",
+        "address1_kana": "ｲｸﾞｸﾞﾝﾏﾙﾓﾘﾏﾁ",
+        "address2_kana": "ﾔﾏｻﾞｷﾏｴ",
+        "prefecture_kanji": "宮城県",
+        "address1_kanji": "伊具郡丸森町",
+        "address2_kanji": "山崎前",
+        "is_address2_has_multiple_postal_code": "0",
+        "is_address2_has_multiple_sublocality": "0",
+        "is_address2_includes_chome": "0",
+        "is_postal_code_has_multiple_address2": "1",
+        "updated_type": "0",
+        "updated_reason_type": "0"
+    }
+]

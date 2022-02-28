@@ -1,0 +1,53 @@
+[
+    {
+        "local_government_code": "15208",
+        "postal_code_5digit": "94701",
+        "postal_code_7digit": "9470101",
+        "prefecture_kana": "ﾆｲｶﾞﾀｹﾝ",
+        "address1_kana": "ｵﾁﾞﾔｼ",
+        "address2_kana": "ｶﾀｶｲﾏﾁ",
+        "prefecture_kanji": "新潟県",
+        "address1_kanji": "小千谷市",
+        "address2_kanji": "片貝町",
+        "is_address2_has_multiple_postal_code": "0",
+        "is_address2_has_multiple_sublocality": "0",
+        "is_address2_includes_chome": "0",
+        "is_postal_code_has_multiple_address2": "0",
+        "updated_type": "0",
+        "updated_reason_type": "0"
+    },
+    {
+        "local_government_code": "15208",
+        "postal_code_5digit": "94701",
+        "postal_code_7digit": "9470102",
+        "prefecture_kana": "ﾆｲｶﾞﾀｹﾝ",
+        "address1_kana": "ｵﾁﾞﾔｼ",
+        "address2_kana": "ﾀｶﾅｼﾁｮｳ",
+        "prefecture_kanji": "新潟県",
+        "address1_kanji": "小千谷市",
+        "address2_kanji": "高梨町",
+        "is_address2_has_multiple_postal_code": "0",
+        "is_address2_has_multiple_sublocality": "0",
+        "is_address2_includes_chome": "0",
+        "is_postal_code_has_multiple_address2": "0",
+        "updated_type": "0",
+        "updated_reason_type": "0"
+    },
+    {
+        "local_government_code": "15208",
+        "postal_code_5digit": "94701",
+        "postal_code_7digit": "9470103",
+        "prefecture_kana": "ﾆｲｶﾞﾀｹﾝ",
+        "address1_kana": "ｵﾁﾞﾔｼ",
+        "address2_kana": "ｶﾀｶｲﾔﾏﾔﾁｮｳ",
+        "prefecture_kanji": "新潟県",
+        "address1_kanji": "小千谷市",
+        "address2_kanji": "片貝山屋町",
+        "is_address2_has_multiple_postal_code": "0",
+        "is_address2_has_multiple_sublocality": "0",
+        "is_address2_includes_chome": "0",
+        "is_postal_code_has_multiple_address2": "0",
+        "updated_type": "0",
+        "updated_reason_type": "0"
+    }
+]

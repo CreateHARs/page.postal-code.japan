@@ -1,0 +1,7 @@
+local_government_code,postal_code_5digit,postal_code_7digit,prefecture_kana,address1_kana,address2_kana,prefecture_kanji,address1_kanji,address2_kanji,is_address2_has_multiple_postal_code,is_address2_has_multiple_sublocality,is_address2_includes_chome,is_postal_code_has_multiple_address2,updated_type,updated_reason_type
+16208,93203,9320303,ﾄﾔﾏｹﾝ,ﾄﾅﾐｼ,ｼｮｳｶﾞﾜﾏﾁｵﾄｼ,富山県,砺波市,庄川町落シ,0,0,0,1,0,0
+16208,93203,9320303,ﾄﾔﾏｹﾝ,ﾄﾅﾐｼ,ｼｮｳｶﾞﾜﾏﾁｶｸﾘｮｳ,富山県,砺波市,庄川町隠尾,0,0,0,1,0,0
+16208,93203,9320303,ﾄﾔﾏｹﾝ,ﾄﾅﾐｼ,ｼｮｳｶﾞﾜﾏﾁﾐｮｳｶﾞﾊﾗ,富山県,砺波市,庄川町名ケ原,0,0,0,1,0,0
+16208,93203,9320303,ﾄﾔﾏｹﾝ,ﾄﾅﾐｼ,ｼｮｳｶﾞﾜﾏﾁﾕﾀﾞﾆ,富山県,砺波市,庄川町湯谷,0,0,0,1,0,0
+16208,93203,9320303,ﾄﾔﾏｹﾝ,ﾄﾅﾐｼ,ｼｮｳｶﾞﾜﾏﾁﾕﾔﾏ,富山県,砺波市,庄川町湯山,0,0,0,1,0,0
+16208,93203,9320303,ﾄﾔﾏｹﾝ,ﾄﾅﾐｼ,ｼｮｳｶﾞﾜﾏﾁﾖｺｽﾞﾐ,富山県,砺波市,庄川町横住,0,0,0,1,0,0

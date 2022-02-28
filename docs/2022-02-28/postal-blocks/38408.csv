@@ -1,0 +1,10 @@
+local_government_code,postal_code_5digit,postal_code_7digit,prefecture_kana,address1_kana,address2_kana,prefecture_kanji,address1_kanji,address2_kanji,is_address2_has_multiple_postal_code,is_address2_has_multiple_sublocality,is_address2_includes_chome,is_postal_code_has_multiple_address2,updated_type,updated_reason_type
+20208,384  ,3840801,ﾅｶﾞﾉｹﾝ,ｺﾓﾛｼ,ｺｳ,長野県,小諸市,甲,0,0,0,0,0,0
+20208,384  ,3840802,ﾅｶﾞﾉｹﾝ,ｺﾓﾛｼ,ｵﾂ,長野県,小諸市,乙,0,0,0,0,0,0
+20208,384  ,3840803,ﾅｶﾞﾉｹﾝ,ｺﾓﾛｼ,ﾍｲ,長野県,小諸市,丙,0,0,0,0,0,0
+20208,384  ,3840804,ﾅｶﾞﾉｹﾝ,ｺﾓﾛｼ,ﾃｲ,長野県,小諸市,丁,0,0,0,0,0,0
+20208,384  ,3840805,ﾅｶﾞﾉｹﾝ,ｺﾓﾛｼ,ｷ,長野県,小諸市,己,0,0,0,0,0,0
+20208,384  ,3840806,ﾅｶﾞﾉｹﾝ,ｺﾓﾛｼ,ｼｵﾉ,長野県,小諸市,塩野,0,0,0,0,0,0
+20208,384  ,3840807,ﾅｶﾞﾉｹﾝ,ｺﾓﾛｼ,ﾔﾏｳﾗ,長野県,小諸市,山浦,0,0,0,0,0,0
+20208,384  ,3840808,ﾅｶﾞﾉｹﾝ,ｺﾓﾛｼ,ﾐｶｹﾞｼﾝﾃﾞﾝ,長野県,小諸市,御影新田,0,0,0,0,0,0
+20208,384  ,3840809,ﾅｶﾞﾉｹﾝ,ｺﾓﾛｼ,ｼｹﾞﾉｺｳ,長野県,小諸市,滋野甲,0,0,0,0,0,0
