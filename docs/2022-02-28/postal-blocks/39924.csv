@@ -1,0 +1,5 @@
+local_government_code,postal_code_5digit,postal_code_7digit,prefecture_kana,address1_kana,address2_kana,prefecture_kanji,address1_kanji,address2_kanji,is_address2_has_multiple_postal_code,is_address2_has_multiple_sublocality,is_address2_includes_chome,is_postal_code_has_multiple_address2,updated_type,updated_reason_type
+20205,39924,3992431,ﾅｶﾞﾉｹﾝ,ｲｲﾀﾞｼ,ｶﾜｼﾞ,長野県,飯田市,川路,0,0,0,0,0,0
+20205,39924,3992432,ﾅｶﾞﾉｹﾝ,ｲｲﾀﾞｼ,ｼﾓｾﾞ,長野県,飯田市,下瀬,0,0,0,0,0,0
+20205,39924,3992433,ﾅｶﾞﾉｹﾝ,ｲｲﾀﾞｼ,ﾀﾃｲｼ,長野県,飯田市,立石,0,0,0,0,0,0
+20205,39924,3992434,ﾅｶﾞﾉｹﾝ,ｲｲﾀﾞｼ,ｲｽﾞｷ,長野県,飯田市,伊豆木,0,0,0,0,0,0

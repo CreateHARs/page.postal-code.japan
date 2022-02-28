@@ -1,0 +1,53 @@
+[
+    {
+        "local_government_code": "20411",
+        "postal_code_5digit": "39921",
+        "postal_code_7digit": "3992100",
+        "prefecture_kana": "ﾅｶﾞﾉｹﾝ",
+        "address1_kana": "ｼﾓｲﾅｸﾞﾝｼﾓｼﾞｮｳﾑﾗ",
+        "address2_kana": "ｲｶﾆｹｲｻｲｶﾞﾅｲﾊﾞｱｲ",
+        "prefecture_kanji": "長野県",
+        "address1_kanji": "下伊那郡下條村",
+        "address2_kanji": "以下に掲載がない場合",
+        "is_address2_has_multiple_postal_code": "0",
+        "is_address2_has_multiple_sublocality": "0",
+        "is_address2_includes_chome": "0",
+        "is_postal_code_has_multiple_address2": "0",
+        "updated_type": "0",
+        "updated_reason_type": "0"
+    },
+    {
+        "local_government_code": "20411",
+        "postal_code_5digit": "39921",
+        "postal_code_7digit": "3992101",
+        "prefecture_kana": "ﾅｶﾞﾉｹﾝ",
+        "address1_kana": "ｼﾓｲﾅｸﾞﾝｼﾓｼﾞｮｳﾑﾗ",
+        "address2_kana": "ﾑﾂｻﾞﾜ",
+        "prefecture_kanji": "長野県",
+        "address1_kanji": "下伊那郡下條村",
+        "address2_kanji": "睦沢",
+        "is_address2_has_multiple_postal_code": "0",
+        "is_address2_has_multiple_sublocality": "0",
+        "is_address2_includes_chome": "0",
+        "is_postal_code_has_multiple_address2": "0",
+        "updated_type": "0",
+        "updated_reason_type": "0"
+    },
+    {
+        "local_government_code": "20411",
+        "postal_code_5digit": "39921",
+        "postal_code_7digit": "3992102",
+        "prefecture_kana": "ﾅｶﾞﾉｹﾝ",
+        "address1_kana": "ｼﾓｲﾅｸﾞﾝｼﾓｼﾞｮｳﾑﾗ",
+        "address2_kana": "ﾋｻﾜ",
+        "prefecture_kanji": "長野県",
+        "address1_kanji": "下伊那郡下條村",
+        "address2_kanji": "陽皐",
+        "is_address2_has_multiple_postal_code": "0",
+        "is_address2_has_multiple_sublocality": "0",
+        "is_address2_includes_chome": "0",
+        "is_postal_code_has_multiple_address2": "0",
+        "updated_type": "0",
+        "updated_reason_type": "0"
+    }
+]

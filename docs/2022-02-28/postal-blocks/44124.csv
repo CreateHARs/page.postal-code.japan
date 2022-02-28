@@ -1,0 +1,5 @@
+local_government_code,postal_code_5digit,postal_code_7digit,prefecture_kana,address1_kana,address2_kana,prefecture_kanji,address1_kanji,address2_kanji,is_address2_has_multiple_postal_code,is_address2_has_multiple_sublocality,is_address2_includes_chome,is_postal_code_has_multiple_address2,updated_type,updated_reason_type
+23561,44124,4412431,ｱｲﾁｹﾝ,ｷﾀｼﾀﾗｸﾞﾝｼﾀﾗﾁｮｳ,ﾆｼﾅｸﾞﾗ(ｿﾉﾀ),愛知県,北設楽郡設楽町,西納庫（その他）,1,1,0,0,0,0
+23561,44124,4412432,ｱｲﾁｹﾝ,ｷﾀｼﾀﾗｸﾞﾝｼﾀﾗﾁｮｳ,ﾋｶﾞｼﾅｸﾞﾗ,愛知県,北設楽郡設楽町,東納庫,0,1,0,0,0,0
+23561,44124,4412433,ｱｲﾁｹﾝ,ｷﾀｼﾀﾗｸﾞﾝｼﾀﾗﾁｮｳ,ｶﾜﾑｷ,愛知県,北設楽郡設楽町,川向,0,1,0,0,0,0
+23561,44124,4412434,ｱｲﾁｹﾝ,ｷﾀｼﾀﾗｸﾞﾝｼﾀﾗﾁｮｳ,ｵｵﾅｸﾞﾗ,愛知県,北設楽郡設楽町,大名倉,0,1,0,0,0,0

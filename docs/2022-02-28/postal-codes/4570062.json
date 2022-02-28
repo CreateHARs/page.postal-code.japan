@@ -1,0 +1,19 @@
+[
+    {
+        "local_government_code": "23112",
+        "postal_code_5digit": "457  ",
+        "postal_code_7digit": "4570062",
+        "prefecture_kana": "ｱｲﾁｹﾝ",
+        "address1_kana": "ﾅｺﾞﾔｼﾐﾅﾐｸ",
+        "address2_kana": "ﾎｼｻﾞｷﾁｮｳ(ｱﾊﾗ)",
+        "prefecture_kanji": "愛知県",
+        "address1_kanji": "名古屋市南区",
+        "address2_kanji": "星崎町（阿原）",
+        "is_address2_has_multiple_postal_code": "1",
+        "is_address2_has_multiple_sublocality": "0",
+        "is_address2_includes_chome": "0",
+        "is_postal_code_has_multiple_address2": "0",
+        "updated_type": "0",
+        "updated_reason_type": "0"
+    }
+]

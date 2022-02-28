@@ -1,0 +1,8 @@
+local_government_code,postal_code_5digit,postal_code_7digit,prefecture_kana,address1_kana,address2_kana,prefecture_kanji,address1_kanji,address2_kanji,is_address2_has_multiple_postal_code,is_address2_has_multiple_sublocality,is_address2_includes_chome,is_postal_code_has_multiple_address2,updated_type,updated_reason_type
+42201,85123,8512321,ﾅｶﾞｻｷｹﾝ,ﾅｶﾞｻｷｼ,ｱｶｸﾋﾞﾏﾁ,長崎県,長崎市,赤首町,0,0,0,0,0,0
+42201,85123,8512322,ﾅｶﾞｻｷｹﾝ,ﾅｶﾞｻｷｼ,ﾆｼｼﾂﾏﾁ,長崎県,長崎市,西出津町,0,0,0,0,0,0
+42201,85123,8512323,ﾅｶﾞｻｷｹﾝ,ﾅｶﾞｻｷｼ,ｼﾝﾏｷﾉﾏﾁ,長崎県,長崎市,新牧野町,0,0,0,0,0,0
+42201,85123,8512324,ﾅｶﾞｻｷｹﾝ,ﾅｶﾞｻｷｼ,ｶﾐｸﾛｻｷﾏﾁ,長崎県,長崎市,上黒崎町,0,0,0,0,0,0
+42201,85123,8512325,ﾅｶﾞｻｷｹﾝ,ﾅｶﾞｻｷｼ,ﾅｶﾞﾀﾏﾁ,長崎県,長崎市,永田町,0,0,0,0,0,0
+42201,85123,8512326,ﾅｶﾞｻｷｹﾝ,ﾅｶﾞｻｷｼ,ｼﾓｸﾛｻｷﾏﾁ,長崎県,長崎市,下黒崎町,0,0,0,0,0,0
+42201,85123,8512327,ﾅｶﾞｻｷｹﾝ,ﾅｶﾞｻｷｼ,ﾋｶﾞｼｼﾂﾏﾁ,長崎県,長崎市,東出津町,0,0,0,0,0,0

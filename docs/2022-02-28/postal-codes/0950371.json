@@ -1,0 +1,19 @@
+[
+    {
+        "local_government_code": "01220",
+        "postal_code_5digit": "09503",
+        "postal_code_7digit": "0950371",
+        "prefecture_kana": "ﾎｯｶｲﾄﾞｳ",
+        "address1_kana": "ｼﾍﾞﾂｼ",
+        "address2_kana": "ｶﾐｼﾍﾞﾂﾁｮｳ",
+        "prefecture_kanji": "北海道",
+        "address1_kanji": "士別市",
+        "address2_kanji": "上士別町",
+        "is_address2_has_multiple_postal_code": "0",
+        "is_address2_has_multiple_sublocality": "0",
+        "is_address2_includes_chome": "0",
+        "is_postal_code_has_multiple_address2": "0",
+        "updated_type": "0",
+        "updated_reason_type": "0"
+    }
+]

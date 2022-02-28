@@ -1,0 +1,6 @@
+local_government_code,postal_code_5digit,postal_code_7digit,prefecture_kana,address1_kana,address2_kana,prefecture_kanji,address1_kanji,address2_kanji,is_address2_has_multiple_postal_code,is_address2_has_multiple_sublocality,is_address2_includes_chome,is_postal_code_has_multiple_address2,updated_type,updated_reason_type
+01219,09951,0995171,ﾎｯｶｲﾄﾞｳ,ﾓﾝﾍﾞﾂｼ,ｼｮｺﾂﾁｮｳ,北海道,紋別市,渚滑町,0,0,1,0,0,0
+01219,09951,0995172,ﾎｯｶｲﾄﾞｳ,ﾓﾝﾍﾞﾂｼ,ｼｮｺﾂﾁｮｳﾓﾄｼﾝ,北海道,紋別市,渚滑町元新,0,0,0,0,0,0
+01219,09951,0995173,ﾎｯｶｲﾄﾞｳ,ﾓﾝﾍﾞﾂｼ,ｼｮｺﾂﾁｮｳﾓﾄﾆｼ,北海道,紋別市,渚滑町元西,0,0,0,0,0,0
+01219,09951,0995174,ﾎｯｶｲﾄﾞｳ,ﾓﾝﾍﾞﾂｼ,ｼｮｺﾂﾁｮｳｳﾂﾂ,北海道,紋別市,渚滑町宇津々,0,0,0,0,0,0
+01219,09951,0995175,ﾎｯｶｲﾄﾞｳ,ﾓﾝﾍﾞﾂｼ,ｼｮｺﾂﾁｮｳｶﾜﾑｶｲ,北海道,紋別市,渚滑町川向,0,0,0,0,0,0

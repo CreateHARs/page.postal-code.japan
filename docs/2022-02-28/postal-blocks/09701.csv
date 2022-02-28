@@ -1,0 +1,3 @@
+local_government_code,postal_code_5digit,postal_code_7digit,prefecture_kana,address1_kana,address2_kana,prefecture_kanji,address1_kanji,address2_kanji,is_address2_has_multiple_postal_code,is_address2_has_multiple_sublocality,is_address2_includes_chome,is_postal_code_has_multiple_address2,updated_type,updated_reason_type
+01519,09701,0970100,ﾎｯｶｲﾄﾞｳ,ﾘｼﾘｸﾞﾝﾘｼﾘﾌｼﾞﾁｮｳ,ｲｶﾆｹｲｻｲｶﾞﾅｲﾊﾞｱｲ,北海道,利尻郡利尻富士町,以下に掲載がない場合,0,0,0,0,0,0
+01519,09701,0970101,ﾎｯｶｲﾄﾞｳ,ﾘｼﾘｸﾞﾝﾘｼﾘﾌｼﾞﾁｮｳ,ｵｼﾄﾞﾏﾘ,北海道,利尻郡利尻富士町,鴛泊,0,0,0,0,0,0

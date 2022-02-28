@@ -1,0 +1,19 @@
+[
+    {
+        "local_government_code": "33212",
+        "postal_code_5digit": "70143",
+        "postal_code_7digit": "7014302",
+        "prefecture_kana": "ｵｶﾔﾏｹﾝ",
+        "address1_kana": "ｾﾄｳﾁｼ",
+        "address2_kana": "ｳｼﾏﾄﾞﾁｮｳｳｼﾏﾄﾞ",
+        "prefecture_kanji": "岡山県",
+        "address1_kanji": "瀬戸内市",
+        "address2_kanji": "牛窓町牛窓",
+        "is_address2_has_multiple_postal_code": "0",
+        "is_address2_has_multiple_sublocality": "0",
+        "is_address2_includes_chome": "0",
+        "is_postal_code_has_multiple_address2": "0",
+        "updated_type": "0",
+        "updated_reason_type": "0"
+    }
+]
