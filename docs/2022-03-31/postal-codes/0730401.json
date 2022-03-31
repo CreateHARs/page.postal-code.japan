@@ -1,0 +1,19 @@
+[
+    {
+        "local_government_code": "01227",
+        "postal_code_5digit": "07304",
+        "postal_code_7digit": "0730401",
+        "prefecture_kana": "ﾎｯｶｲﾄﾞｳ",
+        "address1_kana": "ｳﾀｼﾅｲｼ",
+        "address2_kana": "ｶﾐｳﾀ",
+        "prefecture_kanji": "北海道",
+        "address1_kanji": "歌志内市",
+        "address2_kanji": "上歌",
+        "is_address2_has_multiple_postal_code": "0",
+        "is_address2_has_multiple_sublocality": "0",
+        "is_address2_includes_chome": "0",
+        "is_postal_code_has_multiple_address2": "0",
+        "updated_type": "0",
+        "updated_reason_type": "0"
+    }
+]

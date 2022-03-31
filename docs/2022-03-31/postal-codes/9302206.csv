@@ -1,0 +1,6 @@
+local_government_code,postal_code_5digit,postal_code_7digit,prefecture_kana,address1_kana,address2_kana,prefecture_kanji,address1_kanji,address2_kanji,is_address2_has_multiple_postal_code,is_address2_has_multiple_sublocality,is_address2_includes_chome,is_postal_code_has_multiple_address2,updated_type,updated_reason_type
+16201,93022,9302206,ﾄﾔﾏｹﾝ,ﾄﾔﾏｼ,ｶﾅﾔﾏｼﾝ,富山県,富山市,金山新,0,0,0,1,0,0
+16201,93022,9302206,ﾄﾔﾏｹﾝ,ﾄﾔﾏｼ,ｶﾅﾔﾏｼﾝﾅｶ,富山県,富山市,金山新中,0,0,0,1,0,0
+16201,93022,9302206,ﾄﾔﾏｹﾝ,ﾄﾔﾏｼ,ｶﾅﾔﾏｼﾝﾆｼ,富山県,富山市,金山新西,0,0,0,1,0,0
+16201,93022,9302206,ﾄﾔﾏｹﾝ,ﾄﾔﾏｼ,ｶﾅﾔﾏｼﾝﾐﾅﾐ,富山県,富山市,金山新南,0,0,0,1,0,0
+16201,93022,9302206,ﾄﾔﾏｹﾝ,ﾄﾔﾏｼ,ｶﾅﾔﾏｼﾝｷﾀ,富山県,富山市,金山新北,0,0,0,1,0,0

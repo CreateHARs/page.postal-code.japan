@@ -1,0 +1,5 @@
+local_government_code,postal_code_5digit,postal_code_7digit,prefecture_kana,address1_kana,address2_kana,prefecture_kanji,address1_kanji,address2_kanji,is_address2_has_multiple_postal_code,is_address2_has_multiple_sublocality,is_address2_includes_chome,is_postal_code_has_multiple_address2,updated_type,updated_reason_type
+44203,871  ,8710046,ｵｵｲﾀｹﾝ,ﾅｶﾂｼ,ｶﾅﾔ(ｳｴﾉﾁｮｳ､ﾅｶﾉﾁｮｳ､ﾆｼﾉﾁｮｳ､ﾎﾝﾏﾁ､ﾐﾅﾐﾉﾁｮｳ､ﾓﾘﾉﾁｮｳ､ﾔﾏﾉｶﾐ),大分県,中津市,金谷（上ノ丁、中ノ丁、西ノ丁、本町、南ノ丁、森ノ丁、山ノ神）,0,0,0,1,0,0
+44203,871  ,8710046,ｵｵｲﾀｹﾝ,ﾅｶﾂｼ,ﾆｼﾎﾘﾊﾞﾀ,大分県,中津市,西堀端,0,0,0,1,0,0
+44203,871  ,8710046,ｵｵｲﾀｹﾝ,ﾅｶﾂｼ,ﾋｶﾞｼﾎﾘﾊﾞﾀ,大分県,中津市,東堀端,0,0,0,1,0,0
+44203,871  ,8710046,ｵｵｲﾀｹﾝ,ﾅｶﾂｼ,ﾌﾙｶﾅﾔ,大分県,中津市,古金谷,0,0,0,1,0,0

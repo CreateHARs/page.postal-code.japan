@@ -1,0 +1,19 @@
+[
+    {
+        "local_government_code": "37324",
+        "postal_code_5digit": "76144",
+        "postal_code_7digit": "7614404",
+        "prefecture_kana": "ｶｶﾞﾜｹﾝ",
+        "address1_kana": "ｼｮｳｽﾞｸﾞﾝｼｮｳﾄﾞｼﾏﾁｮｳ",
+        "address2_kana": "ｲﾜｶﾞﾀﾆ",
+        "prefecture_kanji": "香川県",
+        "address1_kanji": "小豆郡小豆島町",
+        "address2_kanji": "岩谷",
+        "is_address2_has_multiple_postal_code": "0",
+        "is_address2_has_multiple_sublocality": "0",
+        "is_address2_includes_chome": "0",
+        "is_postal_code_has_multiple_address2": "0",
+        "updated_type": "0",
+        "updated_reason_type": "0"
+    }
+]

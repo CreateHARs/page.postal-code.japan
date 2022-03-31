@@ -1,0 +1,8 @@
+local_government_code,postal_code_5digit,postal_code_7digit,prefecture_kana,address1_kana,address2_kana,prefecture_kanji,address1_kanji,address2_kanji,is_address2_has_multiple_postal_code,is_address2_has_multiple_sublocality,is_address2_includes_chome,is_postal_code_has_multiple_address2,updated_type,updated_reason_type
+07342,96904,9690403,ﾌｸｼﾏｹﾝ,ｲﾜｾｸﾞﾝｶｶﾞﾐｲｼﾏﾁ,ｶﾘﾔﾄﾞ,福島県,岩瀬郡鏡石町,借宿,0,1,0,1,0,0
+07342,96904,9690403,ﾌｸｼﾏｹﾝ,ｲﾜｾｸﾞﾝｶｶﾞﾐｲｼﾏﾁ,ｷｭｳﾗｲｼ,福島県,岩瀬郡鏡石町,久来石,0,1,0,1,0,0
+07342,96904,9690403,ﾌｸｼﾏｹﾝ,ｲﾜｾｸﾞﾝｶｶﾞﾐｲｼﾏﾁ,ｷｭｳﾗｲｼﾐﾅﾐ,福島県,岩瀬郡鏡石町,久来石南,0,1,0,1,0,0
+07342,96904,9690403,ﾌｸｼﾏｹﾝ,ｲﾜｾｸﾞﾝｶｶﾞﾐｲｼﾏﾁ,ｺｸﾞﾘﾔﾏ,福島県,岩瀬郡鏡石町,小栗山,0,1,0,1,0,0
+07342,96904,9690403,ﾌｸｼﾏｹﾝ,ｲﾜｾｸﾞﾝｶｶﾞﾐｲｼﾏﾁ,ｻｸﾗｵｶ,福島県,岩瀬郡鏡石町,桜岡,0,1,0,1,0,0
+07342,96904,9690403,ﾌｸｼﾏｹﾝ,ｲﾜｾｸﾞﾝｶｶﾞﾐｲｼﾏﾁ,ｼﾞｮｳﾉｳﾁ,福島県,岩瀬郡鏡石町,城ノ内,0,1,0,1,0,0
+07342,96904,9690403,ﾌｸｼﾏｹﾝ,ｲﾜｾｸﾞﾝｶｶﾞﾐｲｼﾏﾁ,ﾄﾞｳﾏｴ,福島県,岩瀬郡鏡石町,堂前,0,1,0,1,0,0

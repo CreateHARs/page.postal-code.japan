@@ -1,0 +1,7 @@
+local_government_code,postal_code_5digit,postal_code_7digit,prefecture_kana,address1_kana,address2_kana,prefecture_kanji,address1_kanji,address2_kanji,is_address2_has_multiple_postal_code,is_address2_has_multiple_sublocality,is_address2_includes_chome,is_postal_code_has_multiple_address2,updated_type,updated_reason_type
+01471,09826,0982621,ﾎｯｶｲﾄﾞｳ,ﾅｶｶﾞﾜｸﾞﾝﾅｶｶﾞﾜﾁｮｳ,ｷｮｳﾜ,北海道,中川郡中川町,共和,0,0,0,0,0,0
+01471,09826,0982622,ﾎｯｶｲﾄﾞｳ,ﾅｶｶﾞﾜｸﾞﾝﾅｶｶﾞﾜﾁｮｳ,ｻｸ,北海道,中川郡中川町,佐久,0,0,0,0,0,0
+01471,09826,0982623,ﾎｯｶｲﾄﾞｳ,ﾅｶｶﾞﾜｸﾞﾝﾅｶｶﾞﾜﾁｮｳ,ﾄﾐﾜ,北海道,中川郡中川町,富和,0,0,0,0,0,0
+01471,09826,0982624,ﾎｯｶｲﾄﾞｳ,ﾅｶｶﾞﾜｸﾞﾝﾅｶｶﾞﾜﾁｮｳ,ﾄﾖｻﾄ,北海道,中川郡中川町,豊里,0,0,0,0,0,0
+01471,09826,0982625,ﾎｯｶｲﾄﾞｳ,ﾅｶｶﾞﾜｸﾞﾝﾅｶｶﾞﾜﾁｮｳ,ﾔｽｶﾜ,北海道,中川郡中川町,安川,1,0,0,0,0,0
+01471,09826,0982626,ﾎｯｶｲﾄﾞｳ,ﾅｶｶﾞﾜｸﾞﾝﾅｶｶﾞﾜﾁｮｳ,ﾔｽｶﾜ(3),北海道,中川郡中川町,安川（３）,1,0,0,0,0,0
