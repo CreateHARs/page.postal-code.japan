@@ -1,0 +1,19 @@
+[
+    {
+        "local_government_code": "12227",
+        "postal_code_5digit": "279  ",
+        "postal_code_7digit": "2790026",
+        "prefecture_kana": "ﾁﾊﾞｹﾝ",
+        "address1_kana": "ｳﾗﾔｽｼ",
+        "address2_kana": "ﾍﾞﾝﾃﾝ",
+        "prefecture_kanji": "千葉県",
+        "address1_kanji": "浦安市",
+        "address2_kanji": "弁天",
+        "is_address2_has_multiple_postal_code": "0",
+        "is_address2_has_multiple_sublocality": "0",
+        "is_address2_includes_chome": "1",
+        "is_postal_code_has_multiple_address2": "0",
+        "updated_type": "0",
+        "updated_reason_type": "0"
+    }
+]

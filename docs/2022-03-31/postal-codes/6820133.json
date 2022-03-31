@@ -1,0 +1,36 @@
+[
+    {
+        "local_government_code": "31364",
+        "postal_code_5digit": "68201",
+        "postal_code_7digit": "6820133",
+        "prefecture_kana": "ﾄｯﾄﾘｹﾝ",
+        "address1_kana": "ﾄｳﾊｸｸﾞﾝﾐｻｻﾁｮｳ",
+        "address2_kana": "ｻｸﾗｶﾞｵｶ",
+        "prefecture_kanji": "鳥取県",
+        "address1_kanji": "東伯郡三朝町",
+        "address2_kanji": "桜ケ丘",
+        "is_address2_has_multiple_postal_code": "0",
+        "is_address2_has_multiple_sublocality": "0",
+        "is_address2_includes_chome": "0",
+        "is_postal_code_has_multiple_address2": "1",
+        "updated_type": "0",
+        "updated_reason_type": "0"
+    },
+    {
+        "local_government_code": "31364",
+        "postal_code_5digit": "68201",
+        "postal_code_7digit": "6820133",
+        "prefecture_kana": "ﾄｯﾄﾘｹﾝ",
+        "address1_kana": "ﾄｳﾊｸｸﾞﾝﾐｻｻﾁｮｳ",
+        "address2_kana": "ﾖｼﾀﾞ",
+        "prefecture_kanji": "鳥取県",
+        "address1_kanji": "東伯郡三朝町",
+        "address2_kanji": "吉田",
+        "is_address2_has_multiple_postal_code": "0",
+        "is_address2_has_multiple_sublocality": "0",
+        "is_address2_includes_chome": "0",
+        "is_postal_code_has_multiple_address2": "1",
+        "updated_type": "0",
+        "updated_reason_type": "0"
+    }
+]

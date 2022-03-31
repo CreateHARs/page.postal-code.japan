@@ -1,0 +1,6 @@
+local_government_code,postal_code_5digit,postal_code_7digit,prefecture_kana,address1_kana,address2_kana,prefecture_kanji,address1_kanji,address2_kanji,is_address2_has_multiple_postal_code,is_address2_has_multiple_sublocality,is_address2_includes_chome,is_postal_code_has_multiple_address2,updated_type,updated_reason_type
+04302,98905,9890516,ﾐﾔｷﾞｹﾝ,ｶｯﾀｸﾞﾝｼﾁｶｼｭｸﾏﾁ,ｵｵﾇｷﾀﾞｲﾗ,宮城県,刈田郡七ヶ宿町,大貫平,0,0,0,1,0,0
+04302,98905,9890516,ﾐﾔｷﾞｹﾝ,ｶｯﾀｸﾞﾝｼﾁｶｼｭｸﾏﾁ,ｶﾐｼﾏﾀﾞﾊﾗ,宮城県,刈田郡七ヶ宿町,上島田原,0,0,0,1,0,0
+04302,98905,9890516,ﾐﾔｷﾞｹﾝ,ｶｯﾀｸﾞﾝｼﾁｶｼｭｸﾏﾁ,ｼﾓｼﾏﾀﾞﾊﾗ,宮城県,刈田郡七ヶ宿町,下島田原,0,0,0,1,0,0
+04302,98905,9890516,ﾐﾔｷﾞｹﾝ,ｶｯﾀｸﾞﾝｼﾁｶｼｭｸﾏﾁ,ﾆｼｼﾏﾀﾞﾊﾗ,宮城県,刈田郡七ヶ宿町,西島田原,0,0,0,1,0,0
+04302,98905,9890516,ﾐﾔｷﾞｹﾝ,ｶｯﾀｸﾞﾝｼﾁｶｼｭｸﾏﾁ,ﾋｶﾞｼｼﾏﾀﾞﾊﾗ,宮城県,刈田郡七ヶ宿町,東島田原,0,0,0,1,0,0

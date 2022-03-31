@@ -1,0 +1,9 @@
+local_government_code,postal_code_5digit,postal_code_7digit,prefecture_kana,address1_kana,address2_kana,prefecture_kanji,address1_kanji,address2_kanji,is_address2_has_multiple_postal_code,is_address2_has_multiple_sublocality,is_address2_includes_chome,is_postal_code_has_multiple_address2,updated_type,updated_reason_type
+01213,06602,0660271,ﾎｯｶｲﾄﾞｳ,ﾄﾏｺﾏｲｼ,ﾏﾙﾔﾏ,北海道,苫小牧市,丸山,0,0,0,0,0,0
+01224,06602,0660281,ﾎｯｶｲﾄﾞｳ,ﾁﾄｾｼ,ｼｺﾂｺｵﾝｾﾝ,北海道,千歳市,支笏湖温泉,0,0,0,0,0,0
+01224,06602,0660282,ﾎｯｶｲﾄﾞｳ,ﾁﾄｾｼ,ｽｲﾒｲｷｮｳ,北海道,千歳市,水明郷,0,0,0,0,0,0
+01224,06602,0660283,ﾎｯｶｲﾄﾞｳ,ﾁﾄｾｼ,ﾓﾗｯﾌﾟ,北海道,千歳市,モラップ,0,0,0,0,0,0
+01224,06602,0660284,ﾎｯｶｲﾄﾞｳ,ﾁﾄｾｼ,ｼｼｬﾓﾅｲ,北海道,千歳市,支寒内,0,0,0,0,0,0
+01224,06602,0660285,ﾎｯｶｲﾄﾞｳ,ﾁﾄｾｼ,ﾋﾞﾌｴ,北海道,千歳市,美笛,0,0,0,0,0,0
+01224,06602,0660286,ﾎｯｶｲﾄﾞｳ,ﾁﾄｾｼ,ｵｺﾀﾝ,北海道,千歳市,奥潭,0,0,0,0,0,0
+01224,06602,0660287,ﾎｯｶｲﾄﾞｳ,ﾁﾄｾｼ,ﾎﾟﾛﾋﾟﾅｲ,北海道,千歳市,幌美内,0,0,0,0,0,0

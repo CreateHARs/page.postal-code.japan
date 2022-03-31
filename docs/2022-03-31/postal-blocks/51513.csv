@@ -1,0 +1,5 @@
+local_government_code,postal_code_5digit,postal_code_7digit,prefecture_kana,address1_kana,address2_kana,prefecture_kanji,address1_kanji,address2_kanji,is_address2_has_multiple_postal_code,is_address2_has_multiple_sublocality,is_address2_includes_chome,is_postal_code_has_multiple_address2,updated_type,updated_reason_type
+24204,51513,5151301,ﾐｴｹﾝ,ﾏﾂｻｶｼ,ｲｲﾅﾝﾁｮｳﾌｶﾉ,三重県,松阪市,飯南町深野,0,0,0,0,0,0
+24204,51513,5151302,ﾐｴｹﾝ,ﾏﾂｻｶｼ,ｲｲﾅﾝﾁｮｳﾖｺﾉ,三重県,松阪市,飯南町横野,0,0,0,0,0,0
+24204,51513,5151303,ﾐｴｹﾝ,ﾏﾂｻｶｼ,ｲｲﾅﾝﾁｮｳｼﾓﾆｶﾞｷ,三重県,松阪市,飯南町下仁柿,0,0,0,0,0,0
+24204,51513,5151304,ﾐｴｹﾝ,ﾏﾂｻｶｼ,ｲｲﾅﾝﾁｮｳｶﾐﾆｶﾞｷ,三重県,松阪市,飯南町上仁柿,0,0,0,0,0,0
