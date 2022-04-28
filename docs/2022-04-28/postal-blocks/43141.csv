@@ -1,0 +1,7 @@
+local_government_code,postal_code_5digit,postal_code_7digit,prefecture_kana,address1_kana,address2_kana,prefecture_kanji,address1_kanji,address2_kanji,is_address2_has_multiple_postal_code,is_address2_has_multiple_sublocality,is_address2_includes_chome,is_postal_code_has_multiple_address2,updated_type,updated_reason_type
+22137,43141,4314101,ｼｽﾞｵｶｹﾝ,ﾊﾏﾏﾂｼﾃﾝﾘｭｳｸ,ﾐｻｸﾎﾞﾁｮｳｵｸﾘｮｳｹ,静岡県,浜松市天竜区,水窪町奥領家,0,0,0,0,0,0
+22137,43141,4314102,ｼｽﾞｵｶｹﾝ,ﾊﾏﾏﾂｼﾃﾝﾘｭｳｸ,ﾐｻｸﾎﾞﾁｮｳｼﾞﾄｳｶﾞﾀ,静岡県,浜松市天竜区,水窪町地頭方,0,0,0,0,0,0
+22137,43141,4314103,ｼｽﾞｵｶｹﾝ,ﾊﾏﾏﾂｼﾃﾝﾘｭｳｸ,ﾐｻｸﾎﾞﾁｮｳﾔﾏｽﾞﾐ,静岡県,浜松市天竜区,水窪町山住,0,0,0,0,0,0
+22137,43141,4314111,ｼｽﾞｵｶｹﾝ,ﾊﾏﾏﾂｼﾃﾝﾘｭｳｸ,ｻｸﾏﾁｮｳｱｲﾂﾞｷ,静岡県,浜松市天竜区,佐久間町相月,0,0,0,0,0,0
+22137,43141,4314112,ｼｽﾞｵｶｹﾝ,ﾊﾏﾏﾂｼﾃﾝﾘｭｳｸ,ｻｸﾏﾁｮｳｵｸﾘｮｳｹ,静岡県,浜松市天竜区,佐久間町奥領家,0,0,0,0,0,0
+23563,43141,4314121,ｱｲﾁｹﾝ,ｷﾀｼﾀﾗｸﾞﾝﾄﾖﾈﾑﾗ,ﾄﾐﾔﾏ,愛知県,北設楽郡豊根村,富山,0,0,0,0,0,0

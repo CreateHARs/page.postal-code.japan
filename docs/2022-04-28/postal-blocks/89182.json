@@ -1,0 +1,53 @@
+[
+    {
+        "local_government_code": "46532",
+        "postal_code_5digit": "89182",
+        "postal_code_7digit": "8918201",
+        "prefecture_kana": "ｶｺﾞｼﾏｹﾝ",
+        "address1_kana": "ｵｵｼﾏｸﾞﾝｲｾﾝﾁｮｳ",
+        "address2_kana": "ｲｾﾝ",
+        "prefecture_kanji": "鹿児島県",
+        "address1_kanji": "大島郡伊仙町",
+        "address2_kanji": "伊仙",
+        "is_address2_has_multiple_postal_code": "0",
+        "is_address2_has_multiple_sublocality": "0",
+        "is_address2_includes_chome": "0",
+        "is_postal_code_has_multiple_address2": "0",
+        "updated_type": "0",
+        "updated_reason_type": "0"
+    },
+    {
+        "local_government_code": "46532",
+        "postal_code_5digit": "89182",
+        "postal_code_7digit": "8918216",
+        "prefecture_kana": "ｶｺﾞｼﾏｹﾝ",
+        "address1_kana": "ｵｵｼﾏｸﾞﾝｲｾﾝﾁｮｳ",
+        "address2_kana": "ｹﾝﾌﾞｸ(416-516ﾊﾞﾝﾁ)",
+        "prefecture_kanji": "鹿児島県",
+        "address1_kanji": "大島郡伊仙町",
+        "address2_kanji": "検福（４１６〜５１６番地）",
+        "is_address2_has_multiple_postal_code": "1",
+        "is_address2_has_multiple_sublocality": "0",
+        "is_address2_includes_chome": "0",
+        "is_postal_code_has_multiple_address2": "0",
+        "updated_type": "0",
+        "updated_reason_type": "0"
+    },
+    {
+        "local_government_code": "46532",
+        "postal_code_5digit": "89182",
+        "postal_code_7digit": "8918221",
+        "prefecture_kana": "ｶｺﾞｼﾏｹﾝ",
+        "address1_kana": "ｵｵｼﾏｸﾞﾝｲｾﾝﾁｮｳ",
+        "address2_kana": "ｱｻﾝ(799ﾉ1-867ﾊﾞﾝﾁ)",
+        "prefecture_kanji": "鹿児島県",
+        "address1_kanji": "大島郡伊仙町",
+        "address2_kanji": "阿三（７９９の１〜８６７番地）",
+        "is_address2_has_multiple_postal_code": "1",
+        "is_address2_has_multiple_sublocality": "0",
+        "is_address2_includes_chome": "0",
+        "is_postal_code_has_multiple_address2": "0",
+        "updated_type": "0",
+        "updated_reason_type": "0"
+    }
+]

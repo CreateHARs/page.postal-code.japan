@@ -1,0 +1,19 @@
+[
+    {
+        "local_government_code": "21505",
+        "postal_code_5digit": "50503",
+        "postal_code_7digit": "5050306",
+        "prefecture_kana": "ｷﾞﾌｹﾝ",
+        "address1_kana": "ｶﾓｸﾞﾝﾔｵﾂﾁｮｳ",
+        "address2_kana": "ｶﾐｲｲﾀﾞ",
+        "prefecture_kanji": "岐阜県",
+        "address1_kanji": "加茂郡八百津町",
+        "address2_kanji": "上飯田",
+        "is_address2_has_multiple_postal_code": "0",
+        "is_address2_has_multiple_sublocality": "0",
+        "is_address2_includes_chome": "0",
+        "is_postal_code_has_multiple_address2": "0",
+        "updated_type": "0",
+        "updated_reason_type": "0"
+    }
+]

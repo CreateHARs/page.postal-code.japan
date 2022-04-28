@@ -1,0 +1,5 @@
+local_government_code,postal_code_5digit,postal_code_7digit,prefecture_kana,address1_kana,address2_kana,prefecture_kanji,address1_kanji,address2_kanji,is_address2_has_multiple_postal_code,is_address2_has_multiple_sublocality,is_address2_includes_chome,is_postal_code_has_multiple_address2,updated_type,updated_reason_type
+02424,03942,0394221,ｱｵﾓﾘｹﾝ,ｼﾓｷﾀｸﾞﾝﾋｶﾞｼﾄﾞｵﾘﾑﾗ,ｻﾙｶﾞﾓﾘ,青森県,下北郡東通村,猿ケ森,0,1,0,0,0,0
+02424,03942,0394222,ｱｵﾓﾘｹﾝ,ｼﾓｷﾀｸﾞﾝﾋｶﾞｼﾄﾞｵﾘﾑﾗ,ｽﾅｺﾞﾏﾀ,青森県,下北郡東通村,砂子又,0,1,0,0,0,0
+02424,03942,0394223,ｱｵﾓﾘｹﾝ,ｼﾓｷﾀｸﾞﾝﾋｶﾞｼﾄﾞｵﾘﾑﾗ,ｵﾀﾞﾉｻﾜ,青森県,下北郡東通村,小田野沢,0,1,0,0,0,0
+02424,03942,0394224,ｱｵﾓﾘｹﾝ,ｼﾓｷﾀｸﾞﾝﾋｶﾞｼﾄﾞｵﾘﾑﾗ,ｼﾗﾇｶ,青森県,下北郡東通村,白糠,0,1,0,0,0,0

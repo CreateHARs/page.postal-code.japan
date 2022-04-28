@@ -1,0 +1,19 @@
+[
+    {
+        "local_government_code": "14401",
+        "postal_code_5digit": "24303",
+        "postal_code_7digit": "2430304",
+        "prefecture_kana": "ｶﾅｶﾞﾜｹﾝ",
+        "address1_kana": "ｱｲｺｳｸﾞﾝｱｲｶﾜﾏﾁ",
+        "address2_kana": "ﾀﾅｻﾞﾜ",
+        "prefecture_kanji": "神奈川県",
+        "address1_kanji": "愛甲郡愛川町",
+        "address2_kanji": "棚沢",
+        "is_address2_has_multiple_postal_code": "0",
+        "is_address2_has_multiple_sublocality": "0",
+        "is_address2_includes_chome": "0",
+        "is_postal_code_has_multiple_address2": "0",
+        "updated_type": "0",
+        "updated_reason_type": "0"
+    }
+]

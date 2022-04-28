@@ -1,0 +1,7 @@
+local_government_code,postal_code_5digit,postal_code_7digit,prefecture_kana,address1_kana,address2_kana,prefecture_kanji,address1_kanji,address2_kanji,is_address2_has_multiple_postal_code,is_address2_has_multiple_sublocality,is_address2_includes_chome,is_postal_code_has_multiple_address2,updated_type,updated_reason_type
+14341,255  ,2550000,ｶﾅｶﾞﾜｹﾝ,ﾅｶｸﾞﾝｵｵｲｿﾏﾁ,ｲｶﾆｹｲｻｲｶﾞﾅｲﾊﾞｱｲ,神奈川県,中郡大磯町,以下に掲載がない場合,0,0,0,0,0,0
+14341,255  ,2550001,ｶﾅｶﾞﾜｹﾝ,ﾅｶｸﾞﾝｵｵｲｿﾏﾁ,ｺﾏ,神奈川県,中郡大磯町,高麗,0,0,1,0,0,0
+14341,255  ,2550002,ｶﾅｶﾞﾜｹﾝ,ﾅｶｸﾞﾝｵｵｲｿﾏﾁ,ﾋｶﾞｼﾁｮｳ,神奈川県,中郡大磯町,東町,0,0,1,0,0,0
+14341,255  ,2550003,ｶﾅｶﾞﾜｹﾝ,ﾅｶｸﾞﾝｵｵｲｿﾏﾁ,ｵｵｲｿ,神奈川県,中郡大磯町,大磯,0,0,0,0,0,0
+14341,255  ,2550004,ｶﾅｶﾞﾜｹﾝ,ﾅｶｸﾞﾝｵｵｲｿﾏﾁ,ﾋｶﾞｼｺｲｿ,神奈川県,中郡大磯町,東小磯,0,0,0,0,0,0
+14341,255  ,2550005,ｶﾅｶﾞﾜｹﾝ,ﾅｶｸﾞﾝｵｵｲｿﾏﾁ,ﾆｼｺｲｿ,神奈川県,中郡大磯町,西小磯,0,0,0,0,0,0

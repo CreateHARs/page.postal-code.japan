@@ -1,0 +1,5 @@
+local_government_code,postal_code_5digit,postal_code_7digit,prefecture_kana,address1_kana,address2_kana,prefecture_kanji,address1_kanji,address2_kanji,is_address2_has_multiple_postal_code,is_address2_has_multiple_sublocality,is_address2_includes_chome,is_postal_code_has_multiple_address2,updated_type,updated_reason_type
+33211,70132,7013201,ｵｶﾔﾏｹﾝ,ﾋﾞｾﾞﾝｼ,ﾋﾅｾﾁｮｳﾃﾗﾔﾏ,岡山県,備前市,日生町寺山,0,0,0,0,0,0
+33211,70132,7013202,ｵｶﾔﾏｹﾝ,ﾋﾞｾﾞﾝｼ,ﾋﾅｾﾁｮｳｿｳｺﾞ,岡山県,備前市,日生町寒河,0,0,0,0,0,0
+33211,70132,7013203,ｵｶﾔﾏｹﾝ,ﾋﾞｾﾞﾝｼ,ﾋﾅｾﾁｮｳｵｵﾀﾌﾞ,岡山県,備前市,日生町大多府,0,0,0,0,0,0
+33211,70132,7013204,ｵｶﾔﾏｹﾝ,ﾋﾞｾﾞﾝｼ,ﾋﾅｾﾁｮｳﾋﾅｾ,岡山県,備前市,日生町日生,0,0,0,0,0,0

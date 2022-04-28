@@ -1,0 +1,5 @@
+local_government_code,postal_code_5digit,postal_code_7digit,prefecture_kana,address1_kana,address2_kana,prefecture_kanji,address1_kanji,address2_kanji,is_address2_has_multiple_postal_code,is_address2_has_multiple_sublocality,is_address2_includes_chome,is_postal_code_has_multiple_address2,updated_type,updated_reason_type
+32202,69705,6970511,ｼﾏﾈｹﾝ,ﾊﾏﾀﾞｼ,ｱｻﾋﾁｮｳﾂｶﾜ,島根県,浜田市,旭町都川,0,0,0,0,0,0
+32202,69705,6970512,ｼﾏﾈｹﾝ,ﾊﾏﾀﾞｼ,ｱｻﾋﾁｮｳｷﾀｵ,島根県,浜田市,旭町来尾,0,0,0,0,0,0
+32202,69705,6970513,ｼﾏﾈｹﾝ,ﾊﾏﾀﾞｼ,ｱｻﾋﾁｮｳｻｶﾓﾄ(ﾔﾂｷﾞ),島根県,浜田市,旭町坂本（八ツ木）,1,0,0,0,0,0
+32202,69705,6970514,ｼﾏﾈｹﾝ,ﾊﾏﾀﾞｼ,ｱｻﾋﾁｮｳｲﾁｷﾞ,島根県,浜田市,旭町市木,0,0,0,0,0,0

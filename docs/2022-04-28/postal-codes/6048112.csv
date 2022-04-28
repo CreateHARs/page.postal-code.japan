@@ -1,0 +1,3 @@
+local_government_code,postal_code_5digit,postal_code_7digit,prefecture_kana,address1_kana,address2_kana,prefecture_kanji,address1_kanji,address2_kanji,is_address2_has_multiple_postal_code,is_address2_has_multiple_sublocality,is_address2_includes_chome,is_postal_code_has_multiple_address2,updated_type,updated_reason_type
+26104,604  ,6048112,ｷｮｳﾄﾌ,ｷｮｳﾄｼﾅｶｷﾞｮｳｸ,ﾂﾁﾔﾁｮｳ,京都府,京都市中京区,槌屋町（柳馬場通三条下る、柳馬場通六角上る、六角通柳馬場西入、六角通柳,0,0,0,0,0,0
+26104,604  ,6048112,ｷｮｳﾄﾌ,ｷｮｳﾄｼﾅｶｷﾞｮｳｸ,ﾂﾁﾔﾁｮｳ,京都府,京都市中京区,馬場東入）,0,0,0,0,0,0

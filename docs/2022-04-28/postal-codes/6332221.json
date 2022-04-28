@@ -1,0 +1,19 @@
+[
+    {
+        "local_government_code": "29212",
+        "postal_code_5digit": "63322",
+        "postal_code_7digit": "6332221",
+        "prefecture_kana": "ﾅﾗｹﾝ",
+        "address1_kana": "ｳﾀﾞｼ",
+        "address2_kana": "ｳﾀﾉﾏﾂｲ",
+        "prefecture_kanji": "奈良県",
+        "address1_kanji": "宇陀市",
+        "address2_kanji": "菟田野松井",
+        "is_address2_has_multiple_postal_code": "0",
+        "is_address2_has_multiple_sublocality": "0",
+        "is_address2_includes_chome": "0",
+        "is_postal_code_has_multiple_address2": "0",
+        "updated_type": "0",
+        "updated_reason_type": "0"
+    }
+]

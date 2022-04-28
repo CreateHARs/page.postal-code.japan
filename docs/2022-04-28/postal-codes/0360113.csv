@@ -1,0 +1,6 @@
+local_government_code,postal_code_5digit,postal_code_7digit,prefecture_kana,address1_kana,address2_kana,prefecture_kanji,address1_kanji,address2_kanji,is_address2_has_multiple_postal_code,is_address2_has_multiple_sublocality,is_address2_includes_chome,is_postal_code_has_multiple_address2,updated_type,updated_reason_type
+02210,03601,0360113,ｱｵﾓﾘｹﾝ,ﾋﾗｶﾜｼ,ﾋﾗﾀﾓﾘｲﾅﾑﾗ,青森県,平川市,平田森稲村,0,1,0,1,0,0
+02210,03601,0360113,ｱｵﾓﾘｹﾝ,ﾋﾗｶﾜｼ,ﾋﾗﾀﾓﾘｶﾐﾐﾔﾓﾄ,青森県,平川市,平田森上宮本,0,1,0,1,0,0
+02210,03601,0360113,ｱｵﾓﾘｹﾝ,ﾋﾗｶﾜｼ,ﾋﾗﾀﾓﾘｼﾓﾐﾔﾓﾄ,青森県,平川市,平田森下宮本,0,1,0,1,0,0
+02210,03601,0360113,ｱｵﾓﾘｹﾝ,ﾋﾗｶﾜｼ,ﾋﾗﾀﾓﾘﾏｴﾀﾞ,青森県,平川市,平田森前田,0,1,0,1,0,0
+02210,03601,0360113,ｱｵﾓﾘｹﾝ,ﾋﾗｶﾜｼ,ﾋﾗﾀﾓﾘﾜｶﾏﾂ,青森県,平川市,平田森若松,0,1,0,1,0,0

@@ -1,0 +1,19 @@
+[
+    {
+        "local_government_code": "14152",
+        "postal_code_5digit": "229  ",
+        "postal_code_7digit": "2520239",
+        "prefecture_kana": "ｶﾅｶﾞﾜｹﾝ",
+        "address1_kana": "ｻｶﾞﾐﾊﾗｼﾁｭｳｵｳｸ",
+        "address2_kana": "ﾁｭｳｵｳ",
+        "prefecture_kanji": "神奈川県",
+        "address1_kanji": "相模原市中央区",
+        "address2_kanji": "中央",
+        "is_address2_has_multiple_postal_code": "0",
+        "is_address2_has_multiple_sublocality": "0",
+        "is_address2_includes_chome": "1",
+        "is_postal_code_has_multiple_address2": "0",
+        "updated_type": "0",
+        "updated_reason_type": "0"
+    }
+]
