@@ -1,0 +1,19 @@
+[
+    {
+        "local_government_code": "02204",
+        "postal_code_5digit": "03603",
+        "postal_code_7digit": "0360365",
+        "prefecture_kana": "ｱｵﾓﾘｹﾝ",
+        "address1_kana": "ｸﾛｲｼｼ",
+        "address2_kana": "ﾅｶﾞｻｷ",
+        "prefecture_kanji": "青森県",
+        "address1_kanji": "黒石市",
+        "address2_kanji": "長崎",
+        "is_address2_has_multiple_postal_code": "0",
+        "is_address2_has_multiple_sublocality": "0",
+        "is_address2_includes_chome": "1",
+        "is_postal_code_has_multiple_address2": "0",
+        "updated_type": "0",
+        "updated_reason_type": "0"
+    }
+]

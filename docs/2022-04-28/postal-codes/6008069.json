@@ -1,0 +1,36 @@
+[
+    {
+        "local_government_code": "26106",
+        "postal_code_5digit": "600  ",
+        "postal_code_7digit": "6008069",
+        "prefecture_kana": "ｷｮｳﾄﾌ",
+        "address1_kana": "ｷｮｳﾄｼｼﾓｷﾞｮｳｸ",
+        "address2_kana": "ｷﾁﾓﾝｼﾞﾁｮｳ",
+        "prefecture_kanji": "京都府",
+        "address1_kanji": "京都市下京区",
+        "address2_kanji": "吉文字町（高辻通柳馬場西入、高辻通柳馬場東入、柳馬場通高辻",
+        "is_address2_has_multiple_postal_code": "0",
+        "is_address2_has_multiple_sublocality": "0",
+        "is_address2_includes_chome": "0",
+        "is_postal_code_has_multiple_address2": "0",
+        "updated_type": "0",
+        "updated_reason_type": "0"
+    },
+    {
+        "local_government_code": "26106",
+        "postal_code_5digit": "600  ",
+        "postal_code_7digit": "6008069",
+        "prefecture_kana": "ｷｮｳﾄﾌ",
+        "address1_kana": "ｷｮｳﾄｼｼﾓｷﾞｮｳｸ",
+        "address2_kana": "ｷﾁﾓﾝｼﾞﾁｮｳ",
+        "prefecture_kanji": "京都府",
+        "address1_kanji": "京都市下京区",
+        "address2_kanji": "下る、柳馬場通松原上る）",
+        "is_address2_has_multiple_postal_code": "0",
+        "is_address2_has_multiple_sublocality": "0",
+        "is_address2_includes_chome": "0",
+        "is_postal_code_has_multiple_address2": "0",
+        "updated_type": "0",
+        "updated_reason_type": "0"
+    }
+]

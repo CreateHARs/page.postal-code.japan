@@ -1,0 +1,6 @@
+local_government_code,postal_code_5digit,postal_code_7digit,prefecture_kana,address1_kana,address2_kana,prefecture_kanji,address1_kanji,address2_kanji,is_address2_has_multiple_postal_code,is_address2_has_multiple_sublocality,is_address2_includes_chome,is_postal_code_has_multiple_address2,updated_type,updated_reason_type
+07521,96377,9637752,ﾌｸｼﾏｹﾝ,ﾀﾑﾗｸﾞﾝﾐﾊﾙﾏﾁ,ｴﾎﾞｼｲｼ,福島県,田村郡三春町,烏帽子石,0,0,0,1,0,0
+07521,96377,9637752,ﾌｸｼﾏｹﾝ,ﾀﾑﾗｸﾞﾝﾐﾊﾙﾏﾁ,ｶﾒｲ,福島県,田村郡三春町,亀井,0,0,0,1,0,0
+07521,96377,9637752,ﾌｸｼﾏｹﾝ,ﾀﾑﾗｸﾞﾝﾐﾊﾙﾏﾁ,ｼﾐｽﾞﾊﾞﾀ,福島県,田村郡三春町,清水畑,0,0,0,1,0,0
+07521,96377,9637752,ﾌｸｼﾏｹﾝ,ﾀﾑﾗｸﾞﾝﾐﾊﾙﾏﾁ,ﾆｲﾏﾁ,福島県,田村郡三春町,仁井町,0,0,0,1,0,0
+07521,96377,9637752,ﾌｸｼﾏｹﾝ,ﾀﾑﾗｸﾞﾝﾐﾊﾙﾏﾁ,ﾛｸｼｮｳﾏｷ,福島県,田村郡三春町,六升蒔,0,0,0,1,0,0

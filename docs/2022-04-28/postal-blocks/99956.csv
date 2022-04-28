@@ -1,0 +1,5 @@
+local_government_code,postal_code_5digit,postal_code_7digit,prefecture_kana,address1_kana,address2_kana,prefecture_kanji,address1_kanji,address2_kanji,is_address2_has_multiple_postal_code,is_address2_has_multiple_sublocality,is_address2_includes_chome,is_postal_code_has_multiple_address2,updated_type,updated_reason_type
+06364,99956,9995601,ﾔﾏｶﾞﾀｹﾝ,ﾓｶﾞﾐｸﾞﾝﾏﾑﾛｶﾞﾜﾏﾁ,ｶﾜﾉｳﾁ(2-128ﾊﾞﾝﾁ､419-614ﾊﾞﾝﾁ､1717ﾊﾞﾝﾁ､ｻﾝﾀｷ､ﾊﾙｷ),山形県,最上郡真室川町,川ノ内（２〜１２８番地、４１９〜６１４番地、１７１７番地、三滝、春木）,1,1,0,0,0,0
+06364,99956,9995602,ﾔﾏｶﾞﾀｹﾝ,ﾓｶﾞﾐｸﾞﾝﾏﾑﾛｶﾞﾜﾏﾁ,ﾉｿﾞｷ,山形県,最上郡真室川町,及位,0,0,0,0,0,0
+06364,99956,9995603,ﾔﾏｶﾞﾀｹﾝ,ﾓｶﾞﾐｸﾞﾝﾏﾑﾛｶﾞﾜﾏﾁ,ｵｵﾀｷ,山形県,最上郡真室川町,大滝,0,0,0,0,0,0
+06364,99956,9995604,ﾔﾏｶﾞﾀｹﾝ,ﾓｶﾞﾐｸﾞﾝﾏﾑﾛｶﾞﾜﾏﾁ,ｶﾏﾌﾞﾁ,山形県,最上郡真室川町,釜渕,0,0,0,0,0,0

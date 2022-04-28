@@ -1,0 +1,8 @@
+local_government_code,postal_code_5digit,postal_code_7digit,prefecture_kana,address1_kana,address2_kana,prefecture_kanji,address1_kanji,address2_kanji,is_address2_has_multiple_postal_code,is_address2_has_multiple_sublocality,is_address2_includes_chome,is_postal_code_has_multiple_address2,updated_type,updated_reason_type
+44209,87212,8721201,ｵｵｲﾀｹﾝ,ﾌﾞﾝｺﾞﾀｶﾀﾞｼ,ｴﾋﾞｽ,大分県,豊後高田市,夷,0,0,0,0,0,0
+44209,87212,8721202,ｵｵｲﾀｹﾝ,ﾌﾞﾝｺﾞﾀｶﾀﾞｼ,ｶｶﾁﾞ,大分県,豊後高田市,香々地,0,0,0,0,0,0
+44209,87212,8721203,ｵｵｲﾀｹﾝ,ﾌﾞﾝｺﾞﾀｶﾀﾞｼ,ｶﾀｸ,大分県,豊後高田市,堅来,0,0,0,0,0,0
+44209,87212,8721204,ｵｵｲﾀｹﾝ,ﾌﾞﾝｺﾞﾀｶﾀﾞｼ,ｶﾐｶｶﾁﾞ,大分県,豊後高田市,上香々地,0,0,0,0,0,0
+44209,87212,8721205,ｵｵｲﾀｹﾝ,ﾌﾞﾝｺﾞﾀｶﾀﾞｼ,ｺﾊﾞﾀ,大分県,豊後高田市,小畑,0,0,0,0,0,0
+44209,87212,8721206,ｵｵｲﾀｹﾝ,ﾌﾞﾝｺﾞﾀｶﾀﾞｼ,ﾊﾈ,大分県,豊後高田市,羽根,0,0,0,0,0,0
+44209,87212,8721207,ｵｵｲﾀｹﾝ,ﾌﾞﾝｺﾞﾀｶﾀﾞｼ,ﾐﾒ,大分県,豊後高田市,見目,0,0,0,0,0,0

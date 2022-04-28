@@ -1,0 +1,19 @@
+[
+    {
+        "local_government_code": "15212",
+        "postal_code_5digit": "958  ",
+        "postal_code_7digit": "9580844",
+        "prefecture_kana": "ﾆｲｶﾞﾀｹﾝ",
+        "address1_kana": "ﾑﾗｶﾐｼ",
+        "address2_kana": "ﾅｶﾞｲﾏﾁ",
+        "prefecture_kanji": "新潟県",
+        "address1_kanji": "村上市",
+        "address2_kanji": "長井町",
+        "is_address2_has_multiple_postal_code": "0",
+        "is_address2_has_multiple_sublocality": "0",
+        "is_address2_includes_chome": "0",
+        "is_postal_code_has_multiple_address2": "0",
+        "updated_type": "0",
+        "updated_reason_type": "0"
+    }
+]

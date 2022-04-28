@@ -1,0 +1,19 @@
+[
+    {
+        "local_government_code": "05202",
+        "postal_code_5digit": "01831",
+        "postal_code_7digit": "0183152",
+        "prefecture_kana": "ｱｷﾀｹﾝ",
+        "address1_kana": "ﾉｼﾛｼ",
+        "address2_kana": "ﾌﾀﾂｲﾏﾁｼﾓﾉｲｴｳｼﾛ",
+        "prefecture_kanji": "秋田県",
+        "address1_kanji": "能代市",
+        "address2_kanji": "二ツ井町下野家後",
+        "is_address2_has_multiple_postal_code": "0",
+        "is_address2_has_multiple_sublocality": "0",
+        "is_address2_includes_chome": "0",
+        "is_postal_code_has_multiple_address2": "0",
+        "updated_type": "0",
+        "updated_reason_type": "0"
+    }
+]

@@ -1,0 +1,19 @@
+[
+    {
+        "local_government_code": "43506",
+        "postal_code_5digit": "86806",
+        "postal_code_7digit": "8680604",
+        "prefecture_kana": "ｸﾏﾓﾄｹﾝ",
+        "address1_kana": "ｸﾏｸﾞﾝﾕﾉﾏｴﾏﾁ",
+        "address2_kana": "ｱｻｶﾉ",
+        "prefecture_kanji": "熊本県",
+        "address1_kanji": "球磨郡湯前町",
+        "address2_kanji": "浅ケ野",
+        "is_address2_has_multiple_postal_code": "0",
+        "is_address2_has_multiple_sublocality": "0",
+        "is_address2_includes_chome": "0",
+        "is_postal_code_has_multiple_address2": "0",
+        "updated_type": "0",
+        "updated_reason_type": "0"
+    }
+]
