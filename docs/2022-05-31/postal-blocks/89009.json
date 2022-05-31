@@ -1,0 +1,53 @@
+[
+    {
+        "local_government_code": "46303",
+        "postal_code_5digit": "890  ",
+        "postal_code_7digit": "8900901",
+        "prefecture_kana": "ｶｺﾞｼﾏｹﾝ",
+        "address1_kana": "ｶｺﾞｼﾏｸﾞﾝﾐｼﾏﾑﾗ",
+        "address2_kana": "ｲｵｳｼﾞﾏ",
+        "prefecture_kanji": "鹿児島県",
+        "address1_kanji": "鹿児島郡三島村",
+        "address2_kanji": "硫黄島",
+        "is_address2_has_multiple_postal_code": "0",
+        "is_address2_has_multiple_sublocality": "0",
+        "is_address2_includes_chome": "0",
+        "is_postal_code_has_multiple_address2": "0",
+        "updated_type": "0",
+        "updated_reason_type": "0"
+    },
+    {
+        "local_government_code": "46303",
+        "postal_code_5digit": "890  ",
+        "postal_code_7digit": "8900902",
+        "prefecture_kana": "ｶｺﾞｼﾏｹﾝ",
+        "address1_kana": "ｶｺﾞｼﾏｸﾞﾝﾐｼﾏﾑﾗ",
+        "address2_kana": "ｸﾛｼﾏ",
+        "prefecture_kanji": "鹿児島県",
+        "address1_kanji": "鹿児島郡三島村",
+        "address2_kanji": "黒島",
+        "is_address2_has_multiple_postal_code": "0",
+        "is_address2_has_multiple_sublocality": "0",
+        "is_address2_includes_chome": "0",
+        "is_postal_code_has_multiple_address2": "0",
+        "updated_type": "0",
+        "updated_reason_type": "0"
+    },
+    {
+        "local_government_code": "46303",
+        "postal_code_5digit": "890  ",
+        "postal_code_7digit": "8900903",
+        "prefecture_kana": "ｶｺﾞｼﾏｹﾝ",
+        "address1_kana": "ｶｺﾞｼﾏｸﾞﾝﾐｼﾏﾑﾗ",
+        "address2_kana": "ﾀｹｼﾏ",
+        "prefecture_kanji": "鹿児島県",
+        "address1_kanji": "鹿児島郡三島村",
+        "address2_kanji": "竹島",
+        "is_address2_has_multiple_postal_code": "0",
+        "is_address2_has_multiple_sublocality": "0",
+        "is_address2_includes_chome": "0",
+        "is_postal_code_has_multiple_address2": "0",
+        "updated_type": "0",
+        "updated_reason_type": "0"
+    }
+]

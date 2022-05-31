@@ -1,0 +1,19 @@
+[
+    {
+        "local_government_code": "45201",
+        "postal_code_5digit": "880  ",
+        "postal_code_7digit": "8800908",
+        "prefecture_kana": "ﾐﾔｻﾞｷｹﾝ",
+        "address1_kana": "ﾐﾔｻﾞｷｼ",
+        "address2_kana": "ﾀﾆｶﾞﾜ",
+        "prefecture_kanji": "宮崎県",
+        "address1_kanji": "宮崎市",
+        "address2_kanji": "谷川",
+        "is_address2_has_multiple_postal_code": "0",
+        "is_address2_has_multiple_sublocality": "0",
+        "is_address2_includes_chome": "1",
+        "is_postal_code_has_multiple_address2": "0",
+        "updated_type": "0",
+        "updated_reason_type": "0"
+    }
+]

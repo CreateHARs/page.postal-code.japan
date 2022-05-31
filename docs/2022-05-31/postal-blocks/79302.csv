@@ -1,0 +1,7 @@
+local_government_code,postal_code_5digit,postal_code_7digit,prefecture_kana,address1_kana,address2_kana,prefecture_kanji,address1_kanji,address2_kanji,is_address2_has_multiple_postal_code,is_address2_has_multiple_sublocality,is_address2_includes_chome,is_postal_code_has_multiple_address2,updated_type,updated_reason_type
+38206,793  ,7930211,ｴﾋﾒｹﾝ,ｻｲｼﾞｮｳｼ,ｵｵﾌｷ,愛媛県,西条市,大保木,0,0,0,0,0,0
+38206,793  ,7930212,ｴﾋﾒｹﾝ,ｻｲｼﾞｮｳｼ,ｸﾛｾ,愛媛県,西条市,黒瀬,0,0,0,0,0,0
+38206,79912,7930213,ｴﾋﾒｹﾝ,ｻｲｼﾞｮｳｼ,ﾄﾉﾔﾏ,愛媛県,西条市,兎之山,0,0,0,0,0,0
+38206,793  ,7930214,ｴﾋﾒｹﾝ,ｻｲｼﾞｮｳｼ,ﾅｶｵｸ,愛媛県,西条市,中奥,0,0,0,0,0,0
+38206,793  ,7930215,ｴﾋﾒｹﾝ,ｻｲｼﾞｮｳｼ,ﾆｼﾉｶﾜ,愛媛県,西条市,西之川,0,0,0,0,0,0
+38206,793  ,7930216,ｴﾋﾒｹﾝ,ｻｲｼﾞｮｳｼ,ﾋｶﾞｼﾉｶﾜ,愛媛県,西条市,東之川,0,0,0,0,0,0

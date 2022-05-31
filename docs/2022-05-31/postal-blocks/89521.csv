@@ -1,0 +1,6 @@
+local_government_code,postal_code_5digit,postal_code_7digit,prefecture_kana,address1_kana,address2_kana,prefecture_kanji,address1_kanji,address2_kanji,is_address2_has_multiple_postal_code,is_address2_has_multiple_sublocality,is_address2_includes_chome,is_postal_code_has_multiple_address2,updated_type,updated_reason_type
+46392,89521,8952101,ｶｺﾞｼﾏｹﾝ,ｻﾂﾏｸﾞﾝｻﾂﾏﾁｮｳ,ﾂﾙﾀﾞ,鹿児島県,薩摩郡さつま町,鶴田,0,0,0,0,0,0
+46392,89521,8952102,ｶｺﾞｼﾏｹﾝ,ｻﾂﾏｸﾞﾝｻﾂﾏﾁｮｳ,ｺｳｼ,鹿児島県,薩摩郡さつま町,神子,0,0,0,0,0,0
+46392,89521,8952103,ｶｺﾞｼﾏｹﾝ,ｻﾂﾏｸﾞﾝｻﾂﾏﾁｮｳ,ｼﾋﾞ,鹿児島県,薩摩郡さつま町,紫尾,0,0,0,0,0,0
+46392,89521,8952104,ｶｺﾞｼﾏｹﾝ,ｻﾂﾏｸﾞﾝｻﾂﾏﾁｮｳ,ｶｼﾜﾊﾞﾙ,鹿児島県,薩摩郡さつま町,柏原,0,0,0,0,0,0
+46392,89521,8952131,ｶｺﾞｼﾏｹﾝ,ｻﾂﾏｸﾞﾝｻﾂﾏﾁｮｳ,ｸｷﾉ,鹿児島県,薩摩郡さつま町,柊野,0,0,0,0,0,0

@@ -1,0 +1,19 @@
+[
+    {
+        "local_government_code": "16206",
+        "postal_code_5digit": "936  ",
+        "postal_code_7digit": "9360016",
+        "prefecture_kana": "ﾄﾔﾏｹﾝ",
+        "address1_kana": "ﾅﾒﾘｶﾜｼ",
+        "address2_kana": "ﾏｶﾞﾘﾌﾞﾁ",
+        "prefecture_kanji": "富山県",
+        "address1_kanji": "滑川市",
+        "address2_kanji": "曲渕",
+        "is_address2_has_multiple_postal_code": "0",
+        "is_address2_has_multiple_sublocality": "0",
+        "is_address2_includes_chome": "0",
+        "is_postal_code_has_multiple_address2": "0",
+        "updated_type": "0",
+        "updated_reason_type": "0"
+    }
+]

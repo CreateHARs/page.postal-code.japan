@@ -1,0 +1,19 @@
+[
+    {
+        "local_government_code": "23445",
+        "postal_code_5digit": "47034",
+        "postal_code_7digit": "4703412",
+        "prefecture_kana": "ｱｲﾁｹﾝ",
+        "address1_kana": "ﾁﾀｸﾞﾝﾐﾅﾐﾁﾀﾁｮｳ",
+        "address2_kana": "ﾄﾖﾊﾏ",
+        "prefecture_kanji": "愛知県",
+        "address1_kanji": "知多郡南知多町",
+        "address2_kanji": "豊浜",
+        "is_address2_has_multiple_postal_code": "0",
+        "is_address2_has_multiple_sublocality": "1",
+        "is_address2_includes_chome": "0",
+        "is_postal_code_has_multiple_address2": "0",
+        "updated_type": "0",
+        "updated_reason_type": "0"
+    }
+]

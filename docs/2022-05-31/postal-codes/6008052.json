@@ -1,0 +1,53 @@
+[
+    {
+        "local_government_code": "26106",
+        "postal_code_5digit": "600  ",
+        "postal_code_7digit": "6008052",
+        "prefecture_kana": "ｷｮｳﾄﾌ",
+        "address1_kana": "ｷｮｳﾄｼｼﾓｷﾞｮｳｸ",
+        "address2_kana": "ｼｵﾔﾁｮｳ",
+        "prefecture_kanji": "京都府",
+        "address1_kanji": "京都市下京区",
+        "address2_kanji": "塩屋町（綾小路通富小路西入、綾小路通富小路東入、綾小路通",
+        "is_address2_has_multiple_postal_code": "0",
+        "is_address2_has_multiple_sublocality": "0",
+        "is_address2_includes_chome": "0",
+        "is_postal_code_has_multiple_address2": "0",
+        "updated_type": "0",
+        "updated_reason_type": "0"
+    },
+    {
+        "local_government_code": "26106",
+        "postal_code_5digit": "600  ",
+        "postal_code_7digit": "6008052",
+        "prefecture_kana": "ｷｮｳﾄﾌ",
+        "address1_kana": "ｷｮｳﾄｼｼﾓｷﾞｮｳｸ",
+        "address2_kana": "ｼｵﾔﾁｮｳ",
+        "prefecture_kanji": "京都府",
+        "address1_kanji": "京都市下京区",
+        "address2_kanji": "麩屋町西入、綾小路通柳馬場東入、富小路通綾小路上る、富小路通綾小路下",
+        "is_address2_has_multiple_postal_code": "0",
+        "is_address2_has_multiple_sublocality": "0",
+        "is_address2_includes_chome": "0",
+        "is_postal_code_has_multiple_address2": "0",
+        "updated_type": "0",
+        "updated_reason_type": "0"
+    },
+    {
+        "local_government_code": "26106",
+        "postal_code_5digit": "600  ",
+        "postal_code_7digit": "6008052",
+        "prefecture_kana": "ｷｮｳﾄﾌ",
+        "address1_kana": "ｷｮｳﾄｼｼﾓｷﾞｮｳｸ",
+        "address2_kana": "ｼｵﾔﾁｮｳ",
+        "prefecture_kanji": "京都府",
+        "address1_kanji": "京都市下京区",
+        "address2_kanji": "る、麩屋町通綾小路下る）",
+        "is_address2_has_multiple_postal_code": "0",
+        "is_address2_has_multiple_sublocality": "0",
+        "is_address2_includes_chome": "0",
+        "is_postal_code_has_multiple_address2": "0",
+        "updated_type": "0",
+        "updated_reason_type": "0"
+    }
+]

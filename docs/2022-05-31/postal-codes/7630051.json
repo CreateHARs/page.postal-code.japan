@@ -1,0 +1,19 @@
+[
+    {
+        "local_government_code": "37202",
+        "postal_code_5digit": "763  ",
+        "postal_code_7digit": "7630051",
+        "prefecture_kana": "ｶｶﾞﾜｹﾝ",
+        "address1_kana": "ﾏﾙｶﾞﾒｼ",
+        "address2_kana": "ｲﾏﾂﾞﾁｮｳ",
+        "prefecture_kanji": "香川県",
+        "address1_kanji": "丸亀市",
+        "address2_kanji": "今津町",
+        "is_address2_has_multiple_postal_code": "0",
+        "is_address2_has_multiple_sublocality": "0",
+        "is_address2_includes_chome": "0",
+        "is_postal_code_has_multiple_address2": "0",
+        "updated_type": "0",
+        "updated_reason_type": "0"
+    }
+]

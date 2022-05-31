@@ -1,0 +1,19 @@
+[
+    {
+        "local_government_code": "32204",
+        "postal_code_5digit": "69802",
+        "postal_code_7digit": "6980202",
+        "prefecture_kana": "ｼﾏﾈｹﾝ",
+        "address1_kana": "ﾏｽﾀﾞｼ",
+        "address2_kana": "ﾐﾄﾁｮｳｳﾂﾞｶﾜ",
+        "prefecture_kanji": "島根県",
+        "address1_kanji": "益田市",
+        "address2_kanji": "美都町宇津川",
+        "is_address2_has_multiple_postal_code": "0",
+        "is_address2_has_multiple_sublocality": "0",
+        "is_address2_includes_chome": "0",
+        "is_postal_code_has_multiple_address2": "0",
+        "updated_type": "0",
+        "updated_reason_type": "0"
+    }
+]

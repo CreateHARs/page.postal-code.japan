@@ -1,0 +1,19 @@
+[
+    {
+        "local_government_code": "22222",
+        "postal_code_5digit": "41024",
+        "postal_code_7digit": "4102414",
+        "prefecture_kana": "ｼｽﾞｵｶｹﾝ",
+        "address1_kana": "ｲｽﾞｼ",
+        "address2_kana": "ﾎﾝﾀﾞﾁﾉ",
+        "prefecture_kanji": "静岡県",
+        "address1_kanji": "伊豆市",
+        "address2_kanji": "本立野",
+        "is_address2_has_multiple_postal_code": "0",
+        "is_address2_has_multiple_sublocality": "0",
+        "is_address2_includes_chome": "0",
+        "is_postal_code_has_multiple_address2": "0",
+        "updated_type": "0",
+        "updated_reason_type": "0"
+    }
+]
