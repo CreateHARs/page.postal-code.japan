@@ -1,0 +1,8 @@
+local_government_code,postal_code_5digit,postal_code_7digit,prefecture_kana,address1_kana,address2_kana,prefecture_kanji,address1_kanji,address2_kanji,is_address2_has_multiple_postal_code,is_address2_has_multiple_sublocality,is_address2_includes_chome,is_postal_code_has_multiple_address2,updated_type,updated_reason_type
+36208,77801,7780101,ﾄｸｼﾏｹﾝ,ﾐﾖｼｼ,ﾆｼｲﾔﾔﾏﾑﾗｲﾁｳ,徳島県,三好市,西祖谷山村一宇,0,0,0,1,0,0
+36208,77801,7780101,ﾄｸｼﾏｹﾝ,ﾐﾖｼｼ,ﾆｼｲﾔﾔﾏﾑﾗｵｲﾉｳﾁ,徳島県,三好市,西祖谷山村尾井ノ内,0,0,0,1,0,0
+36208,77801,7780101,ﾄｸｼﾏｹﾝ,ﾐﾖｼｼ,ﾆｼｲﾔﾔﾏﾑﾗｼｹﾞｽｴ,徳島県,三好市,西祖谷山村重末,0,0,0,1,0,0
+36208,77801,7780101,ﾄｸｼﾏｹﾝ,ﾐﾖｼｼ,ﾆｼｲﾔﾔﾏﾑﾗﾀﾉｳﾁ,徳島県,三好市,西祖谷山村田ノ内,0,0,0,1,0,0
+36208,77801,7780101,ﾄｸｼﾏｹﾝ,ﾐﾖｼｼ,ﾆｼｲﾔﾔﾏﾑﾗﾄﾉﾀﾆ,徳島県,三好市,西祖谷山村戸ノ谷,0,0,0,1,0,0
+36208,77801,7780101,ﾄｸｼﾏｹﾝ,ﾐﾖｼｼ,ﾆｼｲﾔﾔﾏﾑﾗﾈﾑﾘﾀﾞﾆ,徳島県,三好市,西祖谷山村眠谷,0,0,0,1,0,0
+36208,77801,7780101,ﾄｸｼﾏｹﾝ,ﾐﾖｼｼ,ﾆｼｲﾔﾔﾏﾑﾗﾐｮｳｼﾞ,徳島県,三好市,西祖谷山村冥地,0,0,0,1,0,0

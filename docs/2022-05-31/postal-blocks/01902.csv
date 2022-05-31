@@ -1,0 +1,6 @@
+local_government_code,postal_code_5digit,postal_code_7digit,prefecture_kana,address1_kana,address2_kana,prefecture_kanji,address1_kanji,address2_kanji,is_address2_has_multiple_postal_code,is_address2_has_multiple_sublocality,is_address2_includes_chome,is_postal_code_has_multiple_address2,updated_type,updated_reason_type
+05207,01902,0190201,ｱｷﾀｹﾝ,ﾕｻﾞﾜｼ,ｲｽﾞﾐｻﾜ,秋田県,湯沢市,泉沢,0,1,0,0,0,0
+05207,01902,0190202,ｱｷﾀｹﾝ,ﾕｻﾞﾜｼ,ｸﾜｶﾞｻｷ,秋田県,湯沢市,桑崎,0,1,0,0,0,0
+05207,01902,0190203,ｱｷﾀｹﾝ,ﾕｻﾞﾜｼ,ﾃﾗｻﾜ,秋田県,湯沢市,寺沢,0,1,0,0,0,0
+05207,01902,0190204,ｱｷﾀｹﾝ,ﾕｻﾞﾜｼ,ﾖｺﾎﾞﾘ,秋田県,湯沢市,横堀,0,1,0,0,0,0
+05207,01902,0190205,ｱｷﾀｹﾝ,ﾕｻﾞﾜｼ,ｵﾉ,秋田県,湯沢市,小野,0,1,0,0,0,0

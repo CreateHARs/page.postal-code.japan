@@ -1,0 +1,7 @@
+local_government_code,postal_code_5digit,postal_code_7digit,prefecture_kana,address1_kana,address2_kana,prefecture_kanji,address1_kanji,address2_kanji,is_address2_has_multiple_postal_code,is_address2_has_multiple_sublocality,is_address2_includes_chome,is_postal_code_has_multiple_address2,updated_type,updated_reason_type
+46222,89407,8940771,ｶｺﾞｼﾏｹﾝ,ｱﾏﾐｼ,ﾅｾﾞｺﾐﾅﾄ,鹿児島県,奄美市,名瀬小湊,0,0,0,0,0,0
+46222,89407,8940772,ｶｺﾞｼﾏｹﾝ,ｱﾏﾐｼ,ﾅｾﾞﾆｼﾅｶｶﾞﾁ,鹿児島県,奄美市,名瀬西仲勝,0,0,0,0,0,0
+46222,89407,8940773,ｶｺﾞｼﾏｹﾝ,ｱﾏﾐｼ,ﾅｾﾞｱｻﾄ,鹿児島県,奄美市,名瀬朝戸,0,0,0,0,0,0
+46222,89407,8940774,ｶｺﾞｼﾏｹﾝ,ｱﾏﾐｼ,ﾅｾﾞｲﾂﾌﾞｶﾞﾁ,鹿児島県,奄美市,名瀬伊津部勝,0,0,0,0,0,0
+46222,89407,8940775,ｶｺﾞｼﾏｹﾝ,ｱﾏﾐｼ,ﾅｾﾞﾅｾﾞｶﾞﾁ,鹿児島県,奄美市,名瀬名瀬勝,0,0,0,0,0,0
+46222,89407,8940776,ｶｺﾞｼﾏｹﾝ,ｱﾏﾐｼ,ﾅｾﾞｻｷﾊﾞﾙ,鹿児島県,奄美市,名瀬崎原,0,0,0,0,0,0

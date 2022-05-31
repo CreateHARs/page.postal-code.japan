@@ -1,0 +1,3 @@
+local_government_code,postal_code_5digit,postal_code_7digit,prefecture_kana,address1_kana,address2_kana,prefecture_kanji,address1_kanji,address2_kanji,is_address2_has_multiple_postal_code,is_address2_has_multiple_sublocality,is_address2_includes_chome,is_postal_code_has_multiple_address2,updated_type,updated_reason_type
+26105,605  ,6050034,ｷｮｳﾄﾌ,ｷｮｳﾄｼﾋｶﾞｼﾔﾏｸ,ﾅｶﾉﾁｮｳ,京都府,京都市東山区,中之町（三条通神宮道東入２丁目、三条通白川橋東入４丁目、三条通白川橋東,0,0,0,0,0,0
+26105,605  ,6050034,ｷｮｳﾄﾌ,ｷｮｳﾄｼﾋｶﾞｼﾔﾏｸ,ﾅｶﾉﾁｮｳ,京都府,京都市東山区,４丁目）,0,0,0,0,0,0

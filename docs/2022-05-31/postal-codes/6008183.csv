@@ -1,0 +1,4 @@
+local_government_code,postal_code_5digit,postal_code_7digit,prefecture_kana,address1_kana,address2_kana,prefecture_kanji,address1_kanji,address2_kanji,is_address2_has_multiple_postal_code,is_address2_has_multiple_sublocality,is_address2_includes_chome,is_postal_code_has_multiple_address2,updated_type,updated_reason_type
+26106,600  ,6008183,ｷｮｳﾄﾌ,ｷｮｳﾄｼｼﾓｷﾞｮｳｸ,ｴﾋﾞｽﾉﾁｮｳ,京都府,京都市下京区,夷之町（間之町通五条下る３丁目、間之町通花屋町上る、間之町通,0,0,0,0,0,0
+26106,600  ,6008183,ｷｮｳﾄﾌ,ｷｮｳﾄｼｼﾓｷﾞｮｳｸ,ｴﾋﾞｽﾉﾁｮｳ,京都府,京都市下京区,六条下る、花屋町通間之町西入、花屋町通間之町東入、花屋町通東洞院東入、,0,0,0,0,0,0
+26106,600  ,6008183,ｷｮｳﾄﾌ,ｷｮｳﾄｼｼﾓｷﾞｮｳｸ,ｴﾋﾞｽﾉﾁｮｳ,京都府,京都市下京区,六条通間之町西入、六条通間之町東入、六条通東洞院東入）,0,0,0,0,0,0

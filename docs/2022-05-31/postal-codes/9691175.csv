@@ -1,0 +1,4 @@
+local_government_code,postal_code_5digit,postal_code_7digit,prefecture_kana,address1_kana,address2_kana,prefecture_kanji,address1_kanji,address2_kanji,is_address2_has_multiple_postal_code,is_address2_has_multiple_sublocality,is_address2_includes_chome,is_postal_code_has_multiple_address2,updated_type,updated_reason_type
+07214,96911,9691175,ﾌｸｼﾏｹﾝ,ﾓﾄﾐﾔｼ,ﾓﾄﾐﾔﾀｹﾉﾊﾅ,福島県,本宮市,本宮竹花,0,1,0,1,0,0
+07214,96911,9691175,ﾌｸｼﾏｹﾝ,ﾓﾄﾐﾔｼ,ﾓﾄﾐﾔﾅｺﾞｳ,福島県,本宮市,本宮名郷,0,1,0,1,0,0
+07214,96911,9691175,ﾌｸｼﾏｹﾝ,ﾓﾄﾐﾔｼ,ﾓﾄﾐﾔﾅｺﾞｳﾜｷ,福島県,本宮市,本宮名郷脇,0,1,0,1,0,0

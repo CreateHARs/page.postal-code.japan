@@ -1,0 +1,19 @@
+[
+    {
+        "local_government_code": "40107",
+        "postal_code_5digit": "80002",
+        "postal_code_7digit": "8000253",
+        "prefecture_kana": "ﾌｸｵｶｹﾝ",
+        "address1_kana": "ｷﾀｷｭｳｼｭｳｼｺｸﾗﾐﾅﾐｸ",
+        "address2_kana": "ｸｽﾞﾊﾗﾎﾝﾏﾁ",
+        "prefecture_kanji": "福岡県",
+        "address1_kanji": "北九州市小倉南区",
+        "address2_kanji": "葛原本町",
+        "is_address2_has_multiple_postal_code": "0",
+        "is_address2_has_multiple_sublocality": "0",
+        "is_address2_includes_chome": "1",
+        "is_postal_code_has_multiple_address2": "0",
+        "updated_type": "0",
+        "updated_reason_type": "0"
+    }
+]

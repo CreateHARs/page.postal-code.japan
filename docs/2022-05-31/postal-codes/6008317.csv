@@ -1,0 +1,3 @@
+local_government_code,postal_code_5digit,postal_code_7digit,prefecture_kana,address1_kana,address2_kana,prefecture_kanji,address1_kanji,address2_kanji,is_address2_has_multiple_postal_code,is_address2_has_multiple_sublocality,is_address2_includes_chome,is_postal_code_has_multiple_address2,updated_type,updated_reason_type
+26106,600  ,6008317,ｷｮｳﾄﾌ,ｷｮｳﾄｼｼﾓｷﾞｮｳｸ,ｶｷﾞﾔﾁｮｳ,京都府,京都市下京区,鍵屋町（北小路通西洞院東入、北小路通若宮西入、正面通新町,0,0,0,0,0,0
+26106,600  ,6008317,ｷｮｳﾄﾌ,ｷｮｳﾄｼｼﾓｷﾞｮｳｸ,ｶｷﾞﾔﾁｮｳ,京都府,京都市下京区,西入、若宮通正面下る、若宮通北小路上る、正面通若宮東入）,0,0,0,0,0,0
