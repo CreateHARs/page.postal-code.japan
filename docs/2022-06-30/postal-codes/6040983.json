@@ -1,0 +1,36 @@
+[
+    {
+        "local_government_code": "26104",
+        "postal_code_5digit": "604  ",
+        "postal_code_7digit": "6040983",
+        "prefecture_kana": "ｷｮｳﾄﾌ",
+        "address1_kana": "ｷｮｳﾄｼﾅｶｷﾞｮｳｸ",
+        "address2_kana": "ｻｻﾔﾁｮｳ",
+        "prefecture_kanji": "京都府",
+        "address1_kanji": "京都市中京区",
+        "address2_kanji": "笹屋町（麩屋町通竹屋町下る、麩屋町通夷川上る、竹屋町通麩屋町西入、竹屋",
+        "is_address2_has_multiple_postal_code": "0",
+        "is_address2_has_multiple_sublocality": "0",
+        "is_address2_includes_chome": "0",
+        "is_postal_code_has_multiple_address2": "0",
+        "updated_type": "0",
+        "updated_reason_type": "0"
+    },
+    {
+        "local_government_code": "26104",
+        "postal_code_5digit": "604  ",
+        "postal_code_7digit": "6040983",
+        "prefecture_kana": "ｷｮｳﾄﾌ",
+        "address1_kana": "ｷｮｳﾄｼﾅｶｷﾞｮｳｸ",
+        "address2_kana": "ｻｻﾔﾁｮｳ",
+        "prefecture_kanji": "京都府",
+        "address1_kanji": "京都市中京区",
+        "address2_kanji": "町通麩屋町東入、竹屋町通御幸町西入、夷川通麩屋町西入、夷川通麩屋町東入）",
+        "is_address2_has_multiple_postal_code": "0",
+        "is_address2_has_multiple_sublocality": "0",
+        "is_address2_includes_chome": "0",
+        "is_postal_code_has_multiple_address2": "0",
+        "updated_type": "0",
+        "updated_reason_type": "0"
+    }
+]

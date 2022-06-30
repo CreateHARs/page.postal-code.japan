@@ -1,0 +1,6 @@
+local_government_code,postal_code_5digit,postal_code_7digit,prefecture_kana,address1_kana,address2_kana,prefecture_kanji,address1_kanji,address2_kanji,is_address2_has_multiple_postal_code,is_address2_has_multiple_sublocality,is_address2_includes_chome,is_postal_code_has_multiple_address2,updated_type,updated_reason_type
+02442,03915,0391521,ｱｵﾓﾘｹﾝ,ｻﾝﾉﾍｸﾞﾝｺﾞﾉﾍﾏﾁ,ｲｵｸﾎﾞ,青森県,三戸郡五戸町,五百窪,0,0,0,1,0,0
+02442,03915,0391521,ｱｵﾓﾘｹﾝ,ｻﾝﾉﾍｸﾞﾝｺﾞﾉﾍﾏﾁ,ｲｽﾞﾐｸﾎﾞ,青森県,三戸郡五戸町,泉窪,0,0,0,1,0,0
+02442,03915,0391521,ｱｵﾓﾘｹﾝ,ｻﾝﾉﾍｸﾞﾝｺﾞﾉﾍﾏﾁ,ｵｵﾜﾀﾘ,青森県,三戸郡五戸町,大渡,0,0,0,1,0,0
+02442,03915,0391521,ｱｵﾓﾘｹﾝ,ｻﾝﾉﾍｸﾞﾝｺﾞﾉﾍﾏﾁ,ｵｵﾜﾀﾘﾐﾁﾉｼﾓ,青森県,三戸郡五戸町,大渡道ノ下,0,0,0,1,0,0
+02442,03915,0391521,ｱｵﾓﾘｹﾝ,ｻﾝﾉﾍｸﾞﾝｺﾞﾉﾍﾏﾁ,ｷｭｳｿﾞｳｸﾎﾞ,青森県,三戸郡五戸町,久蔵窪,0,0,0,1,0,0

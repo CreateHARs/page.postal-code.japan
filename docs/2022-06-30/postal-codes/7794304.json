@@ -1,0 +1,19 @@
+[
+    {
+        "local_government_code": "36468",
+        "postal_code_5digit": "77943",
+        "postal_code_7digit": "7794304",
+        "prefecture_kana": "ﾄｸｼﾏｹﾝ",
+        "address1_kana": "ﾐﾏｸﾞﾝﾂﾙｷﾞﾁｮｳ",
+        "address2_kana": "ｲﾁｳ(ｲﾗﾊﾗ､ｵｵﾉ､ｸﾄﾞｳｼﾞｭｳ､ｺﾔｽ､ﾋｻﾔﾌﾞ)",
+        "prefecture_kanji": "徳島県",
+        "address1_kanji": "美馬郡つるぎ町",
+        "address2_kanji": "一宇（伊良原、大野、九藤中、子安、久藪）",
+        "is_address2_has_multiple_postal_code": "1",
+        "is_address2_has_multiple_sublocality": "0",
+        "is_address2_includes_chome": "0",
+        "is_postal_code_has_multiple_address2": "0",
+        "updated_type": "0",
+        "updated_reason_type": "0"
+    }
+]

@@ -1,0 +1,19 @@
+[
+    {
+        "local_government_code": "17203",
+        "postal_code_5digit": "92301",
+        "postal_code_7digit": "9230151",
+        "prefecture_kana": "ｲｼｶﾜｹﾝ",
+        "address1_kana": "ｺﾏﾂｼ",
+        "address2_kana": "ｼｮｳﾚﾝｼﾞﾏﾁ",
+        "prefecture_kanji": "石川県",
+        "address1_kanji": "小松市",
+        "address2_kanji": "正蓮寺町",
+        "is_address2_has_multiple_postal_code": "0",
+        "is_address2_has_multiple_sublocality": "0",
+        "is_address2_includes_chome": "0",
+        "is_postal_code_has_multiple_address2": "0",
+        "updated_type": "0",
+        "updated_reason_type": "0"
+    }
+]

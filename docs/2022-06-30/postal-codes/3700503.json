@@ -1,0 +1,19 @@
+[
+    {
+        "local_government_code": "10523",
+        "postal_code_5digit": "37005",
+        "postal_code_7digit": "3700503",
+        "prefecture_kana": "ｸﾞﾝﾏｹﾝ",
+        "address1_kana": "ｵｳﾗｸﾞﾝﾁﾖﾀﾞﾏﾁ",
+        "address2_kana": "ｱｶｲﾜ",
+        "prefecture_kanji": "群馬県",
+        "address1_kanji": "邑楽郡千代田町",
+        "address2_kanji": "赤岩",
+        "is_address2_has_multiple_postal_code": "0",
+        "is_address2_has_multiple_sublocality": "0",
+        "is_address2_includes_chome": "0",
+        "is_postal_code_has_multiple_address2": "0",
+        "updated_type": "0",
+        "updated_reason_type": "0"
+    }
+]
