@@ -1,0 +1,19 @@
+[
+    {
+        "local_government_code": "27102",
+        "postal_code_5digit": "534  ",
+        "postal_code_7digit": "5340013",
+        "prefecture_kana": "ｵｵｻｶﾌ",
+        "address1_kana": "ｵｵｻｶｼﾐﾔｺｼﾞﾏｸ",
+        "address2_kana": "ｳﾁﾝﾀﾞｲﾁｮｳ",
+        "prefecture_kanji": "大阪府",
+        "address1_kanji": "大阪市都島区",
+        "address2_kanji": "内代町",
+        "is_address2_has_multiple_postal_code": "0",
+        "is_address2_has_multiple_sublocality": "0",
+        "is_address2_includes_chome": "1",
+        "is_postal_code_has_multiple_address2": "0",
+        "updated_type": "0",
+        "updated_reason_type": "0"
+    }
+]

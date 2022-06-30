@@ -1,0 +1,4 @@
+local_government_code,postal_code_5digit,postal_code_7digit,prefecture_kana,address1_kana,address2_kana,prefecture_kanji,address1_kanji,address2_kanji,is_address2_has_multiple_postal_code,is_address2_has_multiple_sublocality,is_address2_includes_chome,is_postal_code_has_multiple_address2,updated_type,updated_reason_type
+24202,510  ,5100000,ﾐｴｹﾝ,ﾖｯｶｲﾁｼ,ｲｶﾆｹｲｻｲｶﾞﾅｲﾊﾞｱｲ,三重県,四日市市,以下に掲載がない場合,0,0,0,1,0,0
+24343,512  ,5100000,ﾐｴｹﾝ,ﾐｴｸﾞﾝｱｻﾋﾁｮｳ,ｲｶﾆｹｲｻｲｶﾞﾅｲﾊﾞｱｲ,三重県,三重郡朝日町,以下に掲載がない場合,0,0,0,1,0,0
+24344,512  ,5100000,ﾐｴｹﾝ,ﾐｴｸﾞﾝｶﾜｺﾞｴﾁｮｳ,ｲｶﾆｹｲｻｲｶﾞﾅｲﾊﾞｱｲ,三重県,三重郡川越町,以下に掲載がない場合,0,0,0,1,0,0

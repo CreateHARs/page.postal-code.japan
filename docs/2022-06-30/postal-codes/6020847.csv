@@ -1,0 +1,4 @@
+local_government_code,postal_code_5digit,postal_code_7digit,prefecture_kana,address1_kana,address2_kana,prefecture_kanji,address1_kanji,address2_kanji,is_address2_has_multiple_postal_code,is_address2_has_multiple_sublocality,is_address2_includes_chome,is_postal_code_has_multiple_address2,updated_type,updated_reason_type
+26102,602  ,6020847,ｷｮｳﾄﾌ,ｷｮｳﾄｼｶﾐｷﾞｮｳｸ,ｵｵﾐﾔﾁｮｳ,京都府,京都市上京区,大宮町（今出川通河原町西入、今出川通寺町東入、今出川通寺町東,0,0,0,0,0,0
+26102,602  ,6020847,ｷｮｳﾄﾌ,ｷｮｳﾄｼｶﾐｷﾞｮｳｸ,ｵｵﾐﾔﾁｮｳ,京都府,京都市上京区,入下る、河原町通今出川下る、河原町通今出川下る西入、寺町通今出川下る東,0,0,0,0,0,0
+26102,602  ,6020847,ｷｮｳﾄﾌ,ｷｮｳﾄｼｶﾐｷﾞｮｳｸ,ｵｵﾐﾔﾁｮｳ,京都府,京都市上京区,入、中筋通石薬師上る）,0,0,0,0,0,0

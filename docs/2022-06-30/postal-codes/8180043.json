@@ -1,0 +1,19 @@
+[
+    {
+        "local_government_code": "40217",
+        "postal_code_5digit": "818  ",
+        "postal_code_7digit": "8180043",
+        "prefecture_kana": "ﾌｸｵｶｹﾝ",
+        "address1_kana": "ﾁｸｼﾉｼ",
+        "address2_kana": "ﾑｻｼｶﾞｵｶ",
+        "prefecture_kanji": "福岡県",
+        "address1_kanji": "筑紫野市",
+        "address2_kanji": "むさしケ丘",
+        "is_address2_has_multiple_postal_code": "0",
+        "is_address2_has_multiple_sublocality": "0",
+        "is_address2_includes_chome": "1",
+        "is_postal_code_has_multiple_address2": "0",
+        "updated_type": "0",
+        "updated_reason_type": "0"
+    }
+]

@@ -1,0 +1,6 @@
+local_government_code,postal_code_5digit,postal_code_7digit,prefecture_kana,address1_kana,address2_kana,prefecture_kanji,address1_kanji,address2_kanji,is_address2_has_multiple_postal_code,is_address2_has_multiple_sublocality,is_address2_includes_chome,is_postal_code_has_multiple_address2,updated_type,updated_reason_type
+42214,85915,8591501,ﾅｶﾞｻｷｹﾝ,ﾐﾅﾐｼﾏﾊﾞﾗｼ,ﾌｶｴﾁｮｳｺｳ,長崎県,南島原市,深江町甲,0,0,0,0,0,0
+42214,85915,8591502,ﾅｶﾞｻｷｹﾝ,ﾐﾅﾐｼﾏﾊﾞﾗｼ,ﾌｶｴﾁｮｳｵﾂ,長崎県,南島原市,深江町乙,0,0,0,0,0,0
+42214,85915,8591503,ﾅｶﾞｻｷｹﾝ,ﾐﾅﾐｼﾏﾊﾞﾗｼ,ﾌｶｴﾁｮｳﾍｲ,長崎県,南島原市,深江町丙,0,0,0,0,0,0
+42214,85915,8591504,ﾅｶﾞｻｷｹﾝ,ﾐﾅﾐｼﾏﾊﾞﾗｼ,ﾌｶｴﾁｮｳﾃｲ,長崎県,南島原市,深江町丁,0,0,0,0,0,0
+42214,85915,8591505,ﾅｶﾞｻｷｹﾝ,ﾐﾅﾐｼﾏﾊﾞﾗｼ,ﾌｶｴﾁｮｳﾎﾞ,長崎県,南島原市,深江町戊,0,0,0,0,0,0
