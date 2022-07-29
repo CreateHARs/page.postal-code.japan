@@ -1,0 +1,8 @@
+local_government_code,postal_code_5digit,postal_code_7digit,prefecture_kana,address1_kana,address2_kana,prefecture_kanji,address1_kanji,address2_kanji,is_address2_has_multiple_postal_code,is_address2_has_multiple_sublocality,is_address2_includes_chome,is_postal_code_has_multiple_address2,updated_type,updated_reason_type
+32202,69703,6970301,ｼﾏﾈｹﾝ,ﾊﾏﾀﾞｼ,ｶﾅｷﾞﾁｮｳｵｲﾊﾞﾗ,島根県,浜田市,金城町追原,0,0,0,0,0,0
+32202,69703,6970302,ｼﾏﾈｹﾝ,ﾊﾏﾀﾞｼ,ｶﾅｷﾞﾁｮｳｲﾏﾌｸ,島根県,浜田市,金城町今福,0,0,0,0,0,0
+32202,69703,6970303,ｼﾏﾈｹﾝ,ﾊﾏﾀﾞｼ,ｶﾅｷﾞﾁｮｳｸｻﾞ,島根県,浜田市,金城町久佐,0,0,0,0,0,0
+32202,69703,6970304,ｼﾏﾈｹﾝ,ﾊﾏﾀﾞｼ,ｶﾅｷﾞﾁｮｳｳﾂｲ,島根県,浜田市,金城町宇津井,0,0,0,0,0,0
+32202,69703,6970305,ｼﾏﾈｹﾝ,ﾊﾏﾀﾞｼ,ｶﾅｷﾞﾁｮｳｲﾘﾉ,島根県,浜田市,金城町入野,0,0,0,0,0,0
+32202,69703,6970311,ｼﾏﾈｹﾝ,ﾊﾏﾀﾞｼ,ｻﾉﾁｮｳ,島根県,浜田市,佐野町,0,0,0,0,0,0
+32202,69703,6970312,ｼﾏﾈｹﾝ,ﾊﾏﾀﾞｼ,ｳﾂｲﾁｮｳ,島根県,浜田市,宇津井町,0,0,0,0,0,0

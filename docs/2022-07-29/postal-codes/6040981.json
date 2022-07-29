@@ -1,0 +1,53 @@
+[
+    {
+        "local_government_code": "26104",
+        "postal_code_5digit": "604  ",
+        "postal_code_7digit": "6040981",
+        "prefecture_kana": "ｷｮｳﾄﾌ",
+        "address1_kana": "ｷｮｳﾄｼﾅｶｷﾞｮｳｸ",
+        "address2_kana": "ﾋﾞｼｬﾓﾝﾁｮｳ",
+        "prefecture_kanji": "京都府",
+        "address1_kanji": "京都市中京区",
+        "address2_kanji": "毘沙門町（御幸町通丸太町下る、御幸町通竹屋町上る、丸太町通御幸町西入、",
+        "is_address2_has_multiple_postal_code": "0",
+        "is_address2_has_multiple_sublocality": "0",
+        "is_address2_includes_chome": "0",
+        "is_postal_code_has_multiple_address2": "0",
+        "updated_type": "0",
+        "updated_reason_type": "0"
+    },
+    {
+        "local_government_code": "26104",
+        "postal_code_5digit": "604  ",
+        "postal_code_7digit": "6040981",
+        "prefecture_kana": "ｷｮｳﾄﾌ",
+        "address1_kana": "ｷｮｳﾄｼﾅｶｷﾞｮｳｸ",
+        "address2_kana": "ﾋﾞｼｬﾓﾝﾁｮｳ",
+        "prefecture_kanji": "京都府",
+        "address1_kanji": "京都市中京区",
+        "address2_kanji": "丸太町通御幸町東入、竹屋町通御幸町西入、竹屋町通御幸町東入、",
+        "is_address2_has_multiple_postal_code": "0",
+        "is_address2_has_multiple_sublocality": "0",
+        "is_address2_includes_chome": "0",
+        "is_postal_code_has_multiple_address2": "0",
+        "updated_type": "0",
+        "updated_reason_type": "0"
+    },
+    {
+        "local_government_code": "26104",
+        "postal_code_5digit": "604  ",
+        "postal_code_7digit": "6040981",
+        "prefecture_kana": "ｷｮｳﾄﾌ",
+        "address1_kana": "ｷｮｳﾄｼﾅｶｷﾞｮｳｸ",
+        "address2_kana": "ﾋﾞｼｬﾓﾝﾁｮｳ",
+        "prefecture_kanji": "京都府",
+        "address1_kanji": "京都市中京区",
+        "address2_kanji": "竹屋町通麩屋町東入）",
+        "is_address2_has_multiple_postal_code": "0",
+        "is_address2_has_multiple_sublocality": "0",
+        "is_address2_includes_chome": "0",
+        "is_postal_code_has_multiple_address2": "0",
+        "updated_type": "0",
+        "updated_reason_type": "0"
+    }
+]

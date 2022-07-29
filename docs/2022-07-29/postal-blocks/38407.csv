@@ -1,0 +1,5 @@
+local_government_code,postal_code_5digit,postal_code_7digit,prefecture_kana,address1_kana,address2_kana,prefecture_kanji,address1_kanji,address2_kanji,is_address2_has_multiple_postal_code,is_address2_has_multiple_sublocality,is_address2_includes_chome,is_postal_code_has_multiple_address2,updated_type,updated_reason_type
+20309,38407,3840701,ﾅｶﾞﾉｹﾝ,ﾐﾅﾐｻｸｸﾞﾝｻｸﾎﾏﾁ,ﾊﾀ,長野県,南佐久郡佐久穂町,畑,0,0,0,0,0,0
+20309,38407,3840702,ﾅｶﾞﾉｹﾝ,ﾐﾅﾐｻｸｸﾞﾝｻｸﾎﾏﾁ,ﾎﾂﾞﾐ,長野県,南佐久郡佐久穂町,穂積,0,0,0,0,0,0
+20309,38407,3840703,ﾅｶﾞﾉｹﾝ,ﾐﾅﾐｻｸｸﾞﾝｻｸﾎﾏﾁ,ﾁﾖｻﾄ,長野県,南佐久郡佐久穂町,千代里,0,0,0,0,0,0
+20309,38407,3840704,ﾅｶﾞﾉｹﾝ,ﾐﾅﾐｻｸｸﾞﾝｻｸﾎﾏﾁ,ﾔｺｵﾘ,長野県,南佐久郡佐久穂町,八郡,0,0,0,0,0,0

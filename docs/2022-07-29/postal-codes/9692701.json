@@ -1,0 +1,53 @@
+[
+    {
+        "local_government_code": "07402",
+        "postal_code_5digit": "96927",
+        "postal_code_7digit": "9692701",
+        "prefecture_kana": "ﾌｸｼﾏｹﾝ",
+        "address1_kana": "ﾔﾏｸﾞﾝｷﾀｼｵﾊﾞﾗﾑﾗ",
+        "address2_kana": "ﾋﾊﾞﾗ(ｱｷﾓﾄ､ｱﾗｽﾅｻﾜﾔﾏ､ｳﾗﾊﾞﾝﾀﾞｲ､ｵｵﾌﾞﾀﾞｲﾗ､ｵｵﾌﾞﾀﾞｲﾗﾊﾗ､ｵﾉｶﾞﾜ､ｵﾉｶﾞﾜﾊﾗ､ｹﾝｶﾞﾐﾈ､",
+        "prefecture_kanji": "福島県",
+        "address1_kanji": "耶麻郡北塩原村",
+        "address2_kanji": "桧原（秋元、荒砂沢山、裏磐梯、大府平、大府平原、小野川、小野川原、剣ケ峯、",
+        "is_address2_has_multiple_postal_code": "1",
+        "is_address2_has_multiple_sublocality": "1",
+        "is_address2_includes_chome": "0",
+        "is_postal_code_has_multiple_address2": "0",
+        "updated_type": "0",
+        "updated_reason_type": "0"
+    },
+    {
+        "local_government_code": "07402",
+        "postal_code_5digit": "96927",
+        "postal_code_7digit": "9692701",
+        "prefecture_kana": "ﾌｸｼﾏｹﾝ",
+        "address1_kana": "ﾔﾏｸﾞﾝｷﾀｼｵﾊﾞﾗﾑﾗ",
+        "address2_kana": "ｺﾀｶﾓﾘ､ｺﾞｼｷﾇﾏ､ｼﾞﾝｸﾛｳｻﾜﾔﾏ､ｼﾞﾝｸﾛｳﾔﾏ､ｿﾊﾗﾔﾏ､ﾃﾗｻﾜﾔﾏ､ﾍﾋﾞﾀｲﾗﾊﾗﾔﾏ､ﾕﾀﾞｲﾗﾔﾏ､",
+        "prefecture_kanji": "福島県",
+        "address1_kanji": "耶麻郡北塩原村",
+        "address2_kanji": "狐鷹森、五色沼、甚九郎沢山、甚九郎山、曽原山、寺沢山、蛇平原山、湯平山、",
+        "is_address2_has_multiple_postal_code": "1",
+        "is_address2_has_multiple_sublocality": "1",
+        "is_address2_includes_chome": "0",
+        "is_postal_code_has_multiple_address2": "0",
+        "updated_type": "0",
+        "updated_reason_type": "0"
+    },
+    {
+        "local_government_code": "07402",
+        "postal_code_5digit": "96927",
+        "postal_code_7digit": "9692701",
+        "prefecture_kana": "ﾌｸｼﾏｹﾝ",
+        "address1_kana": "ﾔﾏｸﾞﾝｷﾀｼｵﾊﾞﾗﾑﾗ",
+        "address2_kana": "ﾔﾅﾍﾞｻﾜﾔﾏ)",
+        "prefecture_kanji": "福島県",
+        "address1_kanji": "耶麻郡北塩原村",
+        "address2_kanji": "簗部沢山）",
+        "is_address2_has_multiple_postal_code": "1",
+        "is_address2_has_multiple_sublocality": "1",
+        "is_address2_includes_chome": "0",
+        "is_postal_code_has_multiple_address2": "0",
+        "updated_type": "0",
+        "updated_reason_type": "0"
+    }
+]

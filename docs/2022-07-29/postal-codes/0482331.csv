@@ -1,0 +1,3 @@
+local_government_code,postal_code_5digit,postal_code_7digit,prefecture_kana,address1_kana,address2_kana,prefecture_kanji,address1_kanji,address2_kanji,is_address2_has_multiple_postal_code,is_address2_has_multiple_sublocality,is_address2_includes_chome,is_postal_code_has_multiple_address2,updated_type,updated_reason_type
+01407,04823,0482331,ﾎｯｶｲﾄﾞｳ,ﾖｲﾁｸﾞﾝﾆｷﾁｮｳ,ｵｵｴ(2ﾁｮｳﾒ651､662､668ﾊﾞﾝﾁ､3ﾁｮｳﾒ103､118､,北海道,余市郡仁木町,大江（２丁目６５１、６６２、６６８番地、３丁目１０３、１１８、,1,0,1,0,0,0
+01407,04823,0482331,ﾎｯｶｲﾄﾞｳ,ﾖｲﾁｸﾞﾝﾆｷﾁｮｳ,210､254､267､372､444､469ﾊﾞﾝﾁ),北海道,余市郡仁木町,２１０、２５４、２６７、３７２、４４４、４６９番地）,1,0,1,0,0,0

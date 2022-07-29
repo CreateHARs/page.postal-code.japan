@@ -1,0 +1,53 @@
+[
+    {
+        "local_government_code": "37341",
+        "postal_code_5digit": "76108",
+        "postal_code_7digit": "7610821",
+        "prefecture_kana": "ｶｶﾞﾜｹﾝ",
+        "address1_kana": "ｷﾀｸﾞﾝﾐｷﾁｮｳ",
+        "address2_kana": "ｶﾆﾜ",
+        "prefecture_kanji": "香川県",
+        "address1_kanji": "木田郡三木町",
+        "address2_kanji": "鹿庭",
+        "is_address2_has_multiple_postal_code": "0",
+        "is_address2_has_multiple_sublocality": "0",
+        "is_address2_includes_chome": "0",
+        "is_postal_code_has_multiple_address2": "0",
+        "updated_type": "0",
+        "updated_reason_type": "0"
+    },
+    {
+        "local_government_code": "37341",
+        "postal_code_5digit": "76108",
+        "postal_code_7digit": "7610822",
+        "prefecture_kana": "ｶｶﾞﾜｹﾝ",
+        "address1_kana": "ｷﾀｸﾞﾝﾐｷﾁｮｳ",
+        "address2_kana": "ｵｸﾔﾏ",
+        "prefecture_kanji": "香川県",
+        "address1_kanji": "木田郡三木町",
+        "address2_kanji": "奥山",
+        "is_address2_has_multiple_postal_code": "0",
+        "is_address2_has_multiple_sublocality": "0",
+        "is_address2_includes_chome": "0",
+        "is_postal_code_has_multiple_address2": "0",
+        "updated_type": "0",
+        "updated_reason_type": "0"
+    },
+    {
+        "local_government_code": "37341",
+        "postal_code_5digit": "76923",
+        "postal_code_7digit": "7610823",
+        "prefecture_kana": "ｶｶﾞﾜｹﾝ",
+        "address1_kana": "ｷﾀｸﾞﾝﾐｷﾁｮｳ",
+        "address2_kana": "ｲﾄﾞ",
+        "prefecture_kanji": "香川県",
+        "address1_kanji": "木田郡三木町",
+        "address2_kanji": "井戸",
+        "is_address2_has_multiple_postal_code": "1",
+        "is_address2_has_multiple_sublocality": "1",
+        "is_address2_includes_chome": "0",
+        "is_postal_code_has_multiple_address2": "0",
+        "updated_type": "0",
+        "updated_reason_type": "0"
+    }
+]

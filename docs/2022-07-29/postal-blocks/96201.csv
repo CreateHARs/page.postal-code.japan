@@ -1,0 +1,7 @@
+local_government_code,postal_code_5digit,postal_code_7digit,prefecture_kana,address1_kana,address2_kana,prefecture_kanji,address1_kanji,address2_kanji,is_address2_has_multiple_postal_code,is_address2_has_multiple_sublocality,is_address2_includes_chome,is_postal_code_has_multiple_address2,updated_type,updated_reason_type
+07207,96201,9620121,ﾌｸｼﾏｹﾝ,ｽｶｶﾞﾜｼ,ﾖｺﾀ,福島県,須賀川市,横田,0,1,0,0,0,0
+07207,96201,9620122,ﾌｸｼﾏｹﾝ,ｽｶｶﾞﾜｼ,ｷﾉｻｷ,福島県,須賀川市,木之崎,0,1,0,0,0,0
+07207,96201,9620123,ﾌｸｼﾏｹﾝ,ｽｶｶﾞﾜｼ,ﾔﾀﾉ,福島県,須賀川市,矢田野,0,1,0,0,0,0
+07207,96201,9620124,ﾌｸｼﾏｹﾝ,ｽｶｶﾞﾜｼ,ﾎｺﾂｷ,福島県,須賀川市,桙衝,0,1,0,0,0,0
+07207,96201,9620125,ﾌｸｼﾏｹﾝ,ｽｶｶﾞﾜｼ,ﾎﾘｺﾞﾒ,福島県,須賀川市,堀込,0,1,0,0,0,0
+07207,96201,9620126,ﾌｸｼﾏｹﾝ,ｽｶｶﾞﾜｼ,ﾊﾅﾉｻﾄ,福島県,須賀川市,花の里,0,0,0,0,0,0
