@@ -1,0 +1,5 @@
+local_government_code,postal_code_5digit,postal_code_7digit,prefecture_kana,address1_kana,address2_kana,prefecture_kanji,address1_kanji,address2_kanji,is_address2_has_multiple_postal_code,is_address2_has_multiple_sublocality,is_address2_includes_chome,is_postal_code_has_multiple_address2,updated_type,updated_reason_type
+20201,38101,3810101,ﾅｶﾞﾉｹﾝ,ﾅｶﾞﾉｼ,ﾜｶﾎﾜﾀｳﾁ,長野県,長野市,若穂綿内,0,0,0,0,0,0
+20201,38101,3810102,ﾅｶﾞﾉｹﾝ,ﾅｶﾞﾉｼ,ﾜｶﾎﾎｼﾅ,長野県,長野市,若穂保科,0,0,0,0,0,0
+20201,38101,3810103,ﾅｶﾞﾉｹﾝ,ﾅｶﾞﾉｼ,ﾜｶﾎｶﾜﾀﾞ,長野県,長野市,若穂川田,0,0,0,0,0,0
+20201,38101,3810104,ﾅｶﾞﾉｹﾝ,ﾅｶﾞﾉｼ,ﾜｶﾎｳｼｼﾞﾏ(ｿﾉﾀ),長野県,長野市,若穂牛島（その他）,1,0,0,0,0,0

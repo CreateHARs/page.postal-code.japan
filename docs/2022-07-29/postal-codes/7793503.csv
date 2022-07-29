@@ -1,0 +1,6 @@
+local_government_code,postal_code_5digit,postal_code_7digit,prefecture_kana,address1_kana,address2_kana,prefecture_kanji,address1_kanji,address2_kanji,is_address2_has_multiple_postal_code,is_address2_has_multiple_sublocality,is_address2_includes_chome,is_postal_code_has_multiple_address2,updated_type,updated_reason_type
+36205,77935,7793503,ﾄｸｼﾏｹﾝ,ﾖｼﾉｶﾞﾜｼ,ﾐｻﾄｶﾜﾏﾀ,徳島県,吉野川市,美郷川俣,0,0,0,1,0,0
+36205,77935,7793503,ﾄｸｼﾏｹﾝ,ﾖｼﾉｶﾞﾜｼ,ﾐｻﾄｼﾅﾉ,徳島県,吉野川市,美郷品野,0,0,0,1,0,0
+36205,77935,7793503,ﾄｸｼﾏｹﾝ,ﾖｼﾉｶﾞﾜｼ,ﾐｻﾄﾀｶﾉｵ,徳島県,吉野川市,美郷高野尾,0,0,0,1,0,0
+36205,77935,7793503,ﾄｸｼﾏｹﾝ,ﾖｼﾉｶﾞﾜｼ,ﾐｻﾄﾅｶｽｼﾞ,徳島県,吉野川市,美郷中筋,0,0,0,1,0,0
+36205,77935,7793503,ﾄｸｼﾏｹﾝ,ﾖｼﾉｶﾞﾜｼ,ﾐｻﾄﾕﾄﾞﾉ,徳島県,吉野川市,美郷湯殿,0,0,0,1,0,0

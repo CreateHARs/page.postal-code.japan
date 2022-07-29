@@ -1,0 +1,9 @@
+local_government_code,postal_code_5digit,postal_code_7digit,prefecture_kana,address1_kana,address2_kana,prefecture_kanji,address1_kanji,address2_kanji,is_address2_has_multiple_postal_code,is_address2_has_multiple_sublocality,is_address2_includes_chome,is_postal_code_has_multiple_address2,updated_type,updated_reason_type
+30201,64001,6400101,ﾜｶﾔﾏｹﾝ,ﾜｶﾔﾏｼ,ｵｵｶﾜ,和歌山県,和歌山市,大川,0,0,0,0,0,0
+30201,64001,6400102,ﾜｶﾔﾏｹﾝ,ﾜｶﾔﾏｼ,ﾐﾔﾏ,和歌山県,和歌山市,深山,0,0,0,0,0,0
+30201,64001,6400103,ﾜｶﾔﾏｹﾝ,ﾜｶﾔﾏｼ,ｶﾀﾞ,和歌山県,和歌山市,加太,0,0,0,0,0,0
+30201,64001,6400111,ﾜｶﾔﾏｹﾝ,ﾜｶﾔﾏｼ,ﾋﾉ,和歌山県,和歌山市,日野,0,0,0,0,0,0
+30201,64001,6400112,ﾜｶﾔﾏｹﾝ,ﾜｶﾔﾏｼ,ﾆｼﾉｼｮｳ,和歌山県,和歌山市,西庄,0,0,0,0,0,0
+30201,64001,6400113,ﾜｶﾔﾏｹﾝ,ﾜｶﾔﾏｼ,ﾓﾄﾜｷ,和歌山県,和歌山市,本脇,0,0,0,0,0,0
+30201,64001,6400114,ﾜｶﾔﾏｹﾝ,ﾜｶﾔﾏｼ,ｲｿﾉｳﾗ,和歌山県,和歌山市,磯の浦,0,0,0,0,0,0
+30201,64001,6400115,ﾜｶﾔﾏｹﾝ,ﾜｶﾔﾏｼ,ﾂﾂｼﾞｶﾞｵｶ,和歌山県,和歌山市,つつじが丘,0,0,1,0,0,0

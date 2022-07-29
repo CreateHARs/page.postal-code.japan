@@ -1,0 +1,19 @@
+[
+    {
+        "local_government_code": "08217",
+        "postal_code_5digit": "302  ",
+        "postal_code_7digit": "3020016",
+        "prefecture_kana": "ｲﾊﾞﾗｷｹﾝ",
+        "address1_kana": "ﾄﾘﾃﾞｼ",
+        "address2_kana": "ﾅｶﾊﾗﾁｮｳ",
+        "prefecture_kanji": "茨城県",
+        "address1_kanji": "取手市",
+        "address2_kanji": "中原町",
+        "is_address2_has_multiple_postal_code": "0",
+        "is_address2_has_multiple_sublocality": "0",
+        "is_address2_includes_chome": "0",
+        "is_postal_code_has_multiple_address2": "0",
+        "updated_type": "0",
+        "updated_reason_type": "0"
+    }
+]
