@@ -1,0 +1,19 @@
+[
+    {
+        "local_government_code": "04302",
+        "postal_code_5digit": "98905",
+        "postal_code_7digit": "9890501",
+        "prefecture_kana": "ﾐﾔｷﾞｹﾝ",
+        "address1_kana": "ｶｯﾀｸﾞﾝｼﾁｶｼｭｸﾏﾁ",
+        "address2_kana": "ｶｼﾜｷﾞﾔﾏ",
+        "prefecture_kanji": "宮城県",
+        "address1_kanji": "刈田郡七ヶ宿町",
+        "address2_kanji": "柏木山",
+        "is_address2_has_multiple_postal_code": "0",
+        "is_address2_has_multiple_sublocality": "0",
+        "is_address2_includes_chome": "0",
+        "is_postal_code_has_multiple_address2": "0",
+        "updated_type": "0",
+        "updated_reason_type": "0"
+    }
+]

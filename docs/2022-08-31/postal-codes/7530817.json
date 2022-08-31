@@ -1,0 +1,19 @@
+[
+    {
+        "local_government_code": "35203",
+        "postal_code_5digit": "753  ",
+        "postal_code_7digit": "7530817",
+        "prefecture_kana": "ﾔﾏｸﾞﾁｹﾝ",
+        "address1_kana": "ﾔﾏｸﾞﾁｼ",
+        "address2_kana": "ﾖｼｷｱｶﾀﾞ",
+        "prefecture_kanji": "山口県",
+        "address1_kanji": "山口市",
+        "address2_kanji": "吉敷赤田",
+        "is_address2_has_multiple_postal_code": "0",
+        "is_address2_has_multiple_sublocality": "0",
+        "is_address2_includes_chome": "1",
+        "is_postal_code_has_multiple_address2": "0",
+        "updated_type": "0",
+        "updated_reason_type": "0"
+    }
+]

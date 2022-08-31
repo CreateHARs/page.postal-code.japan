@@ -1,0 +1,5 @@
+local_government_code,postal_code_5digit,postal_code_7digit,prefecture_kana,address1_kana,address2_kana,prefecture_kanji,address1_kanji,address2_kanji,is_address2_has_multiple_postal_code,is_address2_has_multiple_sublocality,is_address2_includes_chome,is_postal_code_has_multiple_address2,updated_type,updated_reason_type
+46215,89515,8951501,ｶｺﾞｼﾏｹﾝ,ｻﾂﾏｾﾝﾀﾞｲｼ,ｹﾄﾞｳｲﾝﾁｮｳｼﾓﾃﾞ,鹿児島県,薩摩川内市,祁答院町下手,0,0,0,0,0,0
+46215,89515,8951502,ｶｺﾞｼﾏｹﾝ,ｻﾂﾏｾﾝﾀﾞｲｼ,ｹﾄﾞｳｲﾝﾁｮｳｲﾑﾀ,鹿児島県,薩摩川内市,祁答院町藺牟田,0,0,0,0,0,0
+46215,89515,8951503,ｶｺﾞｼﾏｹﾝ,ｻﾂﾏｾﾝﾀﾞｲｼ,ｹﾄﾞｳｲﾝﾁｮｳｶﾐﾃﾞ,鹿児島県,薩摩川内市,祁答院町上手,0,0,0,0,0,0
+46215,89515,8951504,ｶｺﾞｼﾏｹﾝ,ｻﾂﾏｾﾝﾀﾞｲｼ,ｹﾄﾞｳｲﾝﾁｮｳｸﾛｷ,鹿児島県,薩摩川内市,祁答院町黒木,0,0,0,0,0,0

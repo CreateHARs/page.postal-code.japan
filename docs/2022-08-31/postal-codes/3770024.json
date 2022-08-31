@@ -1,0 +1,19 @@
+[
+    {
+        "local_government_code": "10208",
+        "postal_code_5digit": "377  ",
+        "postal_code_7digit": "3770024",
+        "prefecture_kana": "ｸﾞﾝﾏｹﾝ",
+        "address1_kana": "ｼﾌﾞｶﾜｼ",
+        "address2_kana": "ｳﾊﾞｼﾏ",
+        "prefecture_kanji": "群馬県",
+        "address1_kanji": "渋川市",
+        "address2_kanji": "祖母島",
+        "is_address2_has_multiple_postal_code": "0",
+        "is_address2_has_multiple_sublocality": "0",
+        "is_address2_includes_chome": "0",
+        "is_postal_code_has_multiple_address2": "0",
+        "updated_type": "0",
+        "updated_reason_type": "0"
+    }
+]

@@ -1,0 +1,19 @@
+[
+    {
+        "local_government_code": "43348",
+        "postal_code_5digit": "86144",
+        "postal_code_7digit": "8614422",
+        "prefecture_kana": "ｸﾏﾓﾄｹﾝ",
+        "address1_kana": "ｼﾓﾏｼｷｸﾞﾝﾐｻﾄﾏﾁ",
+        "address2_kana": "ﾅｶﾞｵﾉ",
+        "prefecture_kanji": "熊本県",
+        "address1_kanji": "下益城郡美里町",
+        "address2_kanji": "長尾野",
+        "is_address2_has_multiple_postal_code": "0",
+        "is_address2_has_multiple_sublocality": "0",
+        "is_address2_includes_chome": "0",
+        "is_postal_code_has_multiple_address2": "0",
+        "updated_type": "0",
+        "updated_reason_type": "0"
+    }
+]

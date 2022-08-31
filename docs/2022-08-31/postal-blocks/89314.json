@@ -1,0 +1,36 @@
+[
+    {
+        "local_government_code": "46492",
+        "postal_code_5digit": "89314",
+        "postal_code_7digit": "8931401",
+        "prefecture_kana": "ｶｺﾞｼﾏｹﾝ",
+        "address1_kana": "ｷﾓﾂｷｸﾞﾝｷﾓﾂｷﾁｮｳ",
+        "address2_kana": "ｷﾀｶﾀ",
+        "prefecture_kanji": "鹿児島県",
+        "address1_kanji": "肝属郡肝付町",
+        "address2_kanji": "北方",
+        "is_address2_has_multiple_postal_code": "0",
+        "is_address2_has_multiple_sublocality": "0",
+        "is_address2_includes_chome": "0",
+        "is_postal_code_has_multiple_address2": "0",
+        "updated_type": "0",
+        "updated_reason_type": "0"
+    },
+    {
+        "local_government_code": "46492",
+        "postal_code_5digit": "89314",
+        "postal_code_7digit": "8931402",
+        "prefecture_kana": "ｶｺﾞｼﾏｹﾝ",
+        "address1_kana": "ｷﾓﾂｷｸﾞﾝｷﾓﾂｷﾁｮｳ",
+        "address2_kana": "ﾐﾅﾐｶﾀ",
+        "prefecture_kanji": "鹿児島県",
+        "address1_kanji": "肝属郡肝付町",
+        "address2_kanji": "南方",
+        "is_address2_has_multiple_postal_code": "0",
+        "is_address2_has_multiple_sublocality": "0",
+        "is_address2_includes_chome": "0",
+        "is_postal_code_has_multiple_address2": "0",
+        "updated_type": "0",
+        "updated_reason_type": "0"
+    }
+]
