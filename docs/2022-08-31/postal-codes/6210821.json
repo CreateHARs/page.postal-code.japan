@@ -1,0 +1,19 @@
+[
+    {
+        "local_government_code": "26206",
+        "postal_code_5digit": "621  ",
+        "postal_code_7digit": "6210821",
+        "prefecture_kana": "ｷｮｳﾄﾌ",
+        "address1_kana": "ｶﾒｵｶｼ",
+        "address2_kana": "ｼﾉﾁｮｳｶｾﾊﾞﾗ",
+        "prefecture_kanji": "京都府",
+        "address1_kanji": "亀岡市",
+        "address2_kanji": "篠町柏原",
+        "is_address2_has_multiple_postal_code": "0",
+        "is_address2_has_multiple_sublocality": "1",
+        "is_address2_includes_chome": "0",
+        "is_postal_code_has_multiple_address2": "0",
+        "updated_type": "0",
+        "updated_reason_type": "0"
+    }
+]

@@ -1,0 +1,3 @@
+local_government_code,postal_code_5digit,postal_code_7digit,prefecture_kana,address1_kana,address2_kana,prefecture_kanji,address1_kanji,address2_kanji,is_address2_has_multiple_postal_code,is_address2_has_multiple_sublocality,is_address2_includes_chome,is_postal_code_has_multiple_address2,updated_type,updated_reason_type
+28209,66953,6695328,ﾋｮｳｺﾞｹﾝ,ﾄﾖｵｶｼ,ﾋﾀﾞｶﾁｮｳﾆｼｼﾊﾞ,兵庫県,豊岡市,日高町西芝,0,0,0,1,0,0
+28209,66953,6695328,ﾋｮｳｺﾞｹﾝ,ﾄﾖｵｶｼ,ﾋﾀﾞｶﾁｮｳﾋｶﾞｼｼﾊﾞ,兵庫県,豊岡市,日高町東芝,0,0,0,1,0,0

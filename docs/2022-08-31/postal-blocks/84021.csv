@@ -1,0 +1,7 @@
+local_government_code,postal_code_5digit,postal_code_7digit,prefecture_kana,address1_kana,address2_kana,prefecture_kanji,address1_kanji,address2_kanji,is_address2_has_multiple_postal_code,is_address2_has_multiple_sublocality,is_address2_includes_chome,is_postal_code_has_multiple_address2,updated_type,updated_reason_type
+41201,84021,8402101,ｻｶﾞｹﾝ,ｻｶﾞｼ,ﾓﾛﾄﾞﾐﾁｮｳｵｵﾄﾞｳ,佐賀県,佐賀市,諸富町大堂,0,0,0,0,0,0
+41201,84021,8402102,ｻｶﾞｹﾝ,ｻｶﾞｼ,ﾓﾛﾄﾞﾐﾁｮｳﾀﾒｼｹﾞ,佐賀県,佐賀市,諸富町為重,0,0,0,0,0,0
+41201,84021,8402103,ｻｶﾞｹﾝ,ｻｶﾞｼ,ﾓﾛﾄﾞﾐﾁｮｳﾃﾗｲﾂ,佐賀県,佐賀市,諸富町寺井津,0,0,0,0,0,0
+41201,84021,8402104,ｻｶﾞｹﾝ,ｻｶﾞｼ,ﾓﾛﾄﾞﾐﾁｮｳﾄｸﾄﾞﾐ,佐賀県,佐賀市,諸富町徳富,0,0,0,0,0,0
+41201,84021,8402105,ｻｶﾞｹﾝ,ｻｶﾞｼ,ﾓﾛﾄﾞﾐﾁｮｳﾓﾛﾄﾞﾐﾂ,佐賀県,佐賀市,諸富町諸富津,0,0,0,0,0,0
+41201,84021,8402106,ｻｶﾞｹﾝ,ｻｶﾞｼ,ﾓﾛﾄﾞﾐﾁｮｳﾔﾏﾘｮｳ,佐賀県,佐賀市,諸富町山領,0,0,0,0,0,0

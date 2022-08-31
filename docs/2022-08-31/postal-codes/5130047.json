@@ -1,0 +1,19 @@
+[
+    {
+        "local_government_code": "24207",
+        "postal_code_5digit": "513  ",
+        "postal_code_7digit": "5130047",
+        "prefecture_kana": "ﾐｴｹﾝ",
+        "address1_kana": "ｽｽﾞｶｼ",
+        "address2_kana": "ﾐﾅﾐﾎﾘｴﾁｮｳ",
+        "prefecture_kanji": "三重県",
+        "address1_kanji": "鈴鹿市",
+        "address2_kanji": "南堀江町",
+        "is_address2_has_multiple_postal_code": "0",
+        "is_address2_has_multiple_sublocality": "0",
+        "is_address2_includes_chome": "0",
+        "is_postal_code_has_multiple_address2": "0",
+        "updated_type": "0",
+        "updated_reason_type": "0"
+    }
+]

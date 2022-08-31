@@ -1,0 +1,53 @@
+[
+    {
+        "local_government_code": "02442",
+        "postal_code_5digit": "03915",
+        "postal_code_7digit": "0391539",
+        "prefecture_kana": "ｱｵﾓﾘｹﾝ",
+        "address1_kana": "ｻﾝﾉﾍｸﾞﾝｺﾞﾉﾍﾏﾁ",
+        "address2_kana": "ｲｼｻﾞﾜｻｶｲ",
+        "prefecture_kanji": "青森県",
+        "address1_kanji": "三戸郡五戸町",
+        "address2_kanji": "石沢境",
+        "is_address2_has_multiple_postal_code": "0",
+        "is_address2_has_multiple_sublocality": "0",
+        "is_address2_includes_chome": "0",
+        "is_postal_code_has_multiple_address2": "1",
+        "updated_type": "0",
+        "updated_reason_type": "0"
+    },
+    {
+        "local_government_code": "02442",
+        "postal_code_5digit": "03915",
+        "postal_code_7digit": "0391539",
+        "prefecture_kana": "ｱｵﾓﾘｹﾝ",
+        "address1_kana": "ｻﾝﾉﾍｸﾞﾝｺﾞﾉﾍﾏﾁ",
+        "address2_kana": "ﾅｶﾉｻﾜ",
+        "prefecture_kanji": "青森県",
+        "address1_kanji": "三戸郡五戸町",
+        "address2_kanji": "中ノ沢",
+        "is_address2_has_multiple_postal_code": "0",
+        "is_address2_has_multiple_sublocality": "0",
+        "is_address2_includes_chome": "0",
+        "is_postal_code_has_multiple_address2": "1",
+        "updated_type": "0",
+        "updated_reason_type": "0"
+    },
+    {
+        "local_government_code": "02442",
+        "postal_code_5digit": "03915",
+        "postal_code_7digit": "0391539",
+        "prefecture_kana": "ｱｵﾓﾘｹﾝ",
+        "address1_kana": "ｻﾝﾉﾍｸﾞﾝｺﾞﾉﾍﾏﾁ",
+        "address2_kana": "ﾅｶﾉｻﾜﾆｼﾊﾘ",
+        "prefecture_kanji": "青森県",
+        "address1_kanji": "三戸郡五戸町",
+        "address2_kanji": "中ノ沢西張",
+        "is_address2_has_multiple_postal_code": "0",
+        "is_address2_has_multiple_sublocality": "0",
+        "is_address2_includes_chome": "0",
+        "is_postal_code_has_multiple_address2": "1",
+        "updated_type": "0",
+        "updated_reason_type": "0"
+    }
+]

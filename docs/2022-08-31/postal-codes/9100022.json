@@ -1,0 +1,19 @@
+[
+    {
+        "local_government_code": "18201",
+        "postal_code_5digit": "910  ",
+        "postal_code_7digit": "9100022",
+        "prefecture_kana": "ﾌｸｲｹﾝ",
+        "address1_kana": "ﾌｸｲｼ",
+        "address2_kana": "ｶｹﾞﾂ",
+        "prefecture_kanji": "福井県",
+        "address1_kanji": "福井市",
+        "address2_kanji": "花月",
+        "is_address2_has_multiple_postal_code": "0",
+        "is_address2_has_multiple_sublocality": "0",
+        "is_address2_includes_chome": "1",
+        "is_postal_code_has_multiple_address2": "0",
+        "updated_type": "0",
+        "updated_reason_type": "0"
+    }
+]

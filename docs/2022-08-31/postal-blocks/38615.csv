@@ -1,0 +1,7 @@
+local_government_code,postal_code_5digit,postal_code_7digit,prefecture_kana,address1_kana,address2_kana,prefecture_kanji,address1_kanji,address2_kanji,is_address2_has_multiple_postal_code,is_address2_has_multiple_sublocality,is_address2_includes_chome,is_postal_code_has_multiple_address2,updated_type,updated_reason_type
+20203,38615,3861541,ﾅｶﾞﾉｹﾝ,ｳｴﾀﾞｼ,ｶﾐﾑﾛｶﾞ,長野県,上田市,上室賀,0,0,0,0,0,0
+20203,38615,3861542,ﾅｶﾞﾉｹﾝ,ｳｴﾀﾞｼ,ｼﾓﾑﾛｶﾞ,長野県,上田市,下室賀,0,0,0,0,0,0
+20203,38615,3861543,ﾅｶﾞﾉｹﾝ,ｳｴﾀﾞｼ,ｵｶ,長野県,上田市,岡,0,0,0,0,0,0
+20203,38615,3861544,ﾅｶﾞﾉｹﾝ,ｳｴﾀﾞｼ,ﾆｺﾀﾞ,長野県,上田市,仁古田,0,0,0,0,0,0
+20203,38615,3861545,ﾅｶﾞﾉｹﾝ,ｳｴﾀﾞｼ,ｺｳﾄﾞ,長野県,上田市,越戸,0,0,0,0,0,0
+20203,38615,3861546,ﾅｶﾞﾉｹﾝ,ｳｴﾀﾞｼ,ｳﾗﾉ,長野県,上田市,浦野,0,0,0,0,0,0

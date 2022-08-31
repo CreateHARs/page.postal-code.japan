@@ -1,0 +1,19 @@
+[
+    {
+        "local_government_code": "24343",
+        "postal_code_5digit": "512  ",
+        "postal_code_7digit": "5108101",
+        "prefecture_kana": "ﾐｴｹﾝ",
+        "address1_kana": "ﾐｴｸﾞﾝｱｻﾋﾁｮｳ",
+        "address2_kana": "ﾅｵ",
+        "prefecture_kanji": "三重県",
+        "address1_kanji": "三重郡朝日町",
+        "address2_kanji": "縄生",
+        "is_address2_has_multiple_postal_code": "0",
+        "is_address2_has_multiple_sublocality": "0",
+        "is_address2_includes_chome": "0",
+        "is_postal_code_has_multiple_address2": "0",
+        "updated_type": "0",
+        "updated_reason_type": "0"
+    }
+]
