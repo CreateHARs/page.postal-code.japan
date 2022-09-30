@@ -1,0 +1,7 @@
+local_government_code,postal_code_5digit,postal_code_7digit,prefecture_kana,address1_kana,address2_kana,prefecture_kanji,address1_kanji,address2_kanji,is_address2_has_multiple_postal_code,is_address2_has_multiple_sublocality,is_address2_includes_chome,is_postal_code_has_multiple_address2,updated_type,updated_reason_type
+07447,96962,9696263,ﾌｸｼﾏｹﾝ,ｵｵﾇﾏｸﾞﾝｱｲﾂﾞﾐｻﾄﾏﾁ,ｾｲﾘｭｳｼﾞｷﾀ,福島県,大沼郡会津美里町,清竜寺北,0,0,0,1,0,0
+07447,96962,9696263,ﾌｸｼﾏｹﾝ,ｵｵﾇﾏｸﾞﾝｱｲﾂﾞﾐｻﾄﾏﾁ,ﾐﾔｷﾀ,福島県,大沼郡会津美里町,宮北,0,0,0,1,0,0
+07447,96962,9696263,ﾌｸｼﾏｹﾝ,ｵｵﾇﾏｸﾞﾝｱｲﾂﾞﾐｻﾄﾏﾁ,ﾐﾔﾊﾞﾔｼ,福島県,大沼郡会津美里町,宮林,0,0,0,1,0,0
+07447,96962,9696263,ﾌｸｼﾏｹﾝ,ｵｵﾇﾏｸﾞﾝｱｲﾂﾞﾐｻﾄﾏﾁ,ﾐﾔﾊﾞﾔｼｺｳ,福島県,大沼郡会津美里町,宮林甲,0,0,0,1,0,0
+07447,96962,9696263,ﾌｸｼﾏｹﾝ,ｵｵﾇﾏｸﾞﾝｱｲﾂﾞﾐｻﾄﾏﾁ,ﾓﾝｼﾞｭﾆｼ,福島県,大沼郡会津美里町,文珠西,0,0,0,1,0,0
+07447,96962,9696263,ﾌｸｼﾏｹﾝ,ｵｵﾇﾏｸﾞﾝｱｲﾂﾞﾐｻﾄﾏﾁ,ﾓﾝｼﾞｭﾋｶﾞｼ,福島県,大沼郡会津美里町,文珠東,0,0,0,1,0,0

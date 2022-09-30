@@ -1,0 +1,8 @@
+local_government_code,postal_code_5digit,postal_code_7digit,prefecture_kana,address1_kana,address2_kana,prefecture_kanji,address1_kanji,address2_kanji,is_address2_has_multiple_postal_code,is_address2_has_multiple_sublocality,is_address2_includes_chome,is_postal_code_has_multiple_address2,updated_type,updated_reason_type
+20217,38403,3840301,ﾅｶﾞﾉｹﾝ,ｻｸｼ,ｳｽﾀﾞ,長野県,佐久市,臼田,0,0,0,0,0,0
+20217,38403,3840302,ﾅｶﾞﾉｹﾝ,ｻｸｼ,ｶﾂﾏ,長野県,佐久市,勝間,0,0,0,0,0,0
+20217,38403,3840303,ﾅｶﾞﾉｹﾝ,ｻｸｼ,ｼﾓｵﾀｷﾞﾘ,長野県,佐久市,下小田切,0,0,0,0,0,0
+20217,38403,3840304,ﾅｶﾞﾉｹﾝ,ｻｸｼ,ｷﾀｶﾞﾜ,長野県,佐久市,北川,0,0,0,0,0,0
+20217,38403,3840305,ﾅｶﾞﾉｹﾝ,ｻｸｼ,ﾅｶｵﾀｷﾞﾘ,長野県,佐久市,中小田切,0,0,0,0,0,0
+20217,38403,3840306,ﾅｶﾞﾉｹﾝ,ｻｸｼ,ｶﾐｵﾀｷﾞﾘ,長野県,佐久市,上小田切,0,0,0,0,0,0
+20217,38403,3840307,ﾅｶﾞﾉｹﾝ,ｻｸｼ,ﾕﾊﾗ,長野県,佐久市,湯原,0,0,0,0,0,0

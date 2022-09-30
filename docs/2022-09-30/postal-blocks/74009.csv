@@ -1,0 +1,5 @@
+local_government_code,postal_code_5digit,postal_code_7digit,prefecture_kana,address1_kana,address2_kana,prefecture_kanji,address1_kanji,address2_kanji,is_address2_has_multiple_postal_code,is_address2_has_multiple_sublocality,is_address2_includes_chome,is_postal_code_has_multiple_address2,updated_type,updated_reason_type
+35208,74009,7400901,ﾔﾏｸﾞﾁｹﾝ,ｲﾜｸﾆｼ,ﾆｼｷﾏﾁｳｻ,山口県,岩国市,錦町宇佐,0,0,0,0,0,0
+35208,74009,7400902,ﾔﾏｸﾞﾁｹﾝ,ｲﾜｸﾆｼ,ﾆｼｷﾏﾁｳｻｺﾞｳ(ｿﾉﾀ),山口県,岩国市,錦町宇佐郷（その他）,1,0,0,0,0,0
+35208,74009,7400903,ﾔﾏｸﾞﾁｹﾝ,ｲﾜｸﾆｼ,ﾆｼｷﾏﾁｵｵﾊﾗ,山口県,岩国市,錦町大原,0,0,0,0,0,0
+35208,74009,7400904,ﾔﾏｸﾞﾁｹﾝ,ｲﾜｸﾆｼ,ﾆｼｷﾏﾁｳｻｺﾞｳ(ﾑｶﾀｵ),山口県,岩国市,錦町宇佐郷（向峠）,1,0,0,0,0,0

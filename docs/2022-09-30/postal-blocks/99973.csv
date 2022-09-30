@@ -1,0 +1,7 @@
+local_government_code,postal_code_5digit,postal_code_7digit,prefecture_kana,address1_kana,address2_kana,prefecture_kanji,address1_kanji,address2_kanji,is_address2_has_multiple_postal_code,is_address2_has_multiple_sublocality,is_address2_includes_chome,is_postal_code_has_multiple_address2,updated_type,updated_reason_type
+06203,99973,9997311,ﾔﾏｶﾞﾀｹﾝ,ﾂﾙｵｶｼ,ｽｶﾞﾉﾀﾞｲ,山形県,鶴岡市,菅野代,0,1,0,0,0,0
+06203,99973,9997312,ﾔﾏｶﾞﾀｹﾝ,ﾂﾙｵｶｼ,ｱﾂﾐｶﾞﾜ,山形県,鶴岡市,温海川,0,1,0,0,0,0
+06203,99973,9997313,ﾔﾏｶﾞﾀｹﾝ,ﾂﾙｵｶｼ,ｷﾉﾏﾀ,山形県,鶴岡市,木野俣,0,1,0,0,0,0
+06203,99973,9997314,ﾔﾏｶﾞﾀｹﾝ,ﾂﾙｵｶｼ,ｺｴｻﾜ,山形県,鶴岡市,越沢,0,1,0,0,0,0
+06203,99973,9997315,ﾔﾏｶﾞﾀｹﾝ,ﾂﾙｵｶｼ,ｾｷｶﾞﾜ,山形県,鶴岡市,関川,0,1,0,0,0,0
+06203,99973,9997316,ﾔﾏｶﾞﾀｹﾝ,ﾂﾙｵｶｼ,ｵｸﾞﾆ,山形県,鶴岡市,小国,0,1,0,0,0,0

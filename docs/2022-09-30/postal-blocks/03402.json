@@ -1,0 +1,53 @@
+[
+    {
+        "local_government_code": "02206",
+        "postal_code_5digit": "03402",
+        "postal_code_7digit": "0340211",
+        "prefecture_kana": "ｱｵﾓﾘｹﾝ",
+        "address1_kana": "ﾄﾜﾀﾞｼ",
+        "address2_kana": "ｵｵﾌﾄﾞｳ",
+        "prefecture_kanji": "青森県",
+        "address1_kanji": "十和田市",
+        "address2_kanji": "大不動",
+        "is_address2_has_multiple_postal_code": "0",
+        "is_address2_has_multiple_sublocality": "1",
+        "is_address2_includes_chome": "0",
+        "is_postal_code_has_multiple_address2": "0",
+        "updated_type": "0",
+        "updated_reason_type": "0"
+    },
+    {
+        "local_government_code": "02206",
+        "postal_code_5digit": "03402",
+        "postal_code_7digit": "0340212",
+        "prefecture_kana": "ｱｵﾓﾘｹﾝ",
+        "address1_kana": "ﾄﾜﾀﾞｼ",
+        "address2_kana": "ﾏｲﾀ",
+        "prefecture_kanji": "青森県",
+        "address1_kanji": "十和田市",
+        "address2_kanji": "米田",
+        "is_address2_has_multiple_postal_code": "0",
+        "is_address2_has_multiple_sublocality": "1",
+        "is_address2_includes_chome": "0",
+        "is_postal_code_has_multiple_address2": "0",
+        "updated_type": "0",
+        "updated_reason_type": "0"
+    },
+    {
+        "local_government_code": "02206",
+        "postal_code_5digit": "03402",
+        "postal_code_7digit": "0340213",
+        "prefecture_kana": "ｱｵﾓﾘｹﾝ",
+        "address1_kana": "ﾄﾜﾀﾞｼ",
+        "address2_kana": "ﾀｷｻﾜ",
+        "prefecture_kanji": "青森県",
+        "address1_kanji": "十和田市",
+        "address2_kanji": "滝沢",
+        "is_address2_has_multiple_postal_code": "0",
+        "is_address2_has_multiple_sublocality": "1",
+        "is_address2_includes_chome": "0",
+        "is_postal_code_has_multiple_address2": "0",
+        "updated_type": "0",
+        "updated_reason_type": "0"
+    }
+]

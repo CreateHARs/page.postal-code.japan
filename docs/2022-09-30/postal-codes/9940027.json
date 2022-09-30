@@ -1,0 +1,19 @@
+[
+    {
+        "local_government_code": "06210",
+        "postal_code_5digit": "994  ",
+        "postal_code_7digit": "9940027",
+        "prefecture_kana": "ﾔﾏｶﾞﾀｹﾝ",
+        "address1_kana": "ﾃﾝﾄﾞｳｼ",
+        "address2_kana": "ｻｸﾗﾏﾁ",
+        "prefecture_kanji": "山形県",
+        "address1_kanji": "天童市",
+        "address2_kanji": "桜町",
+        "is_address2_has_multiple_postal_code": "0",
+        "is_address2_has_multiple_sublocality": "0",
+        "is_address2_includes_chome": "0",
+        "is_postal_code_has_multiple_address2": "0",
+        "updated_type": "0",
+        "updated_reason_type": "0"
+    }
+]

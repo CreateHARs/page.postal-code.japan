@@ -1,0 +1,19 @@
+[
+    {
+        "local_government_code": "10209",
+        "postal_code_5digit": "37014",
+        "postal_code_7digit": "3701405",
+        "prefecture_kana": "ｸﾞﾝﾏｹﾝ",
+        "address1_kana": "ﾌｼﾞｵｶｼ",
+        "address2_kana": "ｻﾝﾊﾞｶﾞﾜ",
+        "prefecture_kanji": "群馬県",
+        "address1_kanji": "藤岡市",
+        "address2_kanji": "三波川",
+        "is_address2_has_multiple_postal_code": "0",
+        "is_address2_has_multiple_sublocality": "0",
+        "is_address2_includes_chome": "0",
+        "is_postal_code_has_multiple_address2": "0",
+        "updated_type": "0",
+        "updated_reason_type": "0"
+    }
+]

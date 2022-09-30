@@ -1,0 +1,53 @@
+[
+    {
+        "local_government_code": "03215",
+        "postal_code_5digit": "02942",
+        "postal_code_7digit": "0294203",
+        "prefecture_kana": "ｲﾜﾃｹﾝ",
+        "address1_kana": "ｵｳｼｭｳｼ",
+        "address2_kana": "ﾏｴｻﾜｷﾀｸﾎﾞ",
+        "prefecture_kanji": "岩手県",
+        "address1_kanji": "奥州市",
+        "address2_kanji": "前沢北久保",
+        "is_address2_has_multiple_postal_code": "0",
+        "is_address2_has_multiple_sublocality": "0",
+        "is_address2_includes_chome": "0",
+        "is_postal_code_has_multiple_address2": "1",
+        "updated_type": "0",
+        "updated_reason_type": "0"
+    },
+    {
+        "local_government_code": "03215",
+        "postal_code_5digit": "02942",
+        "postal_code_7digit": "0294203",
+        "prefecture_kana": "ｲﾜﾃｹﾝ",
+        "address1_kana": "ｵｳｼｭｳｼ",
+        "address2_kana": "ﾏｴｻﾜｷﾂﾈﾄﾞｳ",
+        "prefecture_kanji": "岩手県",
+        "address1_kanji": "奥州市",
+        "address2_kanji": "前沢狐堂",
+        "is_address2_has_multiple_postal_code": "0",
+        "is_address2_has_multiple_sublocality": "0",
+        "is_address2_includes_chome": "0",
+        "is_postal_code_has_multiple_address2": "1",
+        "updated_type": "0",
+        "updated_reason_type": "0"
+    },
+    {
+        "local_government_code": "03215",
+        "postal_code_5digit": "02942",
+        "postal_code_7digit": "0294203",
+        "prefecture_kana": "ｲﾜﾃｹﾝ",
+        "address1_kana": "ｵｳｼｭｳｼ",
+        "address2_kana": "ﾏｴｻﾜｾｲﾎﾞ",
+        "prefecture_kanji": "岩手県",
+        "address1_kanji": "奥州市",
+        "address2_kanji": "前沢生母",
+        "is_address2_has_multiple_postal_code": "0",
+        "is_address2_has_multiple_sublocality": "1",
+        "is_address2_includes_chome": "0",
+        "is_postal_code_has_multiple_address2": "1",
+        "updated_type": "0",
+        "updated_reason_type": "0"
+    }
+]
