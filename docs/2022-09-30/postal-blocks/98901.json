@@ -1,0 +1,53 @@
+[
+    {
+        "local_government_code": "04206",
+        "postal_code_5digit": "98901",
+        "postal_code_7digit": "9890111",
+        "prefecture_kana": "ﾐﾔｷﾞｹﾝ",
+        "address1_kana": "ｼﾛｲｼｼ",
+        "address2_kana": "ｺｽｺﾞｳｺﾞｶ",
+        "prefecture_kanji": "宮城県",
+        "address1_kanji": "白石市",
+        "address2_kanji": "越河五賀",
+        "is_address2_has_multiple_postal_code": "0",
+        "is_address2_has_multiple_sublocality": "1",
+        "is_address2_includes_chome": "0",
+        "is_postal_code_has_multiple_address2": "0",
+        "updated_type": "0",
+        "updated_reason_type": "0"
+    },
+    {
+        "local_government_code": "04206",
+        "postal_code_5digit": "98901",
+        "postal_code_7digit": "9890112",
+        "prefecture_kana": "ﾐﾔｷﾞｹﾝ",
+        "address1_kana": "ｼﾛｲｼｼ",
+        "address2_kana": "ｺｽｺﾞｳﾀｲﾗ",
+        "prefecture_kanji": "宮城県",
+        "address1_kanji": "白石市",
+        "address2_kanji": "越河平",
+        "is_address2_has_multiple_postal_code": "0",
+        "is_address2_has_multiple_sublocality": "1",
+        "is_address2_includes_chome": "0",
+        "is_postal_code_has_multiple_address2": "0",
+        "updated_type": "0",
+        "updated_reason_type": "0"
+    },
+    {
+        "local_government_code": "04206",
+        "postal_code_5digit": "98901",
+        "postal_code_7digit": "9890113",
+        "prefecture_kana": "ﾐﾔｷﾞｹﾝ",
+        "address1_kana": "ｼﾛｲｼｼ",
+        "address2_kana": "ｺｽｺﾞｳ",
+        "prefecture_kanji": "宮城県",
+        "address1_kanji": "白石市",
+        "address2_kanji": "越河",
+        "is_address2_has_multiple_postal_code": "0",
+        "is_address2_has_multiple_sublocality": "1",
+        "is_address2_includes_chome": "0",
+        "is_postal_code_has_multiple_address2": "0",
+        "updated_type": "0",
+        "updated_reason_type": "0"
+    }
+]

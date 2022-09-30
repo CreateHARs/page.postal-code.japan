@@ -1,0 +1,36 @@
+[
+    {
+        "local_government_code": "17201",
+        "postal_code_5digit": "920  ",
+        "postal_code_7digit": "9200946",
+        "prefecture_kana": "ｲｼｶﾜｹﾝ",
+        "address1_kana": "ｶﾅｻﾞﾜｼ",
+        "address2_kana": "ｵｵｸﾜﾏﾁ(ｶ､ｺ､ｻｵﾂ､ｻｺｳ､ｿ､ﾀ､ﾂｺｳ､ﾅ､ﾒ､ﾕ､ﾖ､",
+        "prefecture_kanji": "石川県",
+        "address1_kanji": "金沢市",
+        "address2_kanji": "大桑町（カ、コ、サ乙、サ甲、ソ、タ、ツ甲、ナ、メ、ユ、ヨ、",
+        "is_address2_has_multiple_postal_code": "1",
+        "is_address2_has_multiple_sublocality": "0",
+        "is_address2_includes_chome": "0",
+        "is_postal_code_has_multiple_address2": "0",
+        "updated_type": "0",
+        "updated_reason_type": "0"
+    },
+    {
+        "local_government_code": "17201",
+        "postal_code_5digit": "920  ",
+        "postal_code_7digit": "9200946",
+        "prefecture_kana": "ｲｼｶﾜｹﾝ",
+        "address1_kana": "ｶﾅｻﾞﾜｼ",
+        "address2_kana": "ﾗ､ﾜ､ｱﾅｶﾞｹ､ｱﾅﾌﾞﾁｶﾞｹ､ﾈ､ｺｳ､ﾖｼｼﾞﾏ､ｼﾓﾖｼｼﾞﾏｶﾞｹ)",
+        "prefecture_kanji": "石川県",
+        "address1_kanji": "金沢市",
+        "address2_kanji": "ラ、ワ、穴欠、穴淵欠、子、庚、葭島、下葭島欠）",
+        "is_address2_has_multiple_postal_code": "1",
+        "is_address2_has_multiple_sublocality": "0",
+        "is_address2_includes_chome": "0",
+        "is_postal_code_has_multiple_address2": "0",
+        "updated_type": "0",
+        "updated_reason_type": "0"
+    }
+]

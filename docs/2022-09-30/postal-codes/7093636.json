@@ -1,0 +1,19 @@
+[
+    {
+        "local_government_code": "33663",
+        "postal_code_5digit": "70936",
+        "postal_code_7digit": "7093636",
+        "prefecture_kana": "ｵｶﾔﾏｹﾝ",
+        "address1_kana": "ｸﾒｸﾞﾝｸﾒﾅﾝﾁｮｳ",
+        "address2_kana": "ﾔｽｶﾞﾀﾜ",
+        "prefecture_kanji": "岡山県",
+        "address1_kanji": "久米郡久米南町",
+        "address2_kanji": "安ケ乢",
+        "is_address2_has_multiple_postal_code": "0",
+        "is_address2_has_multiple_sublocality": "0",
+        "is_address2_includes_chome": "0",
+        "is_postal_code_has_multiple_address2": "0",
+        "updated_type": "0",
+        "updated_reason_type": "0"
+    }
+]

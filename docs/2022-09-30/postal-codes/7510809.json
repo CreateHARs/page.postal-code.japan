@@ -1,0 +1,19 @@
+[
+    {
+        "local_government_code": "35201",
+        "postal_code_5digit": "751  ",
+        "postal_code_7digit": "7510809",
+        "prefecture_kana": "ﾔﾏｸﾞﾁｹﾝ",
+        "address1_kana": "ｼﾓﾉｾｷｼ",
+        "address2_kana": "ｲﾁﾉﾐﾔﾋｶﾞｼﾏﾁ",
+        "prefecture_kanji": "山口県",
+        "address1_kanji": "下関市",
+        "address2_kanji": "一の宮東町",
+        "is_address2_has_multiple_postal_code": "0",
+        "is_address2_has_multiple_sublocality": "0",
+        "is_address2_includes_chome": "1",
+        "is_postal_code_has_multiple_address2": "0",
+        "updated_type": "0",
+        "updated_reason_type": "0"
+    }
+]

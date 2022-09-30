@@ -1,0 +1,36 @@
+[
+    {
+        "local_government_code": "34204",
+        "postal_code_5digit": "72922",
+        "postal_code_7digit": "7292251",
+        "prefecture_kana": "ﾋﾛｼﾏｹﾝ",
+        "address1_kana": "ﾐﾊﾗｼ",
+        "address2_kana": "ｻｲｻﾞｷｸﾜｷ",
+        "prefecture_kanji": "広島県",
+        "address1_kanji": "三原市",
+        "address2_kanji": "幸崎久和喜",
+        "is_address2_has_multiple_postal_code": "0",
+        "is_address2_has_multiple_sublocality": "0",
+        "is_address2_includes_chome": "0",
+        "is_postal_code_has_multiple_address2": "1",
+        "updated_type": "0",
+        "updated_reason_type": "0"
+    },
+    {
+        "local_government_code": "34204",
+        "postal_code_5digit": "72922",
+        "postal_code_7digit": "7292251",
+        "prefecture_kana": "ﾋﾛｼﾏｹﾝ",
+        "address1_kana": "ﾐﾊﾗｼ",
+        "address2_kana": "ｻｲｻﾞｷﾁｮｳｸﾜｷ",
+        "prefecture_kanji": "広島県",
+        "address1_kanji": "三原市",
+        "address2_kanji": "幸崎町久和喜",
+        "is_address2_has_multiple_postal_code": "0",
+        "is_address2_has_multiple_sublocality": "0",
+        "is_address2_includes_chome": "0",
+        "is_postal_code_has_multiple_address2": "1",
+        "updated_type": "0",
+        "updated_reason_type": "0"
+    }
+]

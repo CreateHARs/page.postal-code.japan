@@ -1,0 +1,6 @@
+local_government_code,postal_code_5digit,postal_code_7digit,prefecture_kana,address1_kana,address2_kana,prefecture_kanji,address1_kanji,address2_kanji,is_address2_has_multiple_postal_code,is_address2_has_multiple_sublocality,is_address2_includes_chome,is_postal_code_has_multiple_address2,updated_type,updated_reason_type
+20430,39955,3995500,ﾅｶﾞﾉｹﾝ,ｷｿｸﾞﾝｵｵｸﾜﾑﾗ,ｲｶﾆｹｲｻｲｶﾞﾅｲﾊﾞｱｲ,長野県,木曽郡大桑村,以下に掲載がない場合,0,0,0,0,0,0
+20430,39955,3995501,ﾅｶﾞﾉｹﾝ,ｷｿｸﾞﾝｵｵｸﾜﾑﾗ,ﾄﾉ,長野県,木曽郡大桑村,殿,0,0,0,0,0,0
+20430,39955,3995502,ﾅｶﾞﾉｹﾝ,ｷｿｸﾞﾝｵｵｸﾜﾑﾗ,ｽﾊﾗ,長野県,木曽郡大桑村,須原,0,0,0,0,0,0
+20430,39955,3995503,ﾅｶﾞﾉｹﾝ,ｷｿｸﾞﾝｵｵｸﾜﾑﾗ,ﾅｶﾞﾉ,長野県,木曽郡大桑村,長野,0,0,0,0,0,0
+20430,39955,3995504,ﾅｶﾞﾉｹﾝ,ｷｿｸﾞﾝｵｵｸﾜﾑﾗ,ﾉｼﾞﾘ,長野県,木曽郡大桑村,野尻,0,0,0,0,0,0
