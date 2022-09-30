@@ -1,0 +1,9 @@
+local_government_code,postal_code_5digit,postal_code_7digit,prefecture_kana,address1_kana,address2_kana,prefecture_kanji,address1_kanji,address2_kanji,is_address2_has_multiple_postal_code,is_address2_has_multiple_sublocality,is_address2_includes_chome,is_postal_code_has_multiple_address2,updated_type,updated_reason_type
+40227,82002,8200200,ﾌｸｵｶｹﾝ,ｶﾏｼ,ｲｶﾆｹｲｻｲｶﾞﾅｲﾊﾞｱｲ,福岡県,嘉麻市,以下に掲載がない場合,0,0,0,0,0,0
+40227,82002,8200201,ﾌｸｵｶｹﾝ,ｶﾏｼ,ｳﾙｼｵ,福岡県,嘉麻市,漆生,0,0,0,0,0,0
+40227,82002,8200202,ﾌｸｵｶｹﾝ,ｶﾏｼ,ﾔﾏﾉ,福岡県,嘉麻市,山野,0,0,0,0,0,0
+40227,82002,8200203,ﾌｸｵｶｹﾝ,ｶﾏｼ,ﾋﾗ,福岡県,嘉麻市,平,0,0,0,0,0,0
+40227,82002,8200204,ﾌｸｵｶｹﾝ,ｶﾏｼ,ｲﾅﾂｷｻｲﾀﾞ,福岡県,嘉麻市,稲築才田,0,0,0,0,0,0
+40227,82002,8200205,ﾌｸｵｶｹﾝ,ｶﾏｼ,ｲﾜｻｷ,福岡県,嘉麻市,岩崎,0,0,0,0,0,0
+40227,82002,8200206,ﾌｸｵｶｹﾝ,ｶﾏｼ,ｶﾓｵ,福岡県,嘉麻市,鴨生,0,0,0,0,0,0
+40227,82002,8200207,ﾌｸｵｶｹﾝ,ｶﾏｼ,ｸﾁﾉﾊﾙ,福岡県,嘉麻市,口春,0,0,0,0,0,0

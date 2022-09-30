@@ -1,0 +1,53 @@
+[
+    {
+        "local_government_code": "26102",
+        "postal_code_5digit": "602  ",
+        "postal_code_7digit": "6028045",
+        "prefecture_kana": "ｷｮｳﾄﾌ",
+        "address1_kana": "ｷｮｳﾄｼｶﾐｷﾞｮｳｸ",
+        "address2_kana": "ﾖﾝﾁｮｳﾒ",
+        "prefecture_kanji": "京都府",
+        "address1_kanji": "京都市上京区",
+        "address2_kanji": "四町目（出水通油小路西入、出水通堀川東入、出水通堀川東入",
+        "is_address2_has_multiple_postal_code": "0",
+        "is_address2_has_multiple_sublocality": "0",
+        "is_address2_includes_chome": "0",
+        "is_postal_code_has_multiple_address2": "0",
+        "updated_type": "0",
+        "updated_reason_type": "0"
+    },
+    {
+        "local_government_code": "26102",
+        "postal_code_5digit": "602  ",
+        "postal_code_7digit": "6028045",
+        "prefecture_kana": "ｷｮｳﾄﾌ",
+        "address1_kana": "ｷｮｳﾄｼｶﾐｷﾞｮｳｸ",
+        "address2_kana": "ﾖﾝﾁｮｳﾒ",
+        "prefecture_kanji": "京都府",
+        "address1_kanji": "京都市上京区",
+        "address2_kanji": "下る、出水通東堀川東入、下立売通堀川東入、下立売通堀川東入上る、下立売通",
+        "is_address2_has_multiple_postal_code": "0",
+        "is_address2_has_multiple_sublocality": "0",
+        "is_address2_includes_chome": "0",
+        "is_postal_code_has_multiple_address2": "0",
+        "updated_type": "0",
+        "updated_reason_type": "0"
+    },
+    {
+        "local_government_code": "26102",
+        "postal_code_5digit": "602  ",
+        "postal_code_7digit": "6028045",
+        "prefecture_kana": "ｷｮｳﾄﾌ",
+        "address1_kana": "ｷｮｳﾄｼｶﾐｷﾞｮｳｸ",
+        "address2_kana": "ﾖﾝﾁｮｳﾒ",
+        "prefecture_kanji": "京都府",
+        "address1_kanji": "京都市上京区",
+        "address2_kanji": "堀川東入下る、東堀川通下立売上る、東堀川通出水下る）",
+        "is_address2_has_multiple_postal_code": "0",
+        "is_address2_has_multiple_sublocality": "0",
+        "is_address2_includes_chome": "0",
+        "is_postal_code_has_multiple_address2": "0",
+        "updated_type": "0",
+        "updated_reason_type": "0"
+    }
+]

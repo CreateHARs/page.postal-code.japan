@@ -1,0 +1,19 @@
+[
+    {
+        "local_government_code": "40230",
+        "postal_code_5digit": "81913",
+        "postal_code_7digit": "8191303",
+        "prefecture_kana": "ﾌｸｵｶｹﾝ",
+        "address1_kana": "ｲﾄｼﾏｼ",
+        "address2_kana": "ｼﾏﾉｷﾞﾀ",
+        "prefecture_kanji": "福岡県",
+        "address1_kanji": "糸島市",
+        "address2_kanji": "志摩野北",
+        "is_address2_has_multiple_postal_code": "0",
+        "is_address2_has_multiple_sublocality": "0",
+        "is_address2_includes_chome": "0",
+        "is_postal_code_has_multiple_address2": "0",
+        "updated_type": "0",
+        "updated_reason_type": "0"
+    }
+]

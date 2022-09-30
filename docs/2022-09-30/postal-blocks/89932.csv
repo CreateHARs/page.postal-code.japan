@@ -1,0 +1,4 @@
+local_government_code,postal_code_5digit,postal_code_7digit,prefecture_kana,address1_kana,address2_kana,prefecture_kanji,address1_kanji,address2_kanji,is_address2_has_multiple_postal_code,is_address2_has_multiple_sublocality,is_address2_includes_chome,is_postal_code_has_multiple_address2,updated_type,updated_reason_type
+46216,89932,8993203,ｶｺﾞｼﾏｹﾝ,ﾋｵｷｼ,ﾋﾖｼﾁｮｳﾖｼﾄｼ(ｿﾉﾀ),鹿児島県,日置市,日吉町吉利（その他）,1,0,0,0,0,0
+46201,89932,8993206,ｶｺﾞｼﾏｹﾝ,ｶｺﾞｼﾏｼ,ｲﾘｻﾁｮｳ(1738､1739ﾊﾞﾝﾁ),鹿児島県,鹿児島市,入佐町（１７３８、１７３９番地）,1,0,0,0,0,0
+46216,89932,8993221,ｶｺﾞｼﾏｹﾝ,ﾋｵｷｼ,ﾌｷｱｹﾞﾁｮｳﾅｶﾞﾖｼ,鹿児島県,日置市,吹上町永吉,0,0,0,0,0,0
