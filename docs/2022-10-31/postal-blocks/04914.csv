@@ -1,0 +1,8 @@
+local_government_code,postal_code_5digit,postal_code_7digit,prefecture_kana,address1_kana,address2_kana,prefecture_kanji,address1_kanji,address2_kanji,is_address2_has_multiple_postal_code,is_address2_has_multiple_sublocality,is_address2_includes_chome,is_postal_code_has_multiple_address2,updated_type,updated_reason_type
+01332,04914,0491451,ﾎｯｶｲﾄﾞｳ,ﾏﾂﾏｴｸﾞﾝﾌｸｼﾏﾁｮｳ,ﾐﾔｳﾀ,北海道,松前郡福島町,宮歌,0,0,0,0,0,0
+01332,04914,0491452,ﾎｯｶｲﾄﾞｳ,ﾏﾂﾏｴｸﾞﾝﾌｸｼﾏﾁｮｳ,ﾄﾖﾊﾏ,北海道,松前郡福島町,豊浜,0,0,0,0,0,0
+01332,04914,0491453,ﾎｯｶｲﾄﾞｳ,ﾏﾂﾏｴｸﾞﾝﾌｸｼﾏﾁｮｳ,ﾐﾔﾏ,北海道,松前郡福島町,美山,0,0,0,1,0,0
+01332,04914,0491453,ﾎｯｶｲﾄﾞｳ,ﾏﾂﾏｴｸﾞﾝﾌｸｼﾏﾁｮｳ,ﾖｼｵｶ,北海道,松前郡福島町,吉岡,0,0,0,1,0,0
+01332,04914,0491454,ﾎｯｶｲﾄﾞｳ,ﾏﾂﾏｴｸﾞﾝﾌｸｼﾏﾁｮｳ,ﾀﾃｻｷ,北海道,松前郡福島町,館崎,0,0,0,0,0,0
+01332,04914,0491455,ﾎｯｶｲﾄﾞｳ,ﾏﾂﾏｴｸﾞﾝﾌｸｼﾏﾁｮｳ,ﾖｼﾉ,北海道,松前郡福島町,吉野,0,0,0,0,0,0
+01332,04914,0491456,ﾎｯｶｲﾄﾞｳ,ﾏﾂﾏｴｸﾞﾝﾌｸｼﾏﾁｮｳ,ﾏﾂｳﾗ,北海道,松前郡福島町,松浦,0,0,0,0,0,0

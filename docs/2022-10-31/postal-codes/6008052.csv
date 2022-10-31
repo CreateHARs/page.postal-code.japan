@@ -1,0 +1,4 @@
+local_government_code,postal_code_5digit,postal_code_7digit,prefecture_kana,address1_kana,address2_kana,prefecture_kanji,address1_kanji,address2_kanji,is_address2_has_multiple_postal_code,is_address2_has_multiple_sublocality,is_address2_includes_chome,is_postal_code_has_multiple_address2,updated_type,updated_reason_type
+26106,600  ,6008052,ｷｮｳﾄﾌ,ｷｮｳﾄｼｼﾓｷﾞｮｳｸ,ｼｵﾔﾁｮｳ,京都府,京都市下京区,塩屋町（綾小路通富小路西入、綾小路通富小路東入、綾小路通,0,0,0,0,0,0
+26106,600  ,6008052,ｷｮｳﾄﾌ,ｷｮｳﾄｼｼﾓｷﾞｮｳｸ,ｼｵﾔﾁｮｳ,京都府,京都市下京区,麩屋町西入、綾小路通柳馬場東入、富小路通綾小路上る、富小路通綾小路下,0,0,0,0,0,0
+26106,600  ,6008052,ｷｮｳﾄﾌ,ｷｮｳﾄｼｼﾓｷﾞｮｳｸ,ｼｵﾔﾁｮｳ,京都府,京都市下京区,る、麩屋町通綾小路下る）,0,0,0,0,0,0

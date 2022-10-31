@@ -1,0 +1,4 @@
+local_government_code,postal_code_5digit,postal_code_7digit,prefecture_kana,address1_kana,address2_kana,prefecture_kanji,address1_kanji,address2_kanji,is_address2_has_multiple_postal_code,is_address2_has_multiple_sublocality,is_address2_includes_chome,is_postal_code_has_multiple_address2,updated_type,updated_reason_type
+40602,82407,8240721,ﾌｸｵｶｹﾝ,ﾀｶﾞﾜｸﾞﾝｿｴﾀﾞﾏﾁ,ﾋｺｻﾝ,福岡県,田川郡添田町,英彦山,0,0,0,0,0,0
+40602,82407,8240722,ﾌｸｵｶｹﾝ,ﾀｶﾞﾜｸﾞﾝｿｴﾀﾞﾏﾁ,ｵﾁｱｲ,福岡県,田川郡添田町,落合,0,0,0,0,0,0
+40602,82407,8240723,ﾌｸｵｶｹﾝ,ﾀｶﾞﾜｸﾞﾝｿｴﾀﾞﾏﾁ,ﾏｽﾀﾞ,福岡県,田川郡添田町,桝田,0,0,0,0,0,0

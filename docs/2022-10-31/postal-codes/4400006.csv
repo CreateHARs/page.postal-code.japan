@@ -1,0 +1,6 @@
+local_government_code,postal_code_5digit,postal_code_7digit,prefecture_kana,address1_kana,address2_kana,prefecture_kanji,address1_kanji,address2_kanji,is_address2_has_multiple_postal_code,is_address2_has_multiple_sublocality,is_address2_includes_chome,is_postal_code_has_multiple_address2,updated_type,updated_reason_type
+23201,440  ,4400006,ｱｲﾁｹﾝ,ﾄﾖﾊｼｼ,ｳｼｶﾜﾁｮｳ(ｲｹｼﾀ),愛知県,豊橋市,牛川町（池下）,1,0,0,1,0,0
+23201,440  ,4400006,ｱｲﾁｹﾝ,ﾄﾖﾊｼｼ,ｳｼｶﾜﾁｮｳ(ｵｼｶﾜ),愛知県,豊橋市,牛川町（押川）,1,0,0,1,0,0
+23201,440  ,4400006,ｱｲﾁｹﾝ,ﾄﾖﾊｼｼ,ｳｼｶﾜﾁｮｳ(ﾋｶﾞｼﾅｶﾀﾞ),愛知県,豊橋市,牛川町（東仲田）,1,0,0,1,0,0
+23201,440  ,4400006,ｱｲﾁｹﾝ,ﾄﾖﾊｼｼ,ｳｼｶﾜﾁｮｳ(ﾆｼﾅｶﾀﾞ),愛知県,豊橋市,牛川町（西仲田）,1,0,0,1,0,0
+23201,440  ,4400006,ｱｲﾁｹﾝ,ﾄﾖﾊｼｼ,ｳｼｶﾜﾁｮｳ(ﾉﾘｺｳｼﾞ),愛知県,豊橋市,牛川町（乗小路）,1,0,0,1,0,0

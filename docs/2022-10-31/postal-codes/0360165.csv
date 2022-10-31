@@ -1,0 +1,8 @@
+local_government_code,postal_code_5digit,postal_code_7digit,prefecture_kana,address1_kana,address2_kana,prefecture_kanji,address1_kanji,address2_kanji,is_address2_has_multiple_postal_code,is_address2_has_multiple_sublocality,is_address2_includes_chome,is_postal_code_has_multiple_address2,updated_type,updated_reason_type
+02210,03601,0360165,ｱｵﾓﾘｹﾝ,ﾋﾗｶﾜｼ,ﾏﾂﾀﾞﾃｱｻｲ,青森県,平川市,松館浅井,0,1,0,1,0,0
+02210,03601,0360165,ｱｵﾓﾘｹﾝ,ﾋﾗｶﾜｼ,ﾏﾂﾀﾞﾃｲﾉｳｴ,青森県,平川市,松館井ノ上,0,1,0,1,0,0
+02210,03601,0360165,ｱｵﾓﾘｹﾝ,ﾋﾗｶﾜｼ,ﾏﾂﾀﾞﾃﾆｼｲﾅﾑﾗ,青森県,平川市,松館西稲村,0,1,0,1,0,0
+02210,03601,0360165,ｱｵﾓﾘｹﾝ,ﾋﾗｶﾜｼ,ﾏﾂﾀﾞﾃﾆｼｶﾜﾗﾀﾞ,青森県,平川市,松館西川原田,0,1,0,1,0,0
+02210,03601,0360165,ｱｵﾓﾘｹﾝ,ﾋﾗｶﾜｼ,ﾏﾂﾀﾞﾃﾋｶﾞｼｲﾅﾑﾗ,青森県,平川市,松館東稲村,0,1,0,1,0,0
+02210,03601,0360165,ｱｵﾓﾘｹﾝ,ﾋﾗｶﾜｼ,ﾏﾂﾀﾞﾃﾋｶﾞｼｶﾜﾗﾀﾞ,青森県,平川市,松館東川原田,0,1,0,1,0,0
+02210,03601,0360165,ｱｵﾓﾘｹﾝ,ﾋﾗｶﾜｼ,ﾏﾂﾀﾞﾃﾏﾂﾓﾄ,青森県,平川市,松館松元,0,1,0,1,0,0

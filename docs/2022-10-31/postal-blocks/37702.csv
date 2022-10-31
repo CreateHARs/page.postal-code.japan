@@ -1,0 +1,7 @@
+local_government_code,postal_code_5digit,postal_code_7digit,prefecture_kana,address1_kana,address2_kana,prefecture_kanji,address1_kanji,address2_kanji,is_address2_has_multiple_postal_code,is_address2_has_multiple_sublocality,is_address2_includes_chome,is_postal_code_has_multiple_address2,updated_type,updated_reason_type
+10208,37702,3770201,ｸﾞﾝﾏｹﾝ,ｼﾌﾞｶﾜｼ,ｶﾐｼﾛｲ,群馬県,渋川市,上白井,0,0,0,0,0,0
+10208,37702,3770202,ｸﾞﾝﾏｹﾝ,ｼﾌﾞｶﾜｼ,ﾅｶｺﾞｳ,群馬県,渋川市,中郷,0,0,0,0,0,0
+10208,37702,3770203,ｸﾞﾝﾏｹﾝ,ｼﾌﾞｶﾜｼ,ﾌｷﾔ,群馬県,渋川市,吹屋,0,0,0,0,0,0
+10208,37702,3770204,ｸﾞﾝﾏｹﾝ,ｼﾌﾞｶﾜｼ,ｼﾛｲ,群馬県,渋川市,白井,0,0,0,0,0,0
+10208,37702,3770205,ｸﾞﾝﾏｹﾝ,ｼﾌﾞｶﾜｼ,ｷﾀﾓｸ,群馬県,渋川市,北牧,0,0,0,0,0,0
+10208,37702,3770206,ｸﾞﾝﾏｹﾝ,ｼﾌﾞｶﾜｼ,ﾖｺﾎﾞﾘ,群馬県,渋川市,横堀,0,0,0,0,0,0

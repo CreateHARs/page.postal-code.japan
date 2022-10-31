@@ -1,0 +1,6 @@
+local_government_code,postal_code_5digit,postal_code_7digit,prefecture_kana,address1_kana,address2_kana,prefecture_kanji,address1_kanji,address2_kanji,is_address2_has_multiple_postal_code,is_address2_has_multiple_sublocality,is_address2_includes_chome,is_postal_code_has_multiple_address2,updated_type,updated_reason_type
+39301,78174,7817300,ｺｳﾁｹﾝ,ｱｷｸﾞﾝﾄｳﾖｳﾁｮｳ,ｲｶﾆｹｲｻｲｶﾞﾅｲﾊﾞｱｲ,高知県,安芸郡東洋町,以下に掲載がない場合,0,0,0,0,0,0
+39301,78173,7817301,ｺｳﾁｹﾝ,ｱｷｸﾞﾝﾄｳﾖｳﾁｮｳ,ﾉﾈﾍｲ,高知県,安芸郡東洋町,野根丙,0,0,0,0,0,0
+39301,78173,7817302,ｺｳﾁｹﾝ,ｱｷｸﾞﾝﾄｳﾖｳﾁｮｳ,ﾉﾈｺｳ,高知県,安芸郡東洋町,野根甲,0,0,0,0,0,0
+39301,78173,7817303,ｺｳﾁｹﾝ,ｱｷｸﾞﾝﾄｳﾖｳﾁｮｳ,ﾉﾈﾃｲ,高知県,安芸郡東洋町,野根丁,0,0,0,0,0,0
+39301,78173,7817304,ｺｳﾁｹﾝ,ｱｷｸﾞﾝﾄｳﾖｳﾁｮｳ,ﾉﾈｵﾂ,高知県,安芸郡東洋町,野根乙,0,0,0,0,0,0

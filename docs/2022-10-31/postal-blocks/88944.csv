@@ -1,0 +1,6 @@
+local_government_code,postal_code_5digit,postal_code_7digit,prefecture_kana,address1_kana,address2_kana,prefecture_kanji,address1_kanji,address2_kanji,is_address2_has_multiple_postal_code,is_address2_has_multiple_sublocality,is_address2_includes_chome,is_postal_code_has_multiple_address2,updated_type,updated_reason_type
+45361,88944,8894400,ﾐﾔｻﾞｷｹﾝ,ﾆｼﾓﾛｶﾀｸﾞﾝﾀｶﾊﾙﾁｮｳ,ｲｶﾆｹｲｻｲｶﾞﾅｲﾊﾞｱｲ,宮崎県,西諸県郡高原町,以下に掲載がない場合,0,0,0,0,0,0
+45361,88944,8894411,ﾐﾔｻﾞｷｹﾝ,ﾆｼﾓﾛｶﾀｸﾞﾝﾀｶﾊﾙﾁｮｳ,ﾋﾛﾜﾗ,宮崎県,西諸県郡高原町,広原,0,0,0,0,0,0
+45361,88944,8894412,ﾐﾔｻﾞｷｹﾝ,ﾆｼﾓﾛｶﾀｸﾞﾝﾀｶﾊﾙﾁｮｳ,ﾆｼﾌﾓﾄ,宮崎県,西諸県郡高原町,西麓,0,0,0,0,0,0
+45361,88944,8894413,ﾐﾔｻﾞｷｹﾝ,ﾆｼﾓﾛｶﾀｸﾞﾝﾀｶﾊﾙﾁｮｳ,ｳｼﾛｶﾜﾁ,宮崎県,西諸県郡高原町,後川内,0,0,0,0,0,0
+45361,88944,8894414,ﾐﾔｻﾞｷｹﾝ,ﾆｼﾓﾛｶﾀｸﾞﾝﾀｶﾊﾙﾁｮｳ,ｶﾏﾑﾀ,宮崎県,西諸県郡高原町,蒲牟田,0,0,0,0,0,0

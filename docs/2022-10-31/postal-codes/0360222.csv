@@ -1,0 +1,5 @@
+local_government_code,postal_code_5digit,postal_code_7digit,prefecture_kana,address1_kana,address2_kana,prefecture_kanji,address1_kanji,address2_kanji,is_address2_has_multiple_postal_code,is_address2_has_multiple_sublocality,is_address2_includes_chome,is_postal_code_has_multiple_address2,updated_type,updated_reason_type
+02210,03602,0360222,ｱｵﾓﾘｹﾝ,ﾋﾗｶﾜｼ,ｵｻﾀﾞﾇﾏﾀ,青森県,平川市,長田沼田,0,1,0,1,0,0
+02210,03602,0360222,ｱｵﾓﾘｹﾝ,ﾋﾗｶﾜｼ,ｵｻﾀﾞﾉﾀﾞ,青森県,平川市,長田野田,0,1,0,1,0,0
+02210,03602,0360222,ｱｵﾓﾘｹﾝ,ﾋﾗｶﾜｼ,ｵｻﾀﾞﾑﾗｼﾀ,青森県,平川市,長田村下,0,1,0,1,0,0
+02210,03602,0360222,ｱｵﾓﾘｹﾝ,ﾋﾗｶﾜｼ,ｵｻﾀﾞﾓﾄﾑﾗ,青森県,平川市,長田元村,0,1,0,1,0,0
