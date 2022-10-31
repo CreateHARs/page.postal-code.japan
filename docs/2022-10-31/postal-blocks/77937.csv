@@ -1,0 +1,6 @@
+local_government_code,postal_code_5digit,postal_code_7digit,prefecture_kana,address1_kana,address2_kana,prefecture_kanji,address1_kanji,address2_kanji,is_address2_has_multiple_postal_code,is_address2_has_multiple_sublocality,is_address2_includes_chome,is_postal_code_has_multiple_address2,updated_type,updated_reason_type
+36207,77937,7793741,ﾄｸｼﾏｹﾝ,ﾐﾏｼ,ﾜｷﾏﾁ(ｿｴﾐｮｳ),徳島県,美馬市,脇町（曽江名）,1,0,0,0,0,0
+36207,77937,7793742,ﾄｸｼﾏｹﾝ,ﾐﾏｼ,ﾜｷﾏﾁ(ﾆｼｱｶﾀﾆ),徳島県,美馬市,脇町（西赤谷）,1,0,0,0,0,0
+36207,77937,7793743,ﾄｸｼﾏｹﾝ,ﾐﾏｼ,ﾜｷﾏﾁ(ﾋｶﾞｼｱｶﾀﾆﾐｮｳ),徳島県,美馬市,脇町（東赤谷名）,1,0,0,0,0,0
+36207,77937,7793744,ﾄｸｼﾏｹﾝ,ﾐﾏｼ,ﾜｷﾏﾁ(ﾆｼﾏﾀﾐｮｳ),徳島県,美馬市,脇町（西俣名）,1,0,0,0,0,0
+36207,77937,7793745,ﾄｸｼﾏｹﾝ,ﾐﾏｼ,ﾜｷﾏﾁ(ﾋｶﾞｼﾏﾀﾐｮｳ),徳島県,美馬市,脇町（東俣名）,1,0,0,0,0,0

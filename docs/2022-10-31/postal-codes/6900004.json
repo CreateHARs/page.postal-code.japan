@@ -1,0 +1,19 @@
+[
+    {
+        "local_government_code": "32201",
+        "postal_code_5digit": "690  ",
+        "postal_code_7digit": "6900004",
+        "prefecture_kana": "ｼﾏﾈｹﾝ",
+        "address1_kana": "ﾏﾂｴｼ",
+        "address2_kana": "ﾊﾁｹﾝﾔﾏﾁ",
+        "prefecture_kanji": "島根県",
+        "address1_kanji": "松江市",
+        "address2_kanji": "八軒屋町",
+        "is_address2_has_multiple_postal_code": "0",
+        "is_address2_has_multiple_sublocality": "0",
+        "is_address2_includes_chome": "0",
+        "is_postal_code_has_multiple_address2": "0",
+        "updated_type": "0",
+        "updated_reason_type": "0"
+    }
+]

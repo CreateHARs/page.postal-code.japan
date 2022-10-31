@@ -1,0 +1,19 @@
+[
+    {
+        "local_government_code": "04215",
+        "postal_code_5digit": "98968",
+        "postal_code_7digit": "9896807",
+        "prefecture_kana": "ﾐﾔｷﾞｹﾝ",
+        "address1_kana": "ｵｵｻｷｼ",
+        "address2_kana": "ﾅﾙｺｵﾝｾﾝﾐﾃﾉﾊﾗ",
+        "prefecture_kanji": "宮城県",
+        "address1_kanji": "大崎市",
+        "address2_kanji": "鳴子温泉見手野原",
+        "is_address2_has_multiple_postal_code": "0",
+        "is_address2_has_multiple_sublocality": "0",
+        "is_address2_includes_chome": "0",
+        "is_postal_code_has_multiple_address2": "0",
+        "updated_type": "0",
+        "updated_reason_type": "0"
+    }
+]

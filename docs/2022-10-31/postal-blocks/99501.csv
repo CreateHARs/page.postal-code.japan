@@ -1,0 +1,4 @@
+local_government_code,postal_code_5digit,postal_code_7digit,prefecture_kana,address1_kana,address2_kana,prefecture_kanji,address1_kanji,address2_kanji,is_address2_has_multiple_postal_code,is_address2_has_multiple_sublocality,is_address2_includes_chome,is_postal_code_has_multiple_address2,updated_type,updated_reason_type
+06208,99501,9950111,ﾔﾏｶﾞﾀｹﾝ,ﾑﾗﾔﾏｼ,ｵｵｸﾎﾞ,山形県,村山市,大久保,0,1,0,0,0,0
+06208,99501,9950112,ﾔﾏｶﾞﾀｹﾝ,ﾑﾗﾔﾏｼ,ﾕﾉｻﾜ,山形県,村山市,湯野沢,0,0,0,0,0,0
+06208,99501,9950113,ﾔﾏｶﾞﾀｹﾝ,ﾑﾗﾔﾏｼ,ｲﾜﾉ,山形県,村山市,岩野,0,0,0,0,0,0

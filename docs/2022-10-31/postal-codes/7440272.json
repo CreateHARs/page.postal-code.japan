@@ -1,0 +1,19 @@
+[
+    {
+        "local_government_code": "35207",
+        "postal_code_5digit": "74402",
+        "postal_code_7digit": "7440272",
+        "prefecture_kana": "ﾔﾏｸﾞﾁｹﾝ",
+        "address1_kana": "ｸﾀﾞﾏﾂｼ",
+        "address2_kana": "ｵｵﾌｼﾞﾀﾞﾆ",
+        "prefecture_kanji": "山口県",
+        "address1_kanji": "下松市",
+        "address2_kanji": "大藤谷",
+        "is_address2_has_multiple_postal_code": "0",
+        "is_address2_has_multiple_sublocality": "0",
+        "is_address2_includes_chome": "0",
+        "is_postal_code_has_multiple_address2": "0",
+        "updated_type": "0",
+        "updated_reason_type": "0"
+    }
+]

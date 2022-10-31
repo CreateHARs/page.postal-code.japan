@@ -1,0 +1,5 @@
+local_government_code,postal_code_5digit,postal_code_7digit,prefecture_kana,address1_kana,address2_kana,prefecture_kanji,address1_kanji,address2_kanji,is_address2_has_multiple_postal_code,is_address2_has_multiple_sublocality,is_address2_includes_chome,is_postal_code_has_multiple_address2,updated_type,updated_reason_type
+01462,07924,0792401,ﾎｯｶｲﾄﾞｳ,ｿﾗﾁｸﾞﾝﾐﾅﾐﾌﾗﾉﾁｮｳ,ｲｸﾄﾗ(ｻｶｴﾏﾁ),北海道,空知郡南富良野町,幾寅（栄町）,1,0,0,1,0,0
+01462,07924,0792401,ﾎｯｶｲﾄﾞｳ,ｿﾗﾁｸﾞﾝﾐﾅﾐﾌﾗﾉﾁｮｳ,ｲｸﾄﾗ(ｽﾐﾖｼﾁｮｳ),北海道,空知郡南富良野町,幾寅（住吉町）,1,0,0,1,0,0
+01462,07924,0792401,ﾎｯｶｲﾄﾞｳ,ｿﾗﾁｸﾞﾝﾐﾅﾐﾌﾗﾉﾁｮｳ,ｲｸﾄﾗ(ﾅｲﾄｳ),北海道,空知郡南富良野町,幾寅（内藤）,1,0,0,1,0,0
+01462,07924,0792401,ﾎｯｶｲﾄﾞｳ,ｿﾗﾁｸﾞﾝﾐﾅﾐﾌﾗﾉﾁｮｳ,ｲｸﾄﾗ(ﾅｶﾏﾁ),北海道,空知郡南富良野町,幾寅（仲町）,1,0,0,1,0,0

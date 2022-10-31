@@ -1,0 +1,10 @@
+local_government_code,postal_code_5digit,postal_code_7digit,prefecture_kana,address1_kana,address2_kana,prefecture_kanji,address1_kanji,address2_kanji,is_address2_has_multiple_postal_code,is_address2_has_multiple_sublocality,is_address2_includes_chome,is_postal_code_has_multiple_address2,updated_type,updated_reason_type
+47209,90522,9052261,ｵｷﾅﾜｹﾝ,ﾅｺﾞｼ,ﾃﾆﾔ,沖縄県,名護市,天仁屋,0,0,0,0,0,0
+47209,90522,9052262,ｵｷﾅﾜｹﾝ,ﾅｺﾞｼ,ｶﾖｳ,沖縄県,名護市,嘉陽,0,0,0,0,0,0
+47209,90522,9052263,ｵｷﾅﾜｹﾝ,ﾅｺﾞｼ,ｱﾌﾞ,沖縄県,名護市,安部,0,0,0,0,0,0
+47209,90522,9052264,ｵｷﾅﾜｹﾝ,ﾅｺﾞｼ,ﾐﾊﾗ,沖縄県,名護市,三原,0,0,0,0,0,0
+47209,90522,9052265,ｵｷﾅﾜｹﾝ,ﾅｺﾞｼ,ﾃｲﾏ,沖縄県,名護市,汀間,0,0,0,0,0,0
+47209,90522,9052266,ｵｷﾅﾜｹﾝ,ﾅｺﾞｼ,ｾﾀﾞｹ,沖縄県,名護市,瀬嵩,0,0,0,0,0,0
+47209,90522,9052267,ｵｷﾅﾜｹﾝ,ﾅｺﾞｼ,ｵｵｳﾗ,沖縄県,名護市,大浦,0,0,0,0,0,0
+47209,90522,9052268,ｵｷﾅﾜｹﾝ,ﾅｺﾞｼ,ｵｵｶﾜ,沖縄県,名護市,大川,0,0,0,0,0,0
+47209,90522,9052269,ｵｷﾅﾜｹﾝ,ﾅｺﾞｼ,ﾌﾀﾐ,沖縄県,名護市,二見,0,0,0,0,0,0

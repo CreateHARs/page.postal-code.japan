@@ -1,0 +1,8 @@
+local_government_code,postal_code_5digit,postal_code_7digit,prefecture_kana,address1_kana,address2_kana,prefecture_kanji,address1_kanji,address2_kanji,is_address2_has_multiple_postal_code,is_address2_has_multiple_sublocality,is_address2_includes_chome,is_postal_code_has_multiple_address2,updated_type,updated_reason_type
+41206,84923,8492301,ｻｶﾞｹﾝ,ﾀｹｵｼ,ﾔﾏｳﾁﾁｮｳｲﾇﾊﾞｼﾘ,佐賀県,武雄市,山内町犬走,0,0,0,0,0,0
+41206,84923,8492302,ｻｶﾞｹﾝ,ﾀｹｵｼ,ﾔﾏｳﾁﾁｮｳﾄﾉﾐ,佐賀県,武雄市,山内町鳥海,0,0,0,0,0,0
+41206,84923,8492303,ｻｶﾞｹﾝ,ﾀｹｵｼ,ﾔﾏｳﾁﾁｮｳﾐﾏｻｶ,佐賀県,武雄市,山内町三間坂,0,0,0,0,0,0
+41206,84923,8492304,ｻｶﾞｹﾝ,ﾀｹｵｼ,ﾔﾏｳﾁﾁｮｳｵｵﾉ,佐賀県,武雄市,山内町大野,0,0,0,0,0,0
+41206,84923,8492305,ｻｶﾞｹﾝ,ﾀｹｵｼ,ﾔﾏｳﾁﾁｮｳﾐﾔﾉ,佐賀県,武雄市,山内町宮野,0,0,0,0,0,0
+41206,84923,8492341,ｻｶﾞｹﾝ,ﾀｹｵｼ,ﾀｹｳﾁﾁｮｳｳﾒﾉ,佐賀県,武雄市,武内町梅野,0,0,0,0,0,0
+41206,84923,8492342,ｻｶﾞｹﾝ,ﾀｹｵｼ,ﾀｹｳﾁﾁｮｳﾏﾃﾉ,佐賀県,武雄市,武内町真手野,0,0,0,0,0,0

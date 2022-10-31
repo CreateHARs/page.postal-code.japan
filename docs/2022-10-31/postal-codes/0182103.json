@@ -1,0 +1,19 @@
+[
+    {
+        "local_government_code": "05348",
+        "postal_code_5digit": "01821",
+        "postal_code_7digit": "0182103",
+        "prefecture_kana": "ｱｷﾀｹﾝ",
+        "address1_kana": "ﾔﾏﾓﾄｸﾞﾝﾐﾀﾈﾁｮｳ",
+        "address2_kana": "ｺｲｶﾜ",
+        "prefecture_kanji": "秋田県",
+        "address1_kanji": "山本郡三種町",
+        "address2_kanji": "鯉川",
+        "is_address2_has_multiple_postal_code": "0",
+        "is_address2_has_multiple_sublocality": "1",
+        "is_address2_includes_chome": "0",
+        "is_postal_code_has_multiple_address2": "0",
+        "updated_type": "0",
+        "updated_reason_type": "0"
+    }
+]
