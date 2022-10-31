@@ -1,0 +1,19 @@
+[
+    {
+        "local_government_code": "45203",
+        "postal_code_5digit": "88201",
+        "postal_code_7digit": "8820244",
+        "prefecture_kana": "ﾐﾔｻﾞｷｹﾝ",
+        "address1_kana": "ﾉﾍﾞｵｶｼ",
+        "address2_kana": "ｷﾀｶﾀﾏﾁﾊﾔﾅｶ",
+        "prefecture_kanji": "宮崎県",
+        "address1_kanji": "延岡市",
+        "address2_kanji": "北方町早中",
+        "is_address2_has_multiple_postal_code": "0",
+        "is_address2_has_multiple_sublocality": "0",
+        "is_address2_includes_chome": "0",
+        "is_postal_code_has_multiple_address2": "0",
+        "updated_type": "0",
+        "updated_reason_type": "0"
+    }
+]

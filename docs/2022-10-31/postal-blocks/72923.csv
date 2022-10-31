@@ -1,0 +1,9 @@
+local_government_code,postal_code_5digit,postal_code_7digit,prefecture_kana,address1_kana,address2_kana,prefecture_kanji,address1_kanji,address2_kanji,is_address2_has_multiple_postal_code,is_address2_has_multiple_sublocality,is_address2_includes_chome,is_postal_code_has_multiple_address2,updated_type,updated_reason_type
+34203,72923,7292311,ﾋﾛｼﾏｹﾝ,ﾀｹﾊﾗｼ,ﾀﾀﾞﾉｳﾐﾁｮｳ,広島県,竹原市,忠海町,0,0,0,0,0,0
+34203,72923,7292312,ﾋﾛｼﾏｹﾝ,ﾀｹﾊﾗｼ,ﾌｸﾀﾞﾁｮｳ,広島県,竹原市,福田町,0,0,0,0,0,0
+34203,72923,7292313,ﾋﾛｼﾏｹﾝ,ﾀｹﾊﾗｼ,ﾀｶｻｷﾁｮｳ,広島県,竹原市,高崎町,0,0,0,0,0,0
+34203,72923,7292314,ﾋﾛｼﾏｹﾝ,ﾀｹﾊﾗｼ,ﾀﾀﾞﾉｳﾐﾄｺﾉｳﾗ,広島県,竹原市,忠海床浦,0,0,1,0,0,0
+34203,72923,7292315,ﾋﾛｼﾏｹﾝ,ﾀｹﾊﾗｼ,ﾀﾀﾞﾉｳﾐﾅｶﾞﾊﾏ,広島県,竹原市,忠海長浜,0,0,1,0,0,0
+34203,72923,7292316,ﾋﾛｼﾏｹﾝ,ﾀｹﾊﾗｼ,ﾀﾀﾞﾉｳﾐﾅｶﾏﾁ,広島県,竹原市,忠海中町,0,0,1,0,0,0
+34203,72923,7292317,ﾋﾛｼﾏｹﾝ,ﾀｹﾊﾗｼ,ﾀﾀﾞﾉｳﾐﾋｶﾞｼﾏﾁ,広島県,竹原市,忠海東町,0,0,1,0,0,0
+34204,72923,7292361,ﾋﾛｼﾏｹﾝ,ﾐﾊﾗｼ,ｺｲｽﾞﾐﾁｮｳ,広島県,三原市,小泉町,0,0,0,0,0,0

@@ -1,0 +1,2 @@
+local_government_code,postal_code_5digit,postal_code_7digit,prefecture_kana,address1_kana,address2_kana,prefecture_kanji,address1_kanji,address2_kanji,is_address2_has_multiple_postal_code,is_address2_has_multiple_sublocality,is_address2_includes_chome,is_postal_code_has_multiple_address2,updated_type,updated_reason_type
+38488,79813,7981375,ｴﾋﾒｹﾝ,ｷﾀｳﾜｸﾞﾝｷﾎｸﾁｮｳ,ｱｾﾞﾔ,愛媛県,北宇和郡鬼北町,畔屋,0,0,0,0,0,0

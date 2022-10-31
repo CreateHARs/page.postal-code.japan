@@ -1,0 +1,19 @@
+[
+    {
+        "local_government_code": "45205",
+        "postal_code_5digit": "886  ",
+        "postal_code_7digit": "8860009",
+        "prefecture_kana": "ﾐﾔｻﾞｷｹﾝ",
+        "address1_kana": "ｺﾊﾞﾔｼｼ",
+        "address2_kana": "ｴｷﾐﾅﾐ",
+        "prefecture_kanji": "宮崎県",
+        "address1_kanji": "小林市",
+        "address2_kanji": "駅南",
+        "is_address2_has_multiple_postal_code": "0",
+        "is_address2_has_multiple_sublocality": "0",
+        "is_address2_includes_chome": "0",
+        "is_postal_code_has_multiple_address2": "0",
+        "updated_type": "0",
+        "updated_reason_type": "0"
+    }
+]

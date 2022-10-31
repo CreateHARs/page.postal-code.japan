@@ -1,0 +1,36 @@
+[
+    {
+        "local_government_code": "26102",
+        "postal_code_5digit": "602  ",
+        "postal_code_7digit": "6028227",
+        "prefecture_kana": "ｷｮｳﾄﾌ",
+        "address1_kana": "ｷｮｳﾄｼｶﾐｷﾞｮｳｸ",
+        "address2_kana": "ﾋﾞｼｬﾓﾝﾁｮｳ",
+        "prefecture_kanji": "京都府",
+        "address1_kanji": "京都市上京区",
+        "address2_kanji": "毘沙門町（大宮通一条上る東入、黒門通一条上る、黒門通元誓願寺",
+        "is_address2_has_multiple_postal_code": "0",
+        "is_address2_has_multiple_sublocality": "0",
+        "is_address2_includes_chome": "0",
+        "is_postal_code_has_multiple_address2": "0",
+        "updated_type": "0",
+        "updated_reason_type": "0"
+    },
+    {
+        "local_government_code": "26102",
+        "postal_code_5digit": "602  ",
+        "postal_code_7digit": "6028227",
+        "prefecture_kana": "ｷｮｳﾄﾌ",
+        "address1_kana": "ｷｮｳﾄｼｶﾐｷﾞｮｳｸ",
+        "address2_kana": "ﾋﾞｼｬﾓﾝﾁｮｳ",
+        "prefecture_kanji": "京都府",
+        "address1_kanji": "京都市上京区",
+        "address2_kanji": "下る、黒門通元誓願寺下る西入、黒門通一条上る西入）",
+        "is_address2_has_multiple_postal_code": "0",
+        "is_address2_has_multiple_sublocality": "0",
+        "is_address2_includes_chome": "0",
+        "is_postal_code_has_multiple_address2": "0",
+        "updated_type": "0",
+        "updated_reason_type": "0"
+    }
+]

@@ -1,0 +1,9 @@
+local_government_code,postal_code_5digit,postal_code_7digit,prefecture_kana,address1_kana,address2_kana,prefecture_kanji,address1_kanji,address2_kanji,is_address2_has_multiple_postal_code,is_address2_has_multiple_sublocality,is_address2_includes_chome,is_postal_code_has_multiple_address2,updated_type,updated_reason_type
+04214,98105,9810500,ﾐﾔｷﾞｹﾝ,ﾋｶﾞｼﾏﾂｼﾏｼ,ｲｶﾆｹｲｻｲｶﾞﾅｲﾊﾞｱｲ,宮城県,東松島市,以下に掲載がない場合,0,0,0,0,0,0
+04214,98105,9810501,ﾐﾔｷﾞｹﾝ,ﾋｶﾞｼﾏﾂｼﾏｼ,ｱｶｲ,宮城県,東松島市,赤井,0,1,0,0,0,0
+04214,98105,9810502,ﾐﾔｷﾞｹﾝ,ﾋｶﾞｼﾏﾂｼﾏｼ,ｵｵﾏｶﾞﾘ,宮城県,東松島市,大曲,0,1,0,0,0,0
+04214,98105,9810503,ﾐﾔｷﾞｹﾝ,ﾋｶﾞｼﾏﾂｼﾏｼ,ﾔﾓﾄ,宮城県,東松島市,矢本,0,1,0,0,0,0
+04214,98105,9810504,ﾐﾔｷﾞｹﾝ,ﾋｶﾞｼﾏﾂｼﾏｼ,ｺﾏﾂ,宮城県,東松島市,小松,0,1,0,0,0,0
+04214,98105,9810505,ﾐﾔｷﾞｹﾝ,ﾋｶﾞｼﾏﾂｼﾏｼ,ｵｵｼｵ,宮城県,東松島市,大塩,0,1,0,0,0,0
+04214,98105,9810506,ﾐﾔｷﾞｹﾝ,ﾋｶﾞｼﾏﾂｼﾏｼ,ｱｵｲ,宮城県,東松島市,あおい,0,0,1,0,0,0
+04214,98105,9810507,ﾐﾔｷﾞｹﾝ,ﾋｶﾞｼﾏﾂｼﾏｼ,ﾐｿﾗ,宮城県,東松島市,みそら,0,0,1,0,0,0
