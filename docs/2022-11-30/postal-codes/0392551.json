@@ -1,0 +1,19 @@
+[
+    {
+        "local_government_code": "02402",
+        "postal_code_5digit": "03925",
+        "postal_code_7digit": "0392551",
+        "prefecture_kana": "ｱｵﾓﾘｹﾝ",
+        "address1_kana": "ｶﾐｷﾀｸﾞﾝｼﾁﾉﾍﾏﾁ",
+        "address2_kana": "ﾔｸｼﾀｲ",
+        "prefecture_kanji": "青森県",
+        "address1_kanji": "上北郡七戸町",
+        "address2_kanji": "薬師平",
+        "is_address2_has_multiple_postal_code": "0",
+        "is_address2_has_multiple_sublocality": "0",
+        "is_address2_includes_chome": "0",
+        "is_postal_code_has_multiple_address2": "0",
+        "updated_type": "0",
+        "updated_reason_type": "0"
+    }
+]

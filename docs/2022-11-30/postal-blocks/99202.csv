@@ -1,0 +1,6 @@
+local_government_code,postal_code_5digit,postal_code_7digit,prefecture_kana,address1_kana,address2_kana,prefecture_kanji,address1_kanji,address2_kanji,is_address2_has_multiple_postal_code,is_address2_has_multiple_sublocality,is_address2_includes_chome,is_postal_code_has_multiple_address2,updated_type,updated_reason_type
+06381,99202,9920261,ﾔﾏｶﾞﾀｹﾝ,ﾋｶﾞｼｵｷﾀﾏｸﾞﾝﾀｶﾊﾀﾏﾁ,ｶﾐﾜﾀﾞ,山形県,東置賜郡高畠町,上和田,0,1,0,0,0,0
+06381,99202,9920262,ﾔﾏｶﾞﾀｹﾝ,ﾋｶﾞｼｵｷﾀﾏｸﾞﾝﾀｶﾊﾀﾏﾁ,ﾓﾄﾜﾀﾞ,山形県,東置賜郡高畠町,元和田,0,1,0,0,0,0
+06381,99202,9920263,ﾔﾏｶﾞﾀｹﾝ,ﾋｶﾞｼｵｷﾀﾏｸﾞﾝﾀｶﾊﾀﾏﾁ,ｼﾓﾜﾀﾞ,山形県,東置賜郡高畠町,下和田,0,1,0,0,0,0
+06381,99202,9920264,ﾔﾏｶﾞﾀｹﾝ,ﾋｶﾞｼｵｷﾀﾏｸﾞﾝﾀｶﾊﾀﾏﾁ,ﾊﾞﾄｳ,山形県,東置賜郡高畠町,馬頭,0,1,0,0,0,0
+06381,99202,9920265,ﾔﾏｶﾞﾀｹﾝ,ﾋｶﾞｼｵｷﾀﾏｸﾞﾝﾀｶﾊﾀﾏﾁ,ｻｻﾞﾜ,山形県,東置賜郡高畠町,佐沢,0,1,0,0,0,0

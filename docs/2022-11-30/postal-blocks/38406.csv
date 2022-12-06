@@ -1,0 +1,8 @@
+local_government_code,postal_code_5digit,postal_code_7digit,prefecture_kana,address1_kana,address2_kana,prefecture_kanji,address1_kanji,address2_kanji,is_address2_has_multiple_postal_code,is_address2_has_multiple_sublocality,is_address2_includes_chome,is_postal_code_has_multiple_address2,updated_type,updated_reason_type
+20309,38406,3840600,ﾅｶﾞﾉｹﾝ,ﾐﾅﾐｻｸｸﾞﾝｻｸﾎﾏﾁ,ｲｶﾆｹｲｻｲｶﾞﾅｲﾊﾞｱｲ,長野県,南佐久郡佐久穂町,以下に掲載がない場合,0,0,0,0,0,0
+20309,38406,3840611,ﾅｶﾞﾉｹﾝ,ﾐﾅﾐｻｸｸﾞﾝｻｸﾎﾏﾁ,ﾋﾗﾊﾞﾔｼ,長野県,南佐久郡佐久穂町,平林,0,0,0,0,0,0
+20309,38406,3840612,ﾅｶﾞﾉｹﾝ,ﾐﾅﾐｻｸｸﾞﾝｻｸﾎﾏﾁ,ﾔﾄﾞｲﾜ,長野県,南佐久郡佐久穂町,宿岩,0,0,0,0,0,0
+20309,38406,3840613,ﾅｶﾞﾉｹﾝ,ﾐﾅﾐｻｸｸﾞﾝｻｸﾎﾏﾁ,ﾀｶﾉﾏﾁ,長野県,南佐久郡佐久穂町,高野町,0,0,0,0,0,0
+20309,38406,3840614,ﾅｶﾞﾉｹﾝ,ﾐﾅﾐｻｸｸﾞﾝｻｸﾎﾏﾁ,ｶﾐ,長野県,南佐久郡佐久穂町,上,0,0,0,0,0,0
+20217,38406,3840621,ﾅｶﾞﾉｹﾝ,ｻｸｼ,ｲﾘｻﾜ,長野県,佐久市,入澤,0,0,0,0,0,0
+20217,38406,3840622,ﾅｶﾞﾉｹﾝ,ｻｸｼ,ﾋﾗﾊﾞﾔｼ,長野県,佐久市,平林,0,0,0,0,0,0

@@ -1,0 +1,3 @@
+local_government_code,postal_code_5digit,postal_code_7digit,prefecture_kana,address1_kana,address2_kana,prefecture_kanji,address1_kanji,address2_kanji,is_address2_has_multiple_postal_code,is_address2_has_multiple_sublocality,is_address2_includes_chome,is_postal_code_has_multiple_address2,updated_type,updated_reason_type
+07402,96605,9660501,ﾌｸｼﾏｹﾝ,ﾔﾏｸﾞﾝｷﾀｼｵﾊﾞﾗﾑﾗ,ﾋﾊﾞﾗ(ｳﾊﾞﾀｻﾜ､ｶﾅﾔﾏ､ｺﾞｼﾞｭｳﾘｮｳﾊﾗ､ｽﾉﾔﾏ､ﾀｷﾉﾊﾗ､ﾄﾞｳｾﾞﾝﾊﾗ､ﾊｶｼﾀ､ﾋﾊﾞﾗ､ﾑｴﾝ,福島県,耶麻郡北塩原村,桧原（苧畑沢、金山、五十両原、巣ノ山、滝ノ原、道前原、墓下、桧原、無縁,1,1,0,0,0,0
+07402,96605,9660501,ﾌｸｼﾏｹﾝ,ﾔﾏｸﾞﾝｷﾀｼｵﾊﾞﾗﾑﾗ,ﾊﾗ､ﾜｾｻﾞﾜ､ｺﾔｻﾜ､ﾐｽﾞﾅｼﾊﾗ､ﾅｶﾊﾗ､ﾅﾗﾉｷﾀﾞｲﾗﾊﾗ､ﾔｹｶﾞﾂﾗﾔﾏ､ﾀﾃﾔﾏ),福島県,耶麻郡北塩原村,原、早稲沢、小屋沢、水梨原、中原、楢木平原、焼桂山、館山）,1,1,0,0,0,0

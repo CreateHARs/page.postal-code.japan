@@ -1,0 +1,19 @@
+[
+    {
+        "local_government_code": "23105",
+        "postal_code_5digit": "450  ",
+        "postal_code_7digit": "4506329",
+        "prefecture_kana": "ｱｲﾁｹﾝ",
+        "address1_kana": "ﾅｺﾞﾔｼﾅｶﾑﾗｸ",
+        "address2_kana": "ﾒｲｴｷｼﾞｪｲﾋﾟｰﾀﾜｰﾅｺﾞﾔ(29ｶｲ)",
+        "prefecture_kanji": "愛知県",
+        "address1_kanji": "名古屋市中村区",
+        "address2_kanji": "名駅ＪＰタワー名古屋（２９階）",
+        "is_address2_has_multiple_postal_code": "0",
+        "is_address2_has_multiple_sublocality": "0",
+        "is_address2_includes_chome": "0",
+        "is_postal_code_has_multiple_address2": "0",
+        "updated_type": "0",
+        "updated_reason_type": "0"
+    }
+]
