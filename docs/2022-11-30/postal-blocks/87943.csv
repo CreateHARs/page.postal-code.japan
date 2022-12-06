@@ -1,0 +1,5 @@
+local_government_code,postal_code_5digit,postal_code_7digit,prefecture_kana,address1_kana,address2_kana,prefecture_kanji,address1_kanji,address2_kanji,is_address2_has_multiple_postal_code,is_address2_has_multiple_sublocality,is_address2_includes_chome,is_postal_code_has_multiple_address2,updated_type,updated_reason_type
+44462,87943,8794301,ｵｵｲﾀｹﾝ,ｸｽｸﾞﾝｸｽﾏﾁ,ﾖｯｶｲﾁ(ｿﾉﾀ),大分県,玖珠郡玖珠町,四日市（その他）,1,0,0,0,0,0
+44462,87943,8794331,ｵｵｲﾀｹﾝ,ｸｽｸﾞﾝｸｽﾏﾁ,ﾄﾊﾞﾀ,大分県,玖珠郡玖珠町,戸畑,0,0,0,0,0,0
+44462,87943,8794332,ｵｵｲﾀｹﾝ,ｸｽｸﾞﾝｸｽﾏﾁ,ﾔﾏｳﾗ(ｱｷﾊﾀ､ｵｷﾞﾜﾗ､ｼﾓｿﾉ､ｼﾓﾉﾃﾗ､ｽｷﾞｶﾜﾁ､ｾﾝｼｭｳ､ｿｳｽﾞ､ﾅｶﾉ､ﾅｶ,大分県,玖珠郡玖珠町,山浦（秋畑、荻原、下園、下ノ寺、杉河内、千重、早水、中野、中,1,0,0,0,0,0
+44462,87943,8794332,ｵｵｲﾀｹﾝ,ｸｽｸﾞﾝｸｽﾏﾁ,ﾂﾞﾏﾘ､ﾊﾅｶﾞ､ﾎﾞｸｼﾞｮｳ),大分県,玖珠郡玖珠町,泊里、花香、牧場）,1,0,0,0,0,0

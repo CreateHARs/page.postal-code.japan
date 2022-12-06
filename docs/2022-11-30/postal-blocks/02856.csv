@@ -1,0 +1,5 @@
+local_government_code,postal_code_5digit,postal_code_7digit,prefecture_kana,address1_kana,address2_kana,prefecture_kanji,address1_kanji,address2_kanji,is_address2_has_multiple_postal_code,is_address2_has_multiple_sublocality,is_address2_includes_chome,is_postal_code_has_multiple_address2,updated_type,updated_reason_type
+03483,02856,0285633,ｲﾜﾃｹﾝ,ｼﾓﾍｲｸﾞﾝｲﾜｲｽﾞﾐﾁｮｳ,ｶﾏﾂﾀ(ｶﾐｸﾘﾔﾄﾞ､ｸﾘﾔﾄﾞ､ｺﾞﾝｹﾞﾝ),岩手県,下閉伊郡岩泉町,釜津田（上栗宿、栗宿、権現）,1,1,0,0,0,0
+03483,02856,0285641,ｲﾜﾃｹﾝ,ｼﾓﾍｲｸﾞﾝｲﾜｲｽﾞﾐﾁｮｳ,ｶﾄﾞ,岩手県,下閉伊郡岩泉町,門,0,1,0,0,0,0
+03483,02856,0285642,ｲﾜﾃｹﾝ,ｼﾓﾍｲｸﾞﾝｲﾜｲｽﾞﾐﾁｮｳ,ｱﾅｻﾞﾜ,岩手県,下閉伊郡岩泉町,穴沢,0,1,0,0,0,0
+03483,02856,0285643,ｲﾜﾃｹﾝ,ｼﾓﾍｲｸﾞﾝｲﾜｲｽﾞﾐﾁｮｳ,ﾎﾛﾜﾀ,岩手県,下閉伊郡岩泉町,袰綿,0,1,0,0,0,0

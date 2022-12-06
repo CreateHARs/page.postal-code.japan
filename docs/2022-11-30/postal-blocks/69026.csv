@@ -1,0 +1,6 @@
+local_government_code,postal_code_5digit,postal_code_7digit,prefecture_kana,address1_kana,address2_kana,prefecture_kanji,address1_kanji,address2_kanji,is_address2_has_multiple_postal_code,is_address2_has_multiple_sublocality,is_address2_includes_chome,is_postal_code_has_multiple_address2,updated_type,updated_reason_type
+32209,69026,6902625,ｼﾏﾈｹﾝ,ｳﾝﾅﾝｼ,ﾐﾄﾔﾁｮｳｻｶﾓﾄ(ｿﾉﾀ),島根県,雲南市,三刀屋町坂本（その他）,1,0,0,0,0,0
+32209,69026,6902631,ｼﾏﾈｹﾝ,ｳﾝﾅﾝｼ,ﾐﾄﾔﾁｮｳﾈﾊﾞﾍﾞｯｼﾖ,島根県,雲南市,三刀屋町根波別所,0,0,0,0,0,0
+32209,69026,6902632,ｼﾏﾈｹﾝ,ｳﾝﾅﾝｼ,ﾐﾄﾔﾁｮｳｻﾄﾎﾞｳ,島根県,雲南市,三刀屋町里坊,0,0,0,0,0,0
+32209,69026,6902633,ｼﾏﾈｹﾝ,ｳﾝﾅﾝｼ,ﾐﾄﾔﾁｮｳﾄﾉｺﾞｳﾁ,島根県,雲南市,三刀屋町殿河内,0,0,0,0,0,0
+32209,69026,6902634,ｼﾏﾈｹﾝ,ｳﾝﾅﾝｼ,ﾐﾄﾔﾁｮｳｵﾂｶﾐﾔ,島根県,雲南市,三刀屋町乙加宮,0,0,0,0,0,0

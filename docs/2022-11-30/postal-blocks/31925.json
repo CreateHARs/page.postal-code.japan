@@ -1,0 +1,53 @@
+[
+    {
+        "local_government_code": "08225",
+        "postal_code_5digit": "31925",
+        "postal_code_7digit": "3192511",
+        "prefecture_kana": "ｲﾊﾞﾗｷｹﾝ",
+        "address1_kana": "ﾋﾀﾁｵｵﾐﾔｼ",
+        "address2_kana": "ｶﾐﾋｻﾞﾜ",
+        "prefecture_kanji": "茨城県",
+        "address1_kanji": "常陸大宮市",
+        "address2_kanji": "上檜沢",
+        "is_address2_has_multiple_postal_code": "0",
+        "is_address2_has_multiple_sublocality": "0",
+        "is_address2_includes_chome": "0",
+        "is_postal_code_has_multiple_address2": "0",
+        "updated_type": "0",
+        "updated_reason_type": "0"
+    },
+    {
+        "local_government_code": "08225",
+        "postal_code_5digit": "31925",
+        "postal_code_7digit": "3192512",
+        "prefecture_kana": "ｲﾊﾞﾗｷｹﾝ",
+        "address1_kana": "ﾋﾀﾁｵｵﾐﾔｼ",
+        "address2_kana": "ｼﾓﾋｻﾞﾜ",
+        "prefecture_kanji": "茨城県",
+        "address1_kanji": "常陸大宮市",
+        "address2_kanji": "下檜沢",
+        "is_address2_has_multiple_postal_code": "0",
+        "is_address2_has_multiple_sublocality": "0",
+        "is_address2_includes_chome": "0",
+        "is_postal_code_has_multiple_address2": "0",
+        "updated_type": "0",
+        "updated_reason_type": "0"
+    },
+    {
+        "local_government_code": "08225",
+        "postal_code_5digit": "31925",
+        "postal_code_7digit": "3192513",
+        "prefecture_kana": "ｲﾊﾞﾗｷｹﾝ",
+        "address1_kana": "ﾋﾀﾁｵｵﾐﾔｼ",
+        "address2_kana": "ﾋﾉｻﾜ",
+        "prefecture_kanji": "茨城県",
+        "address1_kanji": "常陸大宮市",
+        "address2_kanji": "氷之沢",
+        "is_address2_has_multiple_postal_code": "0",
+        "is_address2_has_multiple_sublocality": "0",
+        "is_address2_includes_chome": "0",
+        "is_postal_code_has_multiple_address2": "0",
+        "updated_type": "0",
+        "updated_reason_type": "0"
+    }
+]

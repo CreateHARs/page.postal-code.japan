@@ -1,0 +1,19 @@
+[
+    {
+        "local_government_code": "23227",
+        "postal_code_5digit": "44413",
+        "postal_code_7digit": "4441304",
+        "prefecture_kana": "ｱｲﾁｹﾝ",
+        "address1_kana": "ﾀｶﾊﾏｼ",
+        "address2_kana": "ﾄﾖﾀﾞﾁｮｳ",
+        "prefecture_kanji": "愛知県",
+        "address1_kanji": "高浜市",
+        "address2_kanji": "豊田町",
+        "is_address2_has_multiple_postal_code": "0",
+        "is_address2_has_multiple_sublocality": "0",
+        "is_address2_includes_chome": "1",
+        "is_postal_code_has_multiple_address2": "0",
+        "updated_type": "0",
+        "updated_reason_type": "0"
+    }
+]
