@@ -1,0 +1,7 @@
+local_government_code,postal_code_5digit,postal_code_7digit,prefecture_kana,address1_kana,address2_kana,prefecture_kanji,address1_kanji,address2_kanji,is_address2_has_multiple_postal_code,is_address2_has_multiple_sublocality,is_address2_includes_chome,is_postal_code_has_multiple_address2,updated_type,updated_reason_type
+02202,03612,0361201,ｱｵﾓﾘｹﾝ,ﾋﾛｻｷｼ,ﾄｺｼﾅｲ,青森県,弘前市,十腰内,0,1,0,0,0,0
+02202,03612,0361202,ｱｵﾓﾘｹﾝ,ﾋﾛｻｷｼ,ﾄﾂﾗｻﾞﾜ,青森県,弘前市,十面沢,0,1,0,0,0,0
+02202,03612,0361203,ｱｵﾓﾘｹﾝ,ﾋﾛｻｷｼ,ｵｵﾓﾘ,青森県,弘前市,大森,0,1,0,0,0,0
+02202,03612,0361204,ｱｵﾓﾘｹﾝ,ﾋﾛｻｷｼ,ｶｲｻﾞﾜ,青森県,弘前市,貝沢,0,1,0,0,0,0
+02202,03612,0361205,ｱｵﾓﾘｹﾝ,ﾋﾛｻｷｼ,ｵﾆｻﾞﾜ,青森県,弘前市,鬼沢,0,1,0,0,0,0
+02202,03612,0361206,ｱｵﾓﾘｹﾝ,ﾋﾛｻｷｼ,ﾅﾗﾉｷ,青森県,弘前市,楢木,0,1,0,0,0,0

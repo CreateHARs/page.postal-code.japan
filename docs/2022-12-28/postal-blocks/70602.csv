@@ -1,0 +1,7 @@
+local_government_code,postal_code_5digit,postal_code_7digit,prefecture_kana,address1_kana,address2_kana,prefecture_kanji,address1_kanji,address2_kanji,is_address2_has_multiple_postal_code,is_address2_has_multiple_sublocality,is_address2_includes_chome,is_postal_code_has_multiple_address2,updated_type,updated_reason_type
+33204,70602,7060221,ｵｶﾔﾏｹﾝ,ﾀﾏﾉｼ,ﾊﾁﾊﾏﾁｮｳﾊﾁﾊﾏ,岡山県,玉野市,八浜町八浜,0,0,0,0,0,0
+33204,70602,7060222,ｵｶﾔﾏｹﾝ,ﾀﾏﾉｼ,ﾊﾁﾊﾏﾁｮｳﾐｲｼ,岡山県,玉野市,八浜町見石,0,0,0,0,0,0
+33204,70602,7060223,ｵｶﾔﾏｹﾝ,ﾀﾏﾉｼ,ﾊﾁﾊﾏﾁｮｳﾊﾁ,岡山県,玉野市,八浜町波知,0,0,0,0,0,0
+33204,70602,7060224,ｵｶﾔﾏｹﾝ,ﾀﾏﾉｼ,ﾊﾁﾊﾏﾁｮｳｵｵｻｷ,岡山県,玉野市,八浜町大崎,0,0,0,0,0,0
+33204,70602,7060225,ｵｶﾔﾏｹﾝ,ﾀﾏﾉｼ,ﾐﾅﾐﾅﾅｸ,岡山県,玉野市,南七区,0,0,0,0,0,0
+33204,70602,7060226,ｵｶﾔﾏｹﾝ,ﾀﾏﾉｼ,ﾋｶﾞｼﾅﾅｸ,岡山県,玉野市,東七区,0,0,0,0,0,0

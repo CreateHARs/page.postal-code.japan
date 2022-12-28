@@ -1,0 +1,6 @@
+local_government_code,postal_code_5digit,postal_code_7digit,prefecture_kana,address1_kana,address2_kana,prefecture_kanji,address1_kanji,address2_kanji,is_address2_has_multiple_postal_code,is_address2_has_multiple_sublocality,is_address2_includes_chome,is_postal_code_has_multiple_address2,updated_type,updated_reason_type
+04501,98701,9870137,ﾐﾔｷﾞｹﾝ,ﾄｵﾀﾞｸﾞﾝﾜｸﾔﾁｮｳ,ｼﾝﾅｶｼﾞﾏｵﾂ,宮城県,遠田郡涌谷町,新中島乙,0,0,0,1,0,0
+04501,98701,9870137,ﾐﾔｷﾞｹﾝ,ﾄｵﾀﾞｸﾞﾝﾜｸﾔﾁｮｳ,ﾅｶｼﾞﾏ,宮城県,遠田郡涌谷町,中島,0,0,0,1,0,0
+04501,98701,9870137,ﾐﾔｷﾞｹﾝ,ﾄｵﾀﾞｸﾞﾝﾜｸﾔﾁｮｳ,ﾅｶｼﾞﾏｵﾂ,宮城県,遠田郡涌谷町,中島乙,0,0,0,1,0,0
+04501,98701,9870137,ﾐﾔｷﾞｹﾝ,ﾄｵﾀﾞｸﾞﾝﾜｸﾔﾁｮｳ,ﾅｶｼﾞﾏｶﾜﾏｴ,宮城県,遠田郡涌谷町,中島川前,0,0,0,1,0,0
+04501,98701,9870137,ﾐﾔｷﾞｹﾝ,ﾄｵﾀﾞｸﾞﾝﾜｸﾔﾁｮｳ,ﾅｶｼﾞﾏｺｳ,宮城県,遠田郡涌谷町,中島甲,0,0,0,1,0,0

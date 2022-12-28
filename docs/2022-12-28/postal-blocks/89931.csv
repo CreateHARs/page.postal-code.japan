@@ -1,0 +1,5 @@
+local_government_code,postal_code_5digit,postal_code_7digit,prefecture_kana,address1_kana,address2_kana,prefecture_kanji,address1_kanji,address2_kanji,is_address2_has_multiple_postal_code,is_address2_has_multiple_sublocality,is_address2_includes_chome,is_postal_code_has_multiple_address2,updated_type,updated_reason_type
+46216,89931,8993101,ｶｺﾞｼﾏｹﾝ,ﾋｵｷｼ,ﾋﾖｼﾁｮｳﾋｵｷ,鹿児島県,日置市,日吉町日置,0,0,0,0,0,0
+46216,89931,8993102,ｶｺﾞｼﾏｹﾝ,ﾋｵｷｼ,ﾋﾖｼﾁｮｳﾔﾏﾀﾞ,鹿児島県,日置市,日吉町山田,0,0,0,0,0,0
+46216,89931,8993103,ｶｺﾞｼﾏｹﾝ,ﾋｵｷｼ,ﾋﾖｼﾁｮｳﾖｼﾄｼ(5614､5619､5647､5653ﾊﾞﾝﾁ),鹿児島県,日置市,日吉町吉利（５６１４、５６１９、５６４７、５６５３番地）,1,0,0,0,0,0
+46216,89931,8993121,ｶｺﾞｼﾏｹﾝ,ﾋｵｷｼ,ｲｼﾞｭｳｲﾝﾁｮｳｵｵﾀ(ｸｷﾉﾉｲｼﾂﾞｶ),鹿児島県,日置市,伊集院町大田（久木野々石塚）,1,0,0,0,0,0

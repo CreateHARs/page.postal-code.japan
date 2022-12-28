@@ -1,0 +1,7 @@
+local_government_code,postal_code_5digit,postal_code_7digit,prefecture_kana,address1_kana,address2_kana,prefecture_kanji,address1_kanji,address2_kanji,is_address2_has_multiple_postal_code,is_address2_has_multiple_sublocality,is_address2_includes_chome,is_postal_code_has_multiple_address2,updated_type,updated_reason_type
+15206,95704,9570461,ﾆｲｶﾞﾀｹﾝ,ｼﾊﾞﾀｼ,ﾅｶﾅｶﾔﾏ,新潟県,新発田市,中々山,0,0,0,0,0,0
+15206,95704,9570462,ﾆｲｶﾞﾀｹﾝ,ｼﾊﾞﾀｼ,ﾀｷﾀﾞﾆ,新潟県,新発田市,滝谷,0,0,0,0,0,0
+15206,95704,9570463,ﾆｲｶﾞﾀｹﾝ,ｼﾊﾞﾀｼ,ﾋｶﾞｼｱｶﾀﾆ,新潟県,新発田市,東赤谷,0,0,0,0,0,0
+15206,95704,9570464,ﾆｲｶﾞﾀｹﾝ,ｼﾊﾞﾀｼ,ｶﾐｱｶﾀﾆ,新潟県,新発田市,上赤谷,0,0,0,0,0,0
+15206,95704,9570465,ﾆｲｶﾞﾀｹﾝ,ｼﾊﾞﾀｼ,ｵｵﾂｷ,新潟県,新発田市,大槻,0,0,0,0,0,0
+15206,95704,9570466,ﾆｲｶﾞﾀｹﾝ,ｼﾊﾞﾀｼ,ﾔﾏｳﾁ,新潟県,新発田市,山内,0,0,0,0,0,0

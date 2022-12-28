@@ -1,0 +1,19 @@
+[
+    {
+        "local_government_code": "22214",
+        "postal_code_5digit": "42111",
+        "postal_code_7digit": "4211114",
+        "prefecture_kana": "ｼｽﾞｵｶｹﾝ",
+        "address1_kana": "ﾌｼﾞｴﾀﾞｼ",
+        "address2_kana": "ｵｶﾍﾞﾁｮｳﾊｻﾏ",
+        "prefecture_kanji": "静岡県",
+        "address1_kanji": "藤枝市",
+        "address2_kanji": "岡部町羽佐間",
+        "is_address2_has_multiple_postal_code": "0",
+        "is_address2_has_multiple_sublocality": "0",
+        "is_address2_includes_chome": "0",
+        "is_postal_code_has_multiple_address2": "0",
+        "updated_type": "0",
+        "updated_reason_type": "0"
+    }
+]

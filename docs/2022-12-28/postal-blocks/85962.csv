@@ -1,0 +1,8 @@
+local_government_code,postal_code_5digit,postal_code_7digit,prefecture_kana,address1_kana,address2_kana,prefecture_kanji,address1_kanji,address2_kanji,is_address2_has_multiple_postal_code,is_address2_has_multiple_sublocality,is_address2_includes_chome,is_postal_code_has_multiple_address2,updated_type,updated_reason_type
+42202,85962,8596201,ﾅｶﾞｻｷｹﾝ,ｻｾﾎﾞｼ,ｼｶﾏﾁﾁｮｳｵｵﾔ,長崎県,佐世保市,鹿町町大屋,0,0,0,0,0,0
+42202,85962,8596202,ﾅｶﾞｻｷｹﾝ,ｻｾﾎﾞｼ,ｼｶﾏﾁﾁｮｳｶﾐｳﾀｶﾞｳﾗ,長崎県,佐世保市,鹿町町上歌ヶ浦,0,0,0,0,0,0
+42202,85962,8596203,ﾅｶﾞｻｷｹﾝ,ｻｾﾎﾞｼ,ｼｶﾏﾁﾁｮｳｸﾁﾉｻﾄ,長崎県,佐世保市,鹿町町口ノ里,0,0,0,0,0,0
+42202,85962,8596204,ﾅｶﾞｻｷｹﾝ,ｻｾﾎﾞｼ,ｼｶﾏﾁﾁｮｳｼﾓｳﾀｶﾞｳﾗ,長崎県,佐世保市,鹿町町下歌ヶ浦,0,0,0,0,0,0
+42202,85962,8596205,ﾅｶﾞｻｷｹﾝ,ｻｾﾎﾞｼ,ｼｶﾏﾁﾁｮｳﾅｶﾉ,長崎県,佐世保市,鹿町町中野,0,0,0,0,0,0
+42202,85962,8596206,ﾅｶﾞｻｷｹﾝ,ｻｾﾎﾞｼ,ｼｶﾏﾁﾁｮｳﾅｸﾞｼ,長崎県,佐世保市,鹿町町長串,0,0,0,0,0,0
+42202,85962,8596207,ﾅｶﾞｻｷｹﾝ,ｻｾﾎﾞｼ,ｼｶﾏﾁﾁｮｳﾌﾈﾉﾑﾗ,長崎県,佐世保市,鹿町町船ノ村,0,0,0,0,0,0

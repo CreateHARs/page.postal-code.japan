@@ -1,0 +1,5 @@
+local_government_code,postal_code_5digit,postal_code_7digit,prefecture_kana,address1_kana,address2_kana,prefecture_kanji,address1_kanji,address2_kanji,is_address2_has_multiple_postal_code,is_address2_has_multiple_sublocality,is_address2_includes_chome,is_postal_code_has_multiple_address2,updated_type,updated_reason_type
+43501,86803,8680300,ｸﾏﾓﾄｹﾝ,ｸﾏｸﾞﾝﾆｼｷﾏﾁ,ｲｶﾆｹｲｻｲｶﾞﾅｲﾊﾞｱｲ,熊本県,球磨郡錦町,以下に掲載がない場合,0,0,0,0,0,0
+43501,86803,8680301,ｸﾏﾓﾄｹﾝ,ｸﾏｸﾞﾝﾆｼｷﾏﾁ,ｷﾉｳｴ,熊本県,球磨郡錦町,木上,0,0,0,0,0,0
+43501,86803,8680302,ｸﾏﾓﾄｹﾝ,ｸﾏｸﾞﾝﾆｼｷﾏﾁ,ｲﾁﾌﾞ,熊本県,球磨郡錦町,一武,0,0,0,0,0,0
+43501,86803,8680303,ｸﾏﾓﾄｹﾝ,ｸﾏｸﾞﾝﾆｼｷﾏﾁ,ﾆｼ,熊本県,球磨郡錦町,西,0,0,0,0,0,0
