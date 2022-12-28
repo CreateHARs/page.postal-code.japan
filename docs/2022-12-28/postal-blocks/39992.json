@@ -1,0 +1,19 @@
+[
+    {
+        "local_government_code": "20485",
+        "postal_code_5digit": "39992",
+        "postal_code_7digit": "3999211",
+        "prefecture_kana": "ﾅｶﾞﾉｹﾝ",
+        "address1_kana": "ｷﾀｱﾂﾞﾐｸﾞﾝﾊｸﾊﾞﾑﾗ",
+        "address2_kana": "ｶﾐｼﾛ",
+        "prefecture_kanji": "長野県",
+        "address1_kanji": "北安曇郡白馬村",
+        "address2_kanji": "神城",
+        "is_address2_has_multiple_postal_code": "0",
+        "is_address2_has_multiple_sublocality": "0",
+        "is_address2_includes_chome": "0",
+        "is_postal_code_has_multiple_address2": "0",
+        "updated_type": "0",
+        "updated_reason_type": "0"
+    }
+]

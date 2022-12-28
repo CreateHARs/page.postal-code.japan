@@ -1,0 +1,36 @@
+[
+    {
+        "local_government_code": "36207",
+        "postal_code_5digit": "77121",
+        "postal_code_7digit": "7712105",
+        "prefecture_kana": "ﾄｸｼﾏｹﾝ",
+        "address1_kana": "ﾐﾏｼ",
+        "address2_kana": "ﾐﾏﾁｮｳ(ｲｹﾉｳﾗ､ｲﾁｮｳｷﾞ､ｳﾒｶﾞｸﾎﾞ､ｴｷ､ｴﾋﾞｽ､ｶｷﾉｷ､ｶﾝｶｹ､ｶﾞﾝｼｮｳｼﾞ､",
+        "prefecture_kanji": "徳島県",
+        "address1_kanji": "美馬市",
+        "address2_kanji": "美馬町（池ノ浦、銀杏木、梅ケ久保、駅、蛭子、柿木、鍵掛、願勝寺、",
+        "is_address2_has_multiple_postal_code": "1",
+        "is_address2_has_multiple_sublocality": "0",
+        "is_address2_includes_chome": "0",
+        "is_postal_code_has_multiple_address2": "0",
+        "updated_type": "0",
+        "updated_reason_type": "0"
+    },
+    {
+        "local_government_code": "36207",
+        "postal_code_5digit": "77121",
+        "postal_code_7digit": "7712105",
+        "prefecture_kana": "ﾄｸｼﾏｹﾝ",
+        "address1_kana": "ﾐﾏｼ",
+        "address2_kana": "ｷﾀﾂﾁｶﾞｸﾎﾞ､ｷﾆｭｳﾄﾞｳ､ﾀｷﾉﾐﾔ､ﾂﾁｶﾞｸﾎﾞ､ﾆｼﾀﾞﾝ､ﾐﾔﾋｶﾞｼ､ﾐﾔﾆｼ､ﾐﾔﾐﾅﾐ､ﾖｳｾﾝ)",
+        "prefecture_kanji": "徳島県",
+        "address1_kanji": "美馬市",
+        "address2_kanji": "北土ケ久保、喜入道、滝宮、土ケ久保、西段、宮東、宮西、宮南、養泉）",
+        "is_address2_has_multiple_postal_code": "1",
+        "is_address2_has_multiple_sublocality": "0",
+        "is_address2_includes_chome": "0",
+        "is_postal_code_has_multiple_address2": "0",
+        "updated_type": "0",
+        "updated_reason_type": "0"
+    }
+]

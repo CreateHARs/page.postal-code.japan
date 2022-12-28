@@ -1,0 +1,19 @@
+[
+    {
+        "local_government_code": "36204",
+        "postal_code_5digit": "774  ",
+        "postal_code_7digit": "7740044",
+        "prefecture_kana": "ﾄｸｼﾏｹﾝ",
+        "address1_kana": "ｱﾅﾝｼ",
+        "address2_kana": "ｶﾐﾅｶﾁｮｳ",
+        "prefecture_kanji": "徳島県",
+        "address1_kanji": "阿南市",
+        "address2_kanji": "上中町",
+        "is_address2_has_multiple_postal_code": "0",
+        "is_address2_has_multiple_sublocality": "1",
+        "is_address2_includes_chome": "0",
+        "is_postal_code_has_multiple_address2": "0",
+        "updated_type": "0",
+        "updated_reason_type": "0"
+    }
+]

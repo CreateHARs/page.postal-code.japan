@@ -1,0 +1,19 @@
+[
+    {
+        "local_government_code": "38204",
+        "postal_code_5digit": "796  ",
+        "postal_code_7digit": "7960035",
+        "prefecture_kana": "ｴﾋﾒｹﾝ",
+        "address1_kana": "ﾔﾜﾀﾊﾏｼ",
+        "address2_kana": "ｽｻｷ",
+        "prefecture_kanji": "愛媛県",
+        "address1_kanji": "八幡浜市",
+        "address2_kanji": "須崎",
+        "is_address2_has_multiple_postal_code": "0",
+        "is_address2_has_multiple_sublocality": "0",
+        "is_address2_includes_chome": "1",
+        "is_postal_code_has_multiple_address2": "0",
+        "updated_type": "0",
+        "updated_reason_type": "0"
+    }
+]

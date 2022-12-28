@@ -1,0 +1,19 @@
+[
+    {
+        "local_government_code": "24214",
+        "postal_code_5digit": "51104",
+        "postal_code_7digit": "5110406",
+        "prefecture_kana": "ﾐｴｹﾝ",
+        "address1_kana": "ｲﾅﾍﾞｼ",
+        "address2_kana": "ﾎｸｾｲﾁｮｳｼｵｻｷ",
+        "prefecture_kanji": "三重県",
+        "address1_kanji": "いなべ市",
+        "address2_kanji": "北勢町塩崎",
+        "is_address2_has_multiple_postal_code": "0",
+        "is_address2_has_multiple_sublocality": "0",
+        "is_address2_includes_chome": "0",
+        "is_postal_code_has_multiple_address2": "0",
+        "updated_type": "0",
+        "updated_reason_type": "0"
+    }
+]
