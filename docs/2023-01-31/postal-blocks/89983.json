@@ -1,0 +1,53 @@
+[
+    {
+        "local_government_code": "46217",
+        "postal_code_5digit": "89983",
+        "postal_code_7digit": "8998311",
+        "prefecture_kana": "ｶｺﾞｼﾏｹﾝ",
+        "address1_kana": "ｿｵｼ",
+        "address2_kana": "ｵｵｽﾐﾁｮｳｱﾗﾀﾆ(ｿﾉﾀ)",
+        "prefecture_kanji": "鹿児島県",
+        "address1_kanji": "曽於市",
+        "address2_kanji": "大隅町荒谷（その他）",
+        "is_address2_has_multiple_postal_code": "1",
+        "is_address2_has_multiple_sublocality": "0",
+        "is_address2_includes_chome": "0",
+        "is_postal_code_has_multiple_address2": "0",
+        "updated_type": "0",
+        "updated_reason_type": "0"
+    },
+    {
+        "local_government_code": "46221",
+        "postal_code_5digit": "89983",
+        "postal_code_7digit": "8998312",
+        "prefecture_kana": "ｶｺﾞｼﾏｹﾝ",
+        "address1_kana": "ｼﾌﾞｼｼ",
+        "address2_kana": "ｱﾘｱｹﾁｮｳﾉｶﾞﾐ(ﾇｷﾀﾞﾆ､ﾇﾙｷ､ﾎﾝｼﾞ､ﾏｶﾞﾘ､ﾐｽﾞﾉﾀﾆ)",
+        "prefecture_kanji": "鹿児島県",
+        "address1_kanji": "志布志市",
+        "address2_kanji": "有明町野神（抜谷、塗木、本地、曲、水ノ谷）",
+        "is_address2_has_multiple_postal_code": "1",
+        "is_address2_has_multiple_sublocality": "0",
+        "is_address2_includes_chome": "0",
+        "is_postal_code_has_multiple_address2": "0",
+        "updated_type": "0",
+        "updated_reason_type": "0"
+    },
+    {
+        "local_government_code": "46468",
+        "postal_code_5digit": "89983",
+        "postal_code_7digit": "8998313",
+        "prefecture_kana": "ｶｺﾞｼﾏｹﾝ",
+        "address1_kana": "ｿｵｸﾞﾝｵｵｻｷﾁｮｳ",
+        "address2_kana": "ﾉｶﾞﾀ",
+        "prefecture_kanji": "鹿児島県",
+        "address1_kanji": "曽於郡大崎町",
+        "address2_kanji": "野方",
+        "is_address2_has_multiple_postal_code": "0",
+        "is_address2_has_multiple_sublocality": "0",
+        "is_address2_includes_chome": "0",
+        "is_postal_code_has_multiple_address2": "0",
+        "updated_type": "0",
+        "updated_reason_type": "0"
+    }
+]

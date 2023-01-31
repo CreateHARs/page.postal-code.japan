@@ -1,0 +1,19 @@
+[
+    {
+        "local_government_code": "06201",
+        "postal_code_5digit": "99023",
+        "postal_code_7digit": "9902338",
+        "prefecture_kana": "ﾔﾏｶﾞﾀｹﾝ",
+        "address1_kana": "ﾔﾏｶﾞﾀｼ",
+        "address2_kana": "ｻﾞｵｳﾏﾂｶﾞｵｶ",
+        "prefecture_kanji": "山形県",
+        "address1_kanji": "山形市",
+        "address2_kanji": "蔵王松ケ丘",
+        "is_address2_has_multiple_postal_code": "0",
+        "is_address2_has_multiple_sublocality": "0",
+        "is_address2_includes_chome": "1",
+        "is_postal_code_has_multiple_address2": "0",
+        "updated_type": "0",
+        "updated_reason_type": "0"
+    }
+]

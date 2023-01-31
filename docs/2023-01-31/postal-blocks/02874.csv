@@ -1,0 +1,7 @@
+local_government_code,postal_code_5digit,postal_code_7digit,prefecture_kana,address1_kana,address2_kana,prefecture_kanji,address1_kanji,address2_kanji,is_address2_has_multiple_postal_code,is_address2_has_multiple_sublocality,is_address2_includes_chome,is_postal_code_has_multiple_address2,updated_type,updated_reason_type
+03214,02874,0287401,ｲﾜﾃｹﾝ,ﾊﾁﾏﾝﾀｲｼ,ﾆｼﾈﾃﾗﾀﾞ,岩手県,八幡平市,西根寺田,0,1,0,0,0,0
+03214,02874,0287402,ｲﾜﾃｹﾝ,ﾊﾁﾏﾝﾀｲｼ,ｶﾀﾋﾞﾗ,岩手県,八幡平市,帷子,0,1,0,0,0,0
+03214,02874,0287403,ｲﾜﾃｹﾝ,ﾊﾁﾏﾝﾀｲｼ,ｳﾜｾｷ,岩手県,八幡平市,上関,0,1,0,0,0,0
+03214,02874,0287404,ｲﾜﾃｹﾝ,ﾊﾁﾏﾝﾀｲｼ,ﾎﾘｷﾘ,岩手県,八幡平市,堀切,0,1,0,0,0,0
+03214,02874,0287405,ｲﾜﾃｹﾝ,ﾊﾁﾏﾝﾀｲｼ,ﾀｲﾗﾀﾞﾃ,岩手県,八幡平市,平舘,0,1,0,0,0,0
+03214,02874,0287406,ｲﾜﾃｹﾝ,ﾊﾁﾏﾝﾀｲｼ,ｱﾗｷﾀﾞ,岩手県,八幡平市,荒木田,0,1,0,0,0,0

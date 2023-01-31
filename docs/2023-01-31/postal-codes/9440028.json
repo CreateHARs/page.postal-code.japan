@@ -1,0 +1,19 @@
+[
+    {
+        "local_government_code": "15217",
+        "postal_code_5digit": "944  ",
+        "postal_code_7digit": "9440028",
+        "prefecture_kana": "ﾆｲｶﾞﾀｹﾝ",
+        "address1_kana": "ﾐｮｳｺｳｼ",
+        "address2_kana": "ﾋﾒｶﾜﾗ(ｿﾉﾀ)",
+        "prefecture_kanji": "新潟県",
+        "address1_kanji": "妙高市",
+        "address2_kanji": "姫川原（その他）",
+        "is_address2_has_multiple_postal_code": "1",
+        "is_address2_has_multiple_sublocality": "0",
+        "is_address2_includes_chome": "0",
+        "is_postal_code_has_multiple_address2": "0",
+        "updated_type": "0",
+        "updated_reason_type": "0"
+    }
+]

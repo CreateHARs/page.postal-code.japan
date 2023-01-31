@@ -1,0 +1,6 @@
+local_government_code,postal_code_5digit,postal_code_7digit,prefecture_kana,address1_kana,address2_kana,prefecture_kanji,address1_kanji,address2_kanji,is_address2_has_multiple_postal_code,is_address2_has_multiple_sublocality,is_address2_includes_chome,is_postal_code_has_multiple_address2,updated_type,updated_reason_type
+20220,39983,3998301,ﾅｶﾞﾉｹﾝ,ｱﾂﾞﾐﾉｼ,ﾎﾀｶｱﾘｱｹ,長野県,安曇野市,穂高有明,0,0,0,0,0,0
+20220,39983,3998302,ﾅｶﾞﾉｹﾝ,ｱﾂﾞﾐﾉｼ,ﾎﾀｶｷﾀﾎﾀｶ,長野県,安曇野市,穂高北穂高,0,0,0,0,0,0
+20220,39983,3998303,ﾅｶﾞﾉｹﾝ,ｱﾂﾞﾐﾉｼ,ﾎﾀｶ,長野県,安曇野市,穂高,0,0,0,0,0,0
+20220,39983,3998304,ﾅｶﾞﾉｹﾝ,ｱﾂﾞﾐﾉｼ,ﾎﾀｶｶｼﾜﾊﾞﾗ,長野県,安曇野市,穂高柏原,0,0,0,0,0,0
+20220,39983,3998305,ﾅｶﾞﾉｹﾝ,ｱﾂﾞﾐﾉｼ,ﾎﾀｶﾏｷ,長野県,安曇野市,穂高牧,0,0,0,0,0,0

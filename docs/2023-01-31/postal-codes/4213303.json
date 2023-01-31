@@ -1,0 +1,19 @@
+[
+    {
+        "local_government_code": "22210",
+        "postal_code_5digit": "42133",
+        "postal_code_7digit": "4213303",
+        "prefecture_kana": "ｼｽﾞｵｶｹﾝ",
+        "address1_kana": "ﾌｼﾞｼ",
+        "address2_kana": "ﾐﾅﾐﾏﾂﾉ",
+        "prefecture_kanji": "静岡県",
+        "address1_kanji": "富士市",
+        "address2_kanji": "南松野",
+        "is_address2_has_multiple_postal_code": "0",
+        "is_address2_has_multiple_sublocality": "0",
+        "is_address2_includes_chome": "0",
+        "is_postal_code_has_multiple_address2": "0",
+        "updated_type": "0",
+        "updated_reason_type": "0"
+    }
+]

@@ -1,0 +1,7 @@
+local_government_code,postal_code_5digit,postal_code_7digit,prefecture_kana,address1_kana,address2_kana,prefecture_kanji,address1_kanji,address2_kanji,is_address2_has_multiple_postal_code,is_address2_has_multiple_sublocality,is_address2_includes_chome,is_postal_code_has_multiple_address2,updated_type,updated_reason_type
+05204,01835,0183501,ｱｷﾀｹﾝ,ｵｵﾀﾞﾃｼ,ｲﾜｾ,秋田県,大館市,岩瀬,0,1,0,0,0,0
+05204,01835,0183502,ｱｷﾀｹﾝ,ｵｵﾀﾞﾃｼ,ﾔﾏﾀﾞ,秋田県,大館市,山田,0,1,0,0,0,0
+05204,01835,0183503,ｱｷﾀｹﾝ,ｵｵﾀﾞﾃｼ,ｿﾄｶﾜﾗ,秋田県,大館市,外川原,0,1,0,0,0,0
+05204,01835,0183504,ｱｷﾀｹﾝ,ｵｵﾀﾞﾃｼ,ﾅｶﾞｻｶ,秋田県,大館市,長坂,0,1,0,0,0,0
+05204,01835,0183505,ｱｷﾀｹﾝ,ｵｵﾀﾞﾃｼ,ﾊﾔｸﾞﾁ,秋田県,大館市,早口,0,1,0,0,0,0
+05204,01835,0183506,ｱｷﾀｹﾝ,ｵｵﾀﾞﾃｼ,ﾔﾏｾ,秋田県,大館市,山瀬,0,0,0,0,0,0

@@ -1,0 +1,2 @@
+local_government_code,postal_code_5digit,postal_code_7digit,prefecture_kana,address1_kana,address2_kana,prefecture_kanji,address1_kanji,address2_kanji,is_address2_has_multiple_postal_code,is_address2_has_multiple_sublocality,is_address2_includes_chome,is_postal_code_has_multiple_address2,updated_type,updated_reason_type
+44206,87503,8750352,ｵｵｲﾀｹﾝ,ｳｽｷｼ,ﾉﾂﾏﾁｶｷｶﾞﾜﾁ,大分県,臼杵市,野津町垣河内,0,0,0,0,0,0

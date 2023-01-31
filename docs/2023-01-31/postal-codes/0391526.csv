@@ -1,0 +1,4 @@
+local_government_code,postal_code_5digit,postal_code_7digit,prefecture_kana,address1_kana,address2_kana,prefecture_kanji,address1_kanji,address2_kanji,is_address2_has_multiple_postal_code,is_address2_has_multiple_sublocality,is_address2_includes_chome,is_postal_code_has_multiple_address2,updated_type,updated_reason_type
+02442,03915,0391526,ｱｵﾓﾘｹﾝ,ｻﾝﾉﾍｸﾞﾝｺﾞﾉﾍﾏﾁ,ｶﾐﾅｶﾞｼﾀ,青森県,三戸郡五戸町,上長下,0,0,0,1,0,0
+02442,03915,0391526,ｱｵﾓﾘｹﾝ,ｻﾝﾉﾍｸﾞﾝｺﾞﾉﾍﾏﾁ,ｼﾓﾅｶﾞｼﾀ,青森県,三戸郡五戸町,下長下,0,0,0,1,0,0
+02442,03915,0391526,ｱｵﾓﾘｹﾝ,ｻﾝﾉﾍｸﾞﾝｺﾞﾉﾍﾏﾁ,ｿｳﾘﾝﾊﾞｼ,青森県,三戸郡五戸町,惣林橋,0,0,0,1,0,0

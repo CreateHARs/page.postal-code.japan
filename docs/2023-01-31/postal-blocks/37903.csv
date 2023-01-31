@@ -1,0 +1,8 @@
+local_government_code,postal_code_5digit,postal_code_7digit,prefecture_kana,address1_kana,address2_kana,prefecture_kanji,address1_kanji,address2_kanji,is_address2_has_multiple_postal_code,is_address2_has_multiple_sublocality,is_address2_includes_chome,is_postal_code_has_multiple_address2,updated_type,updated_reason_type
+10211,37903,3790301,ｸﾞﾝﾏｹﾝ,ｱﾝﾅｶｼ,ﾏﾂｲﾀﾞﾏﾁﾖｺｶﾜ,群馬県,安中市,松井田町横川,0,0,0,0,0,0
+10211,37903,3790302,ｸﾞﾝﾏｹﾝ,ｱﾝﾅｶｼ,ﾏﾂｲﾀﾞﾏﾁｺﾞﾘｮｳ,群馬県,安中市,松井田町五料,0,0,0,0,0,0
+10211,37903,3790303,ｸﾞﾝﾏｹﾝ,ｱﾝﾅｶｼ,ﾏﾂｲﾀﾞﾏﾁﾆｼﾉﾏｷ,群馬県,安中市,松井田町西野牧,0,0,0,0,0,0
+10211,37903,3790304,ｸﾞﾝﾏｹﾝ,ｱﾝﾅｶｼ,ﾏﾂｲﾀﾞﾏﾁｷﾀﾉﾏｷ,群馬県,安中市,松井田町北野牧,0,0,0,0,0,0
+10211,37903,3790305,ｸﾞﾝﾏｹﾝ,ｱﾝﾅｶｼ,ﾏﾂｲﾀﾞﾏﾁｲﾘﾔﾏ,群馬県,安中市,松井田町入山,0,0,0,0,0,0
+10211,37903,3790306,ｸﾞﾝﾏｹﾝ,ｱﾝﾅｶｼ,ﾏﾂｲﾀﾞﾏﾁﾊﾗ,群馬県,安中市,松井田町原,0,0,0,0,0,0
+10211,37903,3790307,ｸﾞﾝﾏｹﾝ,ｱﾝﾅｶｼ,ﾏﾂｲﾀﾞﾏﾁｻｶﾓﾄ,群馬県,安中市,松井田町坂本,0,0,0,0,0,0

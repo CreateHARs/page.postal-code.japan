@@ -1,0 +1,4 @@
+local_government_code,postal_code_5digit,postal_code_7digit,prefecture_kana,address1_kana,address2_kana,prefecture_kanji,address1_kanji,address2_kanji,is_address2_has_multiple_postal_code,is_address2_has_multiple_sublocality,is_address2_includes_chome,is_postal_code_has_multiple_address2,updated_type,updated_reason_type
+39411,78504,7850411,ｺｳﾁｹﾝ,ﾀｶｵｶｸﾞﾝﾂﾉﾁｮｳ,ﾌﾅﾄ,高知県,高岡郡津野町,船戸,0,0,0,0,0,0
+39411,78504,7850412,ｺｳﾁｹﾝ,ﾀｶｵｶｸﾞﾝﾂﾉﾁｮｳ,ｸﾜｶﾞｲﾁ,高知県,高岡郡津野町,桑ケ市,0,0,0,0,0,0
+39411,78504,7850413,ｺｳﾁｹﾝ,ﾀｶｵｶｸﾞﾝﾂﾉﾁｮｳ,ｶﾗｽﾃﾞｶﾞﾜ,高知県,高岡郡津野町,烏出川,0,0,0,0,0,0

@@ -1,0 +1,4 @@
+local_government_code,postal_code_5digit,postal_code_7digit,prefecture_kana,address1_kana,address2_kana,prefecture_kanji,address1_kanji,address2_kanji,is_address2_has_multiple_postal_code,is_address2_has_multiple_sublocality,is_address2_includes_chome,is_postal_code_has_multiple_address2,updated_type,updated_reason_type
+16202,93911,9391121,ﾄﾔﾏｹﾝ,ﾀｶｵｶｼ,ﾄｲﾃﾞｱｵｲﾁｮｳ,富山県,高岡市,戸出葵町,0,0,0,1,0,0
+16202,93911,9391121,ﾄﾔﾏｹﾝ,ﾀｶｵｶｼ,ﾄｲﾃﾞｱｵｿﾞﾉﾁｮｳ,富山県,高岡市,戸出青園町,0,0,0,1,0,0
+16202,93911,9391121,ﾄﾔﾏｹﾝ,ﾀｶｵｶｼ,ﾄｲﾃﾞｺｳﾐｮｳｼﾞ,富山県,高岡市,戸出光明寺,0,0,0,1,0,0

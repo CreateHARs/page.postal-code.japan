@@ -1,0 +1,19 @@
+[
+    {
+        "local_government_code": "13102",
+        "postal_code_5digit": "103  ",
+        "postal_code_7digit": "1030023",
+        "prefecture_kana": "ﾄｳｷｮｳﾄ",
+        "address1_kana": "ﾁｭｳｵｳｸ",
+        "address2_kana": "ﾆﾎﾝﾊﾞｼﾎﾝﾁｮｳ",
+        "prefecture_kanji": "東京都",
+        "address1_kanji": "中央区",
+        "address2_kanji": "日本橋本町",
+        "is_address2_has_multiple_postal_code": "0",
+        "is_address2_has_multiple_sublocality": "0",
+        "is_address2_includes_chome": "1",
+        "is_postal_code_has_multiple_address2": "0",
+        "updated_type": "0",
+        "updated_reason_type": "0"
+    }
+]

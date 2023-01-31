@@ -1,0 +1,3 @@
+local_government_code,postal_code_5digit,postal_code_7digit,prefecture_kana,address1_kana,address2_kana,prefecture_kanji,address1_kanji,address2_kanji,is_address2_has_multiple_postal_code,is_address2_has_multiple_sublocality,is_address2_includes_chome,is_postal_code_has_multiple_address2,updated_type,updated_reason_type
+16201,93923,9392415,ﾄﾔﾏｹﾝ,ﾄﾔﾏｼ,ﾔﾂｵﾏﾁｶﾂﾗﾊﾗ,富山県,富山市,八尾町桂原,0,0,0,1,0,0
+16201,93923,9392415,ﾄﾔﾏｹﾝ,ﾄﾔﾏｼ,ﾔﾂｵﾏﾁﾆｼﾏﾂｾﾞ,富山県,富山市,八尾町西松瀬,0,0,0,1,0,0

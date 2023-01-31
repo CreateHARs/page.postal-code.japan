@@ -1,0 +1,19 @@
+[
+    {
+        "local_government_code": "39208",
+        "postal_code_5digit": "788  ",
+        "postal_code_7digit": "7880035",
+        "prefecture_kana": "ｺｳﾁｹﾝ",
+        "address1_kana": "ｽｸﾓｼ",
+        "address2_kana": "ｸｻｷﾞﾔﾌﾞ",
+        "prefecture_kanji": "高知県",
+        "address1_kanji": "宿毛市",
+        "address2_kanji": "草木薮",
+        "is_address2_has_multiple_postal_code": "0",
+        "is_address2_has_multiple_sublocality": "0",
+        "is_address2_includes_chome": "0",
+        "is_postal_code_has_multiple_address2": "0",
+        "updated_type": "0",
+        "updated_reason_type": "0"
+    }
+]

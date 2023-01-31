@@ -1,0 +1,7 @@
+local_government_code,postal_code_5digit,postal_code_7digit,prefecture_kana,address1_kana,address2_kana,prefecture_kanji,address1_kanji,address2_kanji,is_address2_has_multiple_postal_code,is_address2_has_multiple_sublocality,is_address2_includes_chome,is_postal_code_has_multiple_address2,updated_type,updated_reason_type
+23206,48003,4800301,ｱｲﾁｹﾝ,ｶｽｶﾞｲｼ,ｳﾂﾂﾁｮｳ,愛知県,春日井市,内津町,0,0,0,0,0,0
+23206,48003,4800302,ｱｲﾁｹﾝ,ｶｽｶﾞｲｼ,ｻｲｵﾁｮｳ,愛知県,春日井市,西尾町,0,0,0,0,0,0
+23206,48003,4800303,ｱｲﾁｹﾝ,ｶｽｶﾞｲｼ,ｱｹﾁﾁｮｳ,愛知県,春日井市,明知町,0,0,0,0,0,0
+23206,48003,4800304,ｱｲﾁｹﾝ,ｶｽｶﾞｲｼ,ｶｷﾞﾔﾁｮｳ,愛知県,春日井市,神屋町,0,0,0,0,0,0
+23206,48003,4800305,ｱｲﾁｹﾝ,ｶｽｶﾞｲｼ,ｻｶｼﾀﾁｮｳ,愛知県,春日井市,坂下町,0,0,1,0,0,0
+23206,48003,4800306,ｱｲﾁｹﾝ,ｶｽｶﾞｲｼ,ｳｴﾉﾁｮｳ,愛知県,春日井市,上野町,0,0,1,0,0,0

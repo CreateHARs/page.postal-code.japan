@@ -1,0 +1,19 @@
+[
+    {
+        "local_government_code": "07205",
+        "postal_code_5digit": "96104",
+        "postal_code_7digit": "9610402",
+        "prefecture_kana": "ﾌｸｼﾏｹﾝ",
+        "address1_kana": "ｼﾗｶﾜｼ",
+        "address2_kana": "ｵﾓﾃｺﾞｳﾅｲﾏﾂ",
+        "prefecture_kanji": "福島県",
+        "address1_kanji": "白河市",
+        "address2_kanji": "表郷内松",
+        "is_address2_has_multiple_postal_code": "0",
+        "is_address2_has_multiple_sublocality": "1",
+        "is_address2_includes_chome": "0",
+        "is_postal_code_has_multiple_address2": "0",
+        "updated_type": "0",
+        "updated_reason_type": "0"
+    }
+]

@@ -1,0 +1,7 @@
+local_government_code,postal_code_5digit,postal_code_7digit,prefecture_kana,address1_kana,address2_kana,prefecture_kanji,address1_kanji,address2_kanji,is_address2_has_multiple_postal_code,is_address2_has_multiple_sublocality,is_address2_includes_chome,is_postal_code_has_multiple_address2,updated_type,updated_reason_type
+46215,89511,8951101,ｶｺﾞｼﾏｹﾝ,ｻﾂﾏｾﾝﾀﾞｲｼ,ﾄｳｺﾞｳﾁｮｳｼｼﾉ,鹿児島県,薩摩川内市,東郷町宍野,0,0,0,0,0,0
+46215,89511,8951102,ｶｺﾞｼﾏｹﾝ,ｻﾂﾏｾﾝﾀﾞｲｼ,ﾄｳｺﾞｳﾁｮｳﾌｼﾞｶﾜ,鹿児島県,薩摩川内市,東郷町藤川,0,0,0,0,0,0
+46215,89511,8951103,ｶｺﾞｼﾏｹﾝ,ｻﾂﾏｾﾝﾀﾞｲｼ,ﾄｳｺﾞｳﾁｮｳﾄﾘﾏﾙ,鹿児島県,薩摩川内市,東郷町鳥丸,0,0,0,0,0,0
+46215,89511,8951104,ｶｺﾞｼﾏｹﾝ,ｻﾂﾏｾﾝﾀﾞｲｼ,ﾄｳｺﾞｳﾁｮｳﾔﾏﾀﾞ,鹿児島県,薩摩川内市,東郷町山田,0,0,0,0,0,0
+46215,89511,8951105,ｶｺﾞｼﾏｹﾝ,ｻﾂﾏｾﾝﾀﾞｲｼ,ﾄｳｺﾞｳﾁｮｳﾉｳｾﾞ,鹿児島県,薩摩川内市,東郷町南瀬,0,0,0,0,0,0
+46215,89511,8951106,ｶｺﾞｼﾏｹﾝ,ｻﾂﾏｾﾝﾀﾞｲｼ,ﾄｳｺﾞｳﾁｮｳｵﾉﾌﾞﾁ,鹿児島県,薩摩川内市,東郷町斧渕,0,0,0,0,0,0
