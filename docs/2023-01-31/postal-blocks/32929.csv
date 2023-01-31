@@ -1,0 +1,5 @@
+local_government_code,postal_code_5digit,postal_code_7digit,prefecture_kana,address1_kana,address2_kana,prefecture_kanji,address1_kanji,address2_kanji,is_address2_has_multiple_postal_code,is_address2_has_multiple_sublocality,is_address2_includes_chome,is_postal_code_has_multiple_address2,updated_type,updated_reason_type
+09213,32929,3292921,ﾄﾁｷﾞｹﾝ,ﾅｽｼｵﾊﾞﾗｼ,ｼｵﾊﾞﾗ,栃木県,那須塩原市,塩原,0,0,0,0,0,0
+09213,32929,3292922,ﾄﾁｷﾞｹﾝ,ﾅｽｼｵﾊﾞﾗｼ,ﾕﾓﾄｼｵﾊﾞﾗ,栃木県,那須塩原市,湯本塩原,0,0,0,0,0,0
+09213,32929,3292923,ﾄﾁｷﾞｹﾝ,ﾅｽｼｵﾊﾞﾗｼ,ｶﾐｼｵﾊﾞﾗ,栃木県,那須塩原市,上塩原,0,0,0,0,0,0
+09213,32929,3292924,ﾄﾁｷﾞｹﾝ,ﾅｽｼｵﾊﾞﾗｼ,ﾅｶｼｵﾊﾞﾗ,栃木県,那須塩原市,中塩原,0,0,0,0,0,0

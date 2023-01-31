@@ -1,0 +1,19 @@
+[
+    {
+        "local_government_code": "36202",
+        "postal_code_5digit": "772  ",
+        "postal_code_7digit": "7720060",
+        "prefecture_kana": "ﾄｸｼﾏｹﾝ",
+        "address1_kana": "ﾅﾙﾄｼ",
+        "address2_kana": "ｾﾄﾁｮｳｱｷﾉｶﾐ(ｸｽﾉｷﾀﾞﾆ､ﾆｹﾝﾔ､ﾐｽﾞｸﾐﾀﾞﾆ)",
+        "prefecture_kanji": "徳島県",
+        "address1_kanji": "鳴門市",
+        "address2_kanji": "瀬戸町明神（楠谷、弐軒家、水汲谷）",
+        "is_address2_has_multiple_postal_code": "1",
+        "is_address2_has_multiple_sublocality": "0",
+        "is_address2_includes_chome": "0",
+        "is_postal_code_has_multiple_address2": "0",
+        "updated_type": "0",
+        "updated_reason_type": "0"
+    }
+]

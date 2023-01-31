@@ -1,0 +1,19 @@
+[
+    {
+        "local_government_code": "11110",
+        "postal_code_5digit": "339  ",
+        "postal_code_7digit": "3390069",
+        "prefecture_kana": "ｻｲﾀﾏｹﾝ",
+        "address1_kana": "ｻｲﾀﾏｼｲﾜﾂｷｸ",
+        "address2_kana": "ﾐﾉﾜ",
+        "prefecture_kanji": "埼玉県",
+        "address1_kanji": "さいたま市岩槻区",
+        "address2_kanji": "箕輪",
+        "is_address2_has_multiple_postal_code": "0",
+        "is_address2_has_multiple_sublocality": "0",
+        "is_address2_includes_chome": "0",
+        "is_postal_code_has_multiple_address2": "0",
+        "updated_type": "0",
+        "updated_reason_type": "0"
+    }
+]

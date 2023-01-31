@@ -1,0 +1,6 @@
+local_government_code,postal_code_5digit,postal_code_7digit,prefecture_kana,address1_kana,address2_kana,prefecture_kanji,address1_kanji,address2_kanji,is_address2_has_multiple_postal_code,is_address2_has_multiple_sublocality,is_address2_includes_chome,is_postal_code_has_multiple_address2,updated_type,updated_reason_type
+35207,744  ,7440042,ﾔﾏｸﾞﾁｹﾝ,ｸﾀﾞﾏﾂｼ,ｷﾘﾔﾏ,山口県,下松市,切山,0,0,0,1,0,0
+35207,744  ,7440042,ﾔﾏｸﾞﾁｹﾝ,ｸﾀﾞﾏﾂｼ,ｷﾘﾔﾏ(ｷﾘﾔﾏｶﾐ),山口県,下松市,切山（切山上）,1,0,0,1,0,0
+35207,744  ,7440042,ﾔﾏｸﾞﾁｹﾝ,ｸﾀﾞﾏﾂｼ,ｷﾘﾔﾏ(ｷﾘﾔﾏﾅｶ),山口県,下松市,切山（切山中）,1,0,0,1,0,0
+35207,744  ,7440042,ﾔﾏｸﾞﾁｹﾝ,ｸﾀﾞﾏﾂｼ,ｷﾘﾔﾏ(ｷﾘﾔﾏｼﾓ),山口県,下松市,切山（切山下）,1,0,0,1,0,0
+35207,744  ,7440042,ﾔﾏｸﾞﾁｹﾝ,ｸﾀﾞﾏﾂｼ,ｷﾘﾔﾏ(ﾅｶ),山口県,下松市,切山（中）,1,0,0,1,0,0

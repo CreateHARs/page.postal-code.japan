@@ -1,0 +1,4 @@
+local_government_code,postal_code_5digit,postal_code_7digit,prefecture_kana,address1_kana,address2_kana,prefecture_kanji,address1_kanji,address2_kanji,is_address2_has_multiple_postal_code,is_address2_has_multiple_sublocality,is_address2_includes_chome,is_postal_code_has_multiple_address2,updated_type,updated_reason_type
+02442,03915,0391506,ｱｵﾓﾘｹﾝ,ｻﾝﾉﾍｸﾞﾝｺﾞﾉﾍﾏﾁ,ｸﾏﾉﾊﾞﾔｼ,青森県,三戸郡五戸町,熊野林,0,0,0,1,0,0
+02442,03915,0391506,ｱｵﾓﾘｹﾝ,ｻﾝﾉﾍｸﾞﾝｺﾞﾉﾍﾏﾁ,ｸﾏﾉﾊﾞﾔｼｳｼﾛ,青森県,三戸郡五戸町,熊野林後,0,0,0,1,0,0
+02442,03915,0391506,ｱｵﾓﾘｹﾝ,ｻﾝﾉﾍｸﾞﾝｺﾞﾉﾍﾏﾁ,ｸﾏﾉﾊﾞﾔｼﾏｴ,青森県,三戸郡五戸町,熊野林前,0,0,0,1,0,0

@@ -1,0 +1,19 @@
+[
+    {
+        "local_government_code": "38422",
+        "postal_code_5digit": "79133",
+        "postal_code_7digit": "7913362",
+        "prefecture_kana": "ｴﾋﾒｹﾝ",
+        "address1_kana": "ｷﾀｸﾞﾝｳﾁｺﾁｮｳ",
+        "address2_kana": "ｵｵｾｷﾀ(ｵﾂｶｹﾞﾔﾏ､ｸﾏﾉﾀｷ､ｺｳｶﾞｹﾔﾏ､ﾎﾄﾞｳﾁ)",
+        "prefecture_kanji": "愛媛県",
+        "address1_kanji": "喜多郡内子町",
+        "address2_kanji": "大瀬北（乙影山、熊の滝、甲影山、程内）",
+        "is_address2_has_multiple_postal_code": "0",
+        "is_address2_has_multiple_sublocality": "0",
+        "is_address2_includes_chome": "0",
+        "is_postal_code_has_multiple_address2": "0",
+        "updated_type": "0",
+        "updated_reason_type": "0"
+    }
+]

@@ -1,0 +1,19 @@
+[
+    {
+        "local_government_code": "39364",
+        "postal_code_5digit": "78137",
+        "postal_code_7digit": "7813702",
+        "prefecture_kana": "ｺｳﾁｹﾝ",
+        "address1_kana": "ﾄｻｸﾞﾝｵｵｶﾜﾑﾗ",
+        "address2_kana": "ﾌﾅﾄ(ﾓﾓｶﾞﾔ)",
+        "prefecture_kanji": "高知県",
+        "address1_kanji": "土佐郡大川村",
+        "address2_kanji": "船戸（桃ケ谷）",
+        "is_address2_has_multiple_postal_code": "1",
+        "is_address2_has_multiple_sublocality": "0",
+        "is_address2_includes_chome": "0",
+        "is_postal_code_has_multiple_address2": "0",
+        "updated_type": "0",
+        "updated_reason_type": "0"
+    }
+]

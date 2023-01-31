@@ -1,0 +1,19 @@
+[
+    {
+        "local_government_code": "01610",
+        "postal_code_5digit": "056  ",
+        "postal_code_7digit": "0560014",
+        "prefecture_kana": "ﾎｯｶｲﾄﾞｳ",
+        "address1_kana": "ﾋﾀﾞｶｸﾞﾝｼﾝﾋﾀﾞｶﾁｮｳ",
+        "address2_kana": "ｼｽﾞﾅｲﾌﾙｶﾜﾁｮｳ",
+        "prefecture_kanji": "北海道",
+        "address1_kanji": "日高郡新ひだか町",
+        "address2_kanji": "静内古川町",
+        "is_address2_has_multiple_postal_code": "0",
+        "is_address2_has_multiple_sublocality": "0",
+        "is_address2_includes_chome": "1",
+        "is_postal_code_has_multiple_address2": "0",
+        "updated_type": "0",
+        "updated_reason_type": "0"
+    }
+]

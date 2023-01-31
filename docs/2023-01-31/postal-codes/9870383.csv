@@ -1,0 +1,8 @@
+local_government_code,postal_code_5digit,postal_code_7digit,prefecture_kana,address1_kana,address2_kana,prefecture_kanji,address1_kanji,address2_kanji,is_address2_has_multiple_postal_code,is_address2_has_multiple_sublocality,is_address2_includes_chome,is_postal_code_has_multiple_address2,updated_type,updated_reason_type
+04212,98703,9870383,ﾐﾔｷﾞｹﾝ,ﾄﾒｼ,ﾄﾖｻﾄﾁｮｳｿﾄｺﾞﾊﾞﾝｴ,宮城県,登米市,豊里町外五番江,0,0,0,1,0,0
+04212,98703,9870383,ﾐﾔｷﾞｹﾝ,ﾄﾒｼ,ﾄﾖｻﾄﾁｮｳｿﾄｻﾝﾊﾞﾝｴ,宮城県,登米市,豊里町外三番江,0,0,0,1,0,0
+04212,98703,9870383,ﾐﾔｷﾞｹﾝ,ﾄﾒｼ,ﾄﾖｻﾄﾁｮｳｿﾄﾅﾅﾊﾞﾝｴ,宮城県,登米市,豊里町外七番江,0,0,0,1,0,0
+04212,98703,9870383,ﾐﾔｷﾞｹﾝ,ﾄﾒｼ,ﾄﾖｻﾄﾁｮｳｿﾄﾆﾊﾞﾝｴ,宮城県,登米市,豊里町外二番江,0,0,0,1,0,0
+04212,98703,9870383,ﾐﾔｷﾞｹﾝ,ﾄﾒｼ,ﾄﾖｻﾄﾁｮｳｿﾄﾊﾁﾊﾞﾝｴ,宮城県,登米市,豊里町外八番江,0,0,0,1,0,0
+04212,98703,9870383,ﾐﾔｷﾞｹﾝ,ﾄﾒｼ,ﾄﾖｻﾄﾁｮｳｿﾄﾖﾝﾊﾞﾝｴ,宮城県,登米市,豊里町外四番江,0,0,0,1,0,0
+04212,98703,9870383,ﾐﾔｷﾞｹﾝ,ﾄﾒｼ,ﾄﾖｻﾄﾁｮｳｿﾄﾛｸﾊﾞﾝｴ,宮城県,登米市,豊里町外六番江,0,0,0,1,0,0

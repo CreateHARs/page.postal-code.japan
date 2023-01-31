@@ -1,0 +1,19 @@
+[
+    {
+        "local_government_code": "34103",
+        "postal_code_5digit": "734  ",
+        "postal_code_7digit": "7340035",
+        "prefecture_kana": "ﾋﾛｼﾏｹﾝ",
+        "address1_kana": "ﾋﾛｼﾏｼﾐﾅﾐｸ",
+        "address2_kana": "ﾔﾏｼﾛﾁｮｳ",
+        "prefecture_kanji": "広島県",
+        "address1_kanji": "広島市南区",
+        "address2_kanji": "山城町",
+        "is_address2_has_multiple_postal_code": "0",
+        "is_address2_has_multiple_sublocality": "0",
+        "is_address2_includes_chome": "0",
+        "is_postal_code_has_multiple_address2": "0",
+        "updated_type": "0",
+        "updated_reason_type": "0"
+    }
+]

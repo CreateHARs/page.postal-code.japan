@@ -1,0 +1,8 @@
+local_government_code,postal_code_5digit,postal_code_7digit,prefecture_kana,address1_kana,address2_kana,prefecture_kanji,address1_kanji,address2_kanji,is_address2_has_multiple_postal_code,is_address2_has_multiple_sublocality,is_address2_includes_chome,is_postal_code_has_multiple_address2,updated_type,updated_reason_type
+02210,03601,0360162,ｱｵﾓﾘｹﾝ,ﾋﾗｶﾜｼ,ﾀﾃﾔﾏｲﾀﾊﾞｼ,青森県,平川市,館山板橋,0,1,0,1,0,0
+02210,03601,0360162,ｱｵﾓﾘｹﾝ,ﾋﾗｶﾜｼ,ﾀﾃﾔﾏｶﾐｵｳｷﾞﾀﾞ,青森県,平川市,館山上扇田,0,1,0,1,0,0
+02210,03601,0360162,ｱｵﾓﾘｹﾝ,ﾋﾗｶﾜｼ,ﾀﾃﾔﾏｶﾐｶﾒｵｶ,青森県,平川市,館山上亀岡,0,1,0,1,0,0
+02210,03601,0360162,ｱｵﾓﾘｹﾝ,ﾋﾗｶﾜｼ,ﾀﾃﾔﾏｶﾜｲ,青森県,平川市,館山川合,0,1,0,1,0,0
+02210,03601,0360162,ｱｵﾓﾘｹﾝ,ﾋﾗｶﾜｼ,ﾀﾃﾔﾏｼﾓｵｳｷﾞﾀﾞ,青森県,平川市,館山下扇田,0,1,0,1,0,0
+02210,03601,0360162,ｱｵﾓﾘｹﾝ,ﾋﾗｶﾜｼ,ﾀﾃﾔﾏｼﾓｶﾒｵｶ,青森県,平川市,館山下亀岡,0,1,0,1,0,0
+02210,03601,0360162,ｱｵﾓﾘｹﾝ,ﾋﾗｶﾜｼ,ﾀﾃﾔﾏﾏｴﾀﾞ,青森県,平川市,館山前田,0,1,0,1,0,0

@@ -1,0 +1,19 @@
+[
+    {
+        "local_government_code": "28208",
+        "postal_code_5digit": "67801",
+        "postal_code_7digit": "6780141",
+        "prefecture_kana": "ﾋｮｳｺﾞｹﾝ",
+        "address1_kana": "ｱｲｵｲｼ",
+        "address2_kana": "ｱｲｵｲ(5133ﾊﾞﾝﾁ2-5187ﾊﾞﾝﾁ､5316ﾊﾞﾝﾁ1-5316ﾊﾞﾝﾁ167)",
+        "prefecture_kanji": "兵庫県",
+        "address1_kanji": "相生市",
+        "address2_kanji": "相生（５１３３番地２〜５１８７番地、５３１６番地１〜５３１６番地１６７）",
+        "is_address2_has_multiple_postal_code": "1",
+        "is_address2_has_multiple_sublocality": "0",
+        "is_address2_includes_chome": "1",
+        "is_postal_code_has_multiple_address2": "0",
+        "updated_type": "0",
+        "updated_reason_type": "0"
+    }
+]

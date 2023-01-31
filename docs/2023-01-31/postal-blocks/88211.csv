@@ -1,0 +1,5 @@
+local_government_code,postal_code_5digit,postal_code_7digit,prefecture_kana,address1_kana,address2_kana,prefecture_kanji,address1_kanji,address2_kanji,is_address2_has_multiple_postal_code,is_address2_has_multiple_sublocality,is_address2_includes_chome,is_postal_code_has_multiple_address2,updated_type,updated_reason_type
+45441,88211,8821100,ﾐﾔｻﾞｷｹﾝ,ﾆｼｳｽｷｸﾞﾝﾀｶﾁﾎﾁｮｳ,ｲｶﾆｹｲｻｲｶﾞﾅｲﾊﾞｱｲ,宮崎県,西臼杵郡高千穂町,以下に掲載がない場合,0,0,0,0,0,0
+45441,88211,8821101,ﾐﾔｻﾞｷｹﾝ,ﾆｼｳｽｷｸﾞﾝﾀｶﾁﾎﾁｮｳ,ﾐﾀｲ,宮崎県,西臼杵郡高千穂町,三田井,0,0,0,0,0,0
+45441,88211,8821102,ﾐﾔｻﾞｷｹﾝ,ﾆｼｳｽｷｸﾞﾝﾀｶﾁﾎﾁｮｳ,ｵｼｶﾀ,宮崎県,西臼杵郡高千穂町,押方,0,0,0,0,0,0
+45441,88211,8821103,ﾐﾔｻﾞｷｹﾝ,ﾆｼｳｽｷｸﾞﾝﾀｶﾁﾎﾁｮｳ,ﾑｺｳﾔﾏ,宮崎県,西臼杵郡高千穂町,向山,0,0,0,0,0,0

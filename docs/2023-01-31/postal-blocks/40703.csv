@@ -1,0 +1,6 @@
+local_government_code,postal_code_5digit,postal_code_7digit,prefecture_kana,address1_kana,address2_kana,prefecture_kanji,address1_kanji,address2_kanji,is_address2_has_multiple_postal_code,is_address2_has_multiple_sublocality,is_address2_includes_chome,is_postal_code_has_multiple_address2,updated_type,updated_reason_type
+19209,40703,4070301,ﾔﾏﾅｼｹﾝ,ﾎｸﾄｼ,ﾀｶﾈﾁｮｳｷﾖｻﾄ,山梨県,北杜市,高根町清里,0,0,0,0,0,0
+19209,40703,4070302,ﾔﾏﾅｼｹﾝ,ﾎｸﾄｼ,ﾀｶﾈﾁｮｳｱｻｶﾜ,山梨県,北杜市,高根町浅川,0,0,0,0,0,0
+19209,40703,4070311,ﾔﾏﾅｼｹﾝ,ﾎｸﾄｼ,ｵｵｲｽﾞﾐﾁｮｳﾆｼｲﾃﾞ8240-1(ｳﾂｸｼﾓﾘ､ﾀｶﾈｿｳ､ｾｲｾﾝﾘｮｳ､ｻﾝﾒﾄﾞｳｽﾞｽｷｰｼﾞｮｳ),山梨県,北杜市,大泉町西井出８２４０−１（美森、たかね荘、清泉寮、サンメドウズスキー場）,1,0,0,0,0,0
+19209,40703,4070321,ﾔﾏﾅｼｹﾝ,ﾎｸﾄｼ,ｽﾀﾏﾁｮｳｶﾐﾂｶﾞﾈ,山梨県,北杜市,須玉町上津金,0,0,0,0,0,0
+19209,40703,4070322,ﾔﾏﾅｼｹﾝ,ﾎｸﾄｼ,ｽﾀﾏﾁｮｳｼﾓﾂｶﾞﾈ,山梨県,北杜市,須玉町下津金,0,0,0,0,0,0

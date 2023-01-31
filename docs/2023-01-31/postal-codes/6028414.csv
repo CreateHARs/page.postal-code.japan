@@ -1,0 +1,4 @@
+local_government_code,postal_code_5digit,postal_code_7digit,prefecture_kana,address1_kana,address2_kana,prefecture_kanji,address1_kanji,address2_kanji,is_address2_has_multiple_postal_code,is_address2_has_multiple_sublocality,is_address2_includes_chome,is_postal_code_has_multiple_address2,updated_type,updated_reason_type
+26102,602  ,6028414,ｷｮｳﾄﾌ,ｷｮｳﾄｼｶﾐｷﾞｮｳｸ,ﾆｼｷﾀｺｳｼﾞﾁｮｳ,京都府,京都市上京区,西北小路町（猪熊通上立売上る、猪熊通寺之内下る、大宮通寺之内下,0,0,0,0,0,0
+26102,602  ,6028414,ｷｮｳﾄﾌ,ｷｮｳﾄｼｶﾐｷﾞｮｳｸ,ﾆｼｷﾀｺｳｼﾞﾁｮｳ,京都府,京都市上京区,る東入、大宮通寺之内半丁下る東入、大宮通寺之内下る東入１丁目、寺之内通大,0,0,0,0,0,0
+26102,602  ,6028414,ｷｮｳﾄﾌ,ｷｮｳﾄｼｶﾐｷﾞｮｳｸ,ﾆｼｷﾀｺｳｼﾞﾁｮｳ,京都府,京都市上京区,宮東入下る、寺之内通大宮東入１丁目下る）,0,0,0,0,0,0

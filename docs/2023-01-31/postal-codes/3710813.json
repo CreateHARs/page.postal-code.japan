@@ -1,0 +1,19 @@
+[
+    {
+        "local_government_code": "10201",
+        "postal_code_5digit": "371  ",
+        "postal_code_7digit": "3710813",
+        "prefecture_kana": "ｸﾞﾝﾏｹﾝ",
+        "address1_kana": "ﾏｴﾊﾞｼｼ",
+        "address2_kana": "ｺﾞｶﾝﾏﾁ",
+        "prefecture_kanji": "群馬県",
+        "address1_kanji": "前橋市",
+        "address2_kanji": "後閑町",
+        "is_address2_has_multiple_postal_code": "0",
+        "is_address2_has_multiple_sublocality": "0",
+        "is_address2_includes_chome": "0",
+        "is_postal_code_has_multiple_address2": "0",
+        "updated_type": "0",
+        "updated_reason_type": "0"
+    }
+]

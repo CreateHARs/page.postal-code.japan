@@ -1,0 +1,19 @@
+[
+    {
+        "local_government_code": "46502",
+        "postal_code_5digit": "89137",
+        "postal_code_7digit": "8913704",
+        "prefecture_kana": "ｶｺﾞｼﾏｹﾝ",
+        "address1_kana": "ｸﾏｹﾞｸﾞﾝﾐﾅﾐﾀﾈﾁｮｳ",
+        "address2_kana": "ﾅｶﾉｼﾓ",
+        "prefecture_kanji": "鹿児島県",
+        "address1_kanji": "熊毛郡南種子町",
+        "address2_kanji": "中之下",
+        "is_address2_has_multiple_postal_code": "0",
+        "is_address2_has_multiple_sublocality": "0",
+        "is_address2_includes_chome": "0",
+        "is_postal_code_has_multiple_address2": "0",
+        "updated_type": "0",
+        "updated_reason_type": "0"
+    }
+]

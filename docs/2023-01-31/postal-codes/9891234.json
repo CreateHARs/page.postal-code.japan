@@ -1,0 +1,19 @@
+[
+    {
+        "local_government_code": "04321",
+        "postal_code_5digit": "98912",
+        "postal_code_7digit": "9891234",
+        "prefecture_kana": "ﾐﾔｷﾞｹﾝ",
+        "address1_kana": "ｼﾊﾞﾀｸﾞﾝｵｵｶﾞﾜﾗﾏﾁ",
+        "address2_kana": "ｼﾝﾌﾙｶﾜ",
+        "prefecture_kanji": "宮城県",
+        "address1_kanji": "柴田郡大河原町",
+        "address2_kanji": "新古川",
+        "is_address2_has_multiple_postal_code": "0",
+        "is_address2_has_multiple_sublocality": "0",
+        "is_address2_includes_chome": "0",
+        "is_postal_code_has_multiple_address2": "0",
+        "updated_type": "0",
+        "updated_reason_type": "0"
+    }
+]

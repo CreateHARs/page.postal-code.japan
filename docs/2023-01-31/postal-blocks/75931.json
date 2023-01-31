@@ -1,0 +1,53 @@
+[
+    {
+        "local_government_code": "35204",
+        "postal_code_5digit": "75931",
+        "postal_code_7digit": "7593111",
+        "prefecture_kana": "ﾔﾏｸﾞﾁｹﾝ",
+        "address1_kana": "ﾊｷﾞｼ",
+        "address2_kana": "ｶﾐﾀﾏ",
+        "prefecture_kanji": "山口県",
+        "address1_kanji": "萩市",
+        "address2_kanji": "上田万",
+        "is_address2_has_multiple_postal_code": "0",
+        "is_address2_has_multiple_sublocality": "0",
+        "is_address2_includes_chome": "0",
+        "is_postal_code_has_multiple_address2": "0",
+        "updated_type": "0",
+        "updated_reason_type": "0"
+    },
+    {
+        "local_government_code": "35204",
+        "postal_code_5digit": "75931",
+        "postal_code_7digit": "7593112",
+        "prefecture_kana": "ﾔﾏｸﾞﾁｹﾝ",
+        "address1_kana": "ﾊｷﾞｼ",
+        "address2_kana": "ｼﾓﾀﾏ",
+        "prefecture_kanji": "山口県",
+        "address1_kanji": "萩市",
+        "address2_kanji": "下田万",
+        "is_address2_has_multiple_postal_code": "0",
+        "is_address2_has_multiple_sublocality": "0",
+        "is_address2_includes_chome": "0",
+        "is_postal_code_has_multiple_address2": "0",
+        "updated_type": "0",
+        "updated_reason_type": "0"
+    },
+    {
+        "local_government_code": "35204",
+        "postal_code_5digit": "75931",
+        "postal_code_7digit": "7593113",
+        "prefecture_kana": "ﾔﾏｸﾞﾁｹﾝ",
+        "address1_kana": "ﾊｷﾞｼ",
+        "address2_kana": "ｴｻｷ",
+        "prefecture_kanji": "山口県",
+        "address1_kanji": "萩市",
+        "address2_kanji": "江崎",
+        "is_address2_has_multiple_postal_code": "0",
+        "is_address2_has_multiple_sublocality": "0",
+        "is_address2_includes_chome": "0",
+        "is_postal_code_has_multiple_address2": "0",
+        "updated_type": "0",
+        "updated_reason_type": "0"
+    }
+]
