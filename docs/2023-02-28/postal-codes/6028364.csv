@@ -1,0 +1,3 @@
+local_government_code,postal_code_5digit,postal_code_7digit,prefecture_kana,address1_kana,address2_kana,prefecture_kanji,address1_kanji,address2_kanji,is_address2_has_multiple_postal_code,is_address2_has_multiple_sublocality,is_address2_includes_chome,is_postal_code_has_multiple_address2,updated_type,updated_reason_type
+26102,602  ,6028364,ｷｮｳﾄﾌ,ｷｮｳﾄｼｶﾐｷﾞｮｳｸ,ﾂｷﾇｹﾁｮｳ(ｼﾓﾀﾞﾁｳﾘﾄﾞｵﾘｵﾝﾏｴﾆｼｲﾙ､ｼﾓﾀﾞﾁｳﾘﾄﾞｵﾘｵﾝﾏｴﾆｼｲﾙｻｶﾞﾙ､ｼﾓﾀﾞﾁｳﾘﾄﾞｵﾘﾃﾝ,京都府,京都市上京区,突抜町（下立売通御前西入、下立売通御前西入下る、下立売通天,0,0,0,0,0,0
+26102,602  ,6028364,ｷｮｳﾄﾌ,ｷｮｳﾄｼｶﾐｷﾞｮｳｸ,ｼﾞﾝﾐﾁﾋｶﾞｼｲﾙ､ｼﾓﾉｼﾓﾀﾞﾁｳﾘﾄﾞｵﾘｵﾝﾏｴﾆｼｲﾙ),京都府,京都市上京区,神道東入、下の下立売通御前西入）,0,0,0,0,0,0

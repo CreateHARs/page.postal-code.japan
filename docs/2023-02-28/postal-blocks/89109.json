@@ -1,0 +1,36 @@
+[
+    {
+        "local_government_code": "46223",
+        "postal_code_5digit": "89109",
+        "postal_code_7digit": "8910911",
+        "prefecture_kana": "ｶｺﾞｼﾏｹﾝ",
+        "address1_kana": "ﾐﾅﾐｷｭｳｼｭｳｼ",
+        "address2_kana": "ﾁﾗﾝﾁｮｳｼｵﾔ",
+        "prefecture_kanji": "鹿児島県",
+        "address1_kanji": "南九州市",
+        "address2_kanji": "知覧町塩屋",
+        "is_address2_has_multiple_postal_code": "0",
+        "is_address2_has_multiple_sublocality": "0",
+        "is_address2_includes_chome": "0",
+        "is_postal_code_has_multiple_address2": "0",
+        "updated_type": "0",
+        "updated_reason_type": "0"
+    },
+    {
+        "local_government_code": "46223",
+        "postal_code_5digit": "89109",
+        "postal_code_7digit": "8910912",
+        "prefecture_kana": "ｶｺﾞｼﾏｹﾝ",
+        "address1_kana": "ﾐﾅﾐｷｭｳｼｭｳｼ",
+        "address2_kana": "ﾁﾗﾝﾁｮｳﾐﾅﾐﾍﾞｯﾌﾟ",
+        "prefecture_kanji": "鹿児島県",
+        "address1_kanji": "南九州市",
+        "address2_kanji": "知覧町南別府",
+        "is_address2_has_multiple_postal_code": "0",
+        "is_address2_has_multiple_sublocality": "0",
+        "is_address2_includes_chome": "0",
+        "is_postal_code_has_multiple_address2": "0",
+        "updated_type": "0",
+        "updated_reason_type": "0"
+    }
+]

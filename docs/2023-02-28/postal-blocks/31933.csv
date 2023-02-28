@@ -1,0 +1,7 @@
+local_government_code,postal_code_5digit,postal_code_7digit,prefecture_kana,address1_kana,address2_kana,prefecture_kanji,address1_kanji,address2_kanji,is_address2_has_multiple_postal_code,is_address2_has_multiple_sublocality,is_address2_includes_chome,is_postal_code_has_multiple_address2,updated_type,updated_reason_type
+08364,31933,3193361,ｲﾊﾞﾗｷｹﾝ,ｸｼﾞｸﾞﾝﾀﾞｲｺﾞﾏﾁ,ｺﾛﾌｼﾞ,茨城県,久慈郡大子町,頃藤,0,0,0,0,0,0
+08364,31933,3193362,ｲﾊﾞﾗｷｹﾝ,ｸｼﾞｸﾞﾝﾀﾞｲｺﾞﾏﾁ,ｻｲｶﾞﾈ,茨城県,久慈郡大子町,西金,0,0,0,0,0,0
+08364,31933,3193363,ｲﾊﾞﾗｷｹﾝ,ｸｼﾞｸﾞﾝﾀﾞｲｺﾞﾏﾁ,ｷﾀﾄﾐﾀ,茨城県,久慈郡大子町,北富田,0,0,0,0,0,0
+08364,31933,3193364,ｲﾊﾞﾗｷｹﾝ,ｸｼﾞｸﾞﾝﾀﾞｲｺﾞﾏﾁ,ﾓﾘｶﾞﾈ,茨城県,久慈郡大子町,盛金,0,0,0,0,0,0
+08364,31933,3193365,ｲﾊﾞﾗｷｹﾝ,ｸｼﾞｸﾞﾝﾀﾞｲｺﾞﾏﾁ,ﾄﾁﾊﾗ,茨城県,久慈郡大子町,栃原,0,0,0,0,0,0
+08364,31933,3193366,ｲﾊﾞﾗｷｹﾝ,ｸｼﾞｸﾞﾝﾀﾞｲｺﾞﾏﾁ,ｵｵｻﾜ,茨城県,久慈郡大子町,大沢,0,0,0,0,0,0

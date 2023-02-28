@@ -1,0 +1,53 @@
+[
+    {
+        "local_government_code": "02323",
+        "postal_code_5digit": "03824",
+        "postal_code_7digit": "0382411",
+        "prefecture_kana": "ｱｵﾓﾘｹﾝ",
+        "address1_kana": "ﾆｼﾂｶﾞﾙｸﾞﾝﾌｶｳﾗﾏﾁ",
+        "address2_kana": "ｶｿｾ",
+        "prefecture_kanji": "青森県",
+        "address1_kanji": "西津軽郡深浦町",
+        "address2_kanji": "風合瀬",
+        "is_address2_has_multiple_postal_code": "0",
+        "is_address2_has_multiple_sublocality": "1",
+        "is_address2_includes_chome": "0",
+        "is_postal_code_has_multiple_address2": "0",
+        "updated_type": "0",
+        "updated_reason_type": "0"
+    },
+    {
+        "local_government_code": "02323",
+        "postal_code_5digit": "03824",
+        "postal_code_7digit": "0382412",
+        "prefecture_kana": "ｱｵﾓﾘｹﾝ",
+        "address1_kana": "ﾆｼﾂｶﾞﾙｸﾞﾝﾌｶｳﾗﾏﾁ",
+        "address2_kana": "ﾄﾄﾞﾛｷ",
+        "prefecture_kanji": "青森県",
+        "address1_kanji": "西津軽郡深浦町",
+        "address2_kanji": "驫木",
+        "is_address2_has_multiple_postal_code": "0",
+        "is_address2_has_multiple_sublocality": "1",
+        "is_address2_includes_chome": "0",
+        "is_postal_code_has_multiple_address2": "0",
+        "updated_type": "0",
+        "updated_reason_type": "0"
+    },
+    {
+        "local_government_code": "02323",
+        "postal_code_5digit": "03824",
+        "postal_code_7digit": "0382413",
+        "prefecture_kana": "ｱｵﾓﾘｹﾝ",
+        "address1_kana": "ﾆｼﾂｶﾞﾙｸﾞﾝﾌｶｳﾗﾏﾁ",
+        "address2_kana": "ｵｲﾗｾ",
+        "prefecture_kanji": "青森県",
+        "address1_kanji": "西津軽郡深浦町",
+        "address2_kanji": "追良瀬",
+        "is_address2_has_multiple_postal_code": "0",
+        "is_address2_has_multiple_sublocality": "1",
+        "is_address2_includes_chome": "0",
+        "is_postal_code_has_multiple_address2": "0",
+        "updated_type": "0",
+        "updated_reason_type": "0"
+    }
+]

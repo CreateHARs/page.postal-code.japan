@@ -1,0 +1,7 @@
+local_government_code,postal_code_5digit,postal_code_7digit,prefecture_kana,address1_kana,address2_kana,prefecture_kanji,address1_kanji,address2_kanji,is_address2_has_multiple_postal_code,is_address2_has_multiple_sublocality,is_address2_includes_chome,is_postal_code_has_multiple_address2,updated_type,updated_reason_type
+39210,78707,7870771,ｺｳﾁｹﾝ,ｼﾏﾝﾄｼ,ｱﾘｵｶ,高知県,四万十市,有岡,0,0,0,0,0,0
+39210,78707,7870772,ｺｳﾁｹﾝ,ｼﾏﾝﾄｼ,ﾖｺｾﾞ,高知県,四万十市,横瀬,0,0,0,0,0,0
+39210,78707,7870773,ｺｳﾁｹﾝ,ｼﾏﾝﾄｼ,ｲｿﾉｶﾜ,高知県,四万十市,磯ノ川,0,0,0,0,0,0
+39210,78707,7870774,ｺｳﾁｹﾝ,ｼﾏﾝﾄｼ,ｵｲﾉｶﾜ,高知県,四万十市,生ノ川,0,0,0,0,0,0
+39210,78707,7870775,ｺｳﾁｹﾝ,ｼﾏﾝﾄｼ,ｸｼﾞｭｳ,高知県,四万十市,九樹,0,0,0,0,0,0
+39210,78707,7870776,ｺｳﾁｹﾝ,ｼﾏﾝﾄｼ,ｶﾐﾉﾄﾞｲ,高知県,四万十市,上ノ土居,0,0,0,0,0,0

@@ -1,0 +1,9 @@
+local_government_code,postal_code_5digit,postal_code_7digit,prefecture_kana,address1_kana,address2_kana,prefecture_kanji,address1_kanji,address2_kanji,is_address2_has_multiple_postal_code,is_address2_has_multiple_sublocality,is_address2_includes_chome,is_postal_code_has_multiple_address2,updated_type,updated_reason_type
+08202,31914,3191411,ｲﾊﾞﾗｷｹﾝ,ﾋﾀﾁｼ,ｶﾜｼﾞﾘﾁｮｳ,茨城県,日立市,川尻町,0,0,1,0,0,0
+08202,31914,3191412,ｲﾊﾞﾗｷｹﾝ,ﾋﾀﾁｼ,ｵﾘｶｻﾁｮｳ,茨城県,日立市,折笠町,0,0,0,0,0,0
+08202,31914,3191413,ｲﾊﾞﾗｷｹﾝ,ﾋﾀﾁｼ,ｵｷﾞﾂﾁｮｳ,茨城県,日立市,小木津町,0,0,1,0,0,0
+08202,31914,3191414,ｲﾊﾞﾗｷｹﾝ,ﾋﾀﾁｼ,ﾋﾀﾞｶﾁｮｳ,茨城県,日立市,日高町,0,0,1,0,0,0
+08202,31914,3191415,ｲﾊﾞﾗｷｹﾝ,ﾋﾀﾁｼ,ｱｲﾀﾞﾁｮｳ,茨城県,日立市,相田町,0,0,1,0,0,0
+08202,31914,3191416,ｲﾊﾞﾗｷｹﾝ,ﾋﾀﾁｼ,ﾀｼﾞﾘﾁｮｳ,茨城県,日立市,田尻町,0,0,1,0,0,0
+08202,31914,3191417,ｲﾊﾞﾗｷｹﾝ,ﾋﾀﾁｼ,ｶﾐｱｲﾁｮｳ,茨城県,日立市,かみあい町,0,0,1,0,0,0
+08202,31914,3191418,ｲﾊﾞﾗｷｹﾝ,ﾋﾀﾁｼ,ｲｻｺﾞｻﾞﾜﾁｮｳ,茨城県,日立市,砂沢町,0,0,0,0,0,0

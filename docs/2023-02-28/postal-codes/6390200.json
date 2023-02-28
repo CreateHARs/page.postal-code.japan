@@ -1,0 +1,36 @@
+[
+    {
+        "local_government_code": "29210",
+        "postal_code_5digit": "63902",
+        "postal_code_7digit": "6390200",
+        "prefecture_kana": "ﾅﾗｹﾝ",
+        "address1_kana": "ｶｼﾊﾞｼ",
+        "address2_kana": "ｲｶﾆｹｲｻｲｶﾞﾅｲﾊﾞｱｲ",
+        "prefecture_kanji": "奈良県",
+        "address1_kanji": "香芝市",
+        "address2_kanji": "以下に掲載がない場合",
+        "is_address2_has_multiple_postal_code": "0",
+        "is_address2_has_multiple_sublocality": "0",
+        "is_address2_includes_chome": "0",
+        "is_postal_code_has_multiple_address2": "1",
+        "updated_type": "0",
+        "updated_reason_type": "0"
+    },
+    {
+        "local_government_code": "29424",
+        "postal_code_5digit": "63902",
+        "postal_code_7digit": "6390200",
+        "prefecture_kana": "ﾅﾗｹﾝ",
+        "address1_kana": "ｷﾀｶﾂﾗｷﾞｸﾞﾝｶﾝﾏｷﾁｮｳ",
+        "address2_kana": "ｲｶﾆｹｲｻｲｶﾞﾅｲﾊﾞｱｲ",
+        "prefecture_kanji": "奈良県",
+        "address1_kanji": "北葛城郡上牧町",
+        "address2_kanji": "以下に掲載がない場合",
+        "is_address2_has_multiple_postal_code": "0",
+        "is_address2_has_multiple_sublocality": "0",
+        "is_address2_includes_chome": "0",
+        "is_postal_code_has_multiple_address2": "1",
+        "updated_type": "0",
+        "updated_reason_type": "0"
+    }
+]

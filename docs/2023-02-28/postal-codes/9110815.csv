@@ -1,0 +1,6 @@
+local_government_code,postal_code_5digit,postal_code_7digit,prefecture_kana,address1_kana,address2_kana,prefecture_kanji,address1_kanji,address2_kanji,is_address2_has_multiple_postal_code,is_address2_has_multiple_sublocality,is_address2_includes_chome,is_postal_code_has_multiple_address2,updated_type,updated_reason_type
+18206,911  ,9110815,ﾌｸｲｹﾝ,ｶﾂﾔﾏｼ,ｶﾐﾀｶｼﾞﾏ,福井県,勝山市,上高島,0,0,0,1,0,0
+18206,911  ,9110815,ﾌｸｲｹﾝ,ｶﾂﾔﾏｼ,ｷﾀｲﾁ,福井県,勝山市,北市,0,0,0,1,0,0
+18206,911  ,9110815,ﾌｸｲｹﾝ,ｶﾂﾔﾏｼ,ｼﾓﾀｶｼﾞﾏ,福井県,勝山市,下高島,0,0,0,1,0,0
+18206,911  ,9110815,ﾌｸｲｹﾝ,ｶﾂﾔﾏｼ,ﾀｶｼﾞﾏ,福井県,勝山市,高島,0,0,0,1,0,0
+18206,911  ,9110815,ﾌｸｲｹﾝ,ｶﾂﾔﾏｼ,ﾆｼﾀｶｼﾞﾏ,福井県,勝山市,西高島,0,0,0,1,0,0

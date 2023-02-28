@@ -1,0 +1,19 @@
+[
+    {
+        "local_government_code": "32441",
+        "postal_code_5digit": "696  ",
+        "postal_code_7digit": "6960004",
+        "prefecture_kana": "ｼﾏﾈｹﾝ",
+        "address1_kana": "ｵｵﾁｸﾞﾝｶﾜﾓﾄﾏﾁ",
+        "address2_kana": "ｶﾜｸﾀﾞﾘ",
+        "prefecture_kanji": "島根県",
+        "address1_kanji": "邑智郡川本町",
+        "address2_kanji": "川下",
+        "is_address2_has_multiple_postal_code": "0",
+        "is_address2_has_multiple_sublocality": "0",
+        "is_address2_includes_chome": "0",
+        "is_postal_code_has_multiple_address2": "0",
+        "updated_type": "0",
+        "updated_reason_type": "0"
+    }
+]

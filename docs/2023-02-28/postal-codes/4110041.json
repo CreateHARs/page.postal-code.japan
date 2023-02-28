@@ -1,0 +1,19 @@
+[
+    {
+        "local_government_code": "22206",
+        "postal_code_5digit": "411  ",
+        "postal_code_7digit": "4110041",
+        "prefecture_kana": "ｼｽﾞｵｶｹﾝ",
+        "address1_kana": "ﾐｼﾏｼ",
+        "address2_kana": "ｻﾉﾐﾊﾗｼﾀﾞｲ",
+        "prefecture_kanji": "静岡県",
+        "address1_kanji": "三島市",
+        "address2_kanji": "佐野見晴台",
+        "is_address2_has_multiple_postal_code": "0",
+        "is_address2_has_multiple_sublocality": "0",
+        "is_address2_includes_chome": "1",
+        "is_postal_code_has_multiple_address2": "0",
+        "updated_type": "0",
+        "updated_reason_type": "0"
+    }
+]
