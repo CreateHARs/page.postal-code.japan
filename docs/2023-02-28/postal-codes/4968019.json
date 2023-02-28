@@ -1,0 +1,19 @@
+[
+    {
+        "local_government_code": "23232",
+        "postal_code_5digit": "496  ",
+        "postal_code_7digit": "4968019",
+        "prefecture_kana": "ｱｲﾁｹﾝ",
+        "address1_kana": "ｱｲｻｲｼ",
+        "address2_kana": "ﾆｼｶﾜﾊﾞﾀﾁｮｳ",
+        "prefecture_kanji": "愛知県",
+        "address1_kanji": "愛西市",
+        "address2_kanji": "西川端町",
+        "is_address2_has_multiple_postal_code": "0",
+        "is_address2_has_multiple_sublocality": "1",
+        "is_address2_includes_chome": "0",
+        "is_postal_code_has_multiple_address2": "0",
+        "updated_type": "0",
+        "updated_reason_type": "0"
+    }
+]

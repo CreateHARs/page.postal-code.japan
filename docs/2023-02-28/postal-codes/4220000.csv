@@ -1,0 +1,4 @@
+local_government_code,postal_code_5digit,postal_code_7digit,prefecture_kana,address1_kana,address2_kana,prefecture_kanji,address1_kanji,address2_kanji,is_address2_has_multiple_postal_code,is_address2_has_multiple_sublocality,is_address2_includes_chome,is_postal_code_has_multiple_address2,updated_type,updated_reason_type
+22101,422  ,4220000,ｼｽﾞｵｶｹﾝ,ｼｽﾞｵｶｼｱｵｲｸ,ｲｶﾆｹｲｻｲｶﾞﾅｲﾊﾞｱｲ,静岡県,静岡市葵区,以下に掲載がない場合,0,0,0,1,0,0
+22102,422  ,4220000,ｼｽﾞｵｶｹﾝ,ｼｽﾞｵｶｼｽﾙｶﾞｸ,ｲｶﾆｹｲｻｲｶﾞﾅｲﾊﾞｱｲ,静岡県,静岡市駿河区,以下に掲載がない場合,0,0,0,1,0,0
+22103,422  ,4220000,ｼｽﾞｵｶｹﾝ,ｼｽﾞｵｶｼｼﾐｽﾞｸ,ｲｶﾆｹｲｻｲｶﾞﾅｲﾊﾞｱｲ,静岡県,静岡市清水区,以下に掲載がない場合,0,0,0,1,0,0

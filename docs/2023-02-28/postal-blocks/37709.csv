@@ -1,0 +1,6 @@
+local_government_code,postal_code_5digit,postal_code_7digit,prefecture_kana,address1_kana,address2_kana,prefecture_kanji,address1_kanji,address2_kanji,is_address2_has_multiple_postal_code,is_address2_has_multiple_sublocality,is_address2_includes_chome,is_postal_code_has_multiple_address2,updated_type,updated_reason_type
+10429,37709,3770931,ｸﾞﾝﾏｹﾝ,ｱｶﾞﾂﾏｸﾞﾝﾋｶﾞｼｱｶﾞﾂﾏﾏﾁ,ｵｵﾄﾞ,群馬県,吾妻郡東吾妻町,大戸,0,0,0,0,0,0
+10429,37709,3770932,ｸﾞﾝﾏｹﾝ,ｱｶﾞﾂﾏｸﾞﾝﾋｶﾞｼｱｶﾞﾂﾏﾏﾁ,ﾊｷﾞｭｳ,群馬県,吾妻郡東吾妻町,萩生,0,0,0,0,0,0
+10429,37709,3770933,ｸﾞﾝﾏｹﾝ,ｱｶﾞﾂﾏｸﾞﾝﾋｶﾞｼｱｶﾞﾂﾏﾏﾁ,ﾓﾄｼﾞｭｸ,群馬県,吾妻郡東吾妻町,本宿,0,0,0,0,0,0
+10429,37709,3770934,ｸﾞﾝﾏｹﾝ,ｱｶﾞﾂﾏｸﾞﾝﾋｶﾞｼｱｶﾞﾂﾏﾏﾁ,ｽｶﾞｵ,群馬県,吾妻郡東吾妻町,須賀尾,0,0,0,0,0,0
+10429,37709,3770935,ｸﾞﾝﾏｹﾝ,ｱｶﾞﾂﾏｸﾞﾝﾋｶﾞｼｱｶﾞﾂﾏﾏﾁ,ｵｵｶｼﾜｷﾞ,群馬県,吾妻郡東吾妻町,大柏木,0,0,0,0,0,0

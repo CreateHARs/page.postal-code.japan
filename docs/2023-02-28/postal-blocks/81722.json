@@ -1,0 +1,53 @@
+[
+    {
+        "local_government_code": "42209",
+        "postal_code_5digit": "81722",
+        "postal_code_7digit": "8172241",
+        "prefecture_kana": "ﾅｶﾞｻｷｹﾝ",
+        "address1_kana": "ﾂｼﾏｼ",
+        "address2_kana": "ｶﾐﾂｼﾏﾏﾁｵｼｶ",
+        "prefecture_kanji": "長崎県",
+        "address1_kanji": "対馬市",
+        "address2_kanji": "上対馬町小鹿",
+        "is_address2_has_multiple_postal_code": "0",
+        "is_address2_has_multiple_sublocality": "0",
+        "is_address2_includes_chome": "0",
+        "is_postal_code_has_multiple_address2": "0",
+        "updated_type": "0",
+        "updated_reason_type": "0"
+    },
+    {
+        "local_government_code": "42209",
+        "postal_code_5digit": "81722",
+        "postal_code_7digit": "8172242",
+        "prefecture_kana": "ﾅｶﾞｻｷｹﾝ",
+        "address1_kana": "ﾂｼﾏｼ",
+        "address2_kana": "ｶﾐﾂｼﾏﾏﾁﾋﾄｴ",
+        "prefecture_kanji": "長崎県",
+        "address1_kanji": "対馬市",
+        "address2_kanji": "上対馬町一重",
+        "is_address2_has_multiple_postal_code": "0",
+        "is_address2_has_multiple_sublocality": "0",
+        "is_address2_includes_chome": "0",
+        "is_postal_code_has_multiple_address2": "0",
+        "updated_type": "0",
+        "updated_reason_type": "0"
+    },
+    {
+        "local_government_code": "42209",
+        "postal_code_5digit": "81722",
+        "postal_code_7digit": "8172243",
+        "prefecture_kana": "ﾅｶﾞｻｷｹﾝ",
+        "address1_kana": "ﾂｼﾏｼ",
+        "address2_kana": "ｶﾐﾂｼﾏﾏﾁｱｼﾐ",
+        "prefecture_kanji": "長崎県",
+        "address1_kanji": "対馬市",
+        "address2_kanji": "上対馬町芦見",
+        "is_address2_has_multiple_postal_code": "0",
+        "is_address2_has_multiple_sublocality": "0",
+        "is_address2_includes_chome": "0",
+        "is_postal_code_has_multiple_address2": "0",
+        "updated_type": "0",
+        "updated_reason_type": "0"
+    }
+]

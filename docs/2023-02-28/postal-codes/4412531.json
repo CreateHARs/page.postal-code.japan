@@ -1,0 +1,19 @@
+[
+    {
+        "local_government_code": "23561",
+        "postal_code_5digit": "44125",
+        "postal_code_7digit": "4412531",
+        "prefecture_kana": "ｱｲﾁｹﾝ",
+        "address1_kana": "ｷﾀｼﾀﾗｸﾞﾝｼﾀﾗﾁｮｳ",
+        "address2_kana": "ﾆｼﾅｸﾞﾗ(ｵｷﾉﾀｲﾗ)",
+        "prefecture_kanji": "愛知県",
+        "address1_kanji": "北設楽郡設楽町",
+        "address2_kanji": "西納庫（沖ノ平）",
+        "is_address2_has_multiple_postal_code": "1",
+        "is_address2_has_multiple_sublocality": "0",
+        "is_address2_includes_chome": "0",
+        "is_postal_code_has_multiple_address2": "0",
+        "updated_type": "0",
+        "updated_reason_type": "0"
+    }
+]

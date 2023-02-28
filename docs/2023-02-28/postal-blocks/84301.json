@@ -1,0 +1,53 @@
+[
+    {
+        "local_government_code": "41206",
+        "postal_code_5digit": "84301",
+        "postal_code_7digit": "8430151",
+        "prefecture_kana": "ｻｶﾞｹﾝ",
+        "address1_kana": "ﾀｹｵｼ",
+        "address2_kana": "ﾜｶｷﾁｮｳｶﾜｺﾞ",
+        "prefecture_kanji": "佐賀県",
+        "address1_kanji": "武雄市",
+        "address2_kanji": "若木町川古",
+        "is_address2_has_multiple_postal_code": "0",
+        "is_address2_has_multiple_sublocality": "0",
+        "is_address2_includes_chome": "0",
+        "is_postal_code_has_multiple_address2": "0",
+        "updated_type": "0",
+        "updated_reason_type": "0"
+    },
+    {
+        "local_government_code": "41206",
+        "postal_code_5digit": "84301",
+        "postal_code_7digit": "8430152",
+        "prefecture_kana": "ｻｶﾞｹﾝ",
+        "address1_kana": "ﾀｹｵｼ",
+        "address2_kana": "ﾜｶｷﾁｮｳﾓﾄﾍﾞ",
+        "prefecture_kanji": "佐賀県",
+        "address1_kanji": "武雄市",
+        "address2_kanji": "若木町本部",
+        "is_address2_has_multiple_postal_code": "0",
+        "is_address2_has_multiple_sublocality": "0",
+        "is_address2_includes_chome": "0",
+        "is_postal_code_has_multiple_address2": "0",
+        "updated_type": "0",
+        "updated_reason_type": "0"
+    },
+    {
+        "local_government_code": "41206",
+        "postal_code_5digit": "84301",
+        "postal_code_7digit": "8430153",
+        "prefecture_kana": "ｻｶﾞｹﾝ",
+        "address1_kana": "ﾀｹｵｼ",
+        "address2_kana": "ﾜｶｷﾁｮｳﾓﾓﾉｶﾜ",
+        "prefecture_kanji": "佐賀県",
+        "address1_kanji": "武雄市",
+        "address2_kanji": "若木町桃川",
+        "is_address2_has_multiple_postal_code": "0",
+        "is_address2_has_multiple_sublocality": "0",
+        "is_address2_includes_chome": "0",
+        "is_postal_code_has_multiple_address2": "0",
+        "updated_type": "0",
+        "updated_reason_type": "0"
+    }
+]

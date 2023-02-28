@@ -1,0 +1,36 @@
+[
+    {
+        "local_government_code": "01228",
+        "postal_code_5digit": "07412",
+        "postal_code_7digit": "0741273",
+        "prefecture_kana": "ﾎｯｶｲﾄﾞｳ",
+        "address1_kana": "ﾌｶｶﾞﾜｼ",
+        "address2_kana": "ｵﾄｴﾁｮｳ(1-2ﾁｮｳﾒ)",
+        "prefecture_kanji": "北海道",
+        "address1_kanji": "深川市",
+        "address2_kanji": "音江町（１〜２丁目）",
+        "is_address2_has_multiple_postal_code": "1",
+        "is_address2_has_multiple_sublocality": "0",
+        "is_address2_includes_chome": "1",
+        "is_postal_code_has_multiple_address2": "1",
+        "updated_type": "0",
+        "updated_reason_type": "0"
+    },
+    {
+        "local_government_code": "01228",
+        "postal_code_5digit": "07412",
+        "postal_code_7digit": "0741273",
+        "prefecture_kana": "ﾎｯｶｲﾄﾞｳ",
+        "address1_kana": "ﾌｶｶﾞﾜｼ",
+        "address2_kana": "ｵﾄｴﾁｮｳ(ｵﾄｴ)",
+        "prefecture_kanji": "北海道",
+        "address1_kanji": "深川市",
+        "address2_kanji": "音江町（音江）",
+        "is_address2_has_multiple_postal_code": "1",
+        "is_address2_has_multiple_sublocality": "0",
+        "is_address2_includes_chome": "0",
+        "is_postal_code_has_multiple_address2": "1",
+        "updated_type": "0",
+        "updated_reason_type": "0"
+    }
+]

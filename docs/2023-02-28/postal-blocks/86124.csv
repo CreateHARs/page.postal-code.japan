@@ -1,0 +1,7 @@
+local_government_code,postal_code_5digit,postal_code_7digit,prefecture_kana,address1_kana,address2_kana,prefecture_kanji,address1_kanji,address2_kanji,is_address2_has_multiple_postal_code,is_address2_has_multiple_sublocality,is_address2_includes_chome,is_postal_code_has_multiple_address2,updated_type,updated_reason_type
+43432,86124,8612400,ｸﾏﾓﾄｹﾝ,ｱｿｸﾞﾝﾆｼﾊﾗﾑﾗ,ｲｶﾆｹｲｻｲｶﾞﾅｲﾊﾞｱｲ,熊本県,阿蘇郡西原村,以下に掲載がない場合,0,0,0,0,0,0
+43432,86124,8612401,ｸﾏﾓﾄｹﾝ,ｱｿｸﾞﾝﾆｼﾊﾗﾑﾗ,ﾄﾘｺ,熊本県,阿蘇郡西原村,鳥子,0,0,0,0,0,0
+43432,86124,8612402,ｸﾏﾓﾄｹﾝ,ｱｿｸﾞﾝﾆｼﾊﾗﾑﾗ,ｺﾓﾘ,熊本県,阿蘇郡西原村,小森,0,0,0,0,0,0
+43432,86124,8612403,ｸﾏﾓﾄｹﾝ,ｱｿｸﾞﾝﾆｼﾊﾗﾑﾗ,ﾌﾀ,熊本県,阿蘇郡西原村,布田,0,0,0,0,0,0
+43432,86124,8612404,ｸﾏﾓﾄｹﾝ,ｱｿｸﾞﾝﾆｼﾊﾗﾑﾗ,ｶﾜﾊﾗ,熊本県,阿蘇郡西原村,河原,0,0,0,0,0,0
+43432,86124,8612405,ｸﾏﾓﾄｹﾝ,ｱｿｸﾞﾝﾆｼﾊﾗﾑﾗ,ﾐﾔﾔﾏ,熊本県,阿蘇郡西原村,宮山,0,0,0,0,0,0

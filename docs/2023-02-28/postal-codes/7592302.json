@@ -1,0 +1,36 @@
+[
+    {
+        "local_government_code": "35213",
+        "postal_code_5digit": "75923",
+        "postal_code_7digit": "7592302",
+        "prefecture_kana": "ﾔﾏｸﾞﾁｹﾝ",
+        "address1_kana": "ﾐﾈｼ",
+        "address2_kana": "ｵﾌｸﾁｮｳｼﾓ(ｲﾘﾐｽﾞ､ｴﾉｷﾀﾞ､ｶﾈﾔﾏ､ｺｽｷﾞ､ｽﾅｼﾞ､ﾀﾞｲ､ﾆｼﾊﾞﾀ､ﾊｷﾞﾜﾗ､ﾋｶﾞｼﾅｶﾑﾗ､",
+        "prefecture_kanji": "山口県",
+        "address1_kanji": "美祢市",
+        "address2_kanji": "於福町下（入水、榎田、金山、小杉、砂地、台、西畑、萩原、東中村、",
+        "is_address2_has_multiple_postal_code": "1",
+        "is_address2_has_multiple_sublocality": "0",
+        "is_address2_includes_chome": "0",
+        "is_postal_code_has_multiple_address2": "0",
+        "updated_type": "0",
+        "updated_reason_type": "0"
+    },
+    {
+        "local_government_code": "35213",
+        "postal_code_5digit": "75923",
+        "postal_code_7digit": "7592302",
+        "prefecture_kana": "ﾔﾏｸﾞﾁｹﾝ",
+        "address1_kana": "ﾐﾈｼ",
+        "address2_kana": "ﾋﾗｸﾆｷﾞ､ﾐﾄﾞﾘｶﾞｵｶ､ﾐﾔﾉﾏｴ)",
+        "prefecture_kanji": "山口県",
+        "address1_kanji": "美祢市",
+        "address2_kanji": "平国木、緑ケ丘、宮の前）",
+        "is_address2_has_multiple_postal_code": "1",
+        "is_address2_has_multiple_sublocality": "0",
+        "is_address2_includes_chome": "0",
+        "is_postal_code_has_multiple_address2": "0",
+        "updated_type": "0",
+        "updated_reason_type": "0"
+    }
+]

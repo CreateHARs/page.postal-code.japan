@@ -1,0 +1,36 @@
+[
+    {
+        "local_government_code": "13228",
+        "postal_code_5digit": "190  ",
+        "postal_code_7digit": "1900100",
+        "prefecture_kana": "ﾄｳｷｮｳﾄ",
+        "address1_kana": "ｱｷﾙﾉｼ",
+        "address2_kana": "ｲｶﾆｹｲｻｲｶﾞﾅｲﾊﾞｱｲ",
+        "prefecture_kanji": "東京都",
+        "address1_kanji": "あきる野市",
+        "address2_kanji": "以下に掲載がない場合",
+        "is_address2_has_multiple_postal_code": "0",
+        "is_address2_has_multiple_sublocality": "0",
+        "is_address2_includes_chome": "0",
+        "is_postal_code_has_multiple_address2": "1",
+        "updated_type": "0",
+        "updated_reason_type": "0"
+    },
+    {
+        "local_government_code": "13305",
+        "postal_code_5digit": "19001",
+        "postal_code_7digit": "1900100",
+        "prefecture_kana": "ﾄｳｷｮｳﾄ",
+        "address1_kana": "ﾆｼﾀﾏｸﾞﾝﾋﾉﾃﾞﾏﾁ",
+        "address2_kana": "ｲｶﾆｹｲｻｲｶﾞﾅｲﾊﾞｱｲ",
+        "prefecture_kanji": "東京都",
+        "address1_kanji": "西多摩郡日の出町",
+        "address2_kanji": "以下に掲載がない場合",
+        "is_address2_has_multiple_postal_code": "0",
+        "is_address2_has_multiple_sublocality": "0",
+        "is_address2_includes_chome": "0",
+        "is_postal_code_has_multiple_address2": "1",
+        "updated_type": "0",
+        "updated_reason_type": "0"
+    }
+]
