@@ -1,0 +1,6 @@
+local_government_code,postal_code_5digit,postal_code_7digit,prefecture_kana,address1_kana,address2_kana,prefecture_kanji,address1_kanji,address2_kanji,is_address2_has_multiple_postal_code,is_address2_has_multiple_sublocality,is_address2_includes_chome,is_postal_code_has_multiple_address2,updated_type,updated_reason_type
+24212,51946,5194671,ﾐｴｹﾝ,ｸﾏﾉｼ,ｲｻﾄﾁｮｳﾓﾓｻﾞｷ,三重県,熊野市,五郷町桃崎,0,0,0,0,0,0
+24212,51946,5194672,ﾐｴｹﾝ,ｸﾏﾉｼ,ｲｻﾄﾁｮｳﾕﾉﾀﾆ,三重県,熊野市,五郷町湯谷,0,0,0,0,0,0
+24212,51946,5194673,ﾐｴｹﾝ,ｸﾏﾉｼ,ｲｻﾄﾁｮｳﾃﾗﾀﾞﾆ,三重県,熊野市,五郷町寺谷,0,0,0,0,0,0
+24212,51946,5194674,ﾐｴｹﾝ,ｸﾏﾉｼ,ｲｻﾄﾁｮｳﾜﾀﾞ,三重県,熊野市,五郷町和田,0,0,0,0,0,0
+24212,51946,5194675,ﾐｴｹﾝ,ｸﾏﾉｼ,ｲｻﾄﾁｮｳｵｵｲﾀﾞﾆ,三重県,熊野市,五郷町大井谷,0,0,0,0,0,0

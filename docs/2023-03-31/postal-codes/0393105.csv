@@ -1,0 +1,5 @@
+local_government_code,postal_code_5digit,postal_code_7digit,prefecture_kana,address1_kana,address2_kana,prefecture_kanji,address1_kanji,address2_kanji,is_address2_has_multiple_postal_code,is_address2_has_multiple_sublocality,is_address2_includes_chome,is_postal_code_has_multiple_address2,updated_type,updated_reason_type
+02401,03931,0393105,ｱｵﾓﾘｹﾝ,ｶﾐｷﾀｸﾞﾝﾉﾍｼﾞﾏﾁ,ｱﾘﾄﾄﾘｲﾀｲ,青森県,上北郡野辺地町,有戸鳥井平,0,0,0,1,0,0
+02401,03931,0393105,ｱｵﾓﾘｹﾝ,ｶﾐｷﾀｸﾞﾝﾉﾍｼﾞﾏﾁ,ｷﾐｮｳ,青森県,上北郡野辺地町,木明,0,0,0,1,0,0
+02401,03931,0393105,ｱｵﾓﾘｹﾝ,ｶﾐｷﾀｸﾞﾝﾉﾍｼﾞﾏﾁ,ﾋｶﾞｼｵｵﾀｻﾜ,青森県,上北郡野辺地町,東太田沢,0,0,0,1,0,0
+02401,03931,0393105,ｱｵﾓﾘｹﾝ,ｶﾐｷﾀｸﾞﾝﾉﾍｼﾞﾏﾁ,ﾋｸｻﾊﾞｼ,青森県,上北郡野辺地町,干草橋,0,0,0,1,0,0

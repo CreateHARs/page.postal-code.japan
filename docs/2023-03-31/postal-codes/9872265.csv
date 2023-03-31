@@ -1,0 +1,5 @@
+local_government_code,postal_code_5digit,postal_code_7digit,prefecture_kana,address1_kana,address2_kana,prefecture_kanji,address1_kanji,address2_kanji,is_address2_has_multiple_postal_code,is_address2_has_multiple_sublocality,is_address2_includes_chome,is_postal_code_has_multiple_address2,updated_type,updated_reason_type
+04213,98722,9872265,ﾐﾔｷﾞｹﾝ,ｸﾘﾊﾗｼ,ﾂｷﾀﾞﾃｺﾌﾞﾁﾆｼ,宮城県,栗原市,築館小淵西,0,0,0,1,0,0
+04213,98722,9872265,ﾐﾔｷﾞｹﾝ,ｸﾘﾊﾗｼ,ﾂｷﾀﾞﾃｺﾌﾞﾁﾋｶﾞｼ,宮城県,栗原市,築館小淵東,0,0,0,1,0,0
+04213,98722,9872265,ﾐﾔｷﾞｹﾝ,ｸﾘﾊﾗｼ,ﾂｷﾀﾞﾃｻｶｲﾀﾞ,宮城県,栗原市,築館境田,0,0,0,1,0,0
+04213,98722,9872265,ﾐﾔｷﾞｹﾝ,ｸﾘﾊﾗｼ,ﾂｷﾀﾞﾃｻﾉﾊﾗ,宮城県,栗原市,築館佐野原,0,0,0,1,0,0

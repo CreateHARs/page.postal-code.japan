@@ -1,0 +1,19 @@
+[
+    {
+        "local_government_code": "11348",
+        "postal_code_5digit": "35003",
+        "postal_code_7digit": "3500322",
+        "prefecture_kana": "ｻｲﾀﾏｹﾝ",
+        "address1_kana": "ﾋｷｸﾞﾝﾊﾄﾔﾏﾏﾁ",
+        "address2_kana": "ｲﾏｼﾞｭｸ",
+        "prefecture_kanji": "埼玉県",
+        "address1_kanji": "比企郡鳩山町",
+        "address2_kanji": "今宿",
+        "is_address2_has_multiple_postal_code": "0",
+        "is_address2_has_multiple_sublocality": "0",
+        "is_address2_includes_chome": "0",
+        "is_postal_code_has_multiple_address2": "0",
+        "updated_type": "0",
+        "updated_reason_type": "0"
+    }
+]

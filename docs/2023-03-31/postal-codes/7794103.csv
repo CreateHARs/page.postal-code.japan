@@ -1,0 +1,2 @@
+local_government_code,postal_code_5digit,postal_code_7digit,prefecture_kana,address1_kana,address2_kana,prefecture_kanji,address1_kanji,address2_kanji,is_address2_has_multiple_postal_code,is_address2_has_multiple_sublocality,is_address2_includes_chome,is_postal_code_has_multiple_address2,updated_type,updated_reason_type
+36468,77941,7794103,ﾄｸｼﾏｹﾝ,ﾐﾏｸﾞﾝﾂﾙｷﾞﾁｮｳ,ｻﾀﾞﾐﾂ(ｴﾉﾜｷ､ｵｶ､ｾｾﾗｷﾞ､ﾐﾔｳﾁ),徳島県,美馬郡つるぎ町,貞光（江ノ脇、岡、せせらぎ、宮内）,1,0,0,0,0,0

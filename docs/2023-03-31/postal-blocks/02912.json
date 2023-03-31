@@ -1,0 +1,53 @@
+[
+    {
+        "local_government_code": "03209",
+        "postal_code_5digit": "02912",
+        "postal_code_7digit": "0291201",
+        "prefecture_kana": "ｲﾜﾃｹﾝ",
+        "address1_kana": "ｲﾁﾉｾｷｼ",
+        "address2_kana": "ﾑﾛﾈﾁｮｳｵﾘｶﾍﾞ",
+        "prefecture_kanji": "岩手県",
+        "address1_kanji": "一関市",
+        "address2_kanji": "室根町折壁",
+        "is_address2_has_multiple_postal_code": "0",
+        "is_address2_has_multiple_sublocality": "1",
+        "is_address2_includes_chome": "0",
+        "is_postal_code_has_multiple_address2": "0",
+        "updated_type": "0",
+        "updated_reason_type": "0"
+    },
+    {
+        "local_government_code": "03209",
+        "postal_code_5digit": "02912",
+        "postal_code_7digit": "0291202",
+        "prefecture_kana": "ｲﾜﾃｹﾝ",
+        "address1_kana": "ｲﾁﾉｾｷｼ",
+        "address2_kana": "ﾑﾛﾈﾁｮｳﾔｺﾞｼ",
+        "prefecture_kanji": "岩手県",
+        "address1_kanji": "一関市",
+        "address2_kanji": "室根町矢越",
+        "is_address2_has_multiple_postal_code": "0",
+        "is_address2_has_multiple_sublocality": "1",
+        "is_address2_includes_chome": "0",
+        "is_postal_code_has_multiple_address2": "0",
+        "updated_type": "0",
+        "updated_reason_type": "0"
+    },
+    {
+        "local_government_code": "03209",
+        "postal_code_5digit": "02935",
+        "postal_code_7digit": "0291211",
+        "prefecture_kana": "ｲﾜﾃｹﾝ",
+        "address1_kana": "ｲﾁﾉｾｷｼ",
+        "address2_kana": "ﾑﾛﾈﾁｮｳﾂﾔｶﾞﾜ",
+        "prefecture_kanji": "岩手県",
+        "address1_kanji": "一関市",
+        "address2_kanji": "室根町津谷川",
+        "is_address2_has_multiple_postal_code": "0",
+        "is_address2_has_multiple_sublocality": "1",
+        "is_address2_includes_chome": "0",
+        "is_postal_code_has_multiple_address2": "0",
+        "updated_type": "0",
+        "updated_reason_type": "0"
+    }
+]

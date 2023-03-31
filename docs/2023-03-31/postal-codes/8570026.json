@@ -1,0 +1,19 @@
+[
+    {
+        "local_government_code": "42202",
+        "postal_code_5digit": "857  ",
+        "postal_code_7digit": "8570026",
+        "prefecture_kana": "ﾅｶﾞｻｷｹﾝ",
+        "address1_kana": "ｻｾﾎﾞｼ",
+        "address2_kana": "ﾐﾔｼﾞﾁｮｳ",
+        "prefecture_kanji": "長崎県",
+        "address1_kanji": "佐世保市",
+        "address2_kanji": "宮地町",
+        "is_address2_has_multiple_postal_code": "0",
+        "is_address2_has_multiple_sublocality": "0",
+        "is_address2_includes_chome": "0",
+        "is_postal_code_has_multiple_address2": "0",
+        "updated_type": "0",
+        "updated_reason_type": "0"
+    }
+]

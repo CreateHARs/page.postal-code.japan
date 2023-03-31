@@ -1,0 +1,19 @@
+[
+    {
+        "local_government_code": "28106",
+        "postal_code_5digit": "653  ",
+        "postal_code_7digit": "6530052",
+        "prefecture_kana": "ﾋｮｳｺﾞｹﾝ",
+        "address1_kana": "ｺｳﾍﾞｼﾅｶﾞﾀｸ",
+        "address2_kana": "ｶｲｳﾝﾁｮｳ",
+        "prefecture_kanji": "兵庫県",
+        "address1_kanji": "神戸市長田区",
+        "address2_kanji": "海運町",
+        "is_address2_has_multiple_postal_code": "0",
+        "is_address2_has_multiple_sublocality": "0",
+        "is_address2_includes_chome": "1",
+        "is_postal_code_has_multiple_address2": "0",
+        "updated_type": "0",
+        "updated_reason_type": "0"
+    }
+]

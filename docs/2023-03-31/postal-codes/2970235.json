@@ -1,0 +1,19 @@
+[
+    {
+        "local_government_code": "12426",
+        "postal_code_5digit": "29702",
+        "postal_code_7digit": "2970235",
+        "prefecture_kana": "ﾁﾊﾞｹﾝ",
+        "address1_kana": "ﾁｮｳｾｲｸﾞﾝﾅｶﾞﾗﾏﾁ",
+        "address2_kana": "ｻﾗｷﾞ",
+        "prefecture_kanji": "千葉県",
+        "address1_kanji": "長生郡長柄町",
+        "address2_kanji": "皿木",
+        "is_address2_has_multiple_postal_code": "0",
+        "is_address2_has_multiple_sublocality": "0",
+        "is_address2_includes_chome": "0",
+        "is_postal_code_has_multiple_address2": "0",
+        "updated_type": "0",
+        "updated_reason_type": "0"
+    }
+]

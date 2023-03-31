@@ -1,0 +1,3 @@
+local_government_code,postal_code_5digit,postal_code_7digit,prefecture_kana,address1_kana,address2_kana,prefecture_kanji,address1_kanji,address2_kanji,is_address2_has_multiple_postal_code,is_address2_has_multiple_sublocality,is_address2_includes_chome,is_postal_code_has_multiple_address2,updated_type,updated_reason_type
+17201,920  ,9200946,ｲｼｶﾜｹﾝ,ｶﾅｻﾞﾜｼ,ｵｵｸﾜﾏﾁ(ｶ､ｺ､ｻｵﾂ､ｻｺｳ､ｿ､ﾀ､ﾂｺｳ､ﾅ､ﾒ､ﾕ､ﾖ､,石川県,金沢市,大桑町（カ、コ、サ乙、サ甲、ソ、タ、ツ甲、ナ、メ、ユ、ヨ、,1,0,0,0,0,0
+17201,920  ,9200946,ｲｼｶﾜｹﾝ,ｶﾅｻﾞﾜｼ,ﾗ､ﾜ､ｱﾅｶﾞｹ､ｱﾅﾌﾞﾁｶﾞｹ､ﾈ､ｺｳ､ﾖｼｼﾞﾏ､ｼﾓﾖｼｼﾞﾏｶﾞｹ),石川県,金沢市,ラ、ワ、穴欠、穴淵欠、子、庚、葭島、下葭島欠）,1,0,0,0,0,0

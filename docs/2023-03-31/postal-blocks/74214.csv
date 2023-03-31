@@ -1,0 +1,6 @@
+local_government_code,postal_code_5digit,postal_code_7digit,prefecture_kana,address1_kana,address2_kana,prefecture_kanji,address1_kanji,address2_kanji,is_address2_has_multiple_postal_code,is_address2_has_multiple_sublocality,is_address2_includes_chome,is_postal_code_has_multiple_address2,updated_type,updated_reason_type
+35341,74214,7421400,ﾔﾏｸﾞﾁｹﾝ,ｸﾏｹﾞｸﾞﾝｶﾐﾉｾｷﾁｮｳ,ｲｶﾆｹｲｻｲｶﾞﾅｲﾊﾞｱｲ,山口県,熊毛郡上関町,以下に掲載がない場合,0,0,0,0,0,0
+35341,74214,7421401,ﾔﾏｸﾞﾁｹﾝ,ｸﾏｹﾞｸﾞﾝｶﾐﾉｾｷﾁｮｳ,ｲﾜｲｼﾏ,山口県,熊毛郡上関町,祝島,0,0,0,0,0,0
+35341,74214,7421402,ﾔﾏｸﾞﾁｹﾝ,ｸﾏｹﾞｸﾞﾝｶﾐﾉｾｷﾁｮｳ,ﾅｶﾞｼﾏ,山口県,熊毛郡上関町,長島,0,0,0,0,0,0
+35341,74214,7421403,ﾔﾏｸﾞﾁｹﾝ,ｸﾏｹﾞｸﾞﾝｶﾐﾉｾｷﾁｮｳ,ﾑﾛﾂ,山口県,熊毛郡上関町,室津,0,0,0,0,0,0
+35341,74214,7421404,ﾔﾏｸﾞﾁｹﾝ,ｸﾏｹﾞｸﾞﾝｶﾐﾉｾｷﾁｮｳ,ﾔｼﾏ,山口県,熊毛郡上関町,八島,0,0,0,0,0,0

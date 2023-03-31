@@ -1,0 +1,36 @@
+[
+    {
+        "local_government_code": "34214",
+        "postal_code_5digit": "73106",
+        "postal_code_7digit": "7310611",
+        "prefecture_kana": "ﾋﾛｼﾏｹﾝ",
+        "address1_kana": "ｱｷﾀｶﾀｼ",
+        "address2_kana": "ﾐﾄﾞﾘﾁｮｳﾖｺﾀ",
+        "prefecture_kanji": "広島県",
+        "address1_kanji": "安芸高田市",
+        "address2_kanji": "美土里町横田",
+        "is_address2_has_multiple_postal_code": "0",
+        "is_address2_has_multiple_sublocality": "0",
+        "is_address2_includes_chome": "0",
+        "is_postal_code_has_multiple_address2": "0",
+        "updated_type": "0",
+        "updated_reason_type": "0"
+    },
+    {
+        "local_government_code": "34214",
+        "postal_code_5digit": "73106",
+        "postal_code_7digit": "7310612",
+        "prefecture_kana": "ﾋﾛｼﾏｹﾝ",
+        "address1_kana": "ｱｷﾀｶﾀｼ",
+        "address2_kana": "ﾐﾄﾞﾘﾁｮｳﾎﾝｺﾞｳ",
+        "prefecture_kanji": "広島県",
+        "address1_kanji": "安芸高田市",
+        "address2_kanji": "美土里町本郷",
+        "is_address2_has_multiple_postal_code": "0",
+        "is_address2_has_multiple_sublocality": "0",
+        "is_address2_includes_chome": "0",
+        "is_postal_code_has_multiple_address2": "0",
+        "updated_type": "0",
+        "updated_reason_type": "0"
+    }
+]

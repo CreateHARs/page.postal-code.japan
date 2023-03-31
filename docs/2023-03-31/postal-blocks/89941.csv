@@ -1,0 +1,4 @@
+local_government_code,postal_code_5digit,postal_code_7digit,prefecture_kana,address1_kana,address2_kana,prefecture_kanji,address1_kanji,address2_kanji,is_address2_has_multiple_postal_code,is_address2_has_multiple_sublocality,is_address2_includes_chome,is_postal_code_has_multiple_address2,updated_type,updated_reason_type
+46217,89941,8994101,ｶｺﾞｼﾏｹﾝ,ｿｵｼ,ﾀｶﾗﾍﾞﾁｮｳﾐﾅﾐﾏﾀ,鹿児島県,曽於市,財部町南俣,0,0,0,0,0,0
+46217,89941,8994102,ｶｺﾞｼﾏｹﾝ,ｿｵｼ,ﾀｶﾗﾍﾞﾁｮｳｷﾀﾏﾀ,鹿児島県,曽於市,財部町北俣,0,0,0,0,0,0
+46217,89941,8994103,ｶｺﾞｼﾏｹﾝ,ｿｵｼ,ﾀｶﾗﾍﾞﾁｮｳｼﾓﾀｶﾗﾍﾞ,鹿児島県,曽於市,財部町下財部,0,0,0,0,0,0

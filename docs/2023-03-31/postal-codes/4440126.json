@@ -1,0 +1,19 @@
+[
+    {
+        "local_government_code": "23501",
+        "postal_code_5digit": "44401",
+        "postal_code_7digit": "4440126",
+        "prefecture_kana": "ｱｲﾁｹﾝ",
+        "address1_kana": "ﾇｶﾀｸﾞﾝｺｳﾀﾁｮｳ",
+        "address2_kana": "ｷﾘﾔﾏ",
+        "prefecture_kanji": "愛知県",
+        "address1_kanji": "額田郡幸田町",
+        "address2_kanji": "桐山",
+        "is_address2_has_multiple_postal_code": "0",
+        "is_address2_has_multiple_sublocality": "1",
+        "is_address2_includes_chome": "0",
+        "is_postal_code_has_multiple_address2": "0",
+        "updated_type": "0",
+        "updated_reason_type": "0"
+    }
+]

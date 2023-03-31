@@ -1,0 +1,19 @@
+[
+    {
+        "local_government_code": "01667",
+        "postal_code_5digit": "08512",
+        "postal_code_7digit": "0851213",
+        "prefecture_kana": "ﾎｯｶｲﾄﾞｳ",
+        "address1_kana": "ｱｶﾝｸﾞﾝﾂﾙｲﾑﾗ",
+        "address2_kana": "ﾓｾﾂﾘ",
+        "prefecture_kanji": "北海道",
+        "address1_kanji": "阿寒郡鶴居村",
+        "address2_kanji": "茂雪裡",
+        "is_address2_has_multiple_postal_code": "0",
+        "is_address2_has_multiple_sublocality": "0",
+        "is_address2_includes_chome": "0",
+        "is_postal_code_has_multiple_address2": "0",
+        "updated_type": "0",
+        "updated_reason_type": "0"
+    }
+]

@@ -1,0 +1,19 @@
+[
+    {
+        "local_government_code": "23209",
+        "postal_code_5digit": "447  ",
+        "postal_code_7digit": "4470829",
+        "prefecture_kana": "ｱｲﾁｹﾝ",
+        "address1_kana": "ﾍｷﾅﾝｼ",
+        "address2_kana": "ﾅｶﾀﾏﾁ",
+        "prefecture_kanji": "愛知県",
+        "address1_kanji": "碧南市",
+        "address2_kanji": "中田町",
+        "is_address2_has_multiple_postal_code": "0",
+        "is_address2_has_multiple_sublocality": "0",
+        "is_address2_includes_chome": "1",
+        "is_postal_code_has_multiple_address2": "0",
+        "updated_type": "0",
+        "updated_reason_type": "0"
+    }
+]

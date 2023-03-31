@@ -1,0 +1,7 @@
+local_government_code,postal_code_5digit,postal_code_7digit,prefecture_kana,address1_kana,address2_kana,prefecture_kanji,address1_kanji,address2_kanji,is_address2_has_multiple_postal_code,is_address2_has_multiple_sublocality,is_address2_includes_chome,is_postal_code_has_multiple_address2,updated_type,updated_reason_type
+02442,03915,0391504,ｱｵﾓﾘｹﾝ,ｻﾝﾉﾍｸﾞﾝｺﾞﾉﾍﾏﾁ,ｳｻｷﾞﾅｲ,青森県,三戸郡五戸町,兎内,0,0,0,1,0,0
+02442,03915,0391504,ｱｵﾓﾘｹﾝ,ｻﾝﾉﾍｸﾞﾝｺﾞﾉﾍﾏﾁ,ｳｻｷﾞﾅｲｶﾐﾎﾄｻﾞﾜ,青森県,三戸郡五戸町,兎内上保土沢,0,0,0,1,0,0
+02442,03915,0391504,ｱｵﾓﾘｹﾝ,ｻﾝﾉﾍｸﾞﾝｺﾞﾉﾍﾏﾁ,ｳｻｷﾞﾅｲｼﾓﾎﾄｻﾞﾜ,青森県,三戸郡五戸町,兎内下保土沢,0,0,0,1,0,0
+02442,03915,0391504,ｱｵﾓﾘｹﾝ,ｻﾝﾉﾍｸﾞﾝｺﾞﾉﾍﾏﾁ,ｳｻｷﾞﾅｲｼﾓｶﾜﾗ,青森県,三戸郡五戸町,兎内下川原,0,0,0,1,0,0
+02442,03915,0391504,ｱｵﾓﾘｹﾝ,ｻﾝﾉﾍｸﾞﾝｺﾞﾉﾍﾏﾁ,ｳｻｷﾞﾅｲｼﾓﾔﾁ,青森県,三戸郡五戸町,兎内下谷地,0,0,0,1,0,0
+02442,03915,0391504,ｱｵﾓﾘｹﾝ,ｻﾝﾉﾍｸﾞﾝｺﾞﾉﾍﾏﾁ,ｶﾐｳｻｷﾞﾅｲ,青森県,三戸郡五戸町,上兎内,0,0,0,1,0,0

@@ -1,0 +1,19 @@
+[
+    {
+        "local_government_code": "08202",
+        "postal_code_5digit": "316  ",
+        "postal_code_7digit": "3160026",
+        "prefecture_kana": "ｲﾊﾞﾗｷｹﾝ",
+        "address1_kana": "ﾋﾀﾁｼ",
+        "address2_kana": "ﾐｶﾉﾊﾗﾁｮｳ",
+        "prefecture_kanji": "茨城県",
+        "address1_kanji": "日立市",
+        "address2_kanji": "みかの原町",
+        "is_address2_has_multiple_postal_code": "0",
+        "is_address2_has_multiple_sublocality": "0",
+        "is_address2_includes_chome": "1",
+        "is_postal_code_has_multiple_address2": "0",
+        "updated_type": "0",
+        "updated_reason_type": "0"
+    }
+]

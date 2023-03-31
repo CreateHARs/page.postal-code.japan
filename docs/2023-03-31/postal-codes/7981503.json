@@ -1,0 +1,19 @@
+[
+    {
+        "local_government_code": "38488",
+        "postal_code_5digit": "79815",
+        "postal_code_7digit": "7981503",
+        "prefecture_kana": "ｴﾋﾒｹﾝ",
+        "address1_kana": "ｷﾀｳﾜｸﾞﾝｷﾎｸﾁｮｳ",
+        "address2_kana": "ｶﾐｵｵﾉ",
+        "prefecture_kanji": "愛媛県",
+        "address1_kanji": "北宇和郡鬼北町",
+        "address2_kanji": "上大野",
+        "is_address2_has_multiple_postal_code": "0",
+        "is_address2_has_multiple_sublocality": "0",
+        "is_address2_includes_chome": "0",
+        "is_postal_code_has_multiple_address2": "0",
+        "updated_type": "0",
+        "updated_reason_type": "0"
+    }
+]
