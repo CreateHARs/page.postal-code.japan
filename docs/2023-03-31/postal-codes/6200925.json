@@ -1,0 +1,36 @@
+[
+    {
+        "local_government_code": "26201",
+        "postal_code_5digit": "620  ",
+        "postal_code_7digit": "6200925",
+        "prefecture_kana": "ｷｮｳﾄﾌ",
+        "address1_kana": "ﾌｸﾁﾔﾏｼ",
+        "address2_kana": "ｶﾐｻｿｵ",
+        "prefecture_kanji": "京都府",
+        "address1_kanji": "福知山市",
+        "address2_kanji": "上篠尾",
+        "is_address2_has_multiple_postal_code": "0",
+        "is_address2_has_multiple_sublocality": "0",
+        "is_address2_includes_chome": "0",
+        "is_postal_code_has_multiple_address2": "1",
+        "updated_type": "0",
+        "updated_reason_type": "0"
+    },
+    {
+        "local_government_code": "26201",
+        "postal_code_5digit": "620  ",
+        "postal_code_7digit": "6200925",
+        "prefecture_kana": "ｷｮｳﾄﾌ",
+        "address1_kana": "ﾌｸﾁﾔﾏｼ",
+        "address2_kana": "ｻｿｵ(ｶﾐｻｿｵ)",
+        "prefecture_kanji": "京都府",
+        "address1_kanji": "福知山市",
+        "address2_kanji": "篠尾（上篠尾）",
+        "is_address2_has_multiple_postal_code": "0",
+        "is_address2_has_multiple_sublocality": "0",
+        "is_address2_includes_chome": "0",
+        "is_postal_code_has_multiple_address2": "1",
+        "updated_type": "0",
+        "updated_reason_type": "0"
+    }
+]

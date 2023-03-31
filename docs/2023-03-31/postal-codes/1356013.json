@@ -1,0 +1,19 @@
+[
+    {
+        "local_government_code": "13108",
+        "postal_code_5digit": "135  ",
+        "postal_code_7digit": "1356013",
+        "prefecture_kana": "ﾄｳｷｮｳﾄ",
+        "address1_kana": "ｺｳﾄｳｸ",
+        "address2_kana": "ﾄﾖｽﾄﾖｽｾﾝﾀｰﾋﾞﾙ(13ｶｲ)",
+        "prefecture_kanji": "東京都",
+        "address1_kanji": "江東区",
+        "address2_kanji": "豊洲豊洲センタービル（１３階）",
+        "is_address2_has_multiple_postal_code": "0",
+        "is_address2_has_multiple_sublocality": "0",
+        "is_address2_includes_chome": "0",
+        "is_postal_code_has_multiple_address2": "0",
+        "updated_type": "0",
+        "updated_reason_type": "0"
+    }
+]

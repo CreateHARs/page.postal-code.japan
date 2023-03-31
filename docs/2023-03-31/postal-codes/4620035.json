@@ -1,0 +1,19 @@
+[
+    {
+        "local_government_code": "23103",
+        "postal_code_5digit": "462  ",
+        "postal_code_7digit": "4620035",
+        "prefecture_kana": "ｱｲﾁｹﾝ",
+        "address1_kana": "ﾅｺﾞﾔｼｷﾀｸ",
+        "address2_kana": "ｵｵﾉﾁｮｳ",
+        "prefecture_kanji": "愛知県",
+        "address1_kanji": "名古屋市北区",
+        "address2_kanji": "大野町",
+        "is_address2_has_multiple_postal_code": "0",
+        "is_address2_has_multiple_sublocality": "0",
+        "is_address2_includes_chome": "1",
+        "is_postal_code_has_multiple_address2": "0",
+        "updated_type": "0",
+        "updated_reason_type": "0"
+    }
+]

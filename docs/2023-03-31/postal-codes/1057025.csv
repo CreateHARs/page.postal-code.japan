@@ -1,0 +1,2 @@
+local_government_code,postal_code_5digit,postal_code_7digit,prefecture_kana,address1_kana,address2_kana,prefecture_kanji,address1_kanji,address2_kanji,is_address2_has_multiple_postal_code,is_address2_has_multiple_sublocality,is_address2_includes_chome,is_postal_code_has_multiple_address2,updated_type,updated_reason_type
+13103,105  ,1057025,ﾄｳｷｮｳﾄ,ﾐﾅﾄｸ,ﾋｶﾞｼｼﾝﾊﾞｼﾃﾞﾝﾂｳﾎﾝｼｬﾋﾞﾙ(25ｶｲ),東京都,港区,東新橋電通本社ビル（２５階）,0,0,0,0,0,0

@@ -1,0 +1,4 @@
+local_government_code,postal_code_5digit,postal_code_7digit,prefecture_kana,address1_kana,address2_kana,prefecture_kanji,address1_kanji,address2_kanji,is_address2_has_multiple_postal_code,is_address2_has_multiple_sublocality,is_address2_includes_chome,is_postal_code_has_multiple_address2,updated_type,updated_reason_type
+26102,602  ,6028062,ｷｮｳﾄﾌ,ｷｮｳﾄｼｶﾐｷﾞｮｳｸ,ｶﾒﾔﾁｮｳ,京都府,京都市上京区,亀屋町（油小路通上長者町下る、油小路通下長者町上る、油小路通,0,0,0,0,0,0
+26102,602  ,6028062,ｷｮｳﾄﾌ,ｷｮｳﾄｼｶﾐｷﾞｮｳｸ,ｶﾒﾔﾁｮｳ,京都府,京都市上京区,中長者町上る、油小路通中長者町下る、上長者町通油小路西入、上長者町通油小,0,0,0,0,0,0
+26102,602  ,6028062,ｷｮｳﾄﾌ,ｷｮｳﾄｼｶﾐｷﾞｮｳｸ,ｶﾒﾔﾁｮｳ,京都府,京都市上京区,路東入）,0,0,0,0,0,0

@@ -1,0 +1,5 @@
+local_government_code,postal_code_5digit,postal_code_7digit,prefecture_kana,address1_kana,address2_kana,prefecture_kanji,address1_kanji,address2_kanji,is_address2_has_multiple_postal_code,is_address2_has_multiple_sublocality,is_address2_includes_chome,is_postal_code_has_multiple_address2,updated_type,updated_reason_type
+22135,43121,4312101,ｼｽﾞｵｶｹﾝ,ﾊﾏﾏﾂｼｷﾀｸ,ﾀｷｻﾜﾁｮｳ,静岡県,浜松市北区,滝沢町,0,0,0,0,0,0
+22135,43121,4312102,ｼｽﾞｵｶｹﾝ,ﾊﾏﾏﾂｼｷﾀｸ,ﾐﾔｺﾀﾞﾁｮｳ,静岡県,浜松市北区,都田町,0,0,0,0,0,0
+22135,43121,4312103,ｼｽﾞｵｶｹﾝ,ﾊﾏﾏﾂｼｷﾀｸ,ｼﾝﾐﾔｺﾀﾞ,静岡県,浜松市北区,新都田,0,0,1,0,0,0
+22135,43121,4312104,ｼｽﾞｵｶｹﾝ,ﾊﾏﾏﾂｼｷﾀｸ,ﾜｼｻﾞﾜﾁｮｳ,静岡県,浜松市北区,鷲沢町,0,0,0,0,0,0

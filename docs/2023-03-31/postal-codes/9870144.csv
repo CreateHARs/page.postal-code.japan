@@ -1,0 +1,7 @@
+local_government_code,postal_code_5digit,postal_code_7digit,prefecture_kana,address1_kana,address2_kana,prefecture_kanji,address1_kanji,address2_kanji,is_address2_has_multiple_postal_code,is_address2_has_multiple_sublocality,is_address2_includes_chome,is_postal_code_has_multiple_address2,updated_type,updated_reason_type
+04501,98701,9870144,ﾐﾔｷﾞｹﾝ,ﾄｵﾀﾞｸﾞﾝﾜｸﾔﾁｮｳ,ｵｷｼﾝﾃﾞﾝ,宮城県,遠田郡涌谷町,沖新田,0,0,0,1,0,0
+04501,98701,9870144,ﾐﾔｷﾞｹﾝ,ﾄｵﾀﾞｸﾞﾝﾜｸﾔﾁｮｳ,ｺﾔﾏｼﾀ,宮城県,遠田郡涌谷町,小山下,0,0,0,1,0,0
+04501,98701,9870144,ﾐﾔｷﾞｹﾝ,ﾄｵﾀﾞｸﾞﾝﾜｸﾔﾁｮｳ,ｼﾓｼﾝﾃﾞﾝ,宮城県,遠田郡涌谷町,下新田,0,0,0,1,0,0
+04501,98701,9870144,ﾐﾔｷﾞｹﾝ,ﾄｵﾀﾞｸﾞﾝﾜｸﾔﾁｮｳ,ｽﾅﾀ,宮城県,遠田郡涌谷町,砂田,0,0,0,1,0,0
+04501,98701,9870144,ﾐﾔｷﾞｹﾝ,ﾄｵﾀﾞｸﾞﾝﾜｸﾔﾁｮｳ,ﾊｯﾋﾟｬｸｶﾞﾘ,宮城県,遠田郡涌谷町,八百刈,0,0,0,1,0,0
+04501,98701,9870144,ﾐﾔｷﾞｹﾝ,ﾄｵﾀﾞｸﾞﾝﾜｸﾔﾁｮｳ,ﾊﾞﾗｼﾞﾏ,宮城県,遠田郡涌谷町,薔薇島,0,0,0,1,0,0

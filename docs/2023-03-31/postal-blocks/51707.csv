@@ -1,0 +1,6 @@
+local_government_code,postal_code_5digit,postal_code_7digit,prefecture_kana,address1_kana,address2_kana,prefecture_kanji,address1_kanji,address2_kanji,is_address2_has_multiple_postal_code,is_address2_has_multiple_sublocality,is_address2_includes_chome,is_postal_code_has_multiple_address2,updated_type,updated_reason_type
+24215,51707,5170701,ﾐｴｹﾝ,ｼﾏｼ,ｼﾏﾁｮｳｶﾀﾀﾞ,三重県,志摩市,志摩町片田,0,0,0,0,0,0
+24215,51707,5170702,ﾐｴｹﾝ,ｼﾏｼ,ｼﾏﾁｮｳﾌｾﾀﾞ,三重県,志摩市,志摩町布施田,0,0,0,0,0,0
+24215,51707,5170703,ﾐｴｹﾝ,ｼﾏｼ,ｼﾏﾁｮｳﾜｸﾞ,三重県,志摩市,志摩町和具,0,0,0,0,0,0
+24215,51707,5170704,ﾐｴｹﾝ,ｼﾏｼ,ｼﾏﾁｮｳｺｼｶ,三重県,志摩市,志摩町越賀,0,0,0,0,0,0
+24215,51707,5170705,ﾐｴｹﾝ,ｼﾏｼ,ｼﾏﾁｮｳｺﾞｻﾞ,三重県,志摩市,志摩町御座,0,0,0,0,0,0

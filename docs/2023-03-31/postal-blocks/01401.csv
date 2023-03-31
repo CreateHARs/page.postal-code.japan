@@ -1,0 +1,9 @@
+local_government_code,postal_code_5digit,postal_code_7digit,prefecture_kana,address1_kana,address2_kana,prefecture_kanji,address1_kanji,address2_kanji,is_address2_has_multiple_postal_code,is_address2_has_multiple_sublocality,is_address2_includes_chome,is_postal_code_has_multiple_address2,updated_type,updated_reason_type
+05212,01401,0140101,ｱｷﾀｹﾝ,ﾀﾞｲｾﾝｼ,ﾏﾂｸﾗ,秋田県,大仙市,松倉,0,1,0,0,0,0
+05212,01401,0140102,ｱｷﾀｹﾝ,ﾀﾞｲｾﾝｼ,ﾖﾂﾔ,秋田県,大仙市,四ツ屋,0,1,0,0,0,0
+05212,01401,0140103,ｱｷﾀｹﾝ,ﾀﾞｲｾﾝｼ,ﾀｶｾﾞｷｶﾐｺﾞｳ,秋田県,大仙市,高関上郷,0,1,0,0,0,0
+05212,01401,0140104,ｱｷﾀｹﾝ,ﾀﾞｲｾﾝｼ,ﾆｲﾔｼﾞ,秋田県,大仙市,新谷地,0,1,0,0,0,0
+05212,01401,0140111,ｱｷﾀｹﾝ,ﾀﾞｲｾﾝｼ,ﾖｺﾎﾞﾘ,秋田県,大仙市,横堀,0,1,0,0,0,0
+05212,01401,0140112,ｱｷﾀｹﾝ,ﾀﾞｲｾﾝｼ,ｲﾀﾐﾅｲ,秋田県,大仙市,板見内,0,1,0,0,0,0
+05212,01401,0140113,ｱｷﾀｹﾝ,ﾀﾞｲｾﾝｼ,ﾎﾘﾐﾅｲ,秋田県,大仙市,堀見内,0,1,0,0,0,0
+05212,01401,0140114,ｱｷﾀｹﾝ,ﾀﾞｲｾﾝｼ,ﾌｸﾀﾞ,秋田県,大仙市,福田,0,1,0,0,0,0

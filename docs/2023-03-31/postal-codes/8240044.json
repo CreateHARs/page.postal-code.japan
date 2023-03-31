@@ -1,0 +1,19 @@
+[
+    {
+        "local_government_code": "40213",
+        "postal_code_5digit": "824  ",
+        "postal_code_7digit": "8240044",
+        "prefecture_kana": "ﾌｸｵｶｹﾝ",
+        "address1_kana": "ﾕｸﾊｼｼ",
+        "address2_kana": "ｱﾓｳﾀﾞ",
+        "prefecture_kanji": "福岡県",
+        "address1_kanji": "行橋市",
+        "address2_kanji": "天生田",
+        "is_address2_has_multiple_postal_code": "0",
+        "is_address2_has_multiple_sublocality": "0",
+        "is_address2_includes_chome": "0",
+        "is_postal_code_has_multiple_address2": "0",
+        "updated_type": "0",
+        "updated_reason_type": "0"
+    }
+]

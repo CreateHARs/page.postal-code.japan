@@ -1,0 +1,19 @@
+[
+    {
+        "local_government_code": "05327",
+        "postal_code_5digit": "01844",
+        "postal_code_7digit": "0184400",
+        "prefecture_kana": "ｱｷﾀｹﾝ",
+        "address1_kana": "ｷﾀｱｷﾀｸﾞﾝｶﾐｺｱﾆﾑﾗ",
+        "address2_kana": "ｲｶﾆｹｲｻｲｶﾞﾅｲﾊﾞｱｲ",
+        "prefecture_kanji": "秋田県",
+        "address1_kanji": "北秋田郡上小阿仁村",
+        "address2_kanji": "以下に掲載がない場合",
+        "is_address2_has_multiple_postal_code": "0",
+        "is_address2_has_multiple_sublocality": "0",
+        "is_address2_includes_chome": "0",
+        "is_postal_code_has_multiple_address2": "0",
+        "updated_type": "0",
+        "updated_reason_type": "0"
+    }
+]

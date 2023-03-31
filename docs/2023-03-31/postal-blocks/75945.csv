@@ -1,0 +1,6 @@
+local_government_code,postal_code_5digit,postal_code_7digit,prefecture_kana,address1_kana,address2_kana,prefecture_kanji,address1_kanji,address2_kanji,is_address2_has_multiple_postal_code,is_address2_has_multiple_sublocality,is_address2_includes_chome,is_postal_code_has_multiple_address2,updated_type,updated_reason_type
+35211,75945,7594501,ﾔﾏｸﾞﾁｹﾝ,ﾅｶﾞﾄｼ,ﾕﾔｸﾗｵﾀﾞ,山口県,長門市,油谷蔵小田,0,0,0,0,0,0
+35211,75945,7594502,ﾔﾏｸﾞﾁｹﾝ,ﾅｶﾞﾄｼ,ﾕﾔﾋｻﾄﾞﾐ,山口県,長門市,油谷久富,0,0,0,0,0,0
+35211,75945,7594503,ﾔﾏｸﾞﾁｹﾝ,ﾅｶﾞﾄｼ,ﾕﾔｼﾝﾍﾞﾂﾐｮｳ,山口県,長門市,油谷新別名,0,0,0,0,0,0
+35211,75945,7594504,ﾔﾏｸﾞﾁｹﾝ,ﾅｶﾞﾄｼ,ﾕﾔｶﾜﾗ,山口県,長門市,油谷河原,0,0,0,0,0,0
+35211,75945,7594505,ﾔﾏｸﾞﾁｹﾝ,ﾅｶﾞﾄｼ,ﾕﾔｲｶﾞﾐ,山口県,長門市,油谷伊上,0,0,0,0,0,0

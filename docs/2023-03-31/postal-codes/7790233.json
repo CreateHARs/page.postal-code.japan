@@ -1,0 +1,19 @@
+[
+    {
+        "local_government_code": "36202",
+        "postal_code_5digit": "77902",
+        "postal_code_7digit": "7790233",
+        "prefecture_kana": "ﾄｸｼﾏｹﾝ",
+        "address1_kana": "ﾅﾙﾄｼ",
+        "address2_kana": "ｵｵｱｻﾁｮｳﾊﾞﾝﾄﾞｳ(ﾎｳｿﾞｳ)",
+        "prefecture_kanji": "徳島県",
+        "address1_kanji": "鳴門市",
+        "address2_kanji": "大麻町板東（宝蔵）",
+        "is_address2_has_multiple_postal_code": "1",
+        "is_address2_has_multiple_sublocality": "0",
+        "is_address2_includes_chome": "0",
+        "is_postal_code_has_multiple_address2": "0",
+        "updated_type": "0",
+        "updated_reason_type": "0"
+    }
+]

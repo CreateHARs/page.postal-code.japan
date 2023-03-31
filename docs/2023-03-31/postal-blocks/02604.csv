@@ -1,0 +1,3 @@
+local_government_code,postal_code_5digit,postal_code_7digit,prefecture_kana,address1_kana,address2_kana,prefecture_kanji,address1_kanji,address2_kanji,is_address2_has_multiple_postal_code,is_address2_has_multiple_sublocality,is_address2_includes_chome,is_postal_code_has_multiple_address2,updated_type,updated_reason_type
+03211,02604,0260411,ｲﾜﾃｹﾝ,ｶﾏｲｼｼ,ﾊｼﾉﾁｮｳ,岩手県,釜石市,橋野町,0,1,0,0,0,0
+03211,02604,0260412,ｲﾜﾃｹﾝ,ｶﾏｲｼｼ,ｸﾘﾊﾞﾔｼﾁｮｳ,岩手県,釜石市,栗林町,0,1,0,0,0,0

@@ -1,0 +1,19 @@
+[
+    {
+        "local_government_code": "04445",
+        "postal_code_5digit": "98142",
+        "postal_code_7digit": "9814223",
+        "prefecture_kana": "ﾐﾔｷﾞｹﾝ",
+        "address1_kana": "ｶﾐｸﾞﾝｶﾐﾏﾁ",
+        "address2_kana": "ｿﾞｳｼｷﾉﾒ",
+        "prefecture_kanji": "宮城県",
+        "address1_kanji": "加美郡加美町",
+        "address2_kanji": "雑式ノ目",
+        "is_address2_has_multiple_postal_code": "0",
+        "is_address2_has_multiple_sublocality": "1",
+        "is_address2_includes_chome": "0",
+        "is_postal_code_has_multiple_address2": "0",
+        "updated_type": "0",
+        "updated_reason_type": "0"
+    }
+]

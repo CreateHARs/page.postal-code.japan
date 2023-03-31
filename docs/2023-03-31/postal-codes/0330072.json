@@ -1,0 +1,53 @@
+[
+    {
+        "local_government_code": "02405",
+        "postal_code_5digit": "033  ",
+        "postal_code_7digit": "0330072",
+        "prefecture_kana": "ｱｵﾓﾘｹﾝ",
+        "address1_kana": "ｶﾐｷﾀｸﾞﾝﾛｸﾉﾍﾏﾁ",
+        "address2_kana": "ｵﾘﾓ(ｲﾏｸﾏ<213-234､240､247､262､266､27",
+        "prefecture_kanji": "青森県",
+        "address1_kanji": "上北郡六戸町",
+        "address2_kanji": "折茂（今熊「２１３〜２３４、２４０、２４７、２６２、２６６、２７",
+        "is_address2_has_multiple_postal_code": "1",
+        "is_address2_has_multiple_sublocality": "1",
+        "is_address2_includes_chome": "0",
+        "is_postal_code_has_multiple_address2": "0",
+        "updated_type": "0",
+        "updated_reason_type": "0"
+    },
+    {
+        "local_government_code": "02405",
+        "postal_code_5digit": "033  ",
+        "postal_code_7digit": "0330072",
+        "prefecture_kana": "ｱｵﾓﾘｹﾝ",
+        "address1_kana": "ｶﾐｷﾀｸﾞﾝﾛｸﾉﾍﾏﾁ",
+        "address2_kana": "5､277､280､295､1199､1206､1504ｦﾉｿﾞｸ>､",
+        "prefecture_kanji": "青森県",
+        "address1_kanji": "上北郡六戸町",
+        "address2_kanji": "５、２７７、２８０、２９５、１１９９、１２０６、１５０４を除く」、",
+        "is_address2_has_multiple_postal_code": "1",
+        "is_address2_has_multiple_sublocality": "1",
+        "is_address2_includes_chome": "0",
+        "is_postal_code_has_multiple_address2": "0",
+        "updated_type": "0",
+        "updated_reason_type": "0"
+    },
+    {
+        "local_government_code": "02405",
+        "postal_code_5digit": "033  ",
+        "postal_code_7digit": "0330072",
+        "prefecture_kana": "ｱｵﾓﾘｹﾝ",
+        "address1_kana": "ｶﾐｷﾀｸﾞﾝﾛｸﾉﾍﾏﾁ",
+        "address2_kana": "ｵｵﾊﾗ､ｵｷﾔﾏ､ｶﾐｵﾘﾓ<1-13､71-192ｦﾉｿﾞｸ>)",
+        "prefecture_kanji": "青森県",
+        "address1_kanji": "上北郡六戸町",
+        "address2_kanji": "大原、沖山、上折茂「１−１３、７１−１９２を除く」）",
+        "is_address2_has_multiple_postal_code": "1",
+        "is_address2_has_multiple_sublocality": "1",
+        "is_address2_includes_chome": "0",
+        "is_postal_code_has_multiple_address2": "0",
+        "updated_type": "0",
+        "updated_reason_type": "0"
+    }
+]

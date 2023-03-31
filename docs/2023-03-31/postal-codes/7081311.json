@@ -1,0 +1,19 @@
+[
+    {
+        "local_government_code": "33623",
+        "postal_code_5digit": "70813",
+        "postal_code_7digit": "7081311",
+        "prefecture_kana": "ｵｶﾔﾏｹﾝ",
+        "address1_kana": "ｶﾂﾀｸﾞﾝﾅｷﾞﾁｮｳ",
+        "address2_kana": "ﾋｻﾂﾈ",
+        "prefecture_kanji": "岡山県",
+        "address1_kanji": "勝田郡奈義町",
+        "address2_kanji": "久常",
+        "is_address2_has_multiple_postal_code": "0",
+        "is_address2_has_multiple_sublocality": "0",
+        "is_address2_includes_chome": "0",
+        "is_postal_code_has_multiple_address2": "0",
+        "updated_type": "0",
+        "updated_reason_type": "0"
+    }
+]

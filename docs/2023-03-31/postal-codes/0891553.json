@@ -1,0 +1,19 @@
+[
+    {
+        "local_government_code": "01639",
+        "postal_code_5digit": "08915",
+        "postal_code_7digit": "0891553",
+        "prefecture_kana": "ﾎｯｶｲﾄﾞｳ",
+        "address1_kana": "ｶｻｲｸﾞﾝｻﾗﾍﾞﾂﾑﾗ",
+        "address2_kana": "ﾍｲﾜｸ",
+        "prefecture_kanji": "北海道",
+        "address1_kanji": "河西郡更別村",
+        "address2_kanji": "平和区",
+        "is_address2_has_multiple_postal_code": "0",
+        "is_address2_has_multiple_sublocality": "0",
+        "is_address2_includes_chome": "0",
+        "is_postal_code_has_multiple_address2": "0",
+        "updated_type": "0",
+        "updated_reason_type": "0"
+    }
+]

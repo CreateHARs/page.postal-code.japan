@@ -1,0 +1,8 @@
+local_government_code,postal_code_5digit,postal_code_7digit,prefecture_kana,address1_kana,address2_kana,prefecture_kanji,address1_kanji,address2_kanji,is_address2_has_multiple_postal_code,is_address2_has_multiple_sublocality,is_address2_includes_chome,is_postal_code_has_multiple_address2,updated_type,updated_reason_type
+43482,86953,8695301,ｸﾏﾓﾄｹﾝ,ｱｼｷﾀｸﾞﾝｱｼｷﾀﾏﾁ,ﾖｺｲｷﾞ,熊本県,葦北郡芦北町,横居木,0,0,0,0,0,0
+43482,86953,8695302,ｸﾏﾓﾄｹﾝ,ｱｼｷﾀｸﾞﾝｱｼｷﾀﾏﾁ,ﾀﾉｳﾗ,熊本県,葦北郡芦北町,田浦,0,0,0,0,0,0
+43482,86953,8695303,ｸﾏﾓﾄｹﾝ,ｱｼｷﾀｸﾞﾝｱｼｷﾀﾏﾁ,ｺﾀﾞﾉｳﾗ,熊本県,葦北郡芦北町,小田浦,0,0,0,0,0,0
+43482,86953,8695304,ｸﾏﾓﾄｹﾝ,ｱｼｷﾀｸﾞﾝｱｼｷﾀﾏﾁ,ｳﾐﾉｳﾗ,熊本県,葦北郡芦北町,海浦,0,0,0,0,0,0
+43482,86953,8695305,ｸﾏﾓﾄｹﾝ,ｱｼｷﾀｸﾞﾝｱｼｷﾀﾏﾁ,ﾀﾉｳﾗﾏﾁ,熊本県,葦北郡芦北町,田浦町,0,0,0,0,0,0
+43482,86953,8695306,ｸﾏﾓﾄｹﾝ,ｱｼｷﾀｸﾞﾝｱｼｷﾀﾏﾁ,ﾊﾀﾄｳ,熊本県,葦北郡芦北町,波多島,0,0,0,0,0,0
+43482,86953,8695307,ｸﾏﾓﾄｹﾝ,ｱｼｷﾀｸﾞﾝｱｼｷﾀﾏﾁ,ｲﾑﾀ,熊本県,葦北郡芦北町,井牟田,0,0,0,0,0,0

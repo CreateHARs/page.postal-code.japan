@@ -1,0 +1,36 @@
+[
+    {
+        "local_government_code": "26104",
+        "postal_code_5digit": "604  ",
+        "postal_code_7digit": "6048187",
+        "prefecture_kana": "ｷｮｳﾄﾌ",
+        "address1_kana": "ｷｮｳﾄｼﾅｶｷﾞｮｳｸ",
+        "address2_kana": "ｻｻﾔﾁｮｳ",
+        "prefecture_kanji": "京都府",
+        "address1_kanji": "京都市中京区",
+        "address2_kanji": "笹屋町（御池通東洞院東入、御池通東洞院西入、御池通烏丸東入、東洞院通",
+        "is_address2_has_multiple_postal_code": "0",
+        "is_address2_has_multiple_sublocality": "0",
+        "is_address2_includes_chome": "0",
+        "is_postal_code_has_multiple_address2": "0",
+        "updated_type": "0",
+        "updated_reason_type": "0"
+    },
+    {
+        "local_government_code": "26104",
+        "postal_code_5digit": "604  ",
+        "postal_code_7digit": "6048187",
+        "prefecture_kana": "ｷｮｳﾄﾌ",
+        "address1_kana": "ｷｮｳﾄｼﾅｶｷﾞｮｳｸ",
+        "address2_kana": "ｻｻﾔﾁｮｳ",
+        "prefecture_kanji": "京都府",
+        "address1_kanji": "京都市中京区",
+        "address2_kanji": "姉小路上る、姉小路通東洞院東入）",
+        "is_address2_has_multiple_postal_code": "0",
+        "is_address2_has_multiple_sublocality": "0",
+        "is_address2_includes_chome": "0",
+        "is_postal_code_has_multiple_address2": "0",
+        "updated_type": "0",
+        "updated_reason_type": "0"
+    }
+]

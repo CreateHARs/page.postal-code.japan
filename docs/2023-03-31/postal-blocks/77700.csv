@@ -1,0 +1,8 @@
+local_government_code,postal_code_5digit,postal_code_7digit,prefecture_kana,address1_kana,address2_kana,prefecture_kanji,address1_kanji,address2_kanji,is_address2_has_multiple_postal_code,is_address2_has_multiple_sublocality,is_address2_includes_chome,is_postal_code_has_multiple_address2,updated_type,updated_reason_type
+36207,777  ,7770001,ﾄｸｼﾏｹﾝ,ﾐﾏｼ,ｱﾅﾌﾞｷﾁｮｳﾐｼﾏ(ｵｼﾏ),徳島県,美馬市,穴吹町三島（小島）,1,0,0,0,0,0
+36207,777  ,7770002,ﾄｸｼﾏｹﾝ,ﾐﾏｼ,ｱﾅﾌﾞｷﾁｮｳﾐｼﾏ(ﾏｲﾅｶｼﾏ),徳島県,美馬市,穴吹町三島（舞中島）,1,0,0,0,0,0
+36207,777  ,7770003,ﾄｸｼﾏｹﾝ,ﾐﾏｼ,ｱﾅﾌﾞｷﾁｮｳﾐｼﾏ(ﾐﾀﾆ),徳島県,美馬市,穴吹町三島（三谷）,1,0,0,0,0,0
+36207,777  ,7770004,ﾄｸｼﾏｹﾝ,ﾐﾏｼ,ｱﾅﾌﾞｷﾁｮｳﾐｼﾏ(ｵｵｼｹﾞ),徳島県,美馬市,穴吹町三島（大重）,1,0,0,0,0,0
+36207,777  ,7770005,ﾄｸｼﾏｹﾝ,ﾐﾏｼ,ｱﾅﾌﾞｷﾁｮｳｱﾅﾌﾞｷ,徳島県,美馬市,穴吹町穴吹,0,1,0,0,0,0
+36207,777  ,7770006,ﾄｸｼﾏｹﾝ,ﾐﾏｼ,ｱﾅﾌﾞｷﾁｮｳｸﾁﾔﾏ,徳島県,美馬市,穴吹町口山,0,1,0,0,0,0
+36207,777  ,7770007,ﾄｸｼﾏｹﾝ,ﾐﾏｼ,ｱﾅﾌﾞｷﾁｮｳﾌﾙﾐﾔ,徳島県,美馬市,穴吹町古宮,0,1,0,0,0,0

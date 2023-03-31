@@ -1,0 +1,3 @@
+local_government_code,postal_code_5digit,postal_code_7digit,prefecture_kana,address1_kana,address2_kana,prefecture_kanji,address1_kanji,address2_kanji,is_address2_has_multiple_postal_code,is_address2_has_multiple_sublocality,is_address2_includes_chome,is_postal_code_has_multiple_address2,updated_type,updated_reason_type
+09407,32932,3293214,ﾄﾁｷﾞｹﾝ,ﾅｽｸﾞﾝﾅｽﾏﾁ,ﾖｺｵｶ(1563､1660､1670､1728､1736､174,栃木県,那須郡那須町,横岡（１５６３、１６６０、１６７０、１７２８、１７３６、１７４,1,0,0,0,0,0
+09407,32932,3293214,ﾄﾁｷﾞｹﾝ,ﾅｽｸﾞﾝﾅｽﾏﾁ,8､1767-4ﾊﾞﾝﾁ),栃木県,那須郡那須町,８、１７６７−４番地）,1,0,0,0,0,0

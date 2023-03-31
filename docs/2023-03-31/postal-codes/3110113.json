@@ -1,0 +1,19 @@
+[
+    {
+        "local_government_code": "08226",
+        "postal_code_5digit": "31101",
+        "postal_code_7digit": "3110113",
+        "prefecture_kana": "ｲﾊﾞﾗｷｹﾝ",
+        "address1_kana": "ﾅｶｼ",
+        "address2_kana": "ﾅｶﾀﾞｲ",
+        "prefecture_kanji": "茨城県",
+        "address1_kanji": "那珂市",
+        "address2_kanji": "中台",
+        "is_address2_has_multiple_postal_code": "0",
+        "is_address2_has_multiple_sublocality": "0",
+        "is_address2_includes_chome": "0",
+        "is_postal_code_has_multiple_address2": "0",
+        "updated_type": "0",
+        "updated_reason_type": "0"
+    }
+]

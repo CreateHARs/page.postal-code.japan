@@ -1,0 +1,5 @@
+local_government_code,postal_code_5digit,postal_code_7digit,prefecture_kana,address1_kana,address2_kana,prefecture_kanji,address1_kanji,address2_kanji,is_address2_has_multiple_postal_code,is_address2_has_multiple_sublocality,is_address2_includes_chome,is_postal_code_has_multiple_address2,updated_type,updated_reason_type
+32526,68402,6840300,ｼﾏﾈｹﾝ,ｵｷｸﾞﾝﾆｼﾉｼﾏﾁｮｳ,ｲｶﾆｹｲｻｲｶﾞﾅｲﾊﾞｱｲ,島根県,隠岐郡西ノ島町,以下に掲載がない場合,0,0,0,0,0,0
+32526,68403,6840301,ｼﾏﾈｹﾝ,ｵｷｸﾞﾝﾆｼﾉｼﾏﾁｮｳ,ｳｶ,島根県,隠岐郡西ノ島町,宇賀,0,0,0,0,0,0
+32526,68403,6840302,ｼﾏﾈｹﾝ,ｵｷｸﾞﾝﾆｼﾉｼﾏﾁｮｳ,ﾍﾞｯﾌﾟ,島根県,隠岐郡西ノ島町,別府,0,0,0,0,0,0
+32526,68403,6840303,ｼﾏﾈｹﾝ,ｵｷｸﾞﾝﾆｼﾉｼﾏﾁｮｳ,ﾐﾀ,島根県,隠岐郡西ノ島町,美田,0,0,0,0,0,0

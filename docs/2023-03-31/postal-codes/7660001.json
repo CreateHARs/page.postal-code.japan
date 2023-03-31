@@ -1,0 +1,19 @@
+[
+    {
+        "local_government_code": "37403",
+        "postal_code_5digit": "766  ",
+        "postal_code_7digit": "7660001",
+        "prefecture_kana": "ｶｶﾞﾜｹﾝ",
+        "address1_kana": "ﾅｶﾀﾄﾞｸﾞﾝｺﾄﾋﾗﾁｮｳ",
+        "address2_kana": "ｺﾄﾋﾗﾁｮｳﾉﾂｷﾞﾆ427ﾊﾞﾝﾁｲｺｳｶﾞｸﾙﾊﾞｱｲ(ｶﾜﾆｼ)",
+        "prefecture_kanji": "香川県",
+        "address1_kanji": "仲多度郡琴平町",
+        "address2_kanji": "琴平町の次に４２７番地以降がくる場合（川西）",
+        "is_address2_has_multiple_postal_code": "1",
+        "is_address2_has_multiple_sublocality": "0",
+        "is_address2_includes_chome": "0",
+        "is_postal_code_has_multiple_address2": "0",
+        "updated_type": "0",
+        "updated_reason_type": "0"
+    }
+]

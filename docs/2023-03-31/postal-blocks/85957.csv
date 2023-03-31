@@ -1,0 +1,8 @@
+local_government_code,postal_code_5digit,postal_code_7digit,prefecture_kana,address1_kana,address2_kana,prefecture_kanji,address1_kanji,address2_kanji,is_address2_has_multiple_postal_code,is_address2_has_multiple_sublocality,is_address2_includes_chome,is_postal_code_has_multiple_address2,updated_type,updated_reason_type
+42207,85957,8595701,ﾅｶﾞｻｷｹﾝ,ﾋﾗﾄﾞｼ,ｲｷﾂｷﾁｮｳｲﾁﾌﾞ,長崎県,平戸市,生月町壱部,0,0,0,0,0,0
+42207,85957,8595702,ﾅｶﾞｻｷｹﾝ,ﾋﾗﾄﾞｼ,ｲｷﾂｷﾁｮｳｲﾁﾌﾞｳﾗ,長崎県,平戸市,生月町壱部浦,0,0,0,0,0,0
+42207,85957,8595703,ﾅｶﾞｻｷｹﾝ,ﾋﾗﾄﾞｼ,ｲｷﾂｷﾁｮｳｻﾄﾒﾝ,長崎県,平戸市,生月町里免,0,0,0,0,0,0
+42207,85957,8595704,ﾅｶﾞｻｷｹﾝ,ﾋﾗﾄﾞｼ,ｲｷﾂｷﾁｮｳﾔﾏﾀﾞﾒﾝ,長崎県,平戸市,生月町山田免,0,0,0,0,0,0
+42207,85957,8595705,ﾅｶﾞｻｷｹﾝ,ﾋﾗﾄﾞｼ,ｲｷﾂｷﾁｮｳﾀﾁｳﾗ,長崎県,平戸市,生月町舘浦,0,0,0,0,0,0
+42207,85957,8595706,ﾅｶﾞｻｷｹﾝ,ﾋﾗﾄﾞｼ,ｲｷﾂｷﾁｮｳﾐﾅﾐﾒﾝ,長崎県,平戸市,生月町南免,0,0,0,0,0,0
+42207,85957,8595707,ﾅｶﾞｻｷｹﾝ,ﾋﾗﾄﾞｼ,ｲｷﾂｷﾁｮｳﾐｻｷ,長崎県,平戸市,生月町御崎,0,0,0,0,0,0
