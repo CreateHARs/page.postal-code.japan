@@ -1,0 +1,36 @@
+[
+    {
+        "local_government_code": "28585",
+        "postal_code_5digit": "66966",
+        "postal_code_7digit": "6696671",
+        "prefecture_kana": "ﾋｮｳｺﾞｹﾝ",
+        "address1_kana": "ﾐｶﾀｸﾞﾝｶﾐﾁｮｳ",
+        "address2_kana": "ｶｽﾐｸｱﾏﾙﾍﾞ",
+        "prefecture_kanji": "兵庫県",
+        "address1_kanji": "美方郡香美町",
+        "address2_kanji": "香住区余部",
+        "is_address2_has_multiple_postal_code": "0",
+        "is_address2_has_multiple_sublocality": "0",
+        "is_address2_includes_chome": "0",
+        "is_postal_code_has_multiple_address2": "0",
+        "updated_type": "0",
+        "updated_reason_type": "0"
+    },
+    {
+        "local_government_code": "28585",
+        "postal_code_5digit": "66966",
+        "postal_code_7digit": "6696672",
+        "prefecture_kana": "ﾋｮｳｺﾞｹﾝ",
+        "address1_kana": "ﾐｶﾀｸﾞﾝｶﾐﾁｮｳ",
+        "address2_kana": "ｶｽﾐｸﾖﾛｲ",
+        "prefecture_kanji": "兵庫県",
+        "address1_kanji": "美方郡香美町",
+        "address2_kanji": "香住区鎧",
+        "is_address2_has_multiple_postal_code": "0",
+        "is_address2_has_multiple_sublocality": "0",
+        "is_address2_includes_chome": "0",
+        "is_postal_code_has_multiple_address2": "0",
+        "updated_type": "0",
+        "updated_reason_type": "0"
+    }
+]

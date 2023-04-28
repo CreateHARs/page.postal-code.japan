@@ -1,0 +1,36 @@
+[
+    {
+        "local_government_code": "20324",
+        "postal_code_5digit": "39103",
+        "postal_code_7digit": "3910321",
+        "prefecture_kana": "ﾅｶﾞﾉｹﾝ",
+        "address1_kana": "ｷﾀｻｸｸﾞﾝﾀﾃｼﾅﾏﾁ",
+        "address2_kana": "ｱｼﾀﾞﾊﾂｶﾉ(1519-1635)",
+        "prefecture_kanji": "長野県",
+        "address1_kanji": "北佐久郡立科町",
+        "address2_kanji": "芦田八ケ野（１５１９〜１６３５）",
+        "is_address2_has_multiple_postal_code": "1",
+        "is_address2_has_multiple_sublocality": "0",
+        "is_address2_includes_chome": "0",
+        "is_postal_code_has_multiple_address2": "1",
+        "updated_type": "0",
+        "updated_reason_type": "0"
+    },
+    {
+        "local_government_code": "20324",
+        "postal_code_5digit": "39103",
+        "postal_code_7digit": "3910321",
+        "prefecture_kana": "ﾅｶﾞﾉｹﾝ",
+        "address1_kana": "ｷﾀｻｸｸﾞﾝﾀﾃｼﾅﾏﾁ",
+        "address2_kana": "ｲｹﾉﾀｲﾗ",
+        "prefecture_kanji": "長野県",
+        "address1_kanji": "北佐久郡立科町",
+        "address2_kanji": "池の平",
+        "is_address2_has_multiple_postal_code": "0",
+        "is_address2_has_multiple_sublocality": "0",
+        "is_address2_includes_chome": "0",
+        "is_postal_code_has_multiple_address2": "1",
+        "updated_type": "0",
+        "updated_reason_type": "0"
+    }
+]

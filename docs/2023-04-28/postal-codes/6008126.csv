@@ -1,0 +1,4 @@
+local_government_code,postal_code_5digit,postal_code_7digit,prefecture_kana,address1_kana,address2_kana,prefecture_kanji,address1_kanji,address2_kanji,is_address2_has_multiple_postal_code,is_address2_has_multiple_sublocality,is_address2_includes_chome,is_postal_code_has_multiple_address2,updated_type,updated_reason_type
+26106,600  ,6008126,ｷｮｳﾄﾌ,ｷｮｳﾄｼｼﾓｷﾞｮｳｸ,ｶｷﾞﾔﾁｮｳ,京都府,京都市下京区,鍵屋町（正面通木屋町東入、加茂川筋正面上る、正面通二ノ宮西,0,0,0,0,0,0
+26106,600  ,6008126,ｷｮｳﾄﾌ,ｷｮｳﾄｼｼﾓｷﾞｮｳｸ,ｶｷﾞﾔﾁｮｳ,京都府,京都市下京区,入、木屋町通正面上る、正面通二ノ宮東入、正面通加茂川筋西入、二ノ宮,0,0,0,0,0,0
+26106,600  ,6008126,ｷｮｳﾄﾌ,ｷｮｳﾄｼｼﾓｷﾞｮｳｸ,ｶｷﾞﾔﾁｮｳ,京都府,京都市下京区,通正面上る）,0,0,0,0,0,0

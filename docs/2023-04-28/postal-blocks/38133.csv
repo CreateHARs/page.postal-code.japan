@@ -1,0 +1,6 @@
+local_government_code,postal_code_5digit,postal_code_7digit,prefecture_kana,address1_kana,address2_kana,prefecture_kanji,address1_kanji,address2_kanji,is_address2_has_multiple_postal_code,is_address2_has_multiple_sublocality,is_address2_includes_chome,is_postal_code_has_multiple_address2,updated_type,updated_reason_type
+20588,38133,3813300,ﾅｶﾞﾉｹﾝ,ｶﾐﾐﾉﾁｸﾞﾝｵｶﾞﾜﾑﾗ,ｲｶﾆｹｲｻｲｶﾞﾅｲﾊﾞｱｲ,長野県,上水内郡小川村,以下に掲載がない場合,0,0,0,0,0,0
+20588,38133,3813301,ﾅｶﾞﾉｹﾝ,ｶﾐﾐﾉﾁｸﾞﾝｵｶﾞﾜﾑﾗ,ｲﾅｵｶ,長野県,上水内郡小川村,稲丘,0,0,0,0,0,0
+20588,38133,3813302,ﾅｶﾞﾉｹﾝ,ｶﾐﾐﾉﾁｸﾞﾝｵｶﾞﾜﾑﾗ,ﾀｶﾌ,長野県,上水内郡小川村,高府,0,0,0,0,0,0
+20588,38133,3813303,ﾅｶﾞﾉｹﾝ,ｶﾐﾐﾉﾁｸﾞﾝｵｶﾞﾜﾑﾗ,ｵﾈﾔﾏ,長野県,上水内郡小川村,小根山,0,0,0,0,0,0
+20588,38133,3813304,ﾅｶﾞﾉｹﾝ,ｶﾐﾐﾉﾁｸﾞﾝｵｶﾞﾜﾑﾗ,ｾﾄｶﾞﾜ,長野県,上水内郡小川村,瀬戸川,0,0,0,0,0,0

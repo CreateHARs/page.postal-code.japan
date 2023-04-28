@@ -1,0 +1,8 @@
+local_government_code,postal_code_5digit,postal_code_7digit,prefecture_kana,address1_kana,address2_kana,prefecture_kanji,address1_kanji,address2_kanji,is_address2_has_multiple_postal_code,is_address2_has_multiple_sublocality,is_address2_includes_chome,is_postal_code_has_multiple_address2,updated_type,updated_reason_type
+18206,911  ,9110048,ﾌｸｲｹﾝ,ｶﾂﾔﾏｼ,ｱﾗﾄﾞﾁｮｳｻｶｲ,福井県,勝山市,荒土町境,0,0,0,1,0,0
+18206,911  ,9110048,ﾌｸｲｹﾝ,ｶﾂﾔﾏｼ,ｱﾗﾄﾞﾁｮｳｼﾝﾄﾞｳ,福井県,勝山市,荒土町新道,0,0,0,1,0,0
+18206,911  ,9110048,ﾌｸｲｹﾝ,ｶﾂﾔﾏｼ,ｱﾗﾄﾞﾁｮｳﾄｸﾗ,福井県,勝山市,荒土町戸倉,0,0,0,1,0,0
+18206,911  ,9110048,ﾌｸｲｹﾝ,ｶﾂﾔﾏｼ,ｱﾗﾄﾞﾁｮｳﾆｼｶﾞﾊﾗ,福井県,勝山市,荒土町西ケ原,0,0,0,1,0,0
+18206,911  ,9110048,ﾌｸｲｹﾝ,ｶﾂﾔﾏｼ,ｱﾗﾄﾞﾁｮｳﾍﾞｯｼｮ,福井県,勝山市,荒土町別所,0,0,0,1,0,0
+18206,911  ,9110048,ﾌｸｲｹﾝ,ｶﾂﾔﾏｼ,ｱﾗﾄﾞﾁｮｳﾎｿﾉ,福井県,勝山市,荒土町細野,0,0,0,1,0,0
+18206,911  ,9110048,ﾌｸｲｹﾝ,ｶﾂﾔﾏｼ,ｱﾗﾄﾞﾁｮｳﾎｿﾉｸﾞﾁ,福井県,勝山市,荒土町細野口,0,0,0,1,0,0

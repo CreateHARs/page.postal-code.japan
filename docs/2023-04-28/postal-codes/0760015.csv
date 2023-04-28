@@ -1,0 +1,2 @@
+local_government_code,postal_code_5digit,postal_code_7digit,prefecture_kana,address1_kana,address2_kana,prefecture_kanji,address1_kanji,address2_kanji,is_address2_has_multiple_postal_code,is_address2_has_multiple_sublocality,is_address2_includes_chome,is_postal_code_has_multiple_address2,updated_type,updated_reason_type
+01229,076  ,0760015,ﾎｯｶｲﾄﾞｳ,ﾌﾗﾉｼ,ｶﾐｺﾞﾘｮｳ,北海道,富良野市,上御料,0,0,0,0,0,0

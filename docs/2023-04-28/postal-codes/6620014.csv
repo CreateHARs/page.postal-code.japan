@@ -1,0 +1,2 @@
+local_government_code,postal_code_5digit,postal_code_7digit,prefecture_kana,address1_kana,address2_kana,prefecture_kanji,address1_kanji,address2_kanji,is_address2_has_multiple_postal_code,is_address2_has_multiple_sublocality,is_address2_includes_chome,is_postal_code_has_multiple_address2,updated_type,updated_reason_type
+28204,662  ,6620014,ﾋｮｳｺﾞｹﾝ,ﾆｼﾉﾐﾔｼ,ｺｳﾖｳｴﾝﾋﾉﾃﾞﾁｮｳ,兵庫県,西宮市,甲陽園日之出町,0,0,0,0,0,0

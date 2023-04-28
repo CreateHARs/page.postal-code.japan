@@ -1,0 +1,7 @@
+local_government_code,postal_code_5digit,postal_code_7digit,prefecture_kana,address1_kana,address2_kana,prefecture_kanji,address1_kanji,address2_kanji,is_address2_has_multiple_postal_code,is_address2_has_multiple_sublocality,is_address2_includes_chome,is_postal_code_has_multiple_address2,updated_type,updated_reason_type
+46222,89411,8941111,ｶｺﾞｼﾏｹﾝ,ｱﾏﾐｼ,ｽﾐﾖｳﾁｮｳｸﾞｽｸ,鹿児島県,奄美市,住用町城,0,0,0,0,0,0
+46222,89411,8941112,ｶｺﾞｼﾏｹﾝ,ｱﾏﾐｼ,ｽﾐﾖｳﾁｮｳﾜｾ,鹿児島県,奄美市,住用町和瀬,0,0,0,0,0,0
+46222,89411,8941113,ｶｺﾞｼﾏｹﾝ,ｱﾏﾐｼ,ｽﾐﾖｳﾁｮｳﾐｻﾞﾄ,鹿児島県,奄美市,住用町見里,0,0,0,0,0,0
+46222,89411,8941114,ｶｺﾞｼﾏｹﾝ,ｱﾏﾐｼ,ｽﾐﾖｳﾁｮｳﾋｶﾞｼﾅｶﾏ,鹿児島県,奄美市,住用町東仲間,0,0,0,0,0,0
+46222,89411,8941115,ｶｺﾞｼﾏｹﾝ,ｱﾏﾐｼ,ｽﾐﾖｳﾁｮｳｶﾜｳﾁ,鹿児島県,奄美市,住用町川内,0,0,0,0,0,0
+46222,89411,8941116,ｶｺﾞｼﾏｹﾝ,ｱﾏﾐｼ,ｽﾐﾖｳﾁｮｳｽﾘｶﾞﾁ,鹿児島県,奄美市,住用町摺勝,0,0,0,0,0,0

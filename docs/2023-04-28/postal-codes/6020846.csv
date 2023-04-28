@@ -1,0 +1,4 @@
+local_government_code,postal_code_5digit,postal_code_7digit,prefecture_kana,address1_kana,address2_kana,prefecture_kanji,address1_kanji,address2_kanji,is_address2_has_multiple_postal_code,is_address2_has_multiple_sublocality,is_address2_includes_chome,is_postal_code_has_multiple_address2,updated_type,updated_reason_type
+26102,602  ,6020846,ｷｮｳﾄﾌ,ｷｮｳﾄｼｶﾐｷﾞｮｳｸ,ｺﾒﾔﾁｮｳ,京都府,京都市上京区,米屋町（今出川通寺町東入、今出川通寺町東入下る、今出川通河,0,0,0,0,0,0
+26102,602  ,6020846,ｷｮｳﾄﾌ,ｷｮｳﾄｼｶﾐｷﾞｮｳｸ,ｺﾒﾔﾁｮｳ,京都府,京都市上京区,原町西入上る、河原町通今出川下る西入、寺町通今出川下る、寺町通今出川下,0,0,0,0,0,0
+26102,602  ,6020846,ｷｮｳﾄﾌ,ｷｮｳﾄｼｶﾐｷﾞｮｳｸ,ｺﾒﾔﾁｮｳ,京都府,京都市上京区,る東入、中筋通今出川下る）,0,0,0,0,0,0

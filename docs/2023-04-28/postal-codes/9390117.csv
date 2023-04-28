@@ -1,0 +1,7 @@
+local_government_code,postal_code_5digit,postal_code_7digit,prefecture_kana,address1_kana,address2_kana,prefecture_kanji,address1_kanji,address2_kanji,is_address2_has_multiple_postal_code,is_address2_has_multiple_sublocality,is_address2_includes_chome,is_postal_code_has_multiple_address2,updated_type,updated_reason_type
+16202,93901,9390117,ﾄﾔﾏｹﾝ,ﾀｶｵｶｼ,ﾌｸｵｶﾏﾁｵｵﾉ(ｻｸﾗｷﾞﾁｮｳ),富山県,高岡市,福岡町大野（桜木町）,1,0,0,1,0,0
+16202,93901,9390117,ﾄﾔﾏｹﾝ,ﾀｶｵｶｼ,ﾌｸｵｶﾏﾁｵｵﾉ(ﾜｾﾀﾞﾏﾁ),富山県,高岡市,福岡町大野（早稲田町）,1,0,0,1,0,0
+16202,93901,9390117,ﾄﾔﾏｹﾝ,ﾀｶｵｶｼ,ﾌｸｵｶﾏﾁﾌｸｵｶｼﾝ,富山県,高岡市,福岡町福岡新,1,0,0,1,0,0
+16202,93901,9390117,ﾄﾔﾏｹﾝ,ﾀｶｵｶｼ,ﾌｸｵｶﾏﾁﾌｸｵｶｼﾝ(ｻｸﾗｷﾞﾁｮｳ),富山県,高岡市,福岡町福岡新（桜木町）,1,0,0,1,0,0
+16202,93901,9390117,ﾄﾔﾏｹﾝ,ﾀｶｵｶｼ,ﾌｸｵｶﾏﾁﾌｸｵｶｼﾝ(ﾆｼﾎｼﾊﾞ),富山県,高岡市,福岡町福岡新（西干場）,1,0,0,1,0,0
+16202,93901,9390117,ﾄﾔﾏｹﾝ,ﾀｶｵｶｼ,ﾌｸｵｶﾏﾁﾌｸｵｶｼﾝ(ﾜｾﾀﾞﾏﾁ),富山県,高岡市,福岡町福岡新（早稲田町）,1,0,0,1,0,0

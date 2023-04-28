@@ -1,0 +1,2 @@
+local_government_code,postal_code_5digit,postal_code_7digit,prefecture_kana,address1_kana,address2_kana,prefecture_kanji,address1_kanji,address2_kanji,is_address2_has_multiple_postal_code,is_address2_has_multiple_sublocality,is_address2_includes_chome,is_postal_code_has_multiple_address2,updated_type,updated_reason_type
+20324,38423,3842304,ﾅｶﾞﾉｹﾝ,ｷﾀｻｸｸﾞﾝﾀﾃｼﾅﾏﾁ,ﾓﾀｲ(1-500<211ﾊﾞﾝﾁｦﾉｿﾞｸ><ﾌﾙﾏﾁ>､2527-2529<ﾄﾞﾄｵ>),長野県,北佐久郡立科町,茂田井（１〜５００「２１１番地を除く」「古町」、２５２７〜２５２９「土遠」）,1,0,0,0,0,0

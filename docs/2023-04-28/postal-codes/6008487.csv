@@ -1,0 +1,4 @@
+local_government_code,postal_code_5digit,postal_code_7digit,prefecture_kana,address1_kana,address2_kana,prefecture_kanji,address1_kanji,address2_kanji,is_address2_has_multiple_postal_code,is_address2_has_multiple_sublocality,is_address2_includes_chome,is_postal_code_has_multiple_address2,updated_type,updated_reason_type
+26106,600  ,6008487,ｷｮｳﾄﾌ,ｷｮｳﾄｼｼﾓｷﾞｮｳｸ,ﾀﾁﾊﾞﾅﾁｮｳ,京都府,京都市下京区,橘町（醒ケ井通松原上る、醒ケ井通松原下る、松原通油小路西,0,0,0,0,0,0
+26106,600  ,6008487,ｷｮｳﾄﾌ,ｷｮｳﾄｼｼﾓｷﾞｮｳｸ,ﾀﾁﾊﾞﾅﾁｮｳ,京都府,京都市下京区,入、松原通醒ケ井西入、松原通醒ケ井東入、松原通東堀川東入、松原通堀,0,0,0,0,0,0
+26106,600  ,6008487,ｷｮｳﾄﾌ,ｷｮｳﾄｼｼﾓｷﾞｮｳｸ,ﾀﾁﾊﾞﾅﾁｮｳ,京都府,京都市下京区,川東入）,0,0,0,0,0,0

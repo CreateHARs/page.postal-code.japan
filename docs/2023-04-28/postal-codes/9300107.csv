@@ -1,0 +1,6 @@
+local_government_code,postal_code_5digit,postal_code_7digit,prefecture_kana,address1_kana,address2_kana,prefecture_kanji,address1_kanji,address2_kanji,is_address2_has_multiple_postal_code,is_address2_has_multiple_sublocality,is_address2_includes_chome,is_postal_code_has_multiple_address2,updated_type,updated_reason_type
+16201,93001,9300107,ﾄﾔﾏｹﾝ,ﾄﾔﾏｼ,ｵｵﾂｶ,富山県,富山市,大塚,0,0,0,1,0,0
+16201,93001,9300107,ﾄﾔﾏｹﾝ,ﾄﾔﾏｼ,ｵｵﾂｶﾋｶﾞｼ,富山県,富山市,大塚東,0,0,0,1,0,0
+16201,93001,9300107,ﾄﾔﾏｹﾝ,ﾄﾔﾏｼ,ｵｵﾂｶﾆｼ,富山県,富山市,大塚西,0,0,0,1,0,0
+16201,93001,9300107,ﾄﾔﾏｹﾝ,ﾄﾔﾏｼ,ｵｵﾂｶﾐﾅﾐ,富山県,富山市,大塚南,0,0,0,1,0,0
+16201,93001,9300107,ﾄﾔﾏｹﾝ,ﾄﾔﾏｼ,ｵｵﾂｶｷﾀ,富山県,富山市,大塚北,0,0,0,1,0,0

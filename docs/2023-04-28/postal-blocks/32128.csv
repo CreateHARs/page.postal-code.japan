@@ -1,0 +1,7 @@
+local_government_code,postal_code_5digit,postal_code_7digit,prefecture_kana,address1_kana,address2_kana,prefecture_kanji,address1_kanji,address2_kanji,is_address2_has_multiple_postal_code,is_address2_has_multiple_sublocality,is_address2_includes_chome,is_postal_code_has_multiple_address2,updated_type,updated_reason_type
+09206,32128,3212801,ﾄﾁｷﾞｹﾝ,ﾆｯｺｳｼ,ﾖｺｶﾜ,栃木県,日光市,横川,0,0,0,0,0,0
+09206,32128,3212802,ﾄﾁｷﾞｹﾝ,ﾆｯｺｳｼ,ｶﾐﾐﾖﾘ,栃木県,日光市,上三依,0,0,0,0,0,0
+09206,32128,3212803,ﾄﾁｷﾞｹﾝ,ﾆｯｺｳｼ,ﾅｶﾐﾖﾘ,栃木県,日光市,中三依,0,0,0,0,0,0
+09206,32128,3212804,ﾄﾁｷﾞｹﾝ,ﾆｯｺｳｼ,ｾﾘｻﾜ,栃木県,日光市,芹沢,0,0,0,0,0,0
+09206,32128,3212805,ﾄﾁｷﾞｹﾝ,ﾆｯｺｳｼ,ﾄｯｺｻﾞﾜ,栃木県,日光市,独鈷沢,0,0,0,0,0,0
+09206,32128,3212806,ﾄﾁｷﾞｹﾝ,ﾆｯｺｳｼ,ｲｶﾘ(ｿﾉﾀ),栃木県,日光市,五十里（その他）,1,0,0,0,0,0

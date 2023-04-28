@@ -1,0 +1,5 @@
+local_government_code,postal_code_5digit,postal_code_7digit,prefecture_kana,address1_kana,address2_kana,prefecture_kanji,address1_kanji,address2_kanji,is_address2_has_multiple_postal_code,is_address2_has_multiple_sublocality,is_address2_includes_chome,is_postal_code_has_multiple_address2,updated_type,updated_reason_type
+37322,76146,7614661,ｶｶﾞﾜｹﾝ,ｼｮｳｽﾞｸﾞﾝﾄﾉｼｮｳﾁｮｳ,ﾃｼﾏｲｴｳﾗ,香川県,小豆郡土庄町,豊島家浦,0,0,0,0,0,0
+37322,76146,7614662,ｶｶﾞﾜｹﾝ,ｼｮｳｽﾞｸﾞﾝﾄﾉｼｮｳﾁｮｳ,ﾃｼﾏｶﾗﾄ,香川県,小豆郡土庄町,豊島唐櫃,0,0,0,0,0,0
+37322,76146,7614663,ｶｶﾞﾜｹﾝ,ｼｮｳｽﾞｸﾞﾝﾄﾉｼｮｳﾁｮｳ,ﾃｼﾏｺｳ,香川県,小豆郡土庄町,豊島甲生,0,0,0,0,0,0
+37322,76146,7614664,ｶｶﾞﾜｹﾝ,ｼｮｳｽﾞｸﾞﾝﾄﾉｼｮｳﾁｮｳ,ｲｷﾞｽｴ(ｵﾃﾞｼﾏ),香川県,小豆郡土庄町,伊喜末（小豊島）,1,0,0,0,0,0

@@ -1,0 +1,10 @@
+local_government_code,postal_code_5digit,postal_code_7digit,prefecture_kana,address1_kana,address2_kana,prefecture_kanji,address1_kanji,address2_kanji,is_address2_has_multiple_postal_code,is_address2_has_multiple_sublocality,is_address2_includes_chome,is_postal_code_has_multiple_address2,updated_type,updated_reason_type
+43210,86116,8611671,ｸﾏﾓﾄｹﾝ,ｷｸﾁｼ,ﾊﾝｼﾞｬｸ,熊本県,菊池市,班蛇口,0,0,0,0,0,0
+43210,86116,8611672,ｸﾏﾓﾄｹﾝ,ｷｸﾁｼ,ﾘｭｳﾓﾝ,熊本県,菊池市,龍門,0,0,0,0,0,0
+43210,86116,8611673,ｸﾏﾓﾄｹﾝ,ｷｸﾁｼ,ｵｷﾞ,熊本県,菊池市,小木,0,0,0,0,0,0
+43210,86116,8611681,ｸﾏﾓﾄｹﾝ,ｷｸﾁｼ,ﾕｷﾉ,熊本県,菊池市,雪野,0,0,0,0,0,0
+43210,86116,8611682,ｸﾏﾓﾄｹﾝ,ｷｸﾁｼ,ｼｹﾞﾐ,熊本県,菊池市,重味,0,0,0,0,0,0
+43210,86116,8611683,ｸﾏﾓﾄｹﾝ,ｷｸﾁｼ,ｵｵﾋﾗ,熊本県,菊池市,大平,0,0,0,0,0,0
+43210,86116,8611684,ｸﾏﾓﾄｹﾝ,ｷｸﾁｼ,ﾄﾖﾏ,熊本県,菊池市,豊間,0,0,0,0,0,0
+43210,86116,8611685,ｸﾏﾓﾄｹﾝ,ｷｸﾁｼ,ﾆｼﾊｻﾞﾏ,熊本県,菊池市,西迫間,0,0,0,0,0,0
+43210,86116,8611686,ｸﾏﾓﾄｹﾝ,ｷｸﾁｼ,ｲﾁﾉｾ,熊本県,菊池市,市野瀬,0,0,0,0,0,0

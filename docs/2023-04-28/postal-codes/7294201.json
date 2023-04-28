@@ -1,0 +1,19 @@
+[
+    {
+        "local_government_code": "34209",
+        "postal_code_5digit": "72942",
+        "postal_code_7digit": "7294201",
+        "prefecture_kana": "ﾋﾛｼﾏｹﾝ",
+        "address1_kana": "ﾐﾖｼｼ",
+        "address2_kana": "ｷｻﾁｮｳﾁﾜ",
+        "prefecture_kanji": "広島県",
+        "address1_kanji": "三次市",
+        "address2_kanji": "吉舎町知和",
+        "is_address2_has_multiple_postal_code": "0",
+        "is_address2_has_multiple_sublocality": "0",
+        "is_address2_includes_chome": "0",
+        "is_postal_code_has_multiple_address2": "0",
+        "updated_type": "0",
+        "updated_reason_type": "0"
+    }
+]

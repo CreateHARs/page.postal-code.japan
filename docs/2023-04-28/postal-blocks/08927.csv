@@ -1,0 +1,7 @@
+local_government_code,postal_code_5digit,postal_code_7digit,prefecture_kana,address1_kana,address2_kana,prefecture_kanji,address1_kanji,address2_kanji,is_address2_has_multiple_postal_code,is_address2_has_multiple_sublocality,is_address2_includes_chome,is_postal_code_has_multiple_address2,updated_type,updated_reason_type
+01642,08927,0892771,ﾎｯｶｲﾄﾞｳ,ﾋﾛｵｸﾞﾝﾋﾛｵﾁｮｳ,ｵｼﾗﾍﾞﾂ,北海道,広尾郡広尾町,音調津,0,0,0,0,0,0
+01642,08927,0892772,ﾎｯｶｲﾄﾞｳ,ﾋﾛｵｸﾞﾝﾋﾛｵﾁｮｳ,ｵｼﾗﾍﾞﾂｸｶｸｶﾞｲ,北海道,広尾郡広尾町,音調津区画外,0,0,0,0,0,0
+01642,08927,0892773,ﾎｯｶｲﾄﾞｳ,ﾋﾛｵｸﾞﾝﾋﾛｵﾁｮｳ,ﾓｴｹｼ,北海道,広尾郡広尾町,モエケシ,0,0,0,0,0,0
+01642,08927,0892774,ﾎｯｶｲﾄﾞｳ,ﾋﾛｵｸﾞﾝﾋﾛｵﾁｮｳ,ﾙﾍﾞｼﾍﾞﾂ,北海道,広尾郡広尾町,ルベシベツ,0,0,0,0,0,0
+01642,08927,0892775,ﾎｯｶｲﾄﾞｳ,ﾋﾛｵｸﾞﾝﾋﾛｵﾁｮｳ,ﾀﾆｲｿ,北海道,広尾郡広尾町,タニイソ,0,0,0,0,0,0
+01642,08927,0892776,ﾎｯｶｲﾄﾞｳ,ﾋﾛｵｸﾞﾝﾋﾛｵﾁｮｳ,ﾋﾞﾀﾀﾇﾝｹ,北海道,広尾郡広尾町,ビタタヌンケ,0,0,0,0,0,0

@@ -1,0 +1,6 @@
+local_government_code,postal_code_5digit,postal_code_7digit,prefecture_kana,address1_kana,address2_kana,prefecture_kanji,address1_kanji,address2_kanji,is_address2_has_multiple_postal_code,is_address2_has_multiple_sublocality,is_address2_includes_chome,is_postal_code_has_multiple_address2,updated_type,updated_reason_type
+01649,08958,0895865,ﾎｯｶｲﾄﾞｳ,ﾄｶﾁｸﾞﾝｳﾗﾎﾛﾁｮｳ,ｱﾂﾅｲ(ｾﾞﾝｲｷ),北海道,十勝郡浦幌町,厚内（全域）,0,0,0,0,0,0
+01649,08958,0895866,ﾎｯｶｲﾄﾞｳ,ﾄｶﾁｸﾞﾝｳﾗﾎﾛﾁｮｳ,ｶﾐｱﾂﾅｲ,北海道,十勝郡浦幌町,上厚内,0,0,0,0,0,0
+01649,08958,0895867,ﾎｯｶｲﾄﾞｳ,ﾄｶﾁｸﾞﾝｳﾗﾎﾛﾁｮｳ,ｵｺｯﾍﾟ,北海道,十勝郡浦幌町,オコッペ,0,0,0,0,0,0
+01649,08958,0895868,ﾎｯｶｲﾄﾞｳ,ﾄｶﾁｸﾞﾝｳﾗﾎﾛﾁｮｳ,ｺﾌﾞｶﾘｲｼ(3ﾊﾞﾝﾁ),北海道,十勝郡浦幌町,昆布刈石（３番地）,1,0,0,0,0,0
+01649,08958,0895869,ﾎｯｶｲﾄﾞｳ,ﾄｶﾁｸﾞﾝｳﾗﾎﾛﾁｮｳ,ﾁﾌﾟﾈｵｺｯﾍﾟ,北海道,十勝郡浦幌町,チプネオコッペ,0,0,0,0,0,0

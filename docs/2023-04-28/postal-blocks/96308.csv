@@ -1,0 +1,8 @@
+local_government_code,postal_code_5digit,postal_code_7digit,prefecture_kana,address1_kana,address2_kana,prefecture_kanji,address1_kanji,address2_kanji,is_address2_has_multiple_postal_code,is_address2_has_multiple_sublocality,is_address2_includes_chome,is_postal_code_has_multiple_address2,updated_type,updated_reason_type
+07203,96308,9630831,ﾌｸｼﾏｹﾝ,ｺｵﾘﾔﾏｼ,ﾅｶﾀﾏﾁﾔﾅｷﾞﾊｼ,福島県,郡山市,中田町柳橋,0,1,0,0,0,0
+07203,96308,9630832,ﾌｸｼﾏｹﾝ,ｺｵﾘﾔﾏｼ,ﾅｶﾀﾏﾁﾅｶﾂｶﾞﾜ,福島県,郡山市,中田町中津川,0,1,0,0,0,0
+07203,96308,9630833,ﾌｸｼﾏｹﾝ,ｺｵﾘﾔﾏｼ,ﾅｶﾀﾏﾁｼﾀｴﾀﾞ,福島県,郡山市,中田町下枝,0,1,0,0,0,0
+07203,96308,9630834,ﾌｸｼﾏｹﾝ,ｺｵﾘﾔﾏｼ,ﾅｶﾀﾏﾁｳｼｸﾋﾞﾘﾎﾝｺﾞｳ,福島県,郡山市,中田町牛縊本郷,0,1,0,0,0,0
+07203,96308,9630835,ﾌｸｼﾏｹﾝ,ｺｵﾘﾔﾏｼ,ﾅｶﾀﾏﾁｸﾛｷ,福島県,郡山市,中田町黒木,0,1,0,0,0,0
+07203,96308,9630836,ﾌｸｼﾏｹﾝ,ｺｵﾘﾔﾏｼ,ﾅｶﾀﾏﾁｺﾉﾒｻﾞﾜ,福島県,郡山市,中田町木目沢,0,1,0,0,0,0
+07203,96308,9630837,ﾌｸｼﾏｹﾝ,ｺｵﾘﾔﾏｼ,ﾅｶﾀﾏﾁｺﾏｲﾀ,福島県,郡山市,中田町駒板,0,1,0,0,0,0

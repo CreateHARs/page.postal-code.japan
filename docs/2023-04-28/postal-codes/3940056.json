@@ -1,0 +1,19 @@
+[
+    {
+        "local_government_code": "20204",
+        "postal_code_5digit": "394  ",
+        "postal_code_7digit": "3940056",
+        "prefecture_kana": "ﾅｶﾞﾉｹﾝ",
+        "address1_kana": "ｵｶﾔｼ",
+        "address2_kana": "ﾋｻﾞﾜ",
+        "prefecture_kanji": "長野県",
+        "address1_kanji": "岡谷市",
+        "address2_kanji": "樋沢",
+        "is_address2_has_multiple_postal_code": "0",
+        "is_address2_has_multiple_sublocality": "0",
+        "is_address2_includes_chome": "0",
+        "is_postal_code_has_multiple_address2": "0",
+        "updated_type": "0",
+        "updated_reason_type": "0"
+    }
+]

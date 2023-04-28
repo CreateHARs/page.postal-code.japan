@@ -1,0 +1,7 @@
+local_government_code,postal_code_5digit,postal_code_7digit,prefecture_kana,address1_kana,address2_kana,prefecture_kanji,address1_kanji,address2_kanji,is_address2_has_multiple_postal_code,is_address2_has_multiple_sublocality,is_address2_includes_chome,is_postal_code_has_multiple_address2,updated_type,updated_reason_type
+44214,87306,8730641,ｵｵｲﾀｹﾝ,ｸﾆｻｷｼ,ｸﾆｻｷﾏﾁﾌｶｴ,大分県,国東市,国東町深江,0,0,0,0,0,0
+44214,87306,8730642,ｵｵｲﾀｹﾝ,ｸﾆｻｷｼ,ｸﾆｻｷﾏﾁﾋｶﾞｼｶﾀｸ,大分県,国東市,国東町東堅来,0,0,0,0,0,0
+44214,87306,8730643,ｵｵｲﾀｹﾝ,ｸﾆｻｷｼ,ｸﾆｻｷﾏﾁﾄﾐｸｳﾗ,大分県,国東市,国東町富来浦,0,0,0,0,0,0
+44214,87306,8730644,ｵｵｲﾀｹﾝ,ｸﾆｻｷｼ,ｸﾆｻｷﾏﾁﾊﾏｻｷ,大分県,国東市,国東町浜崎,0,0,0,0,0,0
+44214,87306,8730645,ｵｵｲﾀｹﾝ,ｸﾆｻｷｼ,ｸﾆｻｷﾏﾁﾄﾐｸ,大分県,国東市,国東町富来,0,0,0,0,0,0
+44214,87306,8730646,ｵｵｲﾀｹﾝ,ｸﾆｻｷｼ,ｸﾆｻｷﾏﾁﾀﾞｲｵﾝｼﾞ,大分県,国東市,国東町大恩寺,0,0,0,0,0,0
