@@ -1,0 +1,6 @@
+local_government_code,postal_code_5digit,postal_code_7digit,prefecture_kana,address1_kana,address2_kana,prefecture_kanji,address1_kanji,address2_kanji,is_address2_has_multiple_postal_code,is_address2_has_multiple_sublocality,is_address2_includes_chome,is_postal_code_has_multiple_address2,updated_type,updated_reason_type
+01602,05503,0550321,ﾎｯｶｲﾄﾞｳ,ｻﾙｸﾞﾝﾋﾞﾗﾄﾘﾁｮｳ,ﾇｷﾍﾞﾂ,北海道,沙流郡平取町,貫気別,0,0,0,0,0,0
+01602,05503,0550322,ﾎｯｶｲﾄﾞｳ,ｻﾙｸﾞﾝﾋﾞﾗﾄﾘﾁｮｳ,ｱｻﾋ,北海道,沙流郡平取町,旭,0,0,0,0,0,0
+01602,05503,0550323,ﾎｯｶｲﾄﾞｳ,ｻﾙｸﾞﾝﾋﾞﾗﾄﾘﾁｮｳ,ﾒﾑ,北海道,沙流郡平取町,芽生,0,0,0,0,0,0
+01602,05503,0550324,ﾎｯｶｲﾄﾞｳ,ｻﾙｸﾞﾝﾋﾞﾗﾄﾘﾁｮｳ,ﾆｵｲ,北海道,沙流郡平取町,荷負,0,0,0,0,0,0
+01602,05503,0550325,ﾎｯｶｲﾄﾞｳ,ｻﾙｸﾞﾝﾋﾞﾗﾄﾘﾁｮｳ,ｵｻﾁﾅｲ,北海道,沙流郡平取町,長知内,0,0,0,0,0,0

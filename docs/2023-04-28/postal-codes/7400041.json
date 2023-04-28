@@ -1,0 +1,19 @@
+[
+    {
+        "local_government_code": "35208",
+        "postal_code_5digit": "740  ",
+        "postal_code_7digit": "7400041",
+        "prefecture_kana": "ﾔﾏｸﾞﾁｹﾝ",
+        "address1_kana": "ｲﾜｸﾆｼ",
+        "address2_kana": "ｸﾛｲｿﾏﾁ",
+        "prefecture_kanji": "山口県",
+        "address1_kanji": "岩国市",
+        "address2_kanji": "黒磯町",
+        "is_address2_has_multiple_postal_code": "0",
+        "is_address2_has_multiple_sublocality": "0",
+        "is_address2_includes_chome": "1",
+        "is_postal_code_has_multiple_address2": "0",
+        "updated_type": "0",
+        "updated_reason_type": "0"
+    }
+]

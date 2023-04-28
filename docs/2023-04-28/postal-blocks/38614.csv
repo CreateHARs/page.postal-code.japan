@@ -1,0 +1,8 @@
+local_government_code,postal_code_5digit,postal_code_7digit,prefecture_kana,address1_kana,address2_kana,prefecture_kanji,address1_kanji,address2_kanji,is_address2_has_multiple_postal_code,is_address2_has_multiple_sublocality,is_address2_includes_chome,is_postal_code_has_multiple_address2,updated_type,updated_reason_type
+20203,38614,3861431,ﾅｶﾞﾉｹﾝ,ｳｴﾀﾞｼ,ﾍﾞｯｼｮｵﾝｾﾝ,長野県,上田市,別所温泉,0,0,0,0,0,0
+20203,38614,3861432,ﾅｶﾞﾉｹﾝ,ｳｴﾀﾞｼ,ﾔﾏﾀﾞ,長野県,上田市,山田,0,0,0,0,0,0
+20203,38614,3861433,ﾅｶﾞﾉｹﾝ,ｳｴﾀﾞｼ,ﾃﾂﾞｶ,長野県,上田市,手塚,0,0,0,0,0,0
+20203,38614,3861434,ﾅｶﾞﾉｹﾝ,ｳｴﾀﾞｼ,ｼﾝﾏﾁ,長野県,上田市,新町,0,0,0,0,0,0
+20203,38614,3861435,ﾅｶﾞﾉｹﾝ,ｳｴﾀﾞｼ,ｼﾞｭｳﾆﾝ,長野県,上田市,十人,0,0,0,0,0,0
+20203,38614,3861436,ﾅｶﾞﾉｹﾝ,ｳｴﾀﾞｼ,ﾏｴﾔﾏ,長野県,上田市,前山,0,0,0,0,0,0
+20203,38614,3861437,ﾅｶﾞﾉｹﾝ,ｳｴﾀﾞｼ,ﾉｸﾞﾗ,長野県,上田市,野倉,0,0,0,0,0,0

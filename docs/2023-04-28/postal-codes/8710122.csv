@@ -1,0 +1,5 @@
+local_government_code,postal_code_5digit,postal_code_7digit,prefecture_kana,address1_kana,address2_kana,prefecture_kanji,address1_kanji,address2_kanji,is_address2_has_multiple_postal_code,is_address2_has_multiple_sublocality,is_address2_includes_chome,is_postal_code_has_multiple_address2,updated_type,updated_reason_type
+44203,871  ,8710122,ｵｵｲﾀｹﾝ,ﾅｶﾂｼ,ｱｲﾊﾗ(2803-1､2803-24､2803-25､2803-27､,大分県,中津市,相原（２８０３−１、２８０３−２４、２８０３−２５、２８０３−２７、,1,0,0,0,0,0
+44203,871  ,8710122,ｵｵｲﾀｹﾝ,ﾅｶﾂｼ,2803-37､2803-38､2803-39､2803-43､,大分県,中津市,２８０３−３７、２８０３−３８、２８０３−３９、２８０３−４３、,1,0,0,0,0,0
+44203,871  ,8710122,ｵｵｲﾀｹﾝ,ﾅｶﾂｼ,2803-69､2803-77､2803-91､2818､2828､,大分県,中津市,２８０３−６９、２８０３−７７、２８０３−９１、２８１８、２８２８、,1,0,0,0,0,0
+44203,871  ,8710122,ｵｵｲﾀｹﾝ,ﾅｶﾂｼ,2925-7),大分県,中津市,２９２５−７）,1,0,0,0,0,0

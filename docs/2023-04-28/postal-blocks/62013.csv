@@ -1,0 +1,7 @@
+local_government_code,postal_code_5digit,postal_code_7digit,prefecture_kana,address1_kana,address2_kana,prefecture_kanji,address1_kanji,address2_kanji,is_address2_has_multiple_postal_code,is_address2_has_multiple_sublocality,is_address2_includes_chome,is_postal_code_has_multiple_address2,updated_type,updated_reason_type
+26201,62013,6201301,ｷｮｳﾄﾌ,ﾌｸﾁﾔﾏｼ,ﾐﾜﾁｮｳｵｵﾊﾞﾗ,京都府,福知山市,三和町大原,0,0,0,0,0,0
+26201,62013,6201302,ｷｮｳﾄﾌ,ﾌｸﾁﾔﾏｼ,ﾐﾜﾁｮｳﾀﾞｲﾄ,京都府,福知山市,三和町台頭,0,0,0,0,0,0
+26201,62013,6201311,ｷｮｳﾄﾌ,ﾌｸﾁﾔﾏｼ,ﾐﾜﾁｮｳｶﾐｶﾞﾜｲ,京都府,福知山市,三和町上川合,0,0,0,0,0,0
+26201,62013,6201312,ｷｮｳﾄﾌ,ﾌｸﾁﾔﾏｼ,ﾐﾜﾁｮｳﾕﾘ,京都府,福知山市,三和町岼,0,0,0,0,0,0
+26201,62013,6201313,ｷｮｳﾄﾌ,ﾌｸﾁﾔﾏｼ,ﾐﾜﾁｮｳｼﾓｶﾜｲ,京都府,福知山市,三和町下川合,0,0,0,0,0,0
+26201,62013,6201314,ｷｮｳﾄﾌ,ﾌｸﾁﾔﾏｼ,ﾐﾜﾁｮｳｶﾖｳ,京都府,福知山市,三和町加用,0,0,0,0,0,0

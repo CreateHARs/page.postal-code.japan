@@ -1,0 +1,19 @@
+[
+    {
+        "local_government_code": "29363",
+        "postal_code_5digit": "63603",
+        "postal_code_7digit": "6360336",
+        "prefecture_kana": "ﾅﾗｹﾝ",
+        "address1_kana": "ｼｷｸﾞﾝﾀﾜﾗﾓﾄﾁｮｳ",
+        "address2_kana": "ﾀﾞｲﾓﾝﾅｶ",
+        "prefecture_kanji": "奈良県",
+        "address1_kanji": "磯城郡田原本町",
+        "address2_kanji": "大門中",
+        "is_address2_has_multiple_postal_code": "0",
+        "is_address2_has_multiple_sublocality": "0",
+        "is_address2_includes_chome": "0",
+        "is_postal_code_has_multiple_address2": "0",
+        "updated_type": "0",
+        "updated_reason_type": "0"
+    }
+]

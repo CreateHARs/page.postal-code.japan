@@ -1,0 +1,7 @@
+local_government_code,postal_code_5digit,postal_code_7digit,prefecture_kana,address1_kana,address2_kana,prefecture_kanji,address1_kanji,address2_kanji,is_address2_has_multiple_postal_code,is_address2_has_multiple_sublocality,is_address2_includes_chome,is_postal_code_has_multiple_address2,updated_type,updated_reason_type
+46201,89102,8910201,ｶｺﾞｼﾏｹﾝ,ｶｺﾞｼﾏｼ,ｷｲﾚｾｾｸｼﾁｮｳ,鹿児島県,鹿児島市,喜入瀬々串町,0,0,0,0,0,0
+46201,89102,8910202,ｶｺﾞｼﾏｹﾝ,ｶｺﾞｼﾏｼ,ｷｲﾚﾅｶﾐｮｳﾁｮｳ,鹿児島県,鹿児島市,喜入中名町,0,0,0,0,0,0
+46201,89102,8910203,ｶｺﾞｼﾏｹﾝ,ｶｺﾞｼﾏｼ,ｷｲﾚﾁｮｳ,鹿児島県,鹿児島市,喜入町,0,0,0,0,0,0
+46201,89102,8910204,ｶｺﾞｼﾏｹﾝ,ｶｺﾞｼﾏｼ,ｷｲﾚﾋﾄｸﾗﾁｮｳ,鹿児島県,鹿児島市,喜入一倉町,0,0,0,0,0,0
+46201,89102,8910205,ｶｺﾞｼﾏｹﾝ,ｶｺﾞｼﾏｼ,ｷｲﾚﾏｴﾉﾊﾏﾁｮｳ,鹿児島県,鹿児島市,喜入前之浜町,0,0,0,0,0,0
+46201,89102,8910206,ｶｺﾞｼﾏｹﾝ,ｶｺﾞｼﾏｼ,ｷｲﾚﾇｸﾐﾁｮｳ,鹿児島県,鹿児島市,喜入生見町,0,0,0,0,0,0

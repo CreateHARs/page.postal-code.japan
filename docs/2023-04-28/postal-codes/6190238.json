@@ -1,0 +1,19 @@
+[
+    {
+        "local_government_code": "26366",
+        "postal_code_5digit": "61902",
+        "postal_code_7digit": "6190238",
+        "prefecture_kana": "ｷｮｳﾄﾌ",
+        "address1_kana": "ｿｳﾗｸｸﾞﾝｾｲｶﾁｮｳ",
+        "address2_kana": "ｾｲｶﾀﾞｲ",
+        "prefecture_kanji": "京都府",
+        "address1_kanji": "相楽郡精華町",
+        "address2_kanji": "精華台",
+        "is_address2_has_multiple_postal_code": "0",
+        "is_address2_has_multiple_sublocality": "0",
+        "is_address2_includes_chome": "1",
+        "is_postal_code_has_multiple_address2": "0",
+        "updated_type": "0",
+        "updated_reason_type": "0"
+    }
+]

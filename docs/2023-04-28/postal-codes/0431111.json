@@ -1,0 +1,19 @@
+[
+    {
+        "local_government_code": "01363",
+        "postal_code_5digit": "04311",
+        "postal_code_7digit": "0431111",
+        "prefecture_kana": "ﾎｯｶｲﾄﾞｳ",
+        "address1_kana": "ﾋﾔﾏｸﾞﾝｱｯｻﾌﾞﾁｮｳ",
+        "address2_kana": "ｱｶﾇﾏﾏﾁ",
+        "prefecture_kanji": "北海道",
+        "address1_kanji": "檜山郡厚沢部町",
+        "address2_kanji": "赤沼町",
+        "is_address2_has_multiple_postal_code": "0",
+        "is_address2_has_multiple_sublocality": "0",
+        "is_address2_includes_chome": "0",
+        "is_postal_code_has_multiple_address2": "0",
+        "updated_type": "0",
+        "updated_reason_type": "0"
+    }
+]

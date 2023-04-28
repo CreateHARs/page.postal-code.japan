@@ -1,0 +1,19 @@
+[
+    {
+        "local_government_code": "26107",
+        "postal_code_5digit": "601  ",
+        "postal_code_7digit": "6018329",
+        "prefecture_kana": "ｷｮｳﾄﾌ",
+        "address1_kana": "ｷｮｳﾄｼﾐﾅﾐｸ",
+        "address2_kana": "ｷｯｼｮｳｲﾝｼﾐｽﾞﾁｮｳ",
+        "prefecture_kanji": "京都府",
+        "address1_kanji": "京都市南区",
+        "address2_kanji": "吉祥院清水町",
+        "is_address2_has_multiple_postal_code": "0",
+        "is_address2_has_multiple_sublocality": "0",
+        "is_address2_includes_chome": "0",
+        "is_postal_code_has_multiple_address2": "0",
+        "updated_type": "0",
+        "updated_reason_type": "0"
+    }
+]

@@ -1,0 +1,7 @@
+local_government_code,postal_code_5digit,postal_code_7digit,prefecture_kana,address1_kana,address2_kana,prefecture_kanji,address1_kanji,address2_kanji,is_address2_has_multiple_postal_code,is_address2_has_multiple_sublocality,is_address2_includes_chome,is_postal_code_has_multiple_address2,updated_type,updated_reason_type
+28212,67811,6781181,ﾋｮｳｺﾞｹﾝ,ｱｺｳｼ,ｳﾈﾅﾗﾊﾞﾗ,兵庫県,赤穂市,有年楢原,0,0,0,0,0,0
+28212,67811,6781182,ﾋｮｳｺﾞｹﾝ,ｱｺｳｼ,ｳﾈﾊﾗ,兵庫県,赤穂市,有年原,0,0,0,0,0,0
+28212,67811,6781183,ﾋｮｳｺﾞｹﾝ,ｱｺｳｼ,ｳﾈﾑﾚ,兵庫県,赤穂市,有年牟礼,0,0,0,0,0,0
+28212,67811,6781184,ﾋｮｳｺﾞｹﾝ,ｱｺｳｼ,ｳﾈﾖｺｵ,兵庫県,赤穂市,有年横尾,0,0,0,0,0,0
+28212,67811,6781185,ﾋｮｳｺﾞｹﾝ,ｱｺｳｼ,ﾋｶﾞｼｳﾈ,兵庫県,赤穂市,東有年,0,0,0,0,0,0
+28212,67811,6781186,ﾋｮｳｺﾞｹﾝ,ｱｺｳｼ,ﾆｼｳﾈ(ｿﾉﾀ),兵庫県,赤穂市,西有年（その他）,1,0,0,0,0,0

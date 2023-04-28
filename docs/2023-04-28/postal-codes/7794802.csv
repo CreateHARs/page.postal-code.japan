@@ -1,0 +1,7 @@
+local_government_code,postal_code_5digit,postal_code_7digit,prefecture_kana,address1_kana,address2_kana,prefecture_kanji,address1_kanji,address2_kanji,is_address2_has_multiple_postal_code,is_address2_has_multiple_sublocality,is_address2_includes_chome,is_postal_code_has_multiple_address2,updated_type,updated_reason_type
+36208,77948,7794802,ﾄｸｼﾏｹﾝ,ﾐﾖｼｼ,ｲｶﾜﾁｮｳｲｾﾞｷ,徳島県,三好市,井川町井関,0,0,0,1,0,0
+36208,77948,7794802,ﾄｸｼﾏｹﾝ,ﾐﾖｼｼ,ｲｶﾜﾁｮｳｵｶﾉﾏｴ,徳島県,三好市,井川町岡野前,0,0,0,1,0,0
+36208,77948,7794802,ﾄｸｼﾏｹﾝ,ﾐﾖｼｼ,ｲｶﾜﾁｮｳｺﾞﾘｮｳﾃﾞﾝ,徳島県,三好市,井川町御領田,0,0,0,1,0,0
+36208,77948,7794802,ﾄｸｼﾏｹﾝ,ﾐﾖｼｼ,ｲｶﾜﾁｮｳﾅｶﾞﾚﾄﾞｳ,徳島県,三好市,井川町流堂,0,0,0,1,0,0
+36208,77948,7794802,ﾄｸｼﾏｹﾝ,ﾐﾖｼｼ,ｲｶﾜﾁｮｳﾉﾂｺﾞ,徳島県,三好市,井川町野津後,0,0,0,1,0,0
+36208,77948,7794802,ﾄｸｼﾏｹﾝ,ﾐﾖｼｼ,ｲｶﾜﾁｮｳﾑｺｳｻﾞｶ,徳島県,三好市,井川町向坂,0,0,0,1,0,0

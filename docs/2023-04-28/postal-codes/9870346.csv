@@ -1,0 +1,4 @@
+local_government_code,postal_code_5digit,postal_code_7digit,prefecture_kana,address1_kana,address2_kana,prefecture_kanji,address1_kanji,address2_kanji,is_address2_has_multiple_postal_code,is_address2_has_multiple_sublocality,is_address2_includes_chome,is_postal_code_has_multiple_address2,updated_type,updated_reason_type
+04212,98703,9870346,ﾐﾔｷﾞｹﾝ,ﾄﾒｼ,ﾄﾖｻﾄﾁｮｳｼﾗﾄﾘﾔﾏ,宮城県,登米市,豊里町白鳥山,0,0,0,1,0,0
+04212,98703,9870346,ﾐﾔｷﾞｹﾝ,ﾄﾒｼ,ﾄﾖｻﾄﾁｮｳｼﾛﾄﾘ,宮城県,登米市,豊里町白鳥,0,0,0,1,0,0
+04212,98703,9870346,ﾐﾔｷﾞｹﾝ,ﾄﾒｼ,ﾄﾖｻﾄﾁｮｳｼﾛﾄﾘﾏｴ,宮城県,登米市,豊里町白鳥前,0,0,0,1,0,0

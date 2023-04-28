@@ -1,0 +1,7 @@
+local_government_code,postal_code_5digit,postal_code_7digit,prefecture_kana,address1_kana,address2_kana,prefecture_kanji,address1_kanji,address2_kanji,is_address2_has_multiple_postal_code,is_address2_has_multiple_sublocality,is_address2_includes_chome,is_postal_code_has_multiple_address2,updated_type,updated_reason_type
+46201,89115,8911501,ｶｺﾞｼﾏｹﾝ,ｶｺﾞｼﾏｼ,ｸﾛｶﾐﾁｮｳ(ﾊｾﾞﾉｷｶﾞﾀﾞﾆ),鹿児島県,鹿児島市,黒神町（枦ノ木ケ谷）,1,0,0,0,0,0
+46201,89115,8911541,ｶｺﾞｼﾏｹﾝ,ｶｺﾞｼﾏｼ,ﾉｼﾞﾘﾁｮｳ,鹿児島県,鹿児島市,野尻町,0,0,0,0,0,0
+46201,89115,8911542,ｶｺﾞｼﾏｹﾝ,ｶｺﾞｼﾏｼ,ﾓﾁｷﾁｮｳ,鹿児島県,鹿児島市,持木町,0,0,0,0,0,0
+46201,89115,8911543,ｶｺﾞｼﾏｹﾝ,ｶｺﾞｼﾏｼ,ﾋｶﾞｼｻｸﾗｼﾞﾏﾁｮｳ,鹿児島県,鹿児島市,東桜島町,0,0,0,0,0,0
+46201,89115,8911544,ｶｺﾞｼﾏｹﾝ,ｶｺﾞｼﾏｼ,ﾌﾙｻﾄﾁｮｳ,鹿児島県,鹿児島市,古里町,0,0,0,0,0,0
+46201,89115,8911545,ｶｺﾞｼﾏｹﾝ,ｶｺﾞｼﾏｼ,ｱﾘﾑﾗﾁｮｳ,鹿児島県,鹿児島市,有村町,0,0,0,0,0,0

@@ -1,0 +1,4 @@
+local_government_code,postal_code_5digit,postal_code_7digit,prefecture_kana,address1_kana,address2_kana,prefecture_kanji,address1_kanji,address2_kanji,is_address2_has_multiple_postal_code,is_address2_has_multiple_sublocality,is_address2_includes_chome,is_postal_code_has_multiple_address2,updated_type,updated_reason_type
+01224,066  ,0660005,ﾎｯｶｲﾄﾞｳ,ﾁﾄｾｼ,ｷｮｳﾜ(88-2､271-10､343-2､404-1､427-,北海道,千歳市,協和（８８−２、２７１−１０、３４３−２、４０４−１、４２７−,1,0,0,0,0,0
+01224,066  ,0660005,ﾎｯｶｲﾄﾞｳ,ﾁﾄｾｼ,3､431-12､443-6､608-2､641-8､814､842-,北海道,千歳市,３、４３１−１２、４４３−６、６０８−２、６４１−８、８１４、８４２−,1,0,0,0,0,0
+01224,066  ,0660005,ﾎｯｶｲﾄﾞｳ,ﾁﾄｾｼ,5､1137-3､1392､1657､1752ﾊﾞﾝﾁ),北海道,千歳市,５、１１３７−３、１３９２、１６５７、１７５２番地）,1,0,0,0,0,0

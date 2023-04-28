@@ -1,0 +1,36 @@
+[
+    {
+        "local_government_code": "33210",
+        "postal_code_5digit": "71925",
+        "postal_code_7digit": "7192551",
+        "prefecture_kana": "ｵｶﾔﾏｹﾝ",
+        "address1_kana": "ﾆｲﾐｼ",
+        "address2_kana": "ｲｸﾗ",
+        "prefecture_kanji": "岡山県",
+        "address1_kanji": "新見市",
+        "address2_kanji": "井倉",
+        "is_address2_has_multiple_postal_code": "0",
+        "is_address2_has_multiple_sublocality": "0",
+        "is_address2_includes_chome": "0",
+        "is_postal_code_has_multiple_address2": "0",
+        "updated_type": "0",
+        "updated_reason_type": "0"
+    },
+    {
+        "local_government_code": "33210",
+        "postal_code_5digit": "71925",
+        "postal_code_7digit": "7192552",
+        "prefecture_kana": "ｵｶﾔﾏｹﾝ",
+        "address1_kana": "ﾆｲﾐｼ",
+        "address2_kana": "ﾎｳｿ",
+        "prefecture_kanji": "岡山県",
+        "address1_kanji": "新見市",
+        "address2_kanji": "法曽",
+        "is_address2_has_multiple_postal_code": "0",
+        "is_address2_has_multiple_sublocality": "0",
+        "is_address2_includes_chome": "0",
+        "is_postal_code_has_multiple_address2": "0",
+        "updated_type": "0",
+        "updated_reason_type": "0"
+    }
+]

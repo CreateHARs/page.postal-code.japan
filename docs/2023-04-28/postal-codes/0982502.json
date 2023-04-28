@@ -1,0 +1,19 @@
+[
+    {
+        "local_government_code": "01470",
+        "postal_code_5digit": "09825",
+        "postal_code_7digit": "0982502",
+        "prefecture_kana": "ﾎｯｶｲﾄﾞｳ",
+        "address1_kana": "ﾅｶｶﾞﾜｸﾞﾝｵﾄｲﾈｯﾌﾟﾑﾗ",
+        "address2_kana": "ｻﾂｸﾙ",
+        "prefecture_kanji": "北海道",
+        "address1_kanji": "中川郡音威子府村",
+        "address2_kanji": "咲来",
+        "is_address2_has_multiple_postal_code": "0",
+        "is_address2_has_multiple_sublocality": "0",
+        "is_address2_includes_chome": "0",
+        "is_postal_code_has_multiple_address2": "0",
+        "updated_type": "0",
+        "updated_reason_type": "0"
+    }
+]

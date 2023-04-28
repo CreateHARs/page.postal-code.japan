@@ -1,0 +1,4 @@
+local_government_code,postal_code_5digit,postal_code_7digit,prefecture_kana,address1_kana,address2_kana,prefecture_kanji,address1_kanji,address2_kanji,is_address2_has_multiple_postal_code,is_address2_has_multiple_sublocality,is_address2_includes_chome,is_postal_code_has_multiple_address2,updated_type,updated_reason_type
+35213,75406,7540601,ﾔﾏｸﾞﾁｹﾝ,ﾐﾈｼ,ｼｭｳﾎｳﾁｮｳｶﾏ,山口県,美祢市,秋芳町嘉万,0,0,0,0,0,0
+35213,75406,7540602,ﾔﾏｸﾞﾁｹﾝ,ﾐﾈｼ,ｼｭｳﾎｳﾁｮｳｱｵｶｹﾞ,山口県,美祢市,秋芳町青景,0,0,0,0,0,0
+35213,75406,7540603,ﾔﾏｸﾞﾁｹﾝ,ﾐﾈｼ,ｼｭｳﾎｳﾁｮｳﾍﾞｯﾌﾟ,山口県,美祢市,秋芳町別府,0,0,0,0,0,0

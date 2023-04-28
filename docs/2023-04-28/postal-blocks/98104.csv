@@ -1,0 +1,7 @@
+local_government_code,postal_code_5digit,postal_code_7digit,prefecture_kana,address1_kana,address2_kana,prefecture_kanji,address1_kanji,address2_kanji,is_address2_has_multiple_postal_code,is_address2_has_multiple_sublocality,is_address2_includes_chome,is_postal_code_has_multiple_address2,updated_type,updated_reason_type
+04214,98104,9810411,ﾐﾔｷﾞｹﾝ,ﾋｶﾞｼﾏﾂｼﾏｼ,ﾉﾋﾞﾙ,宮城県,東松島市,野蒜,0,1,0,0,0,0
+04214,98104,9810412,ﾐﾔｷﾞｹﾝ,ﾋｶﾞｼﾏﾂｼﾏｼ,ﾐﾔﾄ,宮城県,東松島市,宮戸,0,1,0,0,0,0
+04214,98104,9810413,ﾐﾔｷﾞｹﾝ,ﾋｶﾞｼﾏﾂｼﾏｼ,ｼﾝﾄｳﾅ,宮城県,東松島市,新東名,0,0,1,0,0,0
+04214,98104,9810414,ﾐﾔｷﾞｹﾝ,ﾋｶﾞｼﾏﾂｼﾏｼ,ｵｵﾂｶ,宮城県,東松島市,大塚,0,1,0,0,0,0
+04214,98104,9810415,ﾐﾔｷﾞｹﾝ,ﾋｶﾞｼﾏﾂｼﾏｼ,ｱｻｲ,宮城県,東松島市,浅井,0,1,0,0,0,0
+04214,98104,9810416,ﾐﾔｷﾞｹﾝ,ﾋｶﾞｼﾏﾂｼﾏｼ,ﾉﾋﾞﾙｶﾞｵｶ,宮城県,東松島市,野蒜ケ丘,0,0,1,0,0,0

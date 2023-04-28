@@ -1,0 +1,6 @@
+local_government_code,postal_code_5digit,postal_code_7digit,prefecture_kana,address1_kana,address2_kana,prefecture_kanji,address1_kanji,address2_kanji,is_address2_has_multiple_postal_code,is_address2_has_multiple_sublocality,is_address2_includes_chome,is_postal_code_has_multiple_address2,updated_type,updated_reason_type
+07446,96802,9680211,ﾌｸｼﾏｹﾝ,ｵｵﾇﾏｸﾞﾝｼｮｳﾜﾑﾗ,ｵﾉｶﾞﾜ,福島県,大沼郡昭和村,小野川,0,1,0,0,0,0
+07446,96802,9680212,ﾌｸｼﾏｹﾝ,ｵｵﾇﾏｸﾞﾝｼｮｳﾜﾑﾗ,ｸｲﾏﾙ,福島県,大沼郡昭和村,喰丸,0,1,0,0,0,0
+07446,96802,9680213,ﾌｸｼﾏｹﾝ,ｵｵﾇﾏｸﾞﾝｼｮｳﾜﾑﾗ,ﾘｮｳﾊﾗ,福島県,大沼郡昭和村,両原,0,1,0,0,0,0
+07446,96802,9680214,ﾌｸｼﾏｹﾝ,ｵｵﾇﾏｸﾞﾝｼｮｳﾜﾑﾗ,ｵｵｱｼ,福島県,大沼郡昭和村,大芦,0,1,0,0,0,0
+07446,96802,9680215,ﾌｸｼﾏｹﾝ,ｵｵﾇﾏｸﾞﾝｼｮｳﾜﾑﾗ,ｻｸﾞﾗ,福島県,大沼郡昭和村,佐倉,0,1,0,0,0,0
