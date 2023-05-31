@@ -1,0 +1,6 @@
+local_government_code,postal_code_5digit,postal_code_7digit,prefecture_kana,address1_kana,address2_kana,prefecture_kanji,address1_kanji,address2_kanji,is_address2_has_multiple_postal_code,is_address2_has_multiple_sublocality,is_address2_includes_chome,is_postal_code_has_multiple_address2,updated_type,updated_reason_type
+44205,87614,8761401,ｵｵｲﾀｹﾝ,ｻｲｷｼ,ﾖﾉｳﾂﾞｳﾗｼﾛｳﾗ(ｿﾉﾀ),大分県,佐伯市,米水津浦代浦（その他）,1,0,0,0,0,0
+44205,87614,8761402,ｵｵｲﾀｹﾝ,ｻｲｷｼ,ﾖﾉｳﾂﾞｲﾛﾘｳﾗ,大分県,佐伯市,米水津色利浦,0,0,0,0,0,0
+44205,87614,8761403,ｵｵｲﾀｹﾝ,ｻｲｷｼ,ﾖﾉｳﾂﾞﾐﾔﾉｳﾗ,大分県,佐伯市,米水津宮野浦,0,0,0,0,0,0
+44205,87614,8761404,ｵｵｲﾀｹﾝ,ｻｲｷｼ,ﾖﾉｳﾂﾞｺｳﾗ,大分県,佐伯市,米水津小浦,0,0,0,0,0,0
+44205,87614,8761405,ｵｵｲﾀｹﾝ,ｻｲｷｼ,ﾖﾉｳﾂﾞﾀｹﾉｳﾗ,大分県,佐伯市,米水津竹野浦,0,0,0,0,0,0

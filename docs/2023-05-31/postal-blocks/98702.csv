@@ -1,0 +1,7 @@
+local_government_code,postal_code_5digit,postal_code_7digit,prefecture_kana,address1_kana,address2_kana,prefecture_kanji,address1_kanji,address2_kanji,is_address2_has_multiple_postal_code,is_address2_has_multiple_sublocality,is_address2_includes_chome,is_postal_code_has_multiple_address2,updated_type,updated_reason_type
+04501,98702,9870281,ﾐﾔｷﾞｹﾝ,ﾄｵﾀﾞｸﾞﾝﾜｸﾔﾁｮｳ,ｵｻﾄ,宮城県,遠田郡涌谷町,小里,0,1,0,0,0,0
+04501,98702,9870282,ﾐﾔｷﾞｹﾝ,ﾄｵﾀﾞｸﾞﾝﾜｸﾔﾁｮｳ,ｵｵﾀ,宮城県,遠田郡涌谷町,太田,0,1,0,0,0,0
+04501,98702,9870283,ﾐﾔｷﾞｹﾝ,ﾄｵﾀﾞｸﾞﾝﾜｸﾔﾁｮｳ,ﾖｼｽﾞﾐ,宮城県,遠田郡涌谷町,吉住,0,1,0,0,0,0
+04501,98702,9870284,ﾐﾔｷﾞｹﾝ,ﾄｵﾀﾞｸﾞﾝﾜｸﾔﾁｮｳ,ｲﾉｵｶﾀﾝﾀﾞｲ,宮城県,遠田郡涌谷町,猪岡短台,0,1,0,0,0,0
+04501,98702,9870285,ﾐﾔｷﾞｹﾝ,ﾄｵﾀﾞｸﾞﾝﾜｸﾔﾁｮｳ,ﾉﾉﾀﾞｹ,宮城県,遠田郡涌谷町,箟岳,0,1,0,0,0,0
+04501,98702,9870286,ﾐﾔｷﾞｹﾝ,ﾄｵﾀﾞｸﾞﾝﾜｸﾔﾁｮｳ,ﾅﾘｻﾜ,宮城県,遠田郡涌谷町,成沢,0,1,0,0,0,0

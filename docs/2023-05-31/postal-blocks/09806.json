@@ -1,0 +1,36 @@
+[
+    {
+        "local_government_code": "01221",
+        "postal_code_5digit": "09806",
+        "postal_code_7digit": "0980631",
+        "prefecture_kana": "ﾎｯｶｲﾄﾞｳ",
+        "address1_kana": "ﾅﾖﾛｼ",
+        "address2_kana": "ﾌｳﾚﾝﾁｮｳﾆｯｼﾝ",
+        "prefecture_kanji": "北海道",
+        "address1_kanji": "名寄市",
+        "address2_kanji": "風連町日進",
+        "is_address2_has_multiple_postal_code": "0",
+        "is_address2_has_multiple_sublocality": "0",
+        "is_address2_includes_chome": "0",
+        "is_postal_code_has_multiple_address2": "0",
+        "updated_type": "0",
+        "updated_reason_type": "0"
+    },
+    {
+        "local_government_code": "01221",
+        "postal_code_5digit": "09806",
+        "postal_code_7digit": "0980632",
+        "prefecture_kana": "ﾎｯｶｲﾄﾞｳ",
+        "address1_kana": "ﾅﾖﾛｼ",
+        "address2_kana": "ﾌｳﾚﾝﾁｮｳﾄｳｾｲ",
+        "prefecture_kanji": "北海道",
+        "address1_kanji": "名寄市",
+        "address2_kanji": "風連町東生",
+        "is_address2_has_multiple_postal_code": "0",
+        "is_address2_has_multiple_sublocality": "0",
+        "is_address2_includes_chome": "0",
+        "is_postal_code_has_multiple_address2": "0",
+        "updated_type": "0",
+        "updated_reason_type": "0"
+    }
+]

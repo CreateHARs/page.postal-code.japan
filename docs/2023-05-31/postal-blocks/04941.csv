@@ -1,0 +1,8 @@
+local_government_code,postal_code_5digit,postal_code_7digit,prefecture_kana,address1_kana,address2_kana,prefecture_kanji,address1_kanji,address2_kanji,is_address2_has_multiple_postal_code,is_address2_has_multiple_sublocality,is_address2_includes_chome,is_postal_code_has_multiple_address2,updated_type,updated_reason_type
+01370,04941,0494151,ﾎｯｶｲﾄﾞｳ,ｾﾀﾅｸﾞﾝｲﾏｶﾈﾁｮｳ,ﾋﾟﾘｶ,北海道,瀬棚郡今金町,美利河,0,0,0,0,0,0
+01370,04941,0494152,ﾎｯｶｲﾄﾞｳ,ｾﾀﾅｸﾞﾝｲﾏｶﾈﾁｮｳ,ﾐﾔｼﾞﾏ,北海道,瀬棚郡今金町,宮島,0,0,0,0,0,0
+01370,04941,0494153,ﾎｯｶｲﾄﾞｳ,ｾﾀﾅｸﾞﾝｲﾏｶﾈﾁｮｳ,ﾊﾅｲｼ,北海道,瀬棚郡今金町,花石,0,0,0,0,0,0
+01370,04941,0494154,ﾎｯｶｲﾄﾞｳ,ｾﾀﾅｸﾞﾝｲﾏｶﾈﾁｮｳ,ﾅｶｻﾄ,北海道,瀬棚郡今金町,中里,0,0,0,0,0,0
+01370,04941,0494155,ﾎｯｶｲﾄﾞｳ,ｾﾀﾅｸﾞﾝｲﾏｶﾈﾁｮｳ,ｵｸｻﾜ,北海道,瀬棚郡今金町,奥沢,0,0,0,0,0,0
+01370,04941,0494156,ﾎｯｶｲﾄﾞｳ,ｾﾀﾅｸﾞﾝｲﾏｶﾈﾁｮｳ,ｽﾐﾖｼ,北海道,瀬棚郡今金町,住吉,0,0,0,0,0,0
+01370,04941,0494157,ﾎｯｶｲﾄﾞｳ,ｾﾀﾅｸﾞﾝｲﾏｶﾈﾁｮｳ,ｶﾐﾀﾈｶﾞﾜ,北海道,瀬棚郡今金町,上種川,0,0,0,0,0,0

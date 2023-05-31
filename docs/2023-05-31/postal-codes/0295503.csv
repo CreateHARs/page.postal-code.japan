@@ -1,0 +1,5 @@
+local_government_code,postal_code_5digit,postal_code_7digit,prefecture_kana,address1_kana,address2_kana,prefecture_kanji,address1_kanji,address2_kanji,is_address2_has_multiple_postal_code,is_address2_has_multiple_sublocality,is_address2_includes_chome,is_postal_code_has_multiple_address2,updated_type,updated_reason_type
+03366,02955,0295503,ｲﾜﾃｹﾝ,ﾜｶﾞｸﾞﾝﾆｼﾜｶﾞﾏﾁ,ｱﾅｱｹ22ﾁﾜﾘ､ｱﾅｱｹ23ﾁﾜﾘ,岩手県,和賀郡西和賀町,穴明２２地割、穴明２３地割,0,0,0,1,0,0
+03366,02955,0295503,ｲﾜﾃｹﾝ,ﾜｶﾞｸﾞﾝﾆｼﾜｶﾞﾏﾁ,ｼﾐｽﾞｶﾞﾉ18ﾁﾜﾘ,岩手県,和賀郡西和賀町,清水ケ野１８地割,0,0,0,1,0,0
+03366,02955,0295503,ｲﾜﾃｹﾝ,ﾜｶﾞｸﾞﾝﾆｼﾜｶﾞﾏﾁ,ﾏｷﾞﾉ24ﾁﾜﾘ,岩手県,和賀郡西和賀町,間木野２４地割,0,0,0,1,0,0
+03366,02955,0295503,ｲﾜﾃｹﾝ,ﾜｶﾞｸﾞﾝﾆｼﾜｶﾞﾏﾁ,ﾕﾀﾞ19ﾁﾜﾘ-ﾕﾀﾞ21ﾁﾜﾘ,岩手県,和賀郡西和賀町,湯田１９地割〜湯田２１地割,0,0,0,1,0,0

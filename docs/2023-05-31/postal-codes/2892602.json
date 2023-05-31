@@ -1,0 +1,19 @@
+[
+    {
+        "local_government_code": "12215",
+        "postal_code_5digit": "28926",
+        "postal_code_7digit": "2892602",
+        "prefecture_kana": "ﾁﾊﾞｹﾝ",
+        "address1_kana": "ｱｻﾋｼ",
+        "address2_kana": "ｲﾜｲ",
+        "prefecture_kanji": "千葉県",
+        "address1_kanji": "旭市",
+        "address2_kanji": "岩井",
+        "is_address2_has_multiple_postal_code": "0",
+        "is_address2_has_multiple_sublocality": "0",
+        "is_address2_includes_chome": "0",
+        "is_postal_code_has_multiple_address2": "0",
+        "updated_type": "0",
+        "updated_reason_type": "0"
+    }
+]

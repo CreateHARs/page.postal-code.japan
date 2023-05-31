@@ -1,0 +1,7 @@
+local_government_code,postal_code_5digit,postal_code_7digit,prefecture_kana,address1_kana,address2_kana,prefecture_kanji,address1_kanji,address2_kanji,is_address2_has_multiple_postal_code,is_address2_has_multiple_sublocality,is_address2_includes_chome,is_postal_code_has_multiple_address2,updated_type,updated_reason_type
+23221,44115,4411531,ｱｲﾁｹﾝ,ｼﾝｼﾛｼ,ﾂｸﾃﾞｵｵﾜﾀﾞ,愛知県,新城市,作手大和田,0,0,0,0,0,0
+23221,44115,4411532,ｱｲﾁｹﾝ,ｼﾝｼﾛｼ,ﾂｸﾃﾞﾀｶﾏﾂ,愛知県,新城市,作手高松,0,0,0,0,0,0
+23221,44115,4411533,ｱｲﾁｹﾝ,ｼﾝｼﾛｼ,ﾂｸﾃﾞｱﾜﾗ,愛知県,新城市,作手荒原,0,0,0,0,0,0
+23221,44115,4411534,ｱｲﾁｹﾝ,ｼﾝｼﾛｼ,ﾂｸﾃﾞﾀｼﾛ,愛知県,新城市,作手田代,0,0,0,0,0,0
+23221,44115,4411535,ｱｲﾁｹﾝ,ｼﾝｼﾛｼ,ﾂｸﾃﾞｽｷﾞﾀﾞｲﾗ,愛知県,新城市,作手杉平,0,0,0,0,0,0
+23221,44115,4411536,ｱｲﾁｹﾝ,ｼﾝｼﾛｼ,ﾂｸﾃﾞﾔｽﾅｶﾞ,愛知県,新城市,作手保永,0,0,0,0,0,0

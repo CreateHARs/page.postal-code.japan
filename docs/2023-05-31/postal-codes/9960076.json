@@ -1,0 +1,19 @@
+[
+    {
+        "local_government_code": "06205",
+        "postal_code_5digit": "996  ",
+        "postal_code_7digit": "9960076",
+        "prefecture_kana": "ﾔﾏｶﾞﾀｹﾝ",
+        "address1_kana": "ｼﾝｼﾞｮｳｼ",
+        "address2_kana": "ｼﾛﾆｼﾏﾁ",
+        "prefecture_kanji": "山形県",
+        "address1_kanji": "新庄市",
+        "address2_kanji": "城西町",
+        "is_address2_has_multiple_postal_code": "0",
+        "is_address2_has_multiple_sublocality": "0",
+        "is_address2_includes_chome": "0",
+        "is_postal_code_has_multiple_address2": "0",
+        "updated_type": "0",
+        "updated_reason_type": "0"
+    }
+]

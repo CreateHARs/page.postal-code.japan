@@ -1,0 +1,36 @@
+[
+    {
+        "local_government_code": "36204",
+        "postal_code_5digit": "77917",
+        "postal_code_7digit": "7791740",
+        "prefecture_kana": "ﾄｸｼﾏｹﾝ",
+        "address1_kana": "ｱﾅﾝｼ",
+        "address2_kana": "ﾂﾊﾞｷﾄﾞﾏﾘﾁｮｳ",
+        "prefecture_kanji": "徳島県",
+        "address1_kanji": "阿南市",
+        "address2_kanji": "椿泊町",
+        "is_address2_has_multiple_postal_code": "0",
+        "is_address2_has_multiple_sublocality": "1",
+        "is_address2_includes_chome": "0",
+        "is_postal_code_has_multiple_address2": "0",
+        "updated_type": "0",
+        "updated_reason_type": "0"
+    },
+    {
+        "local_government_code": "36204",
+        "postal_code_5digit": "77917",
+        "postal_code_7digit": "7791750",
+        "prefecture_kana": "ﾄｸｼﾏｹﾝ",
+        "address1_kana": "ｱﾅﾝｼ",
+        "address2_kana": "ﾂﾊﾞｷﾁｮｳ",
+        "prefecture_kanji": "徳島県",
+        "address1_kanji": "阿南市",
+        "address2_kanji": "椿町",
+        "is_address2_has_multiple_postal_code": "0",
+        "is_address2_has_multiple_sublocality": "1",
+        "is_address2_includes_chome": "0",
+        "is_postal_code_has_multiple_address2": "0",
+        "updated_type": "0",
+        "updated_reason_type": "0"
+    }
+]

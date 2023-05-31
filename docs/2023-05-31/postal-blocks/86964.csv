@@ -1,0 +1,7 @@
+local_government_code,postal_code_5digit,postal_code_7digit,prefecture_kana,address1_kana,address2_kana,prefecture_kanji,address1_kanji,address2_kanji,is_address2_has_multiple_postal_code,is_address2_has_multiple_sublocality,is_address2_includes_chome,is_postal_code_has_multiple_address2,updated_type,updated_reason_type
+43513,86964,8696400,ｸﾏﾓﾄｹﾝ,ｸﾏｸﾞﾝｸﾏﾑﾗ,ｲｶﾆｹｲｻｲｶﾞﾅｲﾊﾞｱｲ,熊本県,球磨郡球磨村,以下に掲載がない場合,0,0,0,0,0,0
+43513,86964,8696401,ｸﾏﾓﾄｹﾝ,ｸﾏｸﾞﾝｸﾏﾑﾗ,ﾜﾀﾘ,熊本県,球磨郡球磨村,渡,0,1,0,0,0,0
+43513,86964,8696402,ｸﾏﾓﾄｹﾝ,ｸﾏｸﾞﾝｸﾏﾑﾗ,ｻﾝｶﾞｳﾗ,熊本県,球磨郡球磨村,三ケ浦,0,1,0,0,0,0
+43513,86964,8696403,ｸﾏﾓﾄｹﾝ,ｸﾏｸﾞﾝｸﾏﾑﾗ,ｲｯｼｮｳﾁ,熊本県,球磨郡球磨村,一勝地,0,1,0,0,0,0
+43513,86964,8696404,ｸﾏﾓﾄｹﾝ,ｸﾏｸﾞﾝｸﾏﾑﾗ,ｺｳﾉｾ,熊本県,球磨郡球磨村,神瀬,0,1,0,0,0,0
+43513,86964,8696405,ｸﾏﾓﾄｹﾝ,ｸﾏｸﾞﾝｸﾏﾑﾗ,ｵｵｾ,熊本県,球磨郡球磨村,大瀬,0,0,0,0,0,0

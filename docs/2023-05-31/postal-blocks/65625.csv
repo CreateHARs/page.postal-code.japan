@@ -1,0 +1,7 @@
+local_government_code,postal_code_5digit,postal_code_7digit,prefecture_kana,address1_kana,address2_kana,prefecture_kanji,address1_kanji,address2_kanji,is_address2_has_multiple_postal_code,is_address2_has_multiple_sublocality,is_address2_includes_chome,is_postal_code_has_multiple_address2,updated_type,updated_reason_type
+28205,65625,6562531,ﾋｮｳｺﾞｹﾝ,ｽﾓﾄｼ,ｱｲｶﾜｸﾞﾐ,兵庫県,洲本市,相川組,0,0,0,0,0,0
+28205,65625,6562532,ﾋｮｳｺﾞｹﾝ,ｽﾓﾄｼ,ﾅｶﾂｶﾞﾜｸﾞﾐ,兵庫県,洲本市,中津川組,0,0,0,0,0,0
+28205,65625,6562533,ﾋｮｳｺﾞｹﾝ,ｽﾓﾄｼ,ﾊﾀﾀﾞｸﾞﾐ,兵庫県,洲本市,畑田組,0,0,0,0,0,0
+28205,65625,6562541,ﾋｮｳｺﾞｹﾝ,ｽﾓﾄｼ,ﾕﾗ,兵庫県,洲本市,由良,0,0,1,0,0,0
+28205,65625,6562542,ﾋｮｳｺﾞｹﾝ,ｽﾓﾄｼ,ﾕﾗﾁｮｳｳﾁﾀﾞ,兵庫県,洲本市,由良町内田,0,0,0,0,0,0
+28205,65625,6562543,ﾋｮｳｺﾞｹﾝ,ｽﾓﾄｼ,ﾕﾗﾁｮｳﾕﾗ,兵庫県,洲本市,由良町由良,0,0,0,0,0,0

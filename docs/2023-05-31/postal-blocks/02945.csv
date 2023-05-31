@@ -1,0 +1,7 @@
+local_government_code,postal_code_5digit,postal_code_7digit,prefecture_kana,address1_kana,address2_kana,prefecture_kanji,address1_kanji,address2_kanji,is_address2_has_multiple_postal_code,is_address2_has_multiple_sublocality,is_address2_includes_chome,is_postal_code_has_multiple_address2,updated_type,updated_reason_type
+03381,02945,0294500,ｲﾜﾃｹﾝ,ｲｻﾜｸﾞﾝｶﾈｶﾞｻｷﾁｮｳ,ｲｶﾆｹｲｻｲｶﾞﾅｲﾊﾞｱｲ,岩手県,胆沢郡金ケ崎町,以下に掲載がない場合,0,0,0,0,0,0
+03381,02945,0294501,ｲﾜﾃｹﾝ,ｲｻﾜｸﾞﾝｶﾈｶﾞｻｷﾁｮｳ,ﾛｸﾊﾗ,岩手県,胆沢郡金ケ崎町,六原,0,1,0,0,0,0
+03381,02945,0294502,ｲﾜﾃｹﾝ,ｲｻﾜｸﾞﾝｶﾈｶﾞｻｷﾁｮｳ,ﾐｶｼﾞﾘ,岩手県,胆沢郡金ケ崎町,三ケ尻,0,1,0,0,0,0
+03381,02945,0294503,ｲﾜﾃｹﾝ,ｲｻﾜｸﾞﾝｶﾈｶﾞｻｷﾁｮｳ,ﾆｼﾈ,岩手県,胆沢郡金ケ崎町,西根,0,1,0,0,0,0
+03381,02945,0294504,ｲﾜﾃｹﾝ,ｲｻﾜｸﾞﾝｶﾈｶﾞｻｷﾁｮｳ,ﾅｶﾞｻﾜ,岩手県,胆沢郡金ケ崎町,永沢,0,1,0,0,0,0
+03381,02945,0294505,ｲﾜﾃｹﾝ,ｲｻﾜｸﾞﾝｶﾈｶﾞｻｷﾁｮｳ,ﾅｶﾞｻｶｴ,岩手県,胆沢郡金ケ崎町,永栄,0,1,0,0,0,0

@@ -1,0 +1,4 @@
+local_government_code,postal_code_5digit,postal_code_7digit,prefecture_kana,address1_kana,address2_kana,prefecture_kanji,address1_kanji,address2_kanji,is_address2_has_multiple_postal_code,is_address2_has_multiple_sublocality,is_address2_includes_chome,is_postal_code_has_multiple_address2,updated_type,updated_reason_type
+20210,39942,3994231,ﾅｶﾞﾉｹﾝ,ｺﾏｶﾞﾈｼ,ﾅｶｻﾞﾜ,長野県,駒ヶ根市,中沢,0,0,0,0,0,0
+20210,39941,3994232,ﾅｶﾞﾉｹﾝ,ｺﾏｶﾞﾈｼ,ｼﾓﾀﾞｲﾗ(2070-2119､2309-2311､2419､2421-2426,長野県,駒ヶ根市,下平（２０７０〜２１１９、２３０９〜２３１１、２４１９、２４２１〜２４２６,1,0,0,0,0,0
+20210,39941,3994232,ﾅｶﾞﾉｹﾝ,ｺﾏｶﾞﾈｼ,､2433-2450),長野県,駒ヶ根市,、２４３３〜２４５０）,1,0,0,0,0,0

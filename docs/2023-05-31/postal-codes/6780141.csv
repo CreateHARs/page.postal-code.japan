@@ -1,0 +1,2 @@
+local_government_code,postal_code_5digit,postal_code_7digit,prefecture_kana,address1_kana,address2_kana,prefecture_kanji,address1_kanji,address2_kanji,is_address2_has_multiple_postal_code,is_address2_has_multiple_sublocality,is_address2_includes_chome,is_postal_code_has_multiple_address2,updated_type,updated_reason_type
+28208,67801,6780141,ﾋｮｳｺﾞｹﾝ,ｱｲｵｲｼ,ｱｲｵｲ(5133ﾊﾞﾝﾁ2-5187ﾊﾞﾝﾁ､5316ﾊﾞﾝﾁ1-5316ﾊﾞﾝﾁ167),兵庫県,相生市,相生（５１３３番地２〜５１８７番地、５３１６番地１〜５３１６番地１６７）,1,0,1,0,0,0
