@@ -1,0 +1,19 @@
+[
+    {
+        "local_government_code": "14136",
+        "postal_code_5digit": "216  ",
+        "postal_code_7digit": "2160007",
+        "prefecture_kana": "ｶﾅｶﾞﾜｹﾝ",
+        "address1_kana": "ｶﾜｻｷｼﾐﾔﾏｴｸ",
+        "address2_kana": "ｺﾀﾞｲ",
+        "prefecture_kanji": "神奈川県",
+        "address1_kanji": "川崎市宮前区",
+        "address2_kanji": "小台",
+        "is_address2_has_multiple_postal_code": "0",
+        "is_address2_has_multiple_sublocality": "0",
+        "is_address2_includes_chome": "1",
+        "is_postal_code_has_multiple_address2": "0",
+        "updated_type": "0",
+        "updated_reason_type": "0"
+    }
+]

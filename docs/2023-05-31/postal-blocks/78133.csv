@@ -1,0 +1,8 @@
+local_government_code,postal_code_5digit,postal_code_7digit,prefecture_kana,address1_kana,address2_kana,prefecture_kanji,address1_kanji,address2_kanji,is_address2_has_multiple_postal_code,is_address2_has_multiple_sublocality,is_address2_includes_chome,is_postal_code_has_multiple_address2,updated_type,updated_reason_type
+39363,78133,7813331,ｺｳﾁｹﾝ,ﾄｻｸﾞﾝﾄｻﾁｮｳ,ｼﾞｿﾞｳｼﾞ,高知県,土佐郡土佐町,地蔵寺,0,0,0,0,0,0
+39363,78133,7813332,ｺｳﾁｹﾝ,ﾄｻｸﾞﾝﾄｻﾁｮｳ,ｸﾘｷ,高知県,土佐郡土佐町,栗木,0,0,0,0,0,0
+39363,78133,7813333,ｺｳﾁｹﾝ,ﾄｻｸﾞﾝﾄｻﾁｮｳ,ﾋｶﾞｼｲｼﾊﾗ,高知県,土佐郡土佐町,東石原,0,0,0,0,0,0
+39363,78133,7813334,ｺｳﾁｹﾝ,ﾄｻｸﾞﾝﾄｻﾁｮｳ,ﾆｼｲｼﾊﾗ,高知県,土佐郡土佐町,西石原,0,0,0,0,0,0
+39363,78133,7813335,ｺｳﾁｹﾝ,ﾄｻｸﾞﾝﾄｻﾁｮｳ,ｱﾘﾏ,高知県,土佐郡土佐町,有間,0,0,0,0,0,0
+39363,78133,7813336,ｺｳﾁｹﾝ,ﾄｻｸﾞﾝﾄｻﾁｮｳ,ｱｸﾀｶﾞﾜ,高知県,土佐郡土佐町,芥川,0,0,0,0,0,0
+39363,78133,7813337,ｺｳﾁｹﾝ,ﾄｻｸﾞﾝﾄｻﾁｮｳ,ｾﾄﾞ,高知県,土佐郡土佐町,瀬戸,0,0,0,0,0,0

@@ -1,0 +1,5 @@
+local_government_code,postal_code_5digit,postal_code_7digit,prefecture_kana,address1_kana,address2_kana,prefecture_kanji,address1_kanji,address2_kanji,is_address2_has_multiple_postal_code,is_address2_has_multiple_sublocality,is_address2_includes_chome,is_postal_code_has_multiple_address2,updated_type,updated_reason_type
+03208,02806,0280661,ｲﾜﾃｹﾝ,ﾄｵﾉｼ,ﾂｷﾓｳｼﾁｮｳｶﾐﾂｷﾓｳｼ,岩手県,遠野市,附馬牛町上附馬牛,0,0,0,0,0,0
+03208,02806,0280662,ｲﾜﾃｹﾝ,ﾄｵﾉｼ,ﾂｷﾓｳｼﾁｮｳｱｵﾀﾞｲ,岩手県,遠野市,附馬牛町安居台,0,0,0,0,0,0
+03208,02806,0280663,ｲﾜﾃｹﾝ,ﾄｵﾉｼ,ﾂｷﾓｳｼﾁｮｳｼﾓﾂｷﾓｳｼ,岩手県,遠野市,附馬牛町下附馬牛,0,0,0,0,0,0
+03208,02806,0280664,ｲﾜﾃｹﾝ,ﾄｵﾉｼ,ﾂｷﾓｳｼﾁｮｳﾄｳｾﾞﾝｼﾞ,岩手県,遠野市,附馬牛町東禅寺,0,0,0,0,0,0

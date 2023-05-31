@@ -1,0 +1,6 @@
+local_government_code,postal_code_5digit,postal_code_7digit,prefecture_kana,address1_kana,address2_kana,prefecture_kanji,address1_kanji,address2_kanji,is_address2_has_multiple_postal_code,is_address2_has_multiple_sublocality,is_address2_includes_chome,is_postal_code_has_multiple_address2,updated_type,updated_reason_type
+07201,96013,9601301,ﾌｸｼﾏｹﾝ,ﾌｸｼﾏｼ,ｲｲﾉﾏﾁ,福島県,福島市,飯野町,0,1,0,0,0,0
+07201,96013,9601302,ﾌｸｼﾏｹﾝ,ﾌｸｼﾏｼ,ｲｲﾉﾏﾁﾒｲｼﾞ,福島県,福島市,飯野町明治,0,1,0,0,0,0
+07201,96013,9601303,ﾌｸｼﾏｹﾝ,ﾌｸｼﾏｼ,ｲｲﾉﾏﾁｱｵｷ,福島県,福島市,飯野町青木,0,1,0,0,0,0
+07201,96013,9601304,ﾌｸｼﾏｹﾝ,ﾌｸｼﾏｼ,ｲｲﾉﾏﾁｵｵｸﾎﾞ,福島県,福島市,飯野町大久保,0,1,0,0,0,0
+07201,96013,9601321,ﾌｸｼﾏｹﾝ,ﾌｸｼﾏｼ,ﾀﾂｺﾞﾔﾏ,福島県,福島市,立子山,0,1,0,0,0,0

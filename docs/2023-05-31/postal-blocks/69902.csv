@@ -1,0 +1,6 @@
+local_government_code,postal_code_5digit,postal_code_7digit,prefecture_kana,address1_kana,address2_kana,prefecture_kanji,address1_kanji,address2_kanji,is_address2_has_multiple_postal_code,is_address2_has_multiple_sublocality,is_address2_includes_chome,is_postal_code_has_multiple_address2,updated_type,updated_reason_type
+32201,69902,6990201,ｼﾏﾈｹﾝ,ﾏﾂｴｼ,ﾀﾏﾕﾁｮｳﾀﾏﾂｸﾘ,島根県,松江市,玉湯町玉造,0,0,0,0,0,0
+32201,69902,6990202,ｼﾏﾈｹﾝ,ﾏﾂｴｼ,ﾀﾏﾕﾁｮｳﾕﾏﾁ,島根県,松江市,玉湯町湯町,0,0,0,0,0,0
+32201,69902,6990203,ｼﾏﾈｹﾝ,ﾏﾂｴｼ,ﾀﾏﾕﾁｮｳﾌｼﾞﾅ,島根県,松江市,玉湯町布志名,0,0,0,0,0,0
+32201,69902,6990204,ｼﾏﾈｹﾝ,ﾏﾂｴｼ,ﾀﾏﾕﾁｮｳﾊﾔｼ,島根県,松江市,玉湯町林,0,0,0,0,0,0
+32201,69902,6990205,ｼﾏﾈｹﾝ,ﾏﾂｴｼ,ﾀﾏﾕﾁｮｳｵｵﾀﾞﾆ,島根県,松江市,玉湯町大谷,0,0,0,0,0,0

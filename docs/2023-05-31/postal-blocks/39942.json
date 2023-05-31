@@ -1,0 +1,53 @@
+[
+    {
+        "local_government_code": "20210",
+        "postal_code_5digit": "39942",
+        "postal_code_7digit": "3994231",
+        "prefecture_kana": "ﾅｶﾞﾉｹﾝ",
+        "address1_kana": "ｺﾏｶﾞﾈｼ",
+        "address2_kana": "ﾅｶｻﾞﾜ",
+        "prefecture_kanji": "長野県",
+        "address1_kanji": "駒ヶ根市",
+        "address2_kanji": "中沢",
+        "is_address2_has_multiple_postal_code": "0",
+        "is_address2_has_multiple_sublocality": "0",
+        "is_address2_includes_chome": "0",
+        "is_postal_code_has_multiple_address2": "0",
+        "updated_type": "0",
+        "updated_reason_type": "0"
+    },
+    {
+        "local_government_code": "20210",
+        "postal_code_5digit": "39941",
+        "postal_code_7digit": "3994232",
+        "prefecture_kana": "ﾅｶﾞﾉｹﾝ",
+        "address1_kana": "ｺﾏｶﾞﾈｼ",
+        "address2_kana": "ｼﾓﾀﾞｲﾗ(2070-2119､2309-2311､2419､2421-2426",
+        "prefecture_kanji": "長野県",
+        "address1_kanji": "駒ヶ根市",
+        "address2_kanji": "下平（２０７０〜２１１９、２３０９〜２３１１、２４１９、２４２１〜２４２６",
+        "is_address2_has_multiple_postal_code": "1",
+        "is_address2_has_multiple_sublocality": "0",
+        "is_address2_includes_chome": "0",
+        "is_postal_code_has_multiple_address2": "0",
+        "updated_type": "0",
+        "updated_reason_type": "0"
+    },
+    {
+        "local_government_code": "20210",
+        "postal_code_5digit": "39941",
+        "postal_code_7digit": "3994232",
+        "prefecture_kana": "ﾅｶﾞﾉｹﾝ",
+        "address1_kana": "ｺﾏｶﾞﾈｼ",
+        "address2_kana": "､2433-2450)",
+        "prefecture_kanji": "長野県",
+        "address1_kanji": "駒ヶ根市",
+        "address2_kanji": "、２４３３〜２４５０）",
+        "is_address2_has_multiple_postal_code": "1",
+        "is_address2_has_multiple_sublocality": "0",
+        "is_address2_includes_chome": "0",
+        "is_postal_code_has_multiple_address2": "0",
+        "updated_type": "0",
+        "updated_reason_type": "0"
+    }
+]

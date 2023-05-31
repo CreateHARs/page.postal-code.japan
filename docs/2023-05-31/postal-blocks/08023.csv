@@ -1,0 +1,8 @@
+local_government_code,postal_code_5digit,postal_code_7digit,prefecture_kana,address1_kana,address2_kana,prefecture_kanji,address1_kanji,address2_kanji,is_address2_has_multiple_postal_code,is_address2_has_multiple_sublocality,is_address2_includes_chome,is_postal_code_has_multiple_address2,updated_type,updated_reason_type
+01207,08023,0802331,ﾎｯｶｲﾄﾞｳ,ｵﾋﾞﾋﾛｼ,ﾓﾄｲﾏﾂﾁｮｳ,北海道,帯広市,基松町,0,0,0,0,0,0
+01207,08023,0802332,ﾎｯｶｲﾄﾞｳ,ｵﾋﾞﾋﾛｼ,ﾌｼﾞﾁｮｳ(ﾆｼ4-8ｾﾝ49-78ﾊﾞﾝﾁ),北海道,帯広市,富士町（西４〜８線４９〜７８番地）,1,0,0,0,0,0
+01207,08023,0802333,ﾎｯｶｲﾄﾞｳ,ｵﾋﾞﾋﾛｼ,ﾋﾞｴｲﾁｮｳ(ﾆｼ5-8ｾﾝ79-110ﾊﾞﾝﾁ),北海道,帯広市,美栄町（西５〜８線７９〜１１０番地）,1,0,0,0,0,0
+01207,08023,0802334,ﾎｯｶｲﾄﾞｳ,ｵﾋﾞﾋﾛｼ,ｶﾐｵﾋﾞﾋﾛﾁｮｳ,北海道,帯広市,上帯広町,0,0,0,0,0,0
+01207,08023,0802335,ﾎｯｶｲﾄﾞｳ,ｵﾋﾞﾋﾛｼ,ﾋﾛﾉﾁｮｳ,北海道,帯広市,広野町,0,0,0,0,0,0
+01207,08023,0802336,ﾎｯｶｲﾄﾞｳ,ｵﾋﾞﾋﾛｼ,ﾔﾁﾖﾁｮｳ,北海道,帯広市,八千代町,0,0,0,0,0,0
+01207,08023,0802337,ﾎｯｶｲﾄﾞｳ,ｵﾋﾞﾋﾛｼ,ﾀｸｾｲﾁｮｳ,北海道,帯広市,拓成町,0,0,0,0,0,0

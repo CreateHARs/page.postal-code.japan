@@ -1,0 +1,19 @@
+[
+    {
+        "local_government_code": "22306",
+        "postal_code_5digit": "41035",
+        "postal_code_7digit": "4103512",
+        "prefecture_kana": "ｼｽﾞｵｶｹﾝ",
+        "address1_kana": "ｶﾓｸﾞﾝﾆｼｲｽﾞﾁｮｳ",
+        "address2_kana": "ｲｼｷ",
+        "prefecture_kanji": "静岡県",
+        "address1_kanji": "賀茂郡西伊豆町",
+        "address2_kanji": "一色",
+        "is_address2_has_multiple_postal_code": "0",
+        "is_address2_has_multiple_sublocality": "0",
+        "is_address2_includes_chome": "0",
+        "is_postal_code_has_multiple_address2": "0",
+        "updated_type": "0",
+        "updated_reason_type": "0"
+    }
+]

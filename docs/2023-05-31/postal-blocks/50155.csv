@@ -1,0 +1,8 @@
+local_government_code,postal_code_5digit,postal_code_7digit,prefecture_kana,address1_kana,address2_kana,prefecture_kanji,address1_kanji,address2_kanji,is_address2_has_multiple_postal_code,is_address2_has_multiple_sublocality,is_address2_includes_chome,is_postal_code_has_multiple_address2,updated_type,updated_reason_type
+21604,50155,5015501,ｷﾞﾌｹﾝ,ｵｵﾉｸﾞﾝｼﾗｶﾜﾑﾗ,ﾎｷﾜｷ,岐阜県,大野郡白川村,保木脇,0,0,0,0,0,0
+21604,50155,5015502,ｷﾞﾌｹﾝ,ｵｵﾉｸﾞﾝｼﾗｶﾜﾑﾗ,ｷﾀﾞﾆ,岐阜県,大野郡白川村,木谷,0,0,0,0,0,0
+21604,50155,5015503,ｷﾞﾌｹﾝ,ｵｵﾉｸﾞﾝｼﾗｶﾜﾑﾗ,ﾅｶﾞｾ,岐阜県,大野郡白川村,長瀬,0,0,0,0,0,0
+21604,50155,5015504,ｷﾞﾌｹﾝ,ｵｵﾉｸﾞﾝｼﾗｶﾜﾑﾗ,ﾌｸｼﾏ,岐阜県,大野郡白川村,福島,0,0,0,0,0,0
+21604,50155,5015505,ｷﾞﾌｹﾝ,ｵｵﾉｸﾞﾝｼﾗｶﾜﾑﾗ,ﾏｷ,岐阜県,大野郡白川村,牧,0,0,0,0,0,0
+21604,50155,5015506,ｷﾞﾌｹﾝ,ｵｵﾉｸﾞﾝｼﾗｶﾜﾑﾗ,ﾐﾎﾞﾛ,岐阜県,大野郡白川村,御母衣,0,0,0,0,0,0
+21604,50155,5015507,ｷﾞﾌｹﾝ,ｵｵﾉｸﾞﾝｼﾗｶﾜﾑﾗ,ﾋﾗｾ,岐阜県,大野郡白川村,平瀬,0,0,0,0,0,0

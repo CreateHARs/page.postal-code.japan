@@ -1,0 +1,19 @@
+[
+    {
+        "local_government_code": "23425",
+        "postal_code_5digit": "497  ",
+        "postal_code_7digit": "4970053",
+        "prefecture_kana": "ｱｲﾁｹﾝ",
+        "address1_kana": "ｱﾏｸﾞﾝｶﾆｴﾁｮｳ",
+        "address2_kana": "ﾍｲｱﾝ",
+        "prefecture_kanji": "愛知県",
+        "address1_kanji": "海部郡蟹江町",
+        "address2_kanji": "平安",
+        "is_address2_has_multiple_postal_code": "0",
+        "is_address2_has_multiple_sublocality": "0",
+        "is_address2_includes_chome": "1",
+        "is_postal_code_has_multiple_address2": "0",
+        "updated_type": "0",
+        "updated_reason_type": "0"
+    }
+]

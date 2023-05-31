@@ -1,0 +1,19 @@
+[
+    {
+        "local_government_code": "11201",
+        "postal_code_5digit": "350  ",
+        "postal_code_7digit": "3500052",
+        "prefecture_kana": "ｻｲﾀﾏｹﾝ",
+        "address1_kana": "ｶﾜｺﾞｴｼ",
+        "address2_kana": "ﾐﾔｼﾀﾏﾁ",
+        "prefecture_kanji": "埼玉県",
+        "address1_kanji": "川越市",
+        "address2_kanji": "宮下町",
+        "is_address2_has_multiple_postal_code": "0",
+        "is_address2_has_multiple_sublocality": "0",
+        "is_address2_includes_chome": "1",
+        "is_postal_code_has_multiple_address2": "0",
+        "updated_type": "0",
+        "updated_reason_type": "0"
+    }
+]

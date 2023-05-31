@@ -1,0 +1,5 @@
+local_government_code,postal_code_5digit,postal_code_7digit,prefecture_kana,address1_kana,address2_kana,prefecture_kanji,address1_kanji,address2_kanji,is_address2_has_multiple_postal_code,is_address2_has_multiple_sublocality,is_address2_includes_chome,is_postal_code_has_multiple_address2,updated_type,updated_reason_type
+24215,51706,5170601,ﾐｴｹﾝ,ｼﾏｼ,ﾀﾞｲｵｳﾁｮｳｱｾﾞﾅ,三重県,志摩市,大王町畔名,0,0,0,0,0,0
+24215,51706,5170602,ﾐｴｹﾝ,ｼﾏｼ,ﾀﾞｲｵｳﾁｮｳﾅﾀ,三重県,志摩市,大王町名田,0,0,0,0,0,0
+24215,51706,5170603,ﾐｴｹﾝ,ｼﾏｼ,ﾀﾞｲｵｳﾁｮｳﾅｷﾘ,三重県,志摩市,大王町波切,0,0,0,0,0,0
+24215,51706,5170604,ﾐｴｹﾝ,ｼﾏｼ,ﾀﾞｲｵｳﾁｮｳﾌﾅｺｼ,三重県,志摩市,大王町船越,0,0,0,0,0,0

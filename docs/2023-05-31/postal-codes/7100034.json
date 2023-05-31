@@ -1,0 +1,19 @@
+[
+    {
+        "local_government_code": "33202",
+        "postal_code_5digit": "710  ",
+        "postal_code_7digit": "7100034",
+        "prefecture_kana": "ｵｶﾔﾏｹﾝ",
+        "address1_kana": "ｸﾗｼｷｼ",
+        "address2_kana": "ﾂﾌﾞｴ",
+        "prefecture_kanji": "岡山県",
+        "address1_kanji": "倉敷市",
+        "address2_kanji": "粒江",
+        "is_address2_has_multiple_postal_code": "0",
+        "is_address2_has_multiple_sublocality": "0",
+        "is_address2_includes_chome": "0",
+        "is_postal_code_has_multiple_address2": "0",
+        "updated_type": "0",
+        "updated_reason_type": "0"
+    }
+]

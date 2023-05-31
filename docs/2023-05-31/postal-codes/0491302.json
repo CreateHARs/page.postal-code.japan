@@ -1,0 +1,19 @@
+[
+    {
+        "local_government_code": "01332",
+        "postal_code_5digit": "04913",
+        "postal_code_7digit": "0491302",
+        "prefecture_kana": "ﾎｯｶｲﾄﾞｳ",
+        "address1_kana": "ﾏﾂﾏｴｸﾞﾝﾌｸｼﾏﾁｮｳ",
+        "address2_kana": "ﾋｭｳｶﾞ",
+        "prefecture_kanji": "北海道",
+        "address1_kanji": "松前郡福島町",
+        "address2_kanji": "日向",
+        "is_address2_has_multiple_postal_code": "0",
+        "is_address2_has_multiple_sublocality": "0",
+        "is_address2_includes_chome": "0",
+        "is_postal_code_has_multiple_address2": "0",
+        "updated_type": "0",
+        "updated_reason_type": "0"
+    }
+]
